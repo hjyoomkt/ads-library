@@ -8,6 +8,8 @@ import ClientAdminLayout from './layouts/clientadmin';
 import RTLLayout from './layouts/rtl';
 import {
   ChakraProvider,
+  Center,
+  Spinner,
   // extendTheme
 } from '@chakra-ui/react';
 import initialTheme from './theme/theme'; //  { themeGreen }
@@ -17,17 +19,35 @@ import { HelmetProvider } from 'react-helmet-async';
 // Chakra imports
 
 function RoleBasedRedirect() {
-  const { role, loading } = useAuth();
+  const { user, role, loading } = useAuth();
 
-  if (loading) return null;
+  if (loading) {
+    return (
+      <Center h="100vh">
+        <Spinner
+          thickness="4px"
+          speed="0.65s"
+          emptyColor="gray.200"
+          color="brand.500"
+          size="xl"
+        />
+      </Center>
+    );
+  }
 
-  // Redirect based on role
+  // If not authenticated, redirect to sign-in
+  if (!user) {
+    return <Navigate to="/auth/sign-in" replace />;
+  }
+
+  // Redirect based on role for authenticated users
   if (role === 'master' || role === 'agency_admin' || role === 'agency_manager') {
     return <Navigate to="/superadmin" replace />;
   } else if (role === 'advertiser_admin' || role === 'advertiser_staff' || role === 'viewer') {
     return <Navigate to="/clientadmin" replace />;
   }
 
+  // Fallback: if user is authenticated but has an unknown role, send to general admin
   return <Navigate to="/admin" replace />;
 }
 

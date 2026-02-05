@@ -1,5 +1,5 @@
 // Chakra imports
-import { Portal, Box, useDisclosure } from '@chakra-ui/react';
+import { Portal, Box, useDisclosure, Spinner, Center } from '@chakra-ui/react';
 import Footer from 'components/footer/FooterAdmin.js';
 // Layout components
 import Navbar from 'components/navbar/NavbarAdmin.js';
@@ -8,13 +8,38 @@ import { SidebarContext } from 'contexts/SidebarContext';
 import React, { useState } from 'react';
 import { Navigate, Route, Routes } from 'react-router-dom';
 import routes from 'routes.js';
+import { useAuth } from 'contexts/AuthContext';
 
 // Custom Chakra theme
 export default function Dashboard(props) {
   const { ...rest } = props;
-  // states and functions
+  // All hooks must be called before any conditional returns
+  const { user, loading } = useAuth();
   const [fixed] = useState(true);
   const [toggleSidebar, setToggleSidebar] = useState(false);
+  const { onOpen } = useDisclosure();
+
+  // Show loading spinner while checking authentication
+  if (loading) {
+    return (
+      <Center h="100vh">
+        <Spinner
+          thickness="4px"
+          speed="0.65s"
+          emptyColor="gray.200"
+          color="brand.500"
+          size="xl"
+        />
+      </Center>
+    );
+  }
+
+  // Redirect unauthenticated users to sign-in
+  if (!user) {
+    return <Navigate to="/auth/sign-in" replace />;
+  }
+
+  // states and functions
   // functions for changing the states from components
   const getRoute = () => {
     return window.location.pathname !== '/admin/full-screen-maps';
@@ -102,8 +127,6 @@ export default function Dashboard(props) {
       }
     });
   };
-  document.documentElement.dir = 'ltr';
-  const { onOpen } = useDisclosure();
   document.documentElement.dir = 'ltr';
   return (
     <Box>

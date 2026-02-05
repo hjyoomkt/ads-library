@@ -19,7 +19,7 @@ import {
   renderTrack,
   renderView,
 } from "components/scrollbar/Scrollbar";
-import { Scrollbars } from "react-custom-scrollbars-2";
+import { Scrollbars } from "react-custom-scrollbars-4";
 import PropTypes from "prop-types";
 
 // Assets

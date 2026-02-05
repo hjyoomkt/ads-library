@@ -1,0 +1,1889 @@
+{
+  "data": {
+    "ad_library_main": {
+      "search_results_connection": {
+        "edges": [
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "300115792874488",
+                  "collation_count": 3,
+                  "collation_id": "1401888530759485",
+                  "page_id": "15087023444",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "15087023444",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/nike/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "Nike",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/394637721_1408873456373824_1821828651307285702_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sWuBqz_AAgYQ7kNvwERhyHj&_nc_oc=AdmjsyZDhXBiPff6FiyuccZOMBeTQveA8BqAHDPzWS_BB8qpy9NZ_c0dhq0350K4vM0&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfvbCaZ5_uJge5l-sl1ZNkMcOQhTELvFxwne-YOoRmBl1w&oe=69869338",
+                    "event": null,
+                    "caption": "fb.com",
+                    "cta_text": "더 알아보기",
+                    "cards": [],
+                    "body": {
+                      "text": "Hazte miembro y obtén beneficios especiales como 3 y 6 MSI con tarjetas participantes 👏 Consulta Términos y Condiciones."
+                    },
+                    "cta_type": "LEARN_MORE",
+                    "display_format": "IMAGE",
+                    "link_description": "Eleva tu estilo",
+                    "link_url": "https://fb.com/canvas_doc/305039332482089",
+                    "images": [
+                      {
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/394448921_1523218848499257_3470252517407587346_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lkd1pkjMJtgQ7kNvwH8U_Nd&_nc_oc=Adk0iYP-YXJ73CY5Dv3mthY1R_5ireuRed--wd0cmFMncCJEJ0hSfSgRPakNSKGw_sQ&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfvM-0ViOgMAJifoRbEuG84NDMQhLegiMc5oF8DoMLBVfA&oe=6986C6DA",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/394601122_1028168075099232_721038779840884283_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MNoCt1GowpQQ7kNvwGYRalz&_nc_oc=AdllKioWyy-onWccj73JsGzZWumVFt3d1QUOem-9vDu7Xv5hK6gBFbz-y_EmZ2tYLdY&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfusxJ7RNTAETyNCco8uEe0WSk3dyYdROZV_mQ4EY-odQA&oe=69869B6B",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "page_categories": [
+                      "Sportswear",
+                      "Product/service"
+                    ],
+                    "page_like_count": 39599905,
+                    "title": "3 y 6 Meses Sin Intereses",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [
+                      "https://ad.doubleclick.net/ddm/trackclk/N8893.2410306FACEBOOKADS/B30345470.372986625;dc_trk_aid=563592867;dc_trk_cid=196048607;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=;dc_tdv=1"
+                    ],
+                    "extra_texts": [],
+                    "extra_images": [
+                      {
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/394465490_1024869265447155_7835260276643124408_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fL4VQzHC8ZwQ7kNvwHmQFa-&_nc_oc=AdnGctu4I1z7UebXpuBN-0xgH_n81mXSJhct-VpVO_Mh25J4dSCJbxsBoAdjJMTFJRg&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfuRWfuVog5xh7o5UlVboa-b1P1Qdn31ERh3V5RS4UA5Xg&oe=69869517",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/394465490_1024869265447155_7835260276643124408_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fL4VQzHC8ZwQ7kNvwHmQFa-&_nc_oc=AdnGctu4I1z7UebXpuBN-0xgH_n81mXSJhct-VpVO_Mh25J4dSCJbxsBoAdjJMTFJRg&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfsXWaiDXU2V1Cdkltcgm5-oFY01XiK6usxcKePDr4T8ug&oe=69869517",
+                        "image_crops": []
+                      }
+                    ],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": false,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "Nike",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": true,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1745823600,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "MESSENGER"
+                  ],
+                  "start_date": 1698044400,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "1823509418519904",
+                  "collation_count": null,
+                  "collation_id": null,
+                  "page_id": "15087023444",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "15087023444",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/nike/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "Nike",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/534263067_2488836128158163_7519315990517652160_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wncYAH20rqcQ7kNvwHwSRgo&_nc_oc=AdkyLHzTfQwiige2PF6qvJCZE03QE512ArYJwGmbZIcACKJrE4YhxM2WqT-Dk3pSVvE&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfuE2WuBFY35I7rkTFG922Bidn4i0t6ppvbOuaOF1faPzA&oe=6986B1D8",
+                    "event": null,
+                    "caption": "nike.com.br",
+                    "cta_text": "지금 구매하기",
+                    "cards": [
+                      {
+                        "body": "Coleções exclusivas e principais lançamentos para completar o seu look. Tenha uma experiência premium de compra em Nike.com",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com.br",
+                        "link_description": "R$854.99",
+                        "link_url": "https://www.nike.com.br/tenis-air-jordan-1-low-infantil-000180.html?cor=7V",
+                        "title": "Tênis Air Jordan 1 Low Infantil",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/534536264_2150095028813710_5142210855980112709_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sZlDcg2iNiAQ7kNvwGYxCg3&_nc_oc=AdnzjPxRzH1hCkkg8yXkxks9-A7sHgzHjMksZRIaaeGDr-IKmAyx4kPBRWiSxZ_Ej5E&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfteD1cGlj1_OlbKnzQEKQn7Vnl2ShnKhy6Kp1GIWF5o8g&oe=6986AB99",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/534536264_2150095028813710_5142210855980112709_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sZlDcg2iNiAQ7kNvwGYxCg3&_nc_oc=AdnzjPxRzH1hCkkg8yXkxks9-A7sHgzHjMksZRIaaeGDr-IKmAyx4kPBRWiSxZ_Ej5E&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AftMbDwNEf4PH3kQII6ZBzi0eo818Zj0aFzLmKlHzrlqDw&oe=6986AB99",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "Coleções exclusivas e principais lançamentos para completar o seu look. Tenha uma experiência premium de compra em Nike.com",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com.br",
+                        "link_description": "R$142.49",
+                        "link_url": "https://www.nike.com.br/chinelo-nike-kawa-infantil-000760.html?cor=51",
+                        "title": "Chinelo Nike Kawa Infantil",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/534819196_755186954140532_2674984485845497754_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xZdnQS4f6QoQ7kNvwEu8RlO&_nc_oc=AdlqFu2onjYY-wlvohSVzVFhSraLEKiJmogiYwnKeyuoMIrBl2V8HB2h9uV4-bPq97E&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AftwljsTmQs3JgcEwEfqQQMUpcRbl3K5Kw1PNac27fP0mQ&oe=69869FE7",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/534819196_755186954140532_2674984485845497754_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xZdnQS4f6QoQ7kNvwEu8RlO&_nc_oc=AdlqFu2onjYY-wlvohSVzVFhSraLEKiJmogiYwnKeyuoMIrBl2V8HB2h9uV4-bPq97E&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfvfDmmrRQnMG1gLg2i2GNejf-NuEz4VM200xb53TSZLUw&oe=69869FE7",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "Coleções exclusivas e principais lançamentos para completar o seu look. Tenha uma experiência premium de compra em Nike.com",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com.br",
+                        "link_description": "R$170.99",
+                        "link_url": "https://www.nike.com.br/chuteira-nike-beco-2-futsal-000287.html?cor=IF",
+                        "title": "Chuteira Nike Beco 2 Futsal",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/533390692_1343067780857272_3863185093289543001_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=c9s1lDOKgW0Q7kNvwGLi_--&_nc_oc=Adls_ASvOno1ROmU_nuvuHZFtHuCBLKBr9db-N8EHzTF82o3fyM5U2O0wVXs7a_1Agk&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_Afs2erScuSWyHR-VEIOjrP43aT5KJCuL12LxvDIP9eQhJw&oe=6986B5BF",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/533390692_1343067780857272_3863185093289543001_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=c9s1lDOKgW0Q7kNvwGLi_--&_nc_oc=Adls_ASvOno1ROmU_nuvuHZFtHuCBLKBr9db-N8EHzTF82o3fyM5U2O0wVXs7a_1Agk&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_Afv_7FcQpOSlJVqS-UygWBjG5CXcm8an8dy81YzrnqR4Zw&oe=6986B5BF",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "Coleções exclusivas e principais lançamentos para completar o seu look. Tenha uma experiência premium de compra em Nike.com",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com.br",
+                        "link_description": "R$174.41",
+                        "link_url": "https://www.nike.com.br/chuteira-nike-beco-2-futsal-000287.html?cor=P1",
+                        "title": "Chuteira Nike Beco 2 Futsal",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/534980548_24612141848379410_1947955388854339845_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mlU5y9JVOPoQ7kNvwHfABW7&_nc_oc=AdkwtFiHJ4-A0SaW6oY5NXrgZ7AqVOWbAyOJcSeg-yIWG7r7vlNy54_Lg4cxmbkDyyA&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AftXmo702nU3iRLJja-79Wpoam-KS_g2RYJwvrXKHL6B9A&oe=69869AE5",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/534980548_24612141848379410_1947955388854339845_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mlU5y9JVOPoQ7kNvwHfABW7&_nc_oc=AdkwtFiHJ4-A0SaW6oY5NXrgZ7AqVOWbAyOJcSeg-yIWG7r7vlNy54_Lg4cxmbkDyyA&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_Afv2kJOTZBxpSn58Td50xBd0cDLCi7Ore1QdjrON0MivOg&oe=69869AE5",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "Coleções exclusivas e principais lançamentos para completar o seu look. Tenha uma experiência premium de compra em Nike.com",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com.br",
+                        "link_description": "R$664.99",
+                        "link_url": "https://www.nike.com.br/tenis-air-jordan-1-low-infantil-000180.html?cor=P3",
+                        "title": "Tênis Air Jordan 1 Low Infantil",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/534991640_1317181033082261_4212554630861128171_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=g7cSJBKOYKkQ7kNvwHn8bWF&_nc_oc=AdmIO1h_EkPNrjvOEccBCaZlqz6P8zb5aVKIQYwNPgF2RHaQwxVbZIIiFlij_dD8fgY&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_Afs3z6BQ81N55I8KZtb-1fUlmLPdVWo2H94VHbdhi0kq7g&oe=698695F2",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/534991640_1317181033082261_4212554630861128171_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=g7cSJBKOYKkQ7kNvwHn8bWF&_nc_oc=AdmIO1h_EkPNrjvOEccBCaZlqz6P8zb5aVKIQYwNPgF2RHaQwxVbZIIiFlij_dD8fgY&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfsDcctI81cMEBdihHY3V6urdzCvvGfgBkK5jxo7M0k4oA&oe=698695F2",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "Coleções exclusivas e principais lançamentos para completar o seu look. Tenha uma experiência premium de compra em Nike.com",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com.br",
+                        "link_description": "R$170.99",
+                        "link_url": "https://www.nike.com.br/chinelo-nike-kawa-infantil-000760.html?cor=IM",
+                        "title": "Chinelo Nike Kawa Infantil",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/534602618_1271132921157274_6333696148908309202_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=M5r-WzwfrLgQ7kNvwHf6-FO&_nc_oc=AdmhxE-9ayP0w_vjGmmDsJP2LNS2Bal245zsMEgmua-UdE7U84Stq738PuWNqqIiNvw&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfsLcSFE9p8PSqy3ypvNpc7Q4zmJGljgSADh7HCsH8mcNA&oe=69869389",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/534602618_1271132921157274_6333696148908309202_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=M5r-WzwfrLgQ7kNvwHf6-FO&_nc_oc=AdmhxE-9ayP0w_vjGmmDsJP2LNS2Bal245zsMEgmua-UdE7U84Stq738PuWNqqIiNvw&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_Afuyu8xDS95wBftAKI5FBeRSBDKWcCdhofrF6pwKCKA9NQ&oe=69869389",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "Coleções exclusivas e principais lançamentos para completar o seu look. Tenha uma experiência premium de compra em Nike.com"
+                    },
+                    "cta_type": "SHOP_NOW",
+                    "display_format": "DPA",
+                    "link_description": null,
+                    "link_url": "https://www.nike.com.br/nav/ofertas/emoferta",
+                    "images": [],
+                    "page_categories": [
+                      "Sportswear"
+                    ],
+                    "page_like_count": 39599905,
+                    "title": "{{product.name}}",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "Nike",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "MESSENGER"
+                  ],
+                  "start_date": 1755586800,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "1921499431926180",
+                  "collation_count": null,
+                  "collation_id": null,
+                  "page_id": "15087023444",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "15087023444",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/nike/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "Nike",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/495176163_1759000934993608_6023000150838699004_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mrJbOVCHVUMQ7kNvwFogX1k&_nc_oc=Adk6kTX9f9ZCr9xntyLvqBfs7s1Gv-VdenpGaBD0hST59mQD1gAq8irDsietrgITaek&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_Afv1do6o-yC-Yydck325c1NnZPcfJUvolRxK8rORI_hJFw&oe=6986C4E1",
+                    "event": null,
+                    "caption": "http://nike.com/",
+                    "cta_text": "지금 구매하기",
+                    "cards": [
+                      {
+                        "body": "Find the latest styles on Nike.com and enjoy free delivery & returns. For Nike Members",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com",
+                        "link_description": "Nike leverer innovative produkter, oplevelser og services og inspirerer atleter verden over. Gratis levering og returnering.",
+                        "link_url": "https://www.nike.com/gb/t/jordan-tank-9Xr0hm/DX4700-010",
+                        "title": "Jordan",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/495333891_1063397635845152_2627109099976834899_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=M5Pb9tLTIeMQ7kNvwHoCM-1&_nc_oc=AdkxqvwS83k3v6au2Abwiha-ero9Uul7gbvb57ppNNDSyXHWU-ejbfJrDXlnMhWSytA&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_Afsu36oMou4lDfM6OcAKlisMAXsIGKp-Y0E3Thvim6XeuQ&oe=6986BE9C",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/495333891_1063397635845152_2627109099976834899_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=M5Pb9tLTIeMQ7kNvwHoCM-1&_nc_oc=AdkxqvwS83k3v6au2Abwiha-ero9Uul7gbvb57ppNNDSyXHWU-ejbfJrDXlnMhWSytA&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfuJ1MJlT9aTDwl5igWvMozUvpAjaMSvztyofIe65FAM9w&oe=6986BE9C",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "Find the latest styles on Nike.com and enjoy free delivery & returns. For Nike Members",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com",
+                        "link_description": "Nike leverer innovative produkter, oplevelser og services og inspirerer atleter verden over. Gratis levering og returnering.",
+                        "link_url": "https://www.nike.com/gb/t/sportswear-phoenix-fleece-high-waisted-loose-shorts-uZ7YZp7T/FD1409-063",
+                        "title": "Nike Sportswear Phoenix Fleece",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/495178267_1246260597107849_6968197752785910773_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jYTHO43FLJMQ7kNvwGZOetl&_nc_oc=Adl5gNBgq3JCnDAH2KQZk5_jrKbVS8_5R_HNlK4APBFV-YqTbuwsDcxWcjOUAYljg1s&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfvOzZVyWNxuarCfI2JzLxyDMd_CbRZQ2ZUmAEAvCJAtzw&oe=6986C738",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/495178267_1246260597107849_6968197752785910773_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jYTHO43FLJMQ7kNvwGZOetl&_nc_oc=Adl5gNBgq3JCnDAH2KQZk5_jrKbVS8_5R_HNlK4APBFV-YqTbuwsDcxWcjOUAYljg1s&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_Afv_1yzOU-W59HI4KXdv9prADqwZl9C3MPjVMhUnGwGzSA&oe=6986C738",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "Find the latest styles on Nike.com and enjoy free delivery & returns. For Nike Members",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com",
+                        "link_description": "Nike leverer innovative produkter, oplevelser og services og inspirerer atleter verden over. Gratis levering og returnering.",
+                        "link_url": "https://www.nike.com/gb/t/court-legacy-lift-shoes-br7x3Jr3/DM7590-101",
+                        "title": "Nike Court Legacy Lift",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/496065408_1089964916510363_2920435793574051227_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-8tKvHEjHWQQ7kNvwHFh7iE&_nc_oc=AdnxYegpceaHIlqvPsVc88jR4P9-DXgQ7aXdTLq-SKMfM4ZliVxj2LXqTBsvR9QOVj8&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_Afvpf9p3HLwYv3RSNLOF2PPnAHfI0G9In4XhIDpiIz1BnA&oe=6986C532",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/496065408_1089964916510363_2920435793574051227_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-8tKvHEjHWQQ7kNvwHFh7iE&_nc_oc=AdnxYegpceaHIlqvPsVc88jR4P9-DXgQ7aXdTLq-SKMfM4ZliVxj2LXqTBsvR9QOVj8&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_Afue7nNnTdtx5_fyIIF87gz3TpAhfIddhiqfQWbkarXWdg&oe=6986C532",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "Find the latest styles on Nike.com and enjoy free delivery & returns. For Nike Members",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com",
+                        "link_description": "Nike leverer innovative produkter, oplevelser og services og inspirerer atleter verden over. Gratis levering og returnering.",
+                        "link_url": "https://www.nike.com/gb/t/sportswear-phoenix-fleece-high-waisted-loose-shorts-uZ7YZp7T/FD1409-010",
+                        "title": "Nike Sportswear Phoenix Fleece",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/496081338_2547975405543263_6803995023395915663_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TECFVIyO78EQ7kNvwHaObPS&_nc_oc=Adkxs0bPp6lw5V5J-wf2DUdkClzq02YjLIapLy3Vgrlkcmsb_WVnj0PKv6IW9KkdxyQ&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfvJ6WYYMjIaY4vjaBBst7R3OrcpM5JJ5JRKERghHK0GjQ&oe=6986955B",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/496081338_2547975405543263_6803995023395915663_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TECFVIyO78EQ7kNvwHaObPS&_nc_oc=Adkxs0bPp6lw5V5J-wf2DUdkClzq02YjLIapLy3Vgrlkcmsb_WVnj0PKv6IW9KkdxyQ&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_Afs7yfdfo1IerLuR8_k9TX5rI92lOEB49XKoGJVkXzfYWQ&oe=6986955B",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "Find the latest styles on Nike.com and enjoy free delivery & returns. For Nike Members",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com",
+                        "link_description": "Nike leverer innovative produkter, oplevelser og services og inspirerer atleter verden over. Gratis levering og returnering.",
+                        "link_url": "https://www.nike.com/gb/t/solo-swoosh-fleece-trousers-sRECQlvu/DX1364-063",
+                        "title": "Nike Solo Swoosh",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/495226014_1105943667960002_5211905725524948230_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6IOc6Y0dL9gQ7kNvwGPH485&_nc_oc=AdmkHmcF5D5nJ4FnmiIPY92dkm8VngcJkPO40dIJCn1J1z1QGB7XC2UofNHEE8-YpCY&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfujZcJ7ninW2UBeUUVypiRa3X0n_7-4BY1jPfGqA5vw4w&oe=6986BD83",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/495226014_1105943667960002_5211905725524948230_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6IOc6Y0dL9gQ7kNvwGPH485&_nc_oc=AdmkHmcF5D5nJ4FnmiIPY92dkm8VngcJkPO40dIJCn1J1z1QGB7XC2UofNHEE8-YpCY&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AftGb1V6DOtQs6XT3Cr9jDQ0MEBg26I-Xk3HdRcmZd569g&oe=6986BD83",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "Find the latest styles on Nike.com and enjoy free delivery & returns. For Nike Members",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com",
+                        "link_description": "Nike leverer innovative produkter, oplevelser og services og inspirerer atleter verden over. Gratis levering og returnering.",
+                        "link_url": "https://www.nike.com/gb/t/solo-swoosh-fleece-crew-Wdc3lX/DX1361-010",
+                        "title": "Nike Solo Swoosh",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/495469250_1373481237109475_2098023510202245924_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZQtkCn9Ob8AQ7kNvwEzkbAp&_nc_oc=AdnXiNIsATJcqfkPKY5DWAErjOE8Pyj_EUK3WUwlerwGjtZRgYQNbe-ef1ux5jiOYPc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfvpRg6MmnQ9v01CtN6RL0c-5bXsv6hkMWKK_zDxRCFumw&oe=69869872",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/495469250_1373481237109475_2098023510202245924_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZQtkCn9Ob8AQ7kNvwEzkbAp&_nc_oc=AdnXiNIsATJcqfkPKY5DWAErjOE8Pyj_EUK3WUwlerwGjtZRgYQNbe-ef1ux5jiOYPc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_Afs_LhZfCwp3YbJOapdTVgbWJ4ZAw9HPWmMsturKwgteFA&oe=69869872",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "Find the latest styles on Nike.com and enjoy free delivery & returns. For Nike Members"
+                    },
+                    "cta_type": "SHOP_NOW",
+                    "display_format": "DPA",
+                    "link_description": null,
+                    "link_url": "http://nike.com/",
+                    "images": [],
+                    "page_categories": [
+                      "Sportswear"
+                    ],
+                    "page_like_count": 39599905,
+                    "title": "{{product.name}}",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": false,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "Nike",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": true,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1750834800,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM"
+                  ],
+                  "start_date": 1746687600,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "1631269094209746",
+                  "collation_count": 2,
+                  "collation_id": "1809657296569529",
+                  "page_id": "15087023444",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "15087023444",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/nike/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "Nike",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/520236840_722937823680982_1549738881861623551_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=H81Xqij3_hAQ7kNvwGr6Ley&_nc_oc=AdmE4yJqJYasezuRjs2aBuxRDDJ9rERAdFbzLwPedgyo3vUQIZELwRpOykEeTAuQti0&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfvaER6FHVXOdAub8PTVtCEKCKkNSrBNveo7Mp0r1XfNng&oe=6986A520",
+                    "event": null,
+                    "caption": "Nike.com",
+                    "cta_text": "지금 구매하기",
+                    "cards": [
+                      {
+                        "body": "Dettagli a strati e ammortizzazione reattiva per un comfort da indossare tutto il giorno, tutti i giorni.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "Nike.com",
+                        "link_description": " ",
+                        "link_url": "https://www.nike.com/it/w/zoom-vomero-lifestyle-scarpe-13jrmz7gee1zy7ok?cp=41355325846_brs_CRERLCZWB617&macro=utm_campaign=it_lifestyle&utm_source=meta&utm_medium=paidsocial&utm_content=lifestyle_it_alwayson_infeed_static_augustnikezoomvomero",
+                        "title": "I dettagli fanno la differenza",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/518945056_2129749177506195_5521229576999527930_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=s6F47Y74KCUQ7kNvwHfHRQE&_nc_oc=Adls0qbdj_FHSEmfvl9UOonsYprDLxh6-lhAfmMRvktd3K6JJ99SduqODWZhnVYpOiY&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfsJqva5zZS1QBSwUagLuILgNU9-VgBQZnrXQkbgH-XROQ&oe=6986BA82",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/522125289_1131418935470112_2912466307607093465_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GVXxYUPm1GcQ7kNvwFF9OFN&_nc_oc=Adndb-CS4k8rRBQEIswFrzrLe2hR2hZwpvDglUjiwm9jkebU4KXIQbHNN9qDUGr_NQs&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfsPoWtKx_7NrvpL7gtrfYtLp1jurj9aoqy8gAvO0SQeog&oe=6986A938",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "Dettagli a strati e ammortizzazione reattiva per un comfort da indossare tutto il giorno, tutti i giorni.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "Nike.com",
+                        "link_description": " ",
+                        "link_url": "https://www.nike.com/it/w/zoom-vomero-lifestyle-scarpe-13jrmz7gee1zy7ok?cp=41355325846_brs_CRERLCZWB617&macro=utm_campaign=it_lifestyle&utm_source=meta&utm_medium=paidsocial&utm_content=lifestyle_it_alwayson_infeed_static_augustnikezoomvomero",
+                        "title": "I dettagli fanno la differenza",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/519619436_1190817106088187_6810389173322404532_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6VOzbK1FCJ8Q7kNvwEej4Vc&_nc_oc=AdlAvkl3m9bCTlPHjZPIOZQINaqq8fZ60LvZ5HyFDRRD1l7weaekMG35sImnnFod_JM&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_Afvt_gjDcC70YZEMJ_rh_nLA-bBu1QxCjJwScuy7E01Szg&oe=6986AC89",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/521682060_1782752845709138_4461466315386681220_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0d69Bd6HcagQ7kNvwHkksBX&_nc_oc=Adm7SHtvddJ_E3GLbpsToLxkPWudTiTybGoiotHs54FI_wkzxFojiQkSQu6ef96oS1Q&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfvT1pNT9o8HL6_mj_3n-Up2SYBTLNoE6xB8Ow9HrLG9qQ&oe=6986B415",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "{{product.brand}}"
+                    },
+                    "cta_type": "SHOP_NOW",
+                    "display_format": "DCO",
+                    "link_description": "{{product.description}}",
+                    "link_url": "https://www.nike.com/it/w/zoom-vomero-lifestyle-scarpe-13jrmz7gee1zy7ok?cp=41355325846_brs_CRERLCZWB617&macro=utm_campaign=it_lifestyle&utm_source=meta&utm_medium=paidsocial&utm_content=lifestyle_it_alwayson_infeed_static_augustnikezoomvomero",
+                    "images": [],
+                    "page_categories": [
+                      "Sportswear"
+                    ],
+                    "page_like_count": 39599905,
+                    "title": "{{product.name}}",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": false,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "Nike",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": true,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1756796400,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM"
+                  ],
+                  "start_date": 1754463600,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "598521763247810",
+                  "collation_count": null,
+                  "collation_id": null,
+                  "page_id": "276907439024459",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "276907439024459",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/nikejapan/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "Nike Japan (ナイキ)",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/364791254_788125386428876_5811912338588507528_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=OTAPo84B-cMQ7kNvwHxmiE3&_nc_oc=AdkSEydPXwd56kKnkeYSM3XrMmXxXWi75GuiDlQRXrm86nZ9ntPxEHb4FicrK9JBGRo&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_Aft_1xPMX5UMDa8RO5Jw0rmgvY2FfZgz9W6M6RLDGu2hNA&oe=69869C58",
+                    "event": null,
+                    "caption": "itunes.apple.com",
+                    "cta_text": "지금 설치",
+                    "cards": [
+                      {
+                        "body": "📣Nikeメンバーならではの特典を手に入れよう✨\nNIKEアプリはここでしか手に入らない、お得で嬉しい情報が盛りだくさん🔥🔥\nアプリをインストールして今すぐチェック🤳",
+                        "cta_type": "INSTALL_MOBILE_APP",
+                        "caption": "itunes.apple.com",
+                        "link_description": "‎Get them ready to hit the ground running this school year! Welcome to a world where style, functionality, and unbeatable Member benefits come together. Find an unparalleled range of stylish and durable footwear, apparel, and accessories to equip your kids with the essentials they need to take on ...",
+                        "link_url": "https://www.nike.com/jp/t/ナイキ-スポーツウェア-ナイキ-モダン-フリース-フレンチテリー-ルーズ-ショートパンツ-fF8gH8/DV7915-390",
+                        "title": "メンバー限定特典が満載",
+                        "cta_text": "Install Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/366309317_237865772572535_4963005581923805747_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YE2P2Wz_izcQ7kNvwFgoAhT&_nc_oc=Adnhx6OvBMcXSutmTFFyrGuBNZrbZ7gNow09A12j_tJlSO7LjmQeneBJ4cGjitJZlDg&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfsGNxWW_VZw9-uMd_94vXNe2Dvks8iYL0HYpgHs2sFHnw&oe=6986B346",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/366309317_237865772572535_4963005581923805747_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YE2P2Wz_izcQ7kNvwFgoAhT&_nc_oc=Adnhx6OvBMcXSutmTFFyrGuBNZrbZ7gNow09A12j_tJlSO7LjmQeneBJ4cGjitJZlDg&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfsRFjpDcExvTcm0rGi5Gz-yry29GR39f3KCOhuGWjUl8Q&oe=6986B346",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "📣Nikeメンバーならではの特典を手に入れよう✨\nNIKEアプリはここでしか手に入らない、お得で嬉しい情報が盛りだくさん🔥🔥\nアプリをインストールして今すぐチェック🤳",
+                        "cta_type": "INSTALL_MOBILE_APP",
+                        "caption": "itunes.apple.com",
+                        "link_description": "‎Get them ready to hit the ground running this school year! Welcome to a world where style, functionality, and unbeatable Member benefits come together. Find an unparalleled range of stylish and durable footwear, apparel, and accessories to equip your kids with the essentials they need to take on ...",
+                        "link_url": "https://www.nike.com/jp/t/ナイキ-スポーツウェア-トレンド-ボンバージャケット-cJgKDj/DV9998-010",
+                        "title": "メンバー限定特典が満載",
+                        "cta_text": "Install Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/365205875_218941884104033_753520311522722973_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gMuGaaCq9_cQ7kNvwFZuLdx&_nc_oc=Adm7-ItrwQTXaAY8mqX1ycnzgnITc5ymPQBw3XMRTIpT6RLMojg3-q-DxW1c51sbKz0&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_Afs8ncJLQn7lcI7gGaBmXnhmNlLNashi4sOVk8MItvYW-w&oe=6986ABC1",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/365205875_218941884104033_753520311522722973_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gMuGaaCq9_cQ7kNvwFZuLdx&_nc_oc=Adm7-ItrwQTXaAY8mqX1ycnzgnITc5ymPQBw3XMRTIpT6RLMojg3-q-DxW1c51sbKz0&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfvzxYPSU7PGgvj679FxzEI4wNz28ClNZ24lABfRIgVTiw&oe=6986ABC1",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "📣Nikeメンバーならではの特典を手に入れよう✨\nNIKEアプリはここでしか手に入らない、お得で嬉しい情報が盛りだくさん🔥🔥\nアプリをインストールして今すぐチェック🤳",
+                        "cta_type": "INSTALL_MOBILE_APP",
+                        "caption": "itunes.apple.com",
+                        "link_description": "‎Get them ready to hit the ground running this school year! Welcome to a world where style, functionality, and unbeatable Member benefits come together. Find an unparalleled range of stylish and durable footwear, apparel, and accessories to equip your kids with the essentials they need to take on ...",
+                        "link_url": "https://www.nike.com/jp/t/エア-ジョーダン-1-エレベート-low-ウィメンズシューズ-422X83/DH7004-501",
+                        "title": "メンバー限定特典が満載",
+                        "cta_text": "Install Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/364802719_326060526430520_2046200872534244321_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9MWORGmBnL4Q7kNvwHH7pnI&_nc_oc=Adm9xNyKHV6DMfZWVIWTJdnr-al-QzEvUrTR2ourqbymfKkLkCoBST7m6kbe310Vtvo&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfuO8ImeQSekMGUsAds9j1XUCAXPjbi4ywZzc2fu5F37AA&oe=6986AFD0",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/364802719_326060526430520_2046200872534244321_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9MWORGmBnL4Q7kNvwHH7pnI&_nc_oc=Adm9xNyKHV6DMfZWVIWTJdnr-al-QzEvUrTR2ourqbymfKkLkCoBST7m6kbe310Vtvo&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfszHNdPMbdU6Chc3-A5u-ywdXUp7-c2l-BC-KapRWf0Ug&oe=6986AFD0",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "📣Nikeメンバーならではの特典を手に入れよう✨\nNIKEアプリはここでしか手に入らない、お得で嬉しい情報が盛りだくさん🔥🔥\nアプリをインストールして今すぐチェック🤳",
+                        "cta_type": "INSTALL_MOBILE_APP",
+                        "caption": "itunes.apple.com",
+                        "link_description": "‎Get them ready to hit the ground running this school year! Welcome to a world where style, functionality, and unbeatable Member benefits come together. Find an unparalleled range of stylish and durable footwear, apparel, and accessories to equip your kids with the essentials they need to take on ...",
+                        "link_url": "https://www.nike.com/jp/t/ナイキ-スポーツウェア-イルミネート-パンツ-ベビーパンツ-691st4/FB9654-010",
+                        "title": "メンバー限定特典が満載",
+                        "cta_text": "Install Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/364769970_294012659978282_6513501487140196669_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8CrIj0AUlUYQ7kNvwH3Jq7r&_nc_oc=AdmINSd9RbeyQxuKSIxHHA54e6M_jlGergwWCFT4TboicTlYaDc8kAnXHmiqvWX_xMQ&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfspDSOnQLnn8SqYpycabqBNEwG-NzPKaiWHQBrchAOW7w&oe=6986961D",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/364769970_294012659978282_6513501487140196669_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8CrIj0AUlUYQ7kNvwH3Jq7r&_nc_oc=AdmINSd9RbeyQxuKSIxHHA54e6M_jlGergwWCFT4TboicTlYaDc8kAnXHmiqvWX_xMQ&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfsPSElyvWuzPgDb4Zev8VWFHvW-AAgfxrdbCN7G8YjBDg&oe=6986961D",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "📣Nikeメンバーならではの特典を手に入れよう✨\nNIKEアプリはここでしか手に入らない、お得で嬉しい情報が盛りだくさん🔥🔥\nアプリをインストールして今すぐチェック🤳",
+                        "cta_type": "INSTALL_MOBILE_APP",
+                        "caption": "itunes.apple.com",
+                        "link_description": "‎Get them ready to hit the ground running this school year! Welcome to a world where style, functionality, and unbeatable Member benefits come together. Find an unparalleled range of stylish and durable footwear, apparel, and accessories to equip your kids with the essentials they need to take on ...",
+                        "link_url": "https://www.nike.com/jp/t/ナイキ-dri-fit-プライマリー-トレーニング-tシャツ-PRsdfz/DV9832-097",
+                        "title": "メンバー限定特典が満載",
+                        "cta_text": "Install Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/366069312_730744122191455_3602060897259355152_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oga12-MP8xkQ7kNvwFmN8lr&_nc_oc=Adk6Gl7Bj_WMvg-oEbwNjo4bV56OsGUR8kwI8zoWeSzwVjKh_ZH2wkpCb_5omR18xG0&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_Afu4zx8XiyzJhqNXWB7Hn1saB7jzXy2TzrUUp_nMlMOFQg&oe=6986AAB6",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/366069312_730744122191455_3602060897259355152_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oga12-MP8xkQ7kNvwFmN8lr&_nc_oc=Adk6Gl7Bj_WMvg-oEbwNjo4bV56OsGUR8kwI8zoWeSzwVjKh_ZH2wkpCb_5omR18xG0&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_Aft7qKbk3wZwq5Ju-feckwSqCFYSFrA8M-0mQOyunLBYfA&oe=6986AAB6",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "📣Nikeメンバーならではの特典を手に入れよう✨\nNIKEアプリはここでしか手に入らない、お得で嬉しい情報が盛りだくさん🔥🔥\nアプリをインストールして今すぐチェック🤳",
+                        "cta_type": "INSTALL_MOBILE_APP",
+                        "caption": "itunes.apple.com",
+                        "link_description": "‎Get them ready to hit the ground running this school year! Welcome to a world where style, functionality, and unbeatable Member benefits come together. Find an unparalleled range of stylish and durable footwear, apparel, and accessories to equip your kids with the essentials they need to take on ...",
+                        "link_url": "https://www.nike.com/jp/t/レブロン-20-se-ジュニア-バスケットボールシューズ-L0cWN3/DV3021-300",
+                        "title": "メンバー限定特典が満載",
+                        "cta_text": "Install Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/365665350_673520248150322_2051754845254240358_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Rmc24cggsJ8Q7kNvwH9mxU8&_nc_oc=AdlnmLQRfgVX48TPMfcNwiFbQQtPXo9eLWCivHkoXDDQtVZR7vG93f00w-e8dJ_jSTQ&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfvnHG-Qc4K_oE6_KkYX23JyMNyh1hKNlyD7rKBB4txEIg&oe=6986BC8D",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/365665350_673520248150322_2051754845254240358_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Rmc24cggsJ8Q7kNvwH9mxU8&_nc_oc=AdlnmLQRfgVX48TPMfcNwiFbQQtPXo9eLWCivHkoXDDQtVZR7vG93f00w-e8dJ_jSTQ&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfvUI2phD5xcy7fArxyA0eqER42a8saieyMoKOqnC5I2yg&oe=6986BC8D",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "📣Nikeメンバーならではの特典を手に入れよう✨\nNIKEアプリはここでしか手に入らない、お得で嬉しい情報が盛りだくさん🔥🔥\nアプリをインストールして今すぐチェック🤳"
+                    },
+                    "cta_type": "INSTALL_MOBILE_APP",
+                    "display_format": "DPA",
+                    "link_description": null,
+                    "link_url": "http://itunes.apple.com/app/id1095459556",
+                    "images": [],
+                    "page_categories": [
+                      "Retail company"
+                    ],
+                    "page_like_count": 311836,
+                    "title": "メンバー限定特典が満載",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "Nike Japan (ナイキ)",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "MESSENGER"
+                  ],
+                  "start_date": 1745996400,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "601269979359926",
+                  "collation_count": null,
+                  "collation_id": null,
+                  "page_id": "15087023444",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "15087023444",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/nike/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "Nike",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/476985395_1058147566080894_7783192277415078081_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FCcIXMiaFJ0Q7kNvwHesCS_&_nc_oc=AdluyyJ1Qc6L8Nwch_d0l7eAhm5m6J7UzeJ4ffDcp6utxavm3tm1cRdyuPIA5ntQ4hw&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfujlFhVhB_4H1oO9f_2S44jt1ySgDQxewDn6qunyiVa1w&oe=6986C0CA",
+                    "event": null,
+                    "caption": "http://nike.com/",
+                    "cta_text": "지금 구매하기",
+                    "cards": [
+                      {
+                        "body": "Find the latest styles on Nike.com and enjoy free delivery & returns. For Nike Members",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com",
+                        "link_description": "Nike leverer innovative produkter, oplevelser og services og inspirerer atleter verden over. Gratis levering og returnering.",
+                        "link_url": "https://www.nike.com/gb/t/jordan-tank-9Xr0hm/DX4700-010",
+                        "title": "Jordan",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/476734683_632984385888638_8425208778994962463_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XopyHKzlqBgQ7kNvwFyv9ZZ&_nc_oc=AdnRsueagR7Zo6DJE0u8a9WS7-aaVog1stnaNZ0xfqORzZeWqrZJt5HVH3Euo14MmuI&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfuIndsdzUETXJ1YEtDfKjU9pkKODsLNCyFL8chr6oLMVg&oe=69869A40",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/476734683_632984385888638_8425208778994962463_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XopyHKzlqBgQ7kNvwFyv9ZZ&_nc_oc=AdnRsueagR7Zo6DJE0u8a9WS7-aaVog1stnaNZ0xfqORzZeWqrZJt5HVH3Euo14MmuI&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_Afu2gmN1TzMEg1O8MJbsAbRrj1IILt2bJ8JcDv3lxrw6sw&oe=69869A40",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "Find the latest styles on Nike.com and enjoy free delivery & returns. For Nike Members",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com",
+                        "link_description": "Nike leverer innovative produkter, oplevelser og services og inspirerer atleter verden over. Gratis levering og returnering.",
+                        "link_url": "https://www.nike.com/gb/t/attack-dri-fit-fitness-mid-rise-8cm-unlined-shorts-23xpVM/DX6024-010",
+                        "title": "Nike Attack",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/476329865_635649478838910_6905277426535785816_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ECpKTqZlnOgQ7kNvwEIkMlj&_nc_oc=AdmWdluBFyNJKC_znGofWtZpivG8Wm4uDy5JuT2QoSuLwRkq7bWchyO64m8s9q8mt0s&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfvrXqld0hpXrQ-YCu7SgskJ6adhRRkYvqJjYloullBaEQ&oe=6986B302",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/476329865_635649478838910_6905277426535785816_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ECpKTqZlnOgQ7kNvwEIkMlj&_nc_oc=AdmWdluBFyNJKC_znGofWtZpivG8Wm4uDy5JuT2QoSuLwRkq7bWchyO64m8s9q8mt0s&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfuAC_cPDyn6TYQnFCZYtnJDJVms1NoqI5PbfdV4gTIgag&oe=6986B302",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "Find the latest styles on Nike.com and enjoy free delivery & returns. For Nike Members",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com",
+                        "link_description": "Nike leverer innovative produkter, oplevelser og services og inspirerer atleter verden over. Gratis levering og returnering.",
+                        "link_url": "https://www.nike.com/gb/t/solo-swoosh-fleece-crew-Wdc3lX/DX1361-010",
+                        "title": "Nike Solo Swoosh",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/478320801_2932040613626470_7617192239644282112_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=L2dgFzr5ONsQ7kNvwH0Wmhf&_nc_oc=AdmB_c98pHwXYMemUZr1ch0KE9iK5kiwzdSxwQez4mAGEB0ozN-bdzW9irluSxgy4lc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_Afvfhz9YxtK3Xpncv07FtvoIRd4UPkpkX7dNTIlBq4oOQQ&oe=698693E0",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/478320801_2932040613626470_7617192239644282112_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=L2dgFzr5ONsQ7kNvwH0Wmhf&_nc_oc=AdmB_c98pHwXYMemUZr1ch0KE9iK5kiwzdSxwQez4mAGEB0ozN-bdzW9irluSxgy4lc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfvE7evA5ooQnzKi9iwN_0L5KJe3KNH8uHeZ_REnA0jufw&oe=698693E0",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "Find the latest styles on Nike.com and enjoy free delivery & returns. For Nike Members",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com",
+                        "link_description": "Nike leverer innovative produkter, oplevelser og services og inspirerer atleter verden over. Gratis levering og returnering.",
+                        "link_url": "https://www.nike.com/gb/t/solo-swoosh-fleece-trousers-WqnpGT/DX1364-063",
+                        "title": "Nike Solo Swoosh",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/476913733_1323936442064533_7762647686072766321_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=On2EZyvxWxAQ7kNvwGbYY4q&_nc_oc=AdlfI23qIwp6Eae9UnXIgvSf5W-DrztpaFkUEZaRt0xLn2nGT66o-3uiBVHZzBBPn1E&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfsgtbPSRBbAcStRO453OP_ZmkWVbEvu9dAWFDwrMWr6qQ&oe=6986A146",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/476913733_1323936442064533_7762647686072766321_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=On2EZyvxWxAQ7kNvwGbYY4q&_nc_oc=AdlfI23qIwp6Eae9UnXIgvSf5W-DrztpaFkUEZaRt0xLn2nGT66o-3uiBVHZzBBPn1E&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfvwtCvTkUJPTL0MBeo6hxd1q-_fZD4EIpaYwnWCs6gjAQ&oe=6986A146",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "Find the latest styles on Nike.com and enjoy free delivery & returns. For Nike Members",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com",
+                        "link_description": "Nike leverer innovative produkter, oplevelser og services og inspirerer atleter verden over. Gratis levering og returnering.",
+                        "link_url": "https://www.nike.com/gb/t/sportswear-phoenix-fleece-high-waisted-loose-shorts-Z3ZHKh/FD1409-063",
+                        "title": "Nike Sportswear Phoenix Fleece",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/476834307_1658785618062250_1543326421286642997_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PNlZfL9ocrkQ7kNvwFwWdCh&_nc_oc=AdnWXnHx5cQbttiLLMunz_osUT3alfqqPKaVBEnlqhStKc-e8XaGL3UHDkq7dKHaW4w&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_Afu3bPQaw23cEo6GOhBmYJTxrdVsEv2m3FiQjgk_0xtmxg&oe=6986AC6D",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/476834307_1658785618062250_1543326421286642997_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PNlZfL9ocrkQ7kNvwFwWdCh&_nc_oc=AdnWXnHx5cQbttiLLMunz_osUT3alfqqPKaVBEnlqhStKc-e8XaGL3UHDkq7dKHaW4w&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfsY5bhDdQapRKD3iJ-kDOK4nkm7dk3V0bq8CH5v7LQjlw&oe=6986AC6D",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "Find the latest styles on Nike.com and enjoy free delivery & returns. For Nike Members",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com",
+                        "link_description": "Nike leverer innovative produkter, oplevelser og services og inspirerer atleter verden over. Gratis levering og returnering.",
+                        "link_url": "https://www.nike.com/gb/t/nikecourt-vapor-lite-2-clay-tennis-shoes-rTm2vp/DV2016-001",
+                        "title": "NikeCourt Vapor Lite 2",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/476802903_647175834398147_4058448722857947733_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZErp8V6uGfUQ7kNvwENSNxn&_nc_oc=Adk-8zBUESKrK0FXf-9DgGv0ZvkqLR8zRdkfoTsdg6WpDbx1tuOFsM_dTNDzFpWYarw&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_Afvlz63-X_zzcUkBiVF3ygfPZg99uWRbI4jjZ-iKo_swIQ&oe=6986A097",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/476802903_647175834398147_4058448722857947733_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZErp8V6uGfUQ7kNvwENSNxn&_nc_oc=Adk-8zBUESKrK0FXf-9DgGv0ZvkqLR8zRdkfoTsdg6WpDbx1tuOFsM_dTNDzFpWYarw&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfuByAuwVwQmVkrrVncOC_AHSaMxj5iRbkbiyalOk4uWaA&oe=6986A097",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "Find the latest styles on Nike.com and enjoy free delivery & returns. For Nike Members"
+                    },
+                    "cta_type": "SHOP_NOW",
+                    "display_format": "DPA",
+                    "link_description": null,
+                    "link_url": "http://nike.com/",
+                    "images": [],
+                    "page_categories": [
+                      "Sportswear"
+                    ],
+                    "page_like_count": 39599905,
+                    "title": "{{product.name}}",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": false,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "Nike",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": true,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1742886000,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM"
+                  ],
+                  "start_date": 1739174400,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "529293056713704",
+                  "collation_count": null,
+                  "collation_id": null,
+                  "page_id": "15087023444",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "15087023444",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/nike/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "Nike",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/454453017_1671158173722193_1580916693046541299_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=01eaYJuhL7wQ7kNvwFdyfir&_nc_oc=AdnAV2NAvR5HyyqAB20luKW82I0gfBcfgcOv0qkwrVB2eTvSivNaWoy6s4iqHcxMxao&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_Afu6k6AsUla0hFW1Kx_-a_ll3550Aoyxny-37F2i0FotBg&oe=6986C5C4",
+                    "event": null,
+                    "caption": "play.google.com",
+                    "cta_text": "다운로드",
+                    "cards": [
+                      {
+                        "body": "Descarga la Nike App y regístrate como Miembro para descubrir   los descuentos y sorpresas especiales que tenemos para ti. 🤩",
+                        "cta_type": "DOWNLOAD",
+                        "caption": "play.google.com",
+                        "link_description": "Online shopping for sport & style. Shop sneakers, clothing, & Member-exclusives.",
+                        "link_url": "https://www.nike.com/mx/t/bolsa-tipo-tote-para-gimnasio-28-l-Cnmthj?cp=54413048966_soc_",
+                        "title": "Nike",
+                        "cta_text": "Download",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/454034671_860304245621857_2937129834870336715_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iLytbCn_UBEQ7kNvwFVHB4c&_nc_oc=AdnNTIgtbdx9RWm1lCPN_N8CUbMMLXR_4jHpT574adAf5z6nIUP20JyGbvlShlKl3AQ&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_Afua1gBLQVz9qXZbFiXETPR2sj5WxJ0ZQXDLCH6CGFsZIA&oe=6986ACBA",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/454034671_860304245621857_2937129834870336715_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iLytbCn_UBEQ7kNvwFVHB4c&_nc_oc=AdnNTIgtbdx9RWm1lCPN_N8CUbMMLXR_4jHpT574adAf5z6nIUP20JyGbvlShlKl3AQ&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfsbY19CW9FRmweA-f_KmyiLPCX2N6sSagUSUzFOrUHqiQ&oe=6986ACBA",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "Descarga la Nike App y regístrate como Miembro para descubrir   los descuentos y sorpresas especiales que tenemos para ti. 🤩",
+                        "cta_type": "DOWNLOAD",
+                        "caption": "play.google.com",
+                        "link_description": "Online shopping for sport & style. Shop sneakers, clothing, & Member-exclusives.",
+                        "link_url": "https://www.nike.com/mx/t/mochila-brasilia-18l-l6P4R5?cp=54413048966_soc_",
+                        "title": "Nike",
+                        "cta_text": "Download",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/454204654_384480331335425_8832680555769216758_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Cioz0LbQ144Q7kNvwExafiT&_nc_oc=AdlAvEFL40jYf_JTWHeQytlALCviQ2-hRkETgjpmf_W1y3qdaX9gh_pI7382SHHtOi0&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_Aft8qKwOJ9xsyKGG6BsXBkaAvO27M_58MMwNk4Yn0WBCnA&oe=6986945C",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/454204654_384480331335425_8832680555769216758_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Cioz0LbQ144Q7kNvwExafiT&_nc_oc=AdlAvEFL40jYf_JTWHeQytlALCviQ2-hRkETgjpmf_W1y3qdaX9gh_pI7382SHHtOi0&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfswiJJBb84vWCnJ9wcZ1yvvrft7OfAbj1tz3rMUZfaKfQ&oe=6986945C",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "Descarga la Nike App y regístrate como Miembro para descubrir   los descuentos y sorpresas especiales que tenemos para ti. 🤩",
+                        "cta_type": "DOWNLOAD",
+                        "caption": "play.google.com",
+                        "link_description": "Online shopping for sport & style. Shop sneakers, clothing, & Member-exclusives.",
+                        "link_url": "https://www.nike.com/mx/t/shorts-versátiles-sin-forro-dri-fit-de-23-900-totality-qG7jGq?cp=54413048966_soc_",
+                        "title": "Nike",
+                        "cta_text": "Download",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/454407421_785026357039747_871263976513343083_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NqDCaMFZN-gQ7kNvwH0EkBr&_nc_oc=Adn0_O4XkpN2e1tQLZpJxvSsArOgKnQTxogF_HmC4zW6anJZZ9K6-acKRWz25oUrV4g&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AftI68mVV4AgFYD6W41YbkSvn9etCebAP1fke49t6mpOqw&oe=6986C55B",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/454407421_785026357039747_871263976513343083_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NqDCaMFZN-gQ7kNvwH0EkBr&_nc_oc=Adn0_O4XkpN2e1tQLZpJxvSsArOgKnQTxogF_HmC4zW6anJZZ9K6-acKRWz25oUrV4g&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_Afs7A-9nCSYk3uVu9K7eFkp6SsRQe6j8TV5_1HkJP2-duQ&oe=6986C55B",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "Descarga la Nike App y regístrate como Miembro para descubrir   los descuentos y sorpresas especiales que tenemos para ti. 🤩",
+                        "cta_type": "DOWNLOAD",
+                        "caption": "play.google.com",
+                        "link_description": "Online shopping for sport & style. Shop sneakers, clothing, & Member-exclusives.",
+                        "link_url": "https://www.nike.com/mx/t/calcetines-de-fútbol-hasta-la-rodilla-academy-wwdjrW?cp=54413048966_soc_",
+                        "title": "Nike",
+                        "cta_text": "Download",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/454033791_398637566138006_2172920110201900178_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mRmHl9Pl48wQ7kNvwHkHDen&_nc_oc=Adn_7BKEH0Gh3_ynLD98NDlwyqk5ZweVtP50tHD3F6IvMRp3XrkMN-MWr91ntM_p_ig&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfslK6U6-GCbGLtDguVxUfqJEo1uzyBrA3UMRqkGgWyuMA&oe=6986A27E",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/454033791_398637566138006_2172920110201900178_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mRmHl9Pl48wQ7kNvwHkHDen&_nc_oc=Adn_7BKEH0Gh3_ynLD98NDlwyqk5ZweVtP50tHD3F6IvMRp3XrkMN-MWr91ntM_p_ig&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_Aft-GBjr7NrJHDc9ouY9XdJz0LYjCt2gd5jfu5Et5d5_ag&oe=6986A27E",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "Descarga la Nike App y regístrate como Miembro para descubrir   los descuentos y sorpresas especiales que tenemos para ti. 🤩",
+                        "cta_type": "DOWNLOAD",
+                        "caption": "play.google.com",
+                        "link_description": "Online shopping for sport & style. Shop sneakers, clothing, & Member-exclusives.",
+                        "link_url": "https://www.nike.com/mx/t/calcetines-de-fútbol-hasta-la-rodilla-academy-wwdjrW?cp=54413048966_soc_",
+                        "title": "Nike",
+                        "cta_text": "Download",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/454346545_1014515377034411_6126015882305496301_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3Uh6mczTSIsQ7kNvwEiw6ki&_nc_oc=Admuxb5CrHMImgKa8PVcjZyq7-dWOLyizvs1dlXvmWhipaQ0RcHFPmntf-B3W9xpqDg&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AftXlXRxYp_zQaIR8ywxIRMJITniv9qotR-TqDNxm7DxPA&oe=6986B697",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/454346545_1014515377034411_6126015882305496301_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3Uh6mczTSIsQ7kNvwEiw6ki&_nc_oc=Admuxb5CrHMImgKa8PVcjZyq7-dWOLyizvs1dlXvmWhipaQ0RcHFPmntf-B3W9xpqDg&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_Aft75tTX7mMslTx4cIj3A7xl5E-5GNZ9fPQiCsCuYrUM7Q&oe=6986B697",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "Descarga la Nike App y regístrate como Miembro para descubrir   los descuentos y sorpresas especiales que tenemos para ti. 🤩",
+                        "cta_type": "DOWNLOAD",
+                        "caption": "play.google.com",
+                        "link_description": "Online shopping for sport & style. Shop sneakers, clothing, & Member-exclusives.",
+                        "link_url": "https://www.nike.com/mx/t/calzado-cortez-VjtFR0?cp=54413048966_soc_",
+                        "title": "Nike",
+                        "cta_text": "Download",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/454240331_1945901575828055_4233405386450340082_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BAH8zsSFh-8Q7kNvwEo1PKK&_nc_oc=Adnqk6HeKd1I9VPQUnK755dKup4Ze-cCQncTbRDF8amiyFdopleRIDECzhfrXiKVQds&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfuEA1BKUgeFbZ5GFHpPpCrvUZE0eZF7F6NxjJH1AHr9cQ&oe=69869135",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/454240331_1945901575828055_4233405386450340082_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BAH8zsSFh-8Q7kNvwEo1PKK&_nc_oc=Adnqk6HeKd1I9VPQUnK755dKup4Ze-cCQncTbRDF8amiyFdopleRIDECzhfrXiKVQds&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_Afs4QFqGqt405IUHTAun35nGHU-CBRq-LRDTExuGQ4av8g&oe=69869135",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "Descarga la Nike App y regístrate como Miembro para descubrir   los descuentos y sorpresas especiales que tenemos para ti. 🤩"
+                    },
+                    "cta_type": "DOWNLOAD",
+                    "display_format": "DPA",
+                    "link_description": null,
+                    "link_url": "http://play.google.com/store/apps/details?id=com.nike.omega",
+                    "images": [],
+                    "page_categories": [
+                      "Sportswear"
+                    ],
+                    "page_like_count": 39599905,
+                    "title": "Nike: Shoes, Apparel & Stories",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "Nike",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "MESSENGER"
+                  ],
+                  "start_date": 1745564400,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "870335691589741",
+                  "collation_count": null,
+                  "collation_id": null,
+                  "page_id": "15087023444",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "15087023444",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/nike/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "Nike",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/440749607_789896256418325_5148213749457627564_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Ymoxm_qPmjYQ7kNvwHjlesW&_nc_oc=AdkkbmajfetjxI6igxLoFe17vNUqCK8y2AxLgsUYMwts2LP_UgFm6bXuiieXM65g0DY&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfsN6kGlxUe8mlnBnozrt5apOsM8b_RFfK1VT_iTGr07OA&oe=6986AE5F",
+                    "event": null,
+                    "caption": "play.google.com",
+                    "cta_text": "지금 구매하기",
+                    "cards": [
+                      {
+                        "body": "Compra los mejores estilos con la mejor tecnología e innovación Nike.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "play.google.com",
+                        "link_description": "Online shopping, as it should be. Shop sneakers, clothes, and Member-exclusives.",
+                        "link_url": "https://www.nike.com/mx/t/camiseta-de-fútbol-dri-fit-academy23-b8cfTQ?cp=54413048966_soc_",
+                        "title": "Camiseta de fútbol para niños Nike Dri-FIT Academy23 - NegroMX$269",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/441485808_953125426463954_8517648611838267005_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9zgchlf9eHMQ7kNvwE0B9j7&_nc_oc=Adn1QSrtr5omRg8IhXv9qDqBtUIJG0JP0nvqJ5IWXXvZJm07l3uALscSXmu4RPaHaNw&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfsFZT4l7fUGwQ9dYziwu6ZPQHk8dRqBZyqXgYvxkRX8Pg&oe=6986AF26",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/441485808_953125426463954_8517648611838267005_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9zgchlf9eHMQ7kNvwE0B9j7&_nc_oc=Adn1QSrtr5omRg8IhXv9qDqBtUIJG0JP0nvqJ5IWXXvZJm07l3uALscSXmu4RPaHaNw&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfuqkHJVTI1Md5NtILmHB26o7MJnM4R4SLbqp-Oku9T3Xw&oe=6986AF26",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "Compra los mejores estilos con la mejor tecnología e innovación Nike.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "play.google.com",
+                        "link_description": "Online shopping, as it should be. Shop sneakers, clothes, and Member-exclusives.",
+                        "link_url": "https://www.nike.com/mx/t/calcetines-de-fútbol-hasta-la-rodilla-academy-wwdjrW?cp=54413048966_soc_",
+                        "title": "Calcetines de fútbol hasta la rodilla Nike Academy - NegroMX$349",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/441463140_1218579442440410_7781886126968922886_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=EAxQHekRcO0Q7kNvwHWtkdO&_nc_oc=Adn5G6DzymxOcw8lkvmgW8-H59kZzZTfvRffJMieM3JsYViWrQbEegzg0pUYf909-HA&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AftxbJL-V5iHvQlC-hkx9aiFOTRqxK05iVk5i1w29sr-Hg&oe=6986AC71",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/441463140_1218579442440410_7781886126968922886_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=EAxQHekRcO0Q7kNvwHWtkdO&_nc_oc=Adn5G6DzymxOcw8lkvmgW8-H59kZzZTfvRffJMieM3JsYViWrQbEegzg0pUYf909-HA&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfvBnldk8PT_lCqn4QmySmxICodn4sAy1Kimi3QfuiSMhA&oe=6986AC71",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "Compra los mejores estilos con la mejor tecnología e innovación Nike.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "play.google.com",
+                        "link_description": "Online shopping, as it should be. Shop sneakers, clothes, and Member-exclusives.",
+                        "link_url": "https://www.nike.com/mx/t/chanclas-offcourt-adjust-212kd3?cp=54413048966_soc_",
+                        "title": "Chanclas para mujer Nike Offcourt Adjust - NegroMX$1,099",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/441486893_810323963858239_9143218909526706574_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BccASbTsjSAQ7kNvwGGA_hB&_nc_oc=Adl4o4e5XhRnyppuTSW6EDkChkw-u-yD7d_rPKqCjn8R6AYcK-rII-rasDVftVUrMzw&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_Aft7UK6qluUO8QzgrdJcOPbeoGCHsP4U4Qj60C1lYsV-FA&oe=6986A849",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/441486893_810323963858239_9143218909526706574_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BccASbTsjSAQ7kNvwGGA_hB&_nc_oc=Adl4o4e5XhRnyppuTSW6EDkChkw-u-yD7d_rPKqCjn8R6AYcK-rII-rasDVftVUrMzw&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfuyM7zaLvR3ng7CQVCtcm_REpHh689XkTLP2KkPBkHIPg&oe=6986A849",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "Compra los mejores estilos con la mejor tecnología e innovación Nike.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "play.google.com",
+                        "link_description": "Online shopping, as it should be. Shop sneakers, clothes, and Member-exclusives.",
+                        "link_url": "https://www.nike.com/mx/t/jersey-de-básquetbol-dri-fit-icon-R7cBsC?cp=54413048966_soc_",
+                        "title": "Jersey de básquetbol Dri-FIT para hombre Nike Icon - NegroMX$899",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/440467248_747940570887689_5980693905191220608_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7BLJchnv4LoQ7kNvwG_eYBA&_nc_oc=AdmMsmo61IqHDvcPc9SraDIgLnKWJK4r2rUCSUSLZIboTwDBAb4weQdFlTGCoPsQyh0&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfudsjdxuKRc8pCZZvjupW14JH-bXY_P6WVQnOpD2Kckjg&oe=6986B0D2",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/440467248_747940570887689_5980693905191220608_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7BLJchnv4LoQ7kNvwG_eYBA&_nc_oc=AdmMsmo61IqHDvcPc9SraDIgLnKWJK4r2rUCSUSLZIboTwDBAb4weQdFlTGCoPsQyh0&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfvJY9llF2eK172WFY9iPLB4Gm0YERCup8lSzzrboy_RDQ&oe=6986B0D2",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "Compra los mejores estilos con la mejor tecnología e innovación Nike.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "play.google.com",
+                        "link_description": "Online shopping, as it should be. Shop sneakers, clothes, and Member-exclusives.",
+                        "link_url": "https://www.nike.com/mx/t/calzado-cortez-leather-JcMNf8?cp=54413048966_soc_",
+                        "title": "Calzado para mujer Nike Cortez Leather - BlancoMX$2,099",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/440467248_1118079066073902_7388136372091066746_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=X629huB6yNkQ7kNvwFZFe4j&_nc_oc=Adm7AUgz5GxV43ct7ddcHRA6hmn0cz7jRgUYN_lpY6HcNuA5hznEwKg3M2dUNqVU_cA&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_Afu7efOkdmSV4w7rLO_kluHDwoHJL3U26nCu5xOKWu5iOg&oe=69869332",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/440467248_1118079066073902_7388136372091066746_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=X629huB6yNkQ7kNvwFZFe4j&_nc_oc=Adm7AUgz5GxV43ct7ddcHRA6hmn0cz7jRgUYN_lpY6HcNuA5hznEwKg3M2dUNqVU_cA&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfsjOPwWMXnWk3qN162wUx3nOFAJrHG3Jpq11BYjBQTQBw&oe=69869332",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "Compra los mejores estilos con la mejor tecnología e innovación Nike.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "play.google.com",
+                        "link_description": "Online shopping, as it should be. Shop sneakers, clothes, and Member-exclusives.",
+                        "link_url": "https://www.nike.com/mx/t/bolsa-tipo-tote-para-gimnasio-28-l-Cnmthj?cp=54413048966_soc_",
+                        "title": "Bolsa tipo tote para gimnasio (28 L) Nike - NegroMX$899",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/440962521_760279739596618_3979292473769001906_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=86mNCUwVNJcQ7kNvwGirWAe&_nc_oc=AdnonCznvj1XlNiG85p9sCEGzsg__g03ZerRanzkprJV_0AbkkB253xkzz4jci6_OkQ&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_Afv4gjAxi_QgObn1eDA92L7hbz9dpaEzInWyFXWKJGM3Wg&oe=6986AF26",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/440962521_760279739596618_3979292473769001906_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=86mNCUwVNJcQ7kNvwGirWAe&_nc_oc=AdnonCznvj1XlNiG85p9sCEGzsg__g03ZerRanzkprJV_0AbkkB253xkzz4jci6_OkQ&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AftTu17LD0ULN7dcHl3NOp8_doixpPbcg2OF3bGlyQCTYQ&oe=6986AF26",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "Compra los mejores estilos con la mejor tecnología e innovación Nike."
+                    },
+                    "cta_type": "SHOP_NOW",
+                    "display_format": "DPA",
+                    "link_description": null,
+                    "link_url": "http://play.google.com/store/apps/details?id=com.nike.omega",
+                    "images": [],
+                    "page_categories": [
+                      "Sportswear"
+                    ],
+                    "page_like_count": 39599905,
+                    "title": "{{product.name}}{{product.current_price strip_zeros}}",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": false,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "Nike",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": true,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1741248000,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "MESSENGER"
+                  ],
+                  "start_date": 1714892400,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "605465139258765",
+                  "collation_count": null,
+                  "collation_id": null,
+                  "page_id": "15087023444",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "15087023444",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/nike/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "Nike",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/534790568_2206444893190261_5138283653375437157_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xnZYSUbZGpEQ7kNvwF9s_wt&_nc_oc=AdkmiuCbS1AmL-reSaVfL2h86qpR9sZa192xZrYjjRXwCG5vUNK-pETYWsLaP_DWGu0&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_Afuw_hZbLn-zR-nAN3JIPC8iY1g05ThBftN7PtdAGpdRrw&oe=6986A2B6",
+                    "event": null,
+                    "caption": "nike.com.br",
+                    "cta_text": "지금 구매하기",
+                    "cards": [
+                      {
+                        "body": "Seus benefícios podem começar agora e, quanto mais você fica com a gente, mais eles melhoram. Junte-se a Nós em Nike.com.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com.br",
+                        "link_description": "R$170.99",
+                        "link_url": "https://www.nike.com.br/chuteira-nike-beco-2-futsal-000287.html?cor=IF",
+                        "title": "Chuteira Nike Beco 2 Futsal",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/534882528_1847533399519221_5608084905396254736_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Qe--Zu-IqDkQ7kNvwEUwo7e&_nc_oc=AdmCh90oPBP31Csc8iqmIdOEFBdFb4LJYXgO8UPhjRSo4Y-VdJeq30-srhipWYALB5o&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_Afs7TM18oROJTQE3HnYhIeCU3GE_7NYOM-b9Fyq4vRHLKg&oe=6986A13D",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/534882528_1847533399519221_5608084905396254736_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Qe--Zu-IqDkQ7kNvwEUwo7e&_nc_oc=AdmCh90oPBP31Csc8iqmIdOEFBdFb4LJYXgO8UPhjRSo4Y-VdJeq30-srhipWYALB5o&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_Aftj0LI_b6DfxCWCHgem731WaZMdrNuy8ayaF79Y8vRaIQ&oe=6986A13D",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "Seus benefícios podem começar agora e, quanto mais você fica com a gente, mais eles melhoram. Junte-se a Nós em Nike.com.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com.br",
+                        "link_description": "R$174.41",
+                        "link_url": "https://www.nike.com.br/chuteira-nike-beco-2-futsal-000287.html?cor=P1",
+                        "title": "Chuteira Nike Beco 2 Futsal",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/535321405_4221407814850097_8623811919583702681_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cvv5Uo43BoMQ7kNvwHtl-0E&_nc_oc=AdnSd449ocREIpw6v3xdsiYNt-4cRk2_grd3AzxKC-94PjZOUdUoyxQL5SE44fW6AtI&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfuQJRrMh82wmbk43FTxji09Lvfa40GU4x5Dfx6XmN1S1Q&oe=6986C05C",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/535321405_4221407814850097_8623811919583702681_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cvv5Uo43BoMQ7kNvwHtl-0E&_nc_oc=AdnSd449ocREIpw6v3xdsiYNt-4cRk2_grd3AzxKC-94PjZOUdUoyxQL5SE44fW6AtI&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_Afs4d0bQsBabD005LMxpCIiF15UaaJW0CEjQD7GA34ePAg&oe=6986C05C",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "Seus benefícios podem começar agora e, quanto mais você fica com a gente, mais eles melhoram. Junte-se a Nós em Nike.com.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com.br",
+                        "link_description": "R$142.49",
+                        "link_url": "https://www.nike.com.br/chinelo-nike-kawa-infantil-000760.html?cor=51",
+                        "title": "Chinelo Nike Kawa Infantil",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/534352968_24089833897325131_441867443920933807_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JMwtlYMpCxkQ7kNvwGMnIEr&_nc_oc=AdkUk58iJzhjTMGAWJbt8vLgWV_vdELrW5lKbfX_XGi4bbFhloruKHIvX4VHUWBU_M8&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfsfZcKkZjvRwMjaqDx3jM7VxMzY8bDPboSVAZGzsy5zWA&oe=6986AB30",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/534352968_24089833897325131_441867443920933807_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JMwtlYMpCxkQ7kNvwGMnIEr&_nc_oc=AdkUk58iJzhjTMGAWJbt8vLgWV_vdELrW5lKbfX_XGi4bbFhloruKHIvX4VHUWBU_M8&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfvUTS8y7XWjJ6d0oPChFzN7essq1w-Ipp6v6ULilL1ubg&oe=6986AB30",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "Seus benefícios podem começar agora e, quanto mais você fica com a gente, mais eles melhoram. Junte-se a Nós em Nike.com.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com.br",
+                        "link_description": "R$170.99",
+                        "link_url": "https://www.nike.com.br/chinelo-nike-kawa-infantil-000760.html?cor=IM",
+                        "title": "Chinelo Nike Kawa Infantil",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/534799576_24010146655323648_1219861604351052524_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ABTY0EEErOQQ7kNvwHGZetr&_nc_oc=Admnv6lg5uB9zl8QUzQIedpm1uF0E_hsYwqfztZ7Zq9U-nsEvUvRDT1RMu7UJds3kTc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfuO2g93Il1FsORw_RZZaN3xAEX0KuY_uM8XRZ9Ypsji2A&oe=69869B75",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/534799576_24010146655323648_1219861604351052524_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ABTY0EEErOQQ7kNvwHGZetr&_nc_oc=Admnv6lg5uB9zl8QUzQIedpm1uF0E_hsYwqfztZ7Zq9U-nsEvUvRDT1RMu7UJds3kTc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfvOzE28EvKnPeSipLhUCWhh-SdKmx7df2KpDwcdRmTauw&oe=69869B75",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "Seus benefícios podem começar agora e, quanto mais você fica com a gente, mais eles melhoram. Junte-se a Nós em Nike.com.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com.br",
+                        "link_description": "R$664.99",
+                        "link_url": "https://www.nike.com.br/tenis-air-jordan-1-low-infantil-000180.html?cor=P3",
+                        "title": "Tênis Air Jordan 1 Low Infantil",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/534999169_719178814457615_1413767107261265377_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rUlXLCww1lsQ7kNvwEyzurf&_nc_oc=AdkjNOeDr5904g89gZy93t_0OuhaJFLM2HKeYqzqmy99hZn_W7tFy-qTW7uQCXgEYKg&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfsBa1tBzhJJQaniuf6mfyigb-HWXDl3IDgPAxvlBHXAfg&oe=6986BBE8",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/534999169_719178814457615_1413767107261265377_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rUlXLCww1lsQ7kNvwEyzurf&_nc_oc=AdkjNOeDr5904g89gZy93t_0OuhaJFLM2HKeYqzqmy99hZn_W7tFy-qTW7uQCXgEYKg&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfuZyPiT_oyyfUR8Z3-h4A9L848Z90RpfpZW0mwnWNtrUw&oe=6986BBE8",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "Seus benefícios podem começar agora e, quanto mais você fica com a gente, mais eles melhoram. Junte-se a Nós em Nike.com.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com.br",
+                        "link_description": "R$854.99",
+                        "link_url": "https://www.nike.com.br/tenis-air-jordan-1-low-infantil-000180.html?cor=7V",
+                        "title": "Tênis Air Jordan 1 Low Infantil",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/536766735_2899019150282998_7486977189382817731_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dpyDerYmPjwQ7kNvwHtyG3S&_nc_oc=Adk_T1JAyLB0i5lCVA6Im1H-eqBtWfYNN7H2WEjiqaJx_QW6CI63Fx5SULwziau7xms&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_Afs6vA9IgsG_bpP0oEkD3JLdFmgyd84syj13qDAlYqfN6w&oe=6986B1A2",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/536766735_2899019150282998_7486977189382817731_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dpyDerYmPjwQ7kNvwHtyG3S&_nc_oc=Adk_T1JAyLB0i5lCVA6Im1H-eqBtWfYNN7H2WEjiqaJx_QW6CI63Fx5SULwziau7xms&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfsNtcVrXstaEr7k8Y3D97bQa-T_xhU7yIHOfTDuEdNKBQ&oe=6986B1A2",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "Seus benefícios podem começar agora e, quanto mais você fica com a gente, mais eles melhoram. Junte-se a Nós em Nike.com."
+                    },
+                    "cta_type": "SHOP_NOW",
+                    "display_format": "DPA",
+                    "link_description": null,
+                    "link_url": "https://www.nike.com.br/?utm_source=facebook&utm_medium=cpc&utm_campaign={{campaign.name}}&utm_content={{adset.name}}&utm_term={{ad.name}}",
+                    "images": [],
+                    "page_categories": [
+                      "Sportswear"
+                    ],
+                    "page_like_count": 39599905,
+                    "title": "{{product.name}}",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "Nike",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1769932800,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "MESSENGER"
+                  ],
+                  "start_date": 1761894000,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "3065629133612528",
+                  "collation_count": null,
+                  "collation_id": null,
+                  "page_id": "15087023444",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "15087023444",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/nike/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "Nike",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/482019335_1058635286045437_4928189566854369218_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vvl6L5vNBDMQ7kNvwEVBjlE&_nc_oc=AdmbDdJ21EWduRtOO6jbr6Tmg0kmgug10gIBJB4WoHn8vHStAO7eWyXSimZFYTSrjVQ&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfstuIJKDlzXSRYwR2lO1MZ3MxQ-rJijuQKE4t4qnCMPbg&oe=6986AC5D",
+                    "event": null,
+                    "caption": "play.google.com",
+                    "cta_text": "지금 구매하기",
+                    "cards": [
+                      {
+                        "body": "Compra los mejores estilos con la mejor tecnología e innovación Nike.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "play.google.com",
+                        "link_description": "Shop Nike & Jordan sneakers, clothing & more designed for championship athletes.",
+                        "link_url": "https://www.nike.com/mx/t/bolsa-tipo-tote-para-gimnasio-28-l-Cnmthj?cp=54413048966_soc_",
+                        "title": "Bolsa tipo tote para gimnasio (28 L) Nike - NegroMX$899",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/480859470_1167693874987032_3786765621580622757_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=O0iuu3pc8eQQ7kNvwF46-9X&_nc_oc=Adlx4pT4vMXOXFsSuYqnCMzrS8N6n4vIp2tRL2BZgtWK3AnZLlWdXirAaBLphfVnkVU&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AftQmeH7NornxBlfIt-ydBXtv_SS8FyoBG3V-ALp1YIFog&oe=6986B569",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/480859470_1167693874987032_3786765621580622757_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=O0iuu3pc8eQQ7kNvwF46-9X&_nc_oc=Adlx4pT4vMXOXFsSuYqnCMzrS8N6n4vIp2tRL2BZgtWK3AnZLlWdXirAaBLphfVnkVU&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfuGRQf23XNgVI-TB3TulFj-pvHsoO426XQfktTlD186HQ&oe=6986B569",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "Compra los mejores estilos con la mejor tecnología e innovación Nike.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "play.google.com",
+                        "link_description": "Shop Nike & Jordan sneakers, clothing & more designed for championship athletes.",
+                        "link_url": "https://www.nike.com/mx/t/calcetines-de-fútbol-hasta-la-rodilla-academy-wwdjrW?cp=54413048966_soc_",
+                        "title": "Calcetines de fútbol hasta la rodilla Nike Academy - NegroMX$279",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/480880469_802584622082446_1881926537388946325_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IJsGetUkLeMQ7kNvwF7qF8y&_nc_oc=AdldILp3IMgo9MeNcjlfsBm6LuRU3ihEQbEFFHFBeZTBaMD0tCsxUv6A3kI8kXiCroE&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_Afs4Q-Zmddpn9pbWH3KnpMY8GR_WrmwvbeZuM3QdOE-8_Q&oe=6986A2FF",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/480880469_802584622082446_1881926537388946325_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IJsGetUkLeMQ7kNvwF7qF8y&_nc_oc=AdldILp3IMgo9MeNcjlfsBm6LuRU3ihEQbEFFHFBeZTBaMD0tCsxUv6A3kI8kXiCroE&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AftZsRnqVZpjVnERlEillFI4H2rFQP41kHYqjwQIs1nJWA&oe=6986A2FF",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "Compra los mejores estilos con la mejor tecnología e innovación Nike.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "play.google.com",
+                        "link_description": "Shop Nike & Jordan sneakers, clothing & more designed for championship athletes.",
+                        "link_url": "https://www.nike.com/mx/t/calcetines-de-fútbol-hasta-la-rodilla-academy-wwdjrW?cp=54413048966_soc_",
+                        "title": "Calcetines de fútbol hasta la rodilla Nike Academy - RojoMX$349",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/481895720_3625189404433572_4359077218737551868_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Q6O1pV6M1ZAQ7kNvwHsBO6a&_nc_oc=Adm9W5HCkkZo7z2_jBliNtLSOOUgDmzTdZ9mQuko2ywWSnRmem3KYx2aUoIah0wD59U&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfvLP4p4CrBGuiK23ZtTlLLZpuMjM4F-ln2IOO-M7dIVow&oe=6986A57F",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/481895720_3625189404433572_4359077218737551868_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Q6O1pV6M1ZAQ7kNvwHsBO6a&_nc_oc=Adm9W5HCkkZo7z2_jBliNtLSOOUgDmzTdZ9mQuko2ywWSnRmem3KYx2aUoIah0wD59U&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_Afunj1rfjiyt3NqI0gCwETU8qPVqFscPYVdake1ectDpog&oe=6986A57F",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "Compra los mejores estilos con la mejor tecnología e innovación Nike.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "play.google.com",
+                        "link_description": "Shop Nike & Jordan sneakers, clothing & more designed for championship athletes.",
+                        "link_url": "https://www.nike.com/mx/t/maleta-de-entrenamiento-24-l-gym-club-7B6RDJ?cp=54413048966_soc_",
+                        "title": "Maleta de entrenamiento (24 L) Nike Gym Club - NegroMX$899",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/481249759_1110437584188826_7928990611642112023_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=V9pXR_WHevsQ7kNvwHPzxAQ&_nc_oc=Adn3DLqqsZNA6We8xf0EdilodOuBYup-AftFQleLWRvJx5hqGS9631EURwuIdT5_O2M&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfshdqgIwtl8GAvvCZ-E85EkOFJ2R4ewE_YmC_3tmV1vFQ&oe=6986C296",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/481249759_1110437584188826_7928990611642112023_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=V9pXR_WHevsQ7kNvwHPzxAQ&_nc_oc=Adn3DLqqsZNA6We8xf0EdilodOuBYup-AftFQleLWRvJx5hqGS9631EURwuIdT5_O2M&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AftHjKAX97UnEbNkOml-P99CUwI-DMLF27unwYTtB5FmOQ&oe=6986C296",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "Compra los mejores estilos con la mejor tecnología e innovación Nike.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "play.google.com",
+                        "link_description": "Shop Nike & Jordan sneakers, clothing & more designed for championship athletes.",
+                        "link_url": "https://www.nike.com/mx/t/playera-versátil-de-manga-corta-dri-fit-uv-hyverse-bPPr3R?cp=54413048966_soc_",
+                        "title": "Playera versátil de manga corta Dri-FIT UV para hombre Nike Hyverse - NegroMX$899",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/482017625_937888085193767_723831398827059329_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gv2Ad1M2LtMQ7kNvwF-lvHV&_nc_oc=AdmdBj3e-NjXYb0ZG8Dc4xgRhKcbTatIOhf_PsmNNmiV74L9iYhrpNBGxyxYVqk_qUE&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfvV474IKgjfvZLXk7Ydf-VnVllrdX7PmnHp-OExv_iNCw&oe=6986C61E",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/482017625_937888085193767_723831398827059329_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gv2Ad1M2LtMQ7kNvwF-lvHV&_nc_oc=AdmdBj3e-NjXYb0ZG8Dc4xgRhKcbTatIOhf_PsmNNmiV74L9iYhrpNBGxyxYVqk_qUE&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfswMW_n8qP6Aq3Aq2FXZWV_b6i6uANs8j0J4CJkCdbS9w&oe=6986C61E",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "Compra los mejores estilos con la mejor tecnología e innovación Nike.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "play.google.com",
+                        "link_description": "Shop Nike & Jordan sneakers, clothing & more designed for championship athletes.",
+                        "link_url": "https://www.nike.com/mx/t/shorts-versátiles-sin-forro-dri-fit-de-18-900-totality-MmWRmk?cp=54413048966_soc_",
+                        "title": "Shorts versátiles sin forro Dri-FIT de 18 cm para hombre Nike Totality - NegroMX$799",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/481087009_1646423042903748_9157346431213856114_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1F8Mrzik1jYQ7kNvwFVG716&_nc_oc=AdkMV1xw0Dnh6vrLujFatpON4Y-VyWF733aoP862Bs0ZfjIkbmPFalTH3lH8akRGejg&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_Aft7HpT09y0JALlO4JdpxqdPg-W60-uKkWEtC4n0IvZvAA&oe=6986C41F",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/481087009_1646423042903748_9157346431213856114_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1F8Mrzik1jYQ7kNvwFVG716&_nc_oc=AdkMV1xw0Dnh6vrLujFatpON4Y-VyWF733aoP862Bs0ZfjIkbmPFalTH3lH8akRGejg&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=lR3U8mTschVMvZxS9McHzA&oh=00_AfvDgWukz__oZUzywTSrAexOE7aXJcswFZlmlEVgX2VkKw&oe=6986C41F",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "Compra los mejores estilos con la mejor tecnología e innovación Nike."
+                    },
+                    "cta_type": "SHOP_NOW",
+                    "display_format": "DPA",
+                    "link_description": null,
+                    "link_url": "http://play.google.com/store/apps/details?id=com.nike.omega",
+                    "images": [],
+                    "page_categories": [
+                      "Sportswear"
+                    ],
+                    "page_like_count": 39599905,
+                    "title": "{{product.name}}{{product.current_price strip_zeros}}",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "Nike",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "MESSENGER"
+                  ],
+                  "start_date": 1740816000,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          }
+        ],
+        "page_info": {
+          "end_cursor": "AQHSQqd6ORc7R9FJEvjZRN68uUgsirXO0bahD_AMIxlO-moY2x9XZz-Ixo_nuBhudzJP",
+          "has_next_page": true
+        }
+      }
+    }
+  },
+  "extensions": {
+    "server_metadata": {
+      "request_start_time_ms": 1770051920982,
+      "time_at_flush_ms": 1770051921942
+    },
+    "is_final": true
+  }
+}

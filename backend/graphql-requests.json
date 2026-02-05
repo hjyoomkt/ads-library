@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=ALL&q=nike",
+    "method": "GET",
+    "headers": {
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "postData": null
+  },
+  {
+    "url": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=ALL&q=nike",
+    "method": "GET",
+    "headers": {
+      "referer": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=ALL&q=nike",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "postData": null
+  },
+  {
+    "url": "https://www.facebook.com/api/graphql/",
+    "method": "POST",
+    "headers": {
+      "sec-ch-ua-full-version-list": "\"Chromium\";v=\"145.0.7632.6\", \"Not:A-Brand\";v=\"99.0.0.0\"",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=ALL&is_targeted_country=false&media_type=all&q=nike&search_type=keyword_unordered&sort_data[mode]=total_impressions&sort_data[direction]=desc",
+      "sec-ch-ua": "\"Chromium\";v=\"145\", \"Not:A-Brand\";v=\"99\"",
+      "x-fb-friendly-name": "AdLibraryFilterContextProviderQuery",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-model": "\"\"",
+      "x-asbd-id": "359341",
+      "x-fb-lsd": "AdT2s_xyqSc_8MLkPohasWHEW4I",
+      "sec-ch-prefers-color-scheme": "light",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+      "content-type": "application/x-www-form-urlencoded",
+      "sec-ch-ua-platform-version": "\"10.0.0\""
+    },
+    "postData": "av=0&__aaid=0&__user=0&__a=1&__req=2&__hs=20486.HYP%3Acomet_plat_default_pkg.2.1...0&dpr=1&__ccg=EXCELLENT&__rev=1032778080&__s=l5ju4q%3A1tquig%3An3y2xt&__hsi=7602314766502416092&__dyn=7xeUmwlECdwn8K2Wmh0no6u5U4e1Fx-ewSAwHwNw9G2S2q0_EtxG4o0B-qbwgE1EEb87C1xwEwgo9oO0n24oaEd86a3a1YwBgao6C0Mo6i588Etw8WfK1LwPxe2GewbCXwJwmE2eUlwhE2Lw6OyES0gq0K-1LwqobU3Cwr86C1nwf6Eb87u0jW1ww&__csr=gH4Mzt7ldvHSx2qiinGnyidALUSZ2rguxa9oQx8pypoK4FUgws82mxCi48rwDzoOazU24wno6SawJwMwlEkwFwxwrUdU6q1fwjEf8882KwOwea0vu5E0hJxy07cU0ntw2XU06gu06XE09wU04iC0oR00lu802LHho03z_w68w0DrwfW08yw&__hsdp=l3d8gDEUcolaExp49GqOBKa4Vkp4UxyWieF5FwDB8390m9k88fFNfGDyQm9DCh8sK6o6HwdG5Evzo1B81FUuwcOawtWgboaVE3sxqFOWhE4q02oO02GO01gfw0noo02etw&__hblp=02uE0uSwjo0o5w3xE7jw3Wo0lvweK01b9we61zw8O02Yufw2H80mgwmU0Ca075o0e481KU5-0K40XU0yq0So0uLw10-0aCw2zE0sCw&__sjsp=l3d8gDEUcolaExp49GqOBKa4Vkp4UxyWieF5FwDB8390m9k88fFNfGQdhoCup4xOUpwqK0SEmx-dw6kw6DxW0P8G1TF0JwHCwdO5GDbF6w&__comet_req=94&lsd=AdT2s_xyqSc_8MLkPohasWHEW4I&jazoest=22403&__spin_r=1032778080&__spin_b=trunk&__spin_t=1770051840&__jssesw=1&fb_api_caller_class=RelayModern&fb_api_req_friendly_name=AdLibraryFilterContextProviderQuery&server_timestamps=true&variables=%7B%22adType%22%3A%22ALL%22%2C%22country%22%3A%22ALL%22%2C%22searchType%22%3A%22KEYWORD_UNORDERED%22%2C%22location%22%3Anull%2C%22queryString%22%3A%22nike%22%2C%22source%22%3Anull%2C%22sessionId%22%3A%2253c8f273-c955-42c5-b472-1b1d77bc3ee6%22%2C%22viewAllPageId%22%3Anull%7D&doc_id=29650582277919185"
+  }
+]

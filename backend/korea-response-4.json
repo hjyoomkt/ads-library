@@ -1,0 +1,19 @@
+{
+  "data": {
+    "ad_library_main": {
+      "typeahead_suggestions": {
+        "keyword_results": [],
+        "page_results": [],
+        "location_results": [],
+        "exact_phrase_results": "\"skdlzl\""
+      }
+    }
+  },
+  "extensions": {
+    "server_metadata": {
+      "request_start_time_ms": 1770098952689,
+      "time_at_flush_ms": 1770098952783
+    },
+    "is_final": true
+  }
+}

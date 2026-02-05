@@ -1,0 +1,34 @@
+{
+  "data": {
+    "ad_library_main": {
+      "dynamic_filter_options": {
+        "content_languages": [
+          {
+            "count": 10,
+            "key": "ko",
+            "display_name": "한국어"
+          }
+        ],
+        "disclaimers": [],
+        "pages": [
+          {
+            "count": 10,
+            "key": "200519099820015",
+            "display_name": "입시의기세"
+          }
+        ],
+        "reached_regions": [],
+        "countries": [],
+        "cities": [],
+        "targeted_regions": []
+      }
+    }
+  },
+  "extensions": {
+    "server_metadata": {
+      "request_start_time_ms": 1770099314371,
+      "time_at_flush_ms": 1770099314406
+    },
+    "is_final": true
+  }
+}

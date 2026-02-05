@@ -1,0 +1,1486 @@
+{
+  "data": {
+    "ad_library_main": {
+      "search_results_connection": {
+        "edges": [
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "1663139147986673",
+                  "collation_count": 1,
+                  "collation_id": "908887238279730",
+                  "page_id": "979076478622863",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "979076478622863",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.instagram.com/_u/sportainers",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "sportainers",
+                    "page_profile_picture_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-19/504293276_18020477564712499_8199608297001924550_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=107&ccb=7-5&_nc_sid=525117&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDI0LkMzIn0%3D&_nc_ohc=r2bUJAA_74kQ7kNvwFs18Yr&_nc_oc=Adm671JOUpGlLH5kcTrQlcLG9ZQUp3b4cxeUc-0vb921s4JYQo7j_u_OWr-lmna3sGk&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_AfuD17KkBZw_zAfM6obL3IG6wLnfvFEIV1i6dGVnHNF40A&oe=698778C4",
+                    "event": null,
+                    "caption": "instagram.com",
+                    "cta_text": "Instagram 프로필 방문",
+                    "cards": [],
+                    "body": {
+                      "text": "'나이키 광고 각?!' 김길리가 소중히 챙긴 물건은?\n\n#쇼트트랙 #김길리 ##스포테이너즈 #동계올림픽 #TEAMKOREA"
+                    },
+                    "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                    "display_format": "VIDEO",
+                    "link_description": null,
+                    "link_url": "http://instagram.com/sportainers",
+                    "images": [],
+                    "page_categories": [
+                      "Profile"
+                    ],
+                    "page_like_count": 0,
+                    "title": null,
+                    "videos": [
+                      {
+                        "video_hd_url": "https://video-icn2-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQPyfDBvXXiEvri4BtHruJweJRg39amhJiQVR-yUxkMMtu68CZ2OnLi8ZZ8LskrNWiXkknSWwBbUC2Lu9pvUnW5PcVymXlR2y_c1s1XwUQ.mp4?_nc_cat=111&_nc_sid=8bf8fe&_nc_ht=video-icn2-1.xx.fbcdn.net&_nc_ohc=AQnwAicv108Q7kNvwERMEdS&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxODA0NDc1MTAwNTcxMjQ5OSwiYXNzZXRfYWdlX2RheXMiOjMsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoyNywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&_nc_zt=28&oh=00_AfsTwhfmZ6QAQIplXAxYNRb5DdG0B5n4HU_8hcTRd8BjtQ&oe=6987810B",
+                        "video_preview_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622604067_1459067072301797_4685171275609951688_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8pMqKAhhZvQQ7kNvwGnnMxJ&_nc_oc=Adk9YZFkqn1tNDeDHY0rsMdkESksAZrvjjovLAariddSjhiZMIHlIAALZe-4Ryf4vAk&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_AfuQJlNPgy2C14RYKR9AS720stOskB55ca7MBzrv3SmeUg&oe=69876F20",
+                        "video_sd_url": "https://video-icn2-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQMKTCAT_LXvfmVPaOwzPf0pBKp9MptacN405wuZ2BPslhVrxmvQ4Hda51jElolfK15TRZpBMtrzWNN6Hw6KCQwFfbcBIsrRSzJdoptYZQ.mp4?_nc_cat=102&_nc_sid=8bf8fe&_nc_ht=video-icn2-1.xx.fbcdn.net&_nc_ohc=SKyGqg0SJU8Q7kNvwE8KEyf&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl8zNjBwIiwieHB2X2Fzc2V0X2lkIjoxODA0NDc1MTAwNTcxMjQ5OSwiYXNzZXRfYWdlX2RheXMiOjMsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoyNywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&_nc_zt=28&oh=00_AftqEnrkPoGa30dWAX83uo-p_LjKB3gKciWL2F6OKkue-A&oe=6987805C",
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null
+                      }
+                    ],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "sportainers",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM"
+                  ],
+                  "start_date": 1769760000,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "1614696855875120",
+                  "collation_count": 1,
+                  "collation_id": "2489074574759287",
+                  "page_id": "111411815279756",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "111411815279756",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/100092478787719/",
+                    "root_reshared_post": null,
+                    "byline": "",
+                    "disclaimer_label": null,
+                    "page_name": "Smart Mobile Apps",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/494199734_1677028539610100_6480571322764619578_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=OAZygo1V8NsQ7kNvwFWn-ec&_nc_oc=AdlCyMDv3rzFVmi69kI0OiW_F-8NUlbYEdURUwaGrjDlQd3sTAWDMEncx9QpPvO2kn8&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_AftmLRAjtwFcFkhzfgk4wgT9_i_PggwcCgDBUaSH_hdXlA&oe=698756D0",
+                    "event": null,
+                    "caption": "play.google.com",
+                    "cta_text": "지금 설치",
+                    "cards": [],
+                    "body": {
+                      "text": "Chat freely with your idol"
+                    },
+                    "cta_type": "INSTALL_MOBILE_APP",
+                    "display_format": "VIDEO",
+                    "link_description": null,
+                    "link_url": "http://play.google.com/store/apps/details?id=com.fakecall.idol.prank.video.call.chat",
+                    "images": [],
+                    "page_categories": [
+                      "Public figure"
+                    ],
+                    "page_like_count": 66,
+                    "title": "Idol Prank Video Call & Chat",
+                    "videos": [
+                      {
+                        "video_hd_url": "https://video-icn2-1.xx.fbcdn.net/v/t42.1790-2/491492185_1614696879208451_7570874007773092278_n.?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=di98DhIh0uwQ7kNvwEonuun&_nc_oc=AdlycY-1uLI7wNW8n4BiYNpgRe4-9YUmmBCWDuy3n3fnMXCMBzETv_LahYvA6UdrR_E&_nc_zt=28&_nc_ht=video-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_AfuMBt4fh3bacimWfSheUW8qxA0OfP2iL5VA_2nOgLH6Fg&oe=69877202",
+                        "video_preview_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/494151641_538729685956255_6106919450803458749_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Fa5SKoI8i54Q7kNvwH2kiw8&_nc_oc=Adnvn7nYXv1lWPU2pua19zMY21xqsRwMICexSlkX4o6g6W7r2vI9WDeyXiVKWstRJjQ&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_AfsCGLFPtgBZ1ERFUG4x_ZE9f6d1KSHX-6NRwCfBIgkyEQ&oe=698750E7",
+                        "video_sd_url": "https://video-icn2-1.xx.fbcdn.net/v/t42.1790-2/481690509_494598990390533_400299302835449114_n.mp4?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6ztNoVDjYxMQ7kNvwFHhmDa&_nc_oc=Adk9M5AjY0kHED1JsEu6KKxPPQNXRbhBwTzVMQ1mrMrIppZh_FhfBpLLq5xcZKKiOUA&_nc_zt=28&_nc_ht=video-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_AftvxfaMosDI74Ttafjpxtdf9_hWQmJghYWyFGYWdgm7dg&oe=69876CAB",
+                        "watermarked_video_hd_url": "",
+                        "watermarked_video_sd_url": ""
+                      }
+                    ],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": false,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "Smart Mobile Apps",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": true,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1749711600,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "MESSENGER"
+                  ],
+                  "start_date": 1745910000,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "1176041294324322",
+                  "collation_count": 1,
+                  "collation_id": "4171495023071039",
+                  "page_id": "201758973013693",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "201758973013693",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/61554747684437/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "반스타92",
+                    "page_profile_picture_url": "",
+                    "event": null,
+                    "caption": "vanstar92.com",
+                    "cta_text": "더 알아보기",
+                    "cards": [
+                      {
+                        "body": "",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "vanstar92.com",
+                        "link_description": "",
+                        "link_url": "https://vanstar92.com/category/%EB%B8%8C%EB%9E%9C%EB%93%9C-%EB%B2%8C%EB%A3%AC%ED%8A%B8%EB%9E%99%EC%A1%B0%EA%B1%B0%ED%8C%AC%EC%B8%A0/55/",
+                        "title": "",
+                        "cta_text": "Learn More",
+                        "video_hd_url": "https://video-icn2-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQN5EPGFd5RaA16K_xrcS98dt3vSnhobMNbg1iJQUUqKKvcB1BaFbG31fYwh2hYkChETOP2C-5DpzzWBoLFX5kaX12o6N46DT8-d4DrHcQ.mp4?_nc_cat=111&_nc_sid=8bf8fe&_nc_ht=video-icn2-1.xx.fbcdn.net&_nc_ohc=e-om2XAthdUQ7kNvwEhl1Fk&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxODUwNDkyMzY5ODA3OTg2OSwiYXNzZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwMTQ2LCJkdXJhdGlvbl9zIjoxMywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&_nc_zt=28&oh=00_AfshP_CVk-SukAD3SyWPeoz1Q2y7IjrLdsUu7snrzp0jXw&oe=69876377",
+                        "video_preview_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624727411_900778749090182_1859090000068523801_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CO1eFTXGGuQQ7kNvwE0nKaX&_nc_oc=Adm2S3ChXjGlxs-x7lAjtBMDbLdhWVJac5AHdDmllONReP0i693950NFlVGHBAaNqqk&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_AftC0KkNyjEtMbLwpEpnrWII06LpPQgJEqNxp6_zUU6FJw&oe=698761E9",
+                        "video_sd_url": "https://video-icn2-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQPEpdMcq1PD3fMzykplKk1-CjWvPTTbNabqSBXnEqpoy8vV3EPnf4OuspDudP5oA8QS8FTsQKRMuFoQBL4Hv8p4FTaFImAkXZEaJZpMKQ.mp4?_nc_cat=101&_nc_sid=8bf8fe&_nc_ht=video-icn2-1.xx.fbcdn.net&_nc_ohc=Zw1uy-IStngQ7kNvwE8pMlh&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzU2LnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl8zNjBwIiwieHB2X2Fzc2V0X2lkIjoxODUwNDkyMzY5ODA3OTg2OSwiYXNzZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwMTQ2LCJkdXJhdGlvbl9zIjoxMywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&_nc_zt=28&oh=00_Afv0__3tEOxKYoEjrGUQUohRQPNprIG-WMLD62QlIGF_5Q&oe=69877C59",
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": null,
+                        "resized_image_url": null,
+                        "watermarked_resized_image_url": null
+                      },
+                      {
+                        "body": "",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "vanstar92.com",
+                        "link_description": "",
+                        "link_url": "https://vanstar92.com/category/%EB%B8%8C%EB%9E%9C%EB%93%9C-%EB%B2%8C%EB%A3%AC%ED%8A%B8%EB%9E%99%EC%A1%B0%EA%B1%B0%ED%8C%AC%EC%B8%A0/55/",
+                        "title": "",
+                        "cta_text": "Learn More",
+                        "video_hd_url": "https://video-icn2-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQM00Cdg5T5oSNVgCh52grbInxBtRKxNCALSfexwzAFEkDTNQiYmcVH5UrAsKGEY3UuOfXgYxJrL-KGJJDFrP5bLu51z4rDF6-qvmwPgWw.mp4?_nc_cat=101&_nc_sid=8bf8fe&_nc_ht=video-icn2-1.xx.fbcdn.net&_nc_ohc=MenY6E4ADFEQ7kNvwGMHUOi&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxODUwNDkyMzcxMDA3OTg2OSwiYXNzZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwMTQ2LCJkdXJhdGlvbl9zIjoxMiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&_nc_zt=28&oh=00_AftOpxelSP5pGc-3LRP14RySEvc2vTHcBixh9MSjtQ3w0A&oe=69875AFD",
+                        "video_preview_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624501600_2439159243165152_5097381797872172892_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=G0bSycFIH5cQ7kNvwE5nVBV&_nc_oc=AdnyKx3zLFfYklWC_EpF1C2Dj0ALXFbMQOTai0e__ku_A3k0IcPZstLWbYfjiI-xads&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_AfvQl6lAL36MTugVRfoNor_jm6pPJPBpfDqHxtPil2thWw&oe=698782E6",
+                        "video_sd_url": "https://video-icn2-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQPWctT79fI1uj4FCszDxl-_nGxtL29oYOLWEQPO7A12qOifjo6IBYy9F0_iFgpizhwDcJD5vc13Mmwg4o_E6bSXJBjaVhyVvbQx1rFqMA.mp4?_nc_cat=102&_nc_sid=8bf8fe&_nc_ht=video-icn2-1.xx.fbcdn.net&_nc_ohc=GhRpXtAz-AsQ7kNvwEdAPY2&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzU2LnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl8zNjBwIiwieHB2X2Fzc2V0X2lkIjoxODUwNDkyMzcxMDA3OTg2OSwiYXNzZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwMTQ2LCJkdXJhdGlvbl9zIjoxMiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&_nc_zt=28&oh=00_Afu9i-UsYsUs3sMpywIbPr2-faWZdodoUhbsKie0FaiEBA&oe=69878560",
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": null,
+                        "resized_image_url": null,
+                        "watermarked_resized_image_url": null
+                      },
+                      {
+                        "body": "",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "vanstar92.com",
+                        "link_description": "",
+                        "link_url": "https://vanstar92.com/category/%EB%B8%8C%EB%9E%9C%EB%93%9C-%EB%B2%8C%EB%A3%AC%ED%8A%B8%EB%9E%99%EC%A1%B0%EA%B1%B0%ED%8C%AC%EC%B8%A0/55/",
+                        "title": "",
+                        "cta_text": "Learn More",
+                        "video_hd_url": "https://video-icn2-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQMZw1j7ez16dg6WUdm5T69WTDCQ4AZv0_y7PzWebJLrRl1RaGtyk6JlbIu1TMnSeCY3ZeH_APHbsydbwo09K1_ZdX2SF_YZ3rw6QN7aVw.mp4?_nc_cat=111&_nc_sid=8bf8fe&_nc_ht=video-icn2-1.xx.fbcdn.net&_nc_ohc=92d650yLUBsQ7kNvwHPwA6W&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzE2LnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxODUwNDkyMzY4OTA3OTg2OSwiYXNzZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwMTQ2LCJkdXJhdGlvbl9zIjoxNCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&_nc_zt=28&oh=00_AfteZTGWC7SZiU8hthkShySrL4fb2hqJ4AcNGoInxgOkyg&oe=69877F7F",
+                        "video_preview_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624430387_1297346012153472_1215764074749614966_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YkccpYMlCZAQ7kNvwGcqmyH&_nc_oc=AdlVJsbHsLr3DZPGjp0c3VPWzIuH06hIl1j4-WYwDPqPnHygbmYqILra4BCLijNKzp8&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_Afv0usySTlO4kJTX8WMINom77XZ2tw9sRD7yWGxrTKfv5A&oe=698751A2",
+                        "video_sd_url": "https://video-icn2-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQO9SkcOfdSzeJRRuaVom2wQcZUTe7hrK4JlvUQn6uqiSepCyIyG_U-VH50uGVJXBMXdS5qpP_2RN573uis4znyKHwy_Hzm3D2GrLECx7Q.mp4?_nc_cat=102&_nc_sid=8bf8fe&_nc_ht=video-icn2-1.xx.fbcdn.net&_nc_ohc=CdHTyWIqzGoQ7kNvwFyshs-&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl8zNjBwIiwieHB2X2Fzc2V0X2lkIjoxODUwNDkyMzY4OTA3OTg2OSwiYXNzZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwMTQ2LCJkdXJhdGlvbl9zIjoxNCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&_nc_zt=28&oh=00_AfvmmevgbKl-tF7_KsqYoQgTvcrNnLPlKFYJNkRQsSTx9w&oe=6987669C",
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": null,
+                        "resized_image_url": null,
+                        "watermarked_resized_image_url": null
+                      },
+                      {
+                        "body": "",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "vanstar92.com",
+                        "link_description": "",
+                        "link_url": "https://vanstar92.com/category/%EB%B8%8C%EB%9E%9C%EB%93%9C-%EB%B2%8C%EB%A3%AC%ED%8A%B8%EB%9E%99%EC%A1%B0%EA%B1%B0%ED%8C%AC%EC%B8%A0/55/",
+                        "title": "",
+                        "cta_text": "Learn More",
+                        "video_hd_url": "https://video-icn2-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQPzG1zzP04_w20bTAcP5YKorGush1xrvGVbIUijkYR3othIMl6Vt0Rdx13r51zA35lef9ipZ3Z8PdzjTQZ7dnlItkORBs9F30ydtcxvfQ.mp4?_nc_cat=111&_nc_sid=8bf8fe&_nc_ht=video-icn2-1.xx.fbcdn.net&_nc_ohc=WeO2TPHfaDwQ7kNvwGCjkwj&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxODUwNDkyMzY5MjA3OTg2OSwiYXNzZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwMTQ2LCJkdXJhdGlvbl9zIjoxMiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&_nc_zt=28&oh=00_AftRKA2Ix9as_ygHSp2OkblVW_tGuBVrQ5_38-S0pSGulw&oe=69877697",
+                        "video_preview_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625008950_2800516853623797_8367264243800048638_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PkyijrHb8HcQ7kNvwFkB2SY&_nc_oc=AdlgCOh0xl-RHXJ1r7nlbWJPd5WGnA8OTepB_wQ15pLddfB7npK2J530cYV_KqwucW0&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_AftEJOtrp7VR0NTSw78eM8s2cQaledxuqoPju_z7Datg1Q&oe=69875861",
+                        "video_sd_url": "https://video-icn2-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQPdZhz41wlzi3cTedqmudGAEkEh0KnLy5lgGZSSPCK03V5Ka9OWaP0B_ACHMY1-6hjp98SXuoK73jZPtKsMOn4LdKNRT-5Z2wN6Z_n4Tg.mp4?_nc_cat=104&_nc_sid=8bf8fe&_nc_ht=video-icn2-1.xx.fbcdn.net&_nc_ohc=66tSqyCnsFgQ7kNvwG_zZ3d&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzU2LnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl8zNjBwIiwieHB2X2Fzc2V0X2lkIjoxODUwNDkyMzY5MjA3OTg2OSwiYXNzZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwMTQ2LCJkdXJhdGlvbl9zIjoxMiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&_nc_zt=28&oh=00_Afsf77MKUFBX5ZTF_-N1WDU84t8Do5JOAbwsvvWGD-8WfQ&oe=69877D1A",
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": null,
+                        "resized_image_url": null,
+                        "watermarked_resized_image_url": null
+                      },
+                      {
+                        "body": "",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "vanstar92.com",
+                        "link_description": "",
+                        "link_url": "https://vanstar92.com/category/%EB%B8%8C%EB%9E%9C%EB%93%9C-%EB%B2%8C%EB%A3%AC%ED%8A%B8%EB%9E%99%EC%A1%B0%EA%B1%B0%ED%8C%AC%EC%B8%A0/55/",
+                        "title": "",
+                        "cta_text": "Learn More",
+                        "video_hd_url": "https://video-icn2-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQO9BaF3ivFrRDho65J_84wXWr3lzAYp3cepHU9-skODFh4R7RV3JWtIzu_PISajTxYSW-y7bw8JF-Clbaf9iX2yfz4-F4NYhsJTkMJAJA.mp4?_nc_cat=109&_nc_sid=8bf8fe&_nc_ht=video-icn2-1.xx.fbcdn.net&_nc_ohc=4iCWD-0XHoQQ7kNvwEqaz13&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxODUwNDkyMzcwNzA3OTg2OSwiYXNzZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwMTQ2LCJkdXJhdGlvbl9zIjoxMiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&_nc_zt=28&oh=00_AfvRprbMIXQKvHiaCpqD00-TsaRt4fRp9jlnl3Rba11cww&oe=69875169",
+                        "video_preview_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624843038_1434776394714408_2556373778945974991_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0Ekff4lxyeIQ7kNvwHUt7QI&_nc_oc=AdmyxZIcdiuZKr5orW59G0FLx8tjjFtMEOtimmcL9YpXLRil5B3dA8S6WmJzZ4ISljc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_Afv0jLIdQxBuwR6xn9yxgYUyp07NiResWjaLTIndimmAeg&oe=698783C0",
+                        "video_sd_url": "https://video-icn2-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQOEgY8bq3YZ3IOKePOjT05P8QcCqDljZOCDOuua0TlrW-rLlkDXjHEZH8FRskILitzkjgDSsEO614kdW4RYd6FaH8YyAJx3OcqYuaRtRA.mp4?_nc_cat=107&_nc_sid=8bf8fe&_nc_ht=video-icn2-1.xx.fbcdn.net&_nc_ohc=m6QsdZC3BrIQ7kNvwHvCySi&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzU2LnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl8zNjBwIiwieHB2X2Fzc2V0X2lkIjoxODUwNDkyMzcwNzA3OTg2OSwiYXNzZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwMTQ2LCJkdXJhdGlvbl9zIjoxMiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&_nc_zt=28&oh=00_AftQh0Gm8a26a27PxhryosrCGCJJidxDzK5nPANuOEjF9g&oe=6987839F",
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": null,
+                        "resized_image_url": null,
+                        "watermarked_resized_image_url": null
+                      },
+                      {
+                        "body": "",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "vanstar92.com",
+                        "link_description": "",
+                        "link_url": "https://vanstar92.com/category/%EB%B8%8C%EB%9E%9C%EB%93%9C-%EB%B2%8C%EB%A3%AC%ED%8A%B8%EB%9E%99%EC%A1%B0%EA%B1%B0%ED%8C%AC%EC%B8%A0/55/",
+                        "title": "",
+                        "cta_text": "Learn More",
+                        "video_hd_url": "https://video-icn2-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQPM-ntEZ4nSnsh7H45IaGQ5cqnFfhPisODyAeWIgtWBvkI81sUeiRMjjunHYAeYJ9R84nyaUKO9RKWy5x7ayfzFbzHU2vL3SQvk2iXo-A.mp4?_nc_cat=103&_nc_sid=8bf8fe&_nc_ht=video-icn2-1.xx.fbcdn.net&_nc_ohc=gzjFVkdhc4wQ7kNvwHco-gk&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxODUwNDkyMzc4MjA3OTg2OSwiYXNzZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwMTQ2LCJkdXJhdGlvbl9zIjoxMSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&_nc_zt=28&oh=00_AftMDvyw6GRobsGHvZb-XwtajCwObsVR6KpQdtCIxVbdOg&oe=69877BEB",
+                        "video_preview_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624468529_1925847188332167_4195970665559501313_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=x9Hr0INlnYUQ7kNvwHpAVXC&_nc_oc=AdlF9I9isvv7qHg3hagPKLtKjnFyBIN8YO3Fu4hmrw8nMK2nMgOzQGlh-CzInKta0LU&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_AfvCHZ5kqdHiBRC0jUghhBzItTOYz3iQbzeKXuQNR0rsjA&oe=69876D6D",
+                        "video_sd_url": "https://video-icn2-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQMuFbm63GunNTddbxHq1XmrOpHvSm2rcryGo3ldIpoibeRcTBQMRvauxDeJDm1fdc9Ot28ty1epB4uDOeP2GHXwKpyuBRq9Y-eWIEihOg.mp4?_nc_cat=110&_nc_sid=8bf8fe&_nc_ht=video-icn2-1.xx.fbcdn.net&_nc_ohc=8h1vdzR0Mg4Q7kNvwGsUfQ4&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzU2LnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl8zNjBwIiwieHB2X2Fzc2V0X2lkIjoxODUwNDkyMzc4MjA3OTg2OSwiYXNzZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwMTQ2LCJkdXJhdGlvbl9zIjoxMSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&_nc_zt=28&oh=00_AfvYBsDU69hNzXLEIxDr2Ps4z-hGhkTMdtYfa1xNTNNgBg&oe=698754F0",
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": null,
+                        "resized_image_url": null,
+                        "watermarked_resized_image_url": null
+                      },
+                      {
+                        "body": "",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "vanstar92.com",
+                        "link_description": "",
+                        "link_url": "https://vanstar92.com/category/%EB%B8%8C%EB%9E%9C%EB%93%9C-%EB%B2%8C%EB%A3%AC%ED%8A%B8%EB%9E%99%EC%A1%B0%EA%B1%B0%ED%8C%AC%EC%B8%A0/55/",
+                        "title": "",
+                        "cta_text": "Learn More",
+                        "video_hd_url": "https://video-icn2-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQNtPTAsdW2ue45PFDnCdS1IyHWT-ClfX0KOVrryBhYv4iLYB8fEvjKll0FL0HnJ9j3Y8KcTFhCTfk2xa5ioYbRggIi8_HqhoTjqzxoRXQ.mp4?_nc_cat=106&_nc_sid=8bf8fe&_nc_ht=video-icn2-1.xx.fbcdn.net&_nc_ohc=wjyLNBS_RxUQ7kNvwHmqCyD&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzE2LnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxODUwNDkyMzc5NzA3OTg2OSwiYXNzZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwMTQ2LCJkdXJhdGlvbl9zIjoxMSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&_nc_zt=28&oh=00_AfuS27QUDsqywMCE2ov2VZtE9RqC2x4uzFNPA8kZF1fhRA&oe=69877C48",
+                        "video_preview_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624816274_1528112881600846_3192180488380310654_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jyUI4SLrLggQ7kNvwH5tu1Y&_nc_oc=Adl5FR5C-Uz6ZKX369kx5-w2hosU2eXWe9b1P32mst0errL3afOnz_1R-Ip7fp9cUwI&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_Afu_Q1QuIe2XWz7BdVWFoH_yWuDiED3LptNzsE2We4iUDw&oe=698766D6",
+                        "video_sd_url": "https://video-icn2-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQNaZavAhn3ryZlXOYecxHKf1zu_7nHnPYssaBcTD1Gj1FAuftBig0B2l5lkTRXjxwtF1amkWt2X864XJ4jrug9n4U4mRxt2TzM0OLKw4g.mp4?_nc_cat=110&_nc_sid=8bf8fe&_nc_ht=video-icn2-1.xx.fbcdn.net&_nc_ohc=bqQhr7uIqr8Q7kNvwE4ihy8&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl8zNjBwIiwieHB2X2Fzc2V0X2lkIjoxODUwNDkyMzc5NzA3OTg2OSwiYXNzZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwMTQ2LCJkdXJhdGlvbl9zIjoxMSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&_nc_zt=28&oh=00_Afvp7-EgC9RNH2snqsKAeBp-T7-sQZW5L8bmDulRnrweAw&oe=69877224",
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": null,
+                        "resized_image_url": null,
+                        "watermarked_resized_image_url": null
+                      },
+                      {
+                        "body": "",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "vanstar92.com",
+                        "link_description": "",
+                        "link_url": "https://vanstar92.com/category/%EB%B8%8C%EB%9E%9C%EB%93%9C-%EB%B2%8C%EB%A3%AC%ED%8A%B8%EB%9E%99%EC%A1%B0%EA%B1%B0%ED%8C%AC%EC%B8%A0/55/",
+                        "title": "",
+                        "cta_text": "Learn More",
+                        "video_hd_url": "https://video-icn2-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQPGOVd_2BDhRJ7U7Ih1LZi__qjb_faBOy1laTUqcuafc_B8RsU-w8PPfbBcnNrGf2ZuZX1AL1buIjnn5-nziSdYYE5njcM4H82S8rMT0Q.mp4?_nc_cat=111&_nc_sid=8bf8fe&_nc_ht=video-icn2-1.xx.fbcdn.net&_nc_ohc=iH4PmUZhKpcQ7kNvwHGgnKn&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzE2LnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxODUwNDkyMzc5NDA3OTg2OSwiYXNzZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwMTQ2LCJkdXJhdGlvbl9zIjo4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&_nc_zt=28&oh=00_AfsybTz9LfYyPsSwfC06LzQHClN8Ff1O9qRHb12JrhKQmw&oe=6987757B",
+                        "video_preview_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624240739_24864656213210877_4136041544270465668_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ScajXLnoJI8Q7kNvwF_H2Jw&_nc_oc=AdnfC8j0ptaVVZRNx8PlxSQGV1NYFNw241z2IG4Ti83zLBc_eC1f9ZcELj__ADY5Ttc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_Afukfh-nZNal3AHZruPobVbxr8Zd7tjYwan_BTWNrjTjHQ&oe=69877617",
+                        "video_sd_url": "https://video-icn2-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQNp5IXm8Bmfpgshgh2kISq-HwcF1VMGl5EERMZQu0K_eVQtDw09FNu-Q5Gb4rrVxYkvPey8F8SGaTqmeVKfW13ZWjKMIa1D0lTCRl3bow.mp4?_nc_cat=108&_nc_sid=8bf8fe&_nc_ht=video-icn2-1.xx.fbcdn.net&_nc_ohc=wm8kyCX_xZMQ7kNvwGcc9TU&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl8zNjBwIiwieHB2X2Fzc2V0X2lkIjoxODUwNDkyMzc5NDA3OTg2OSwiYXNzZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwMTQ2LCJkdXJhdGlvbl9zIjo4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&_nc_zt=28&oh=00_AfuWA7UND5r1YtqRpSyw8AQKRlnRabO4FTGwGpJAovbK5g&oe=698783B6",
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": null,
+                        "resized_image_url": null,
+                        "watermarked_resized_image_url": null
+                      },
+                      {
+                        "body": "",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "vanstar92.com",
+                        "link_description": "",
+                        "link_url": "https://vanstar92.com/category/%EB%B8%8C%EB%9E%9C%EB%93%9C-%EB%B2%8C%EB%A3%AC%ED%8A%B8%EB%9E%99%EC%A1%B0%EA%B1%B0%ED%8C%AC%EC%B8%A0/55/",
+                        "title": "",
+                        "cta_text": "Learn More",
+                        "video_hd_url": "https://video-icn2-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQM584g1zcBx1XGjj4UT9sE9o7HvsEgrYIwWFWaDc0g5-YuEFX6J1ARnl5xphTanwVOylNdZwrRKXP6SHYTq89bfegy5ikP7TpMCFqkqQg.mp4?_nc_cat=102&_nc_sid=8bf8fe&_nc_ht=video-icn2-1.xx.fbcdn.net&_nc_ohc=hr-s1hyV9v0Q7kNvwF-1Zl1&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxODUwNDkyMzgyMTA3OTg2OSwiYXNzZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwMTQ2LCJkdXJhdGlvbl9zIjo5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&_nc_zt=28&oh=00_AftiHWgdLU5klNUWhi6o_CM6te2Rg1emZyofBRRa2zGphw&oe=69878378",
+                        "video_preview_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625858200_2056546375136202_7044492723212163248_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Cl_rs1HiFNAQ7kNvwG8jJ9f&_nc_oc=AdmcBArszQt9sT16Js7ijdmyW29-sPrZIsHvY-YPf9MEqeHyJZyKrXFt6AJzMvN8W0U&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_AfvmZbtH86Do1VwtkFAQTISxRCwZgKOGDywy37hqFZWS8Q&oe=69878552",
+                        "video_sd_url": "https://video-icn2-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQPIy8PGWkTyxQK0TapWU70w_4yULK5LzaQL-aKFuJm1n2EkvzqL22gZliVj-GeQQHkndrq250EhJP52D-8CUKvuwrY7Tc3lO70Gqvj8IQ.mp4?_nc_cat=104&_nc_sid=8bf8fe&_nc_ht=video-icn2-1.xx.fbcdn.net&_nc_ohc=GCSyMGVdsoYQ7kNvwEoz95K&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzU2LnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl8zNjBwIiwieHB2X2Fzc2V0X2lkIjoxODUwNDkyMzgyMTA3OTg2OSwiYXNzZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwMTQ2LCJkdXJhdGlvbl9zIjo5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&_nc_zt=28&oh=00_AfuNcZH7RSXPExZbthXHizxaEvuAD88KygaXyP_f4_skyw&oe=69877192",
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": null,
+                        "resized_image_url": null,
+                        "watermarked_resized_image_url": null
+                      },
+                      {
+                        "body": "",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "vanstar92.com",
+                        "link_description": "",
+                        "link_url": "https://vanstar92.com/category/%EB%B8%8C%EB%9E%9C%EB%93%9C-%EB%B2%8C%EB%A3%AC%ED%8A%B8%EB%9E%99%EC%A1%B0%EA%B1%B0%ED%8C%AC%EC%B8%A0/55/",
+                        "title": "",
+                        "cta_text": "Learn More",
+                        "video_hd_url": "https://video-icn2-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQMLweclF-j_vX7ObPozfnlTDdSI7KNtg3d8YkpamjnSjJ_OLVjR5teCUyeqR3-8-2ZD2eN0bsM7e-7SodUgx2uBjmjaPt2Panc-7taE8Q.mp4?_nc_cat=102&_nc_sid=8bf8fe&_nc_ht=video-icn2-1.xx.fbcdn.net&_nc_ohc=xPhK7dEEF2QQ7kNvwGd8UCV&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxODUwNDkyMzgxMjA3OTg2OSwiYXNzZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwMTQ2LCJkdXJhdGlvbl9zIjo4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&_nc_zt=28&oh=00_AfsptoS0LWUQrHzuulueRhsXFbrf5xmjXj41xHF321Sb4Q&oe=69875518",
+                        "video_preview_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625993460_1227738032096735_1856922487046927348_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Iw3HO7pxF0MQ7kNvwEy5pmL&_nc_oc=Adky2THmOYvAv8znpOU0PIQscE6LDtzeJMQO7sw4SJsN3vPlUvUwYtXK6DlkDFQst0Q&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_AfuvSomkscIFh7jvs4VQZjp60I8zJ6kCEGX98H7GR-YiFA&oe=6987682A",
+                        "video_sd_url": "https://video-icn2-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQNsPtr1ES1_OIgUrSI248MdqzTOewGs69HcQOIi6CcFpCP_Fw7ac9Ty25BumVYEUgZjTOPgfpTSXIxnaVeVMdNucCUMnKMTtZ8JcXGvCg.mp4?_nc_cat=105&_nc_sid=8bf8fe&_nc_ht=video-icn2-1.xx.fbcdn.net&_nc_ohc=6gY9_2b5QYYQ7kNvwGEmJdi&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl8zNjBwIiwieHB2X2Fzc2V0X2lkIjoxODUwNDkyMzgxMjA3OTg2OSwiYXNzZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwMTQ2LCJkdXJhdGlvbl9zIjo4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&_nc_zt=28&oh=00_AftxeiNk9N_uew80ykXh4nr_tyY6wY5z-5QNKbd1x6s90A&oe=69877CE1",
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": null,
+                        "resized_image_url": null,
+                        "watermarked_resized_image_url": null
+                      }
+                    ],
+                    "body": {
+                      "text": "-\n💕 나이키,아디다스 팬츠 업로드완료\n💕 구매는 사이트 통해\n💕 신상 5% 할인"
+                    },
+                    "cta_type": "LEARN_MORE",
+                    "display_format": "CAROUSEL",
+                    "link_description": null,
+                    "link_url": "https://vanstar92.com/category/%EB%B8%8C%EB%9E%9C%EB%93%9C-%EB%B2%8C%EB%A3%AC%ED%8A%B8%EB%9E%99%EC%A1%B0%EA%B1%B0%ED%8C%AC%EC%B8%A0/55/",
+                    "images": [],
+                    "page_categories": [
+                      "Vintage"
+                    ],
+                    "page_like_count": 4,
+                    "title": "반스타92",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "반스타92",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM"
+                  ],
+                  "start_date": 1770019200,
+                  "contains_sensitive_content": false,
+                  "total_active_time": 72034,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "1256747713175830",
+                  "collation_count": null,
+                  "collation_id": null,
+                  "page_id": "103164259268905",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "103164259268905",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/nikeseoul/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "Nike Seoul",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624575547_893860246381377_9082315960947284910_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wqFPjUEV3ywQ7kNvwGk-QGq&_nc_oc=AdkEjEQ9pWMD0uf3Pjw5swltvxW_bfLYjRkvO01fejfjZcfnLo2Iz_XSvi3h5uy72pg&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_AfvhzhR4lXEQupDh8p_cbmGiOvoj_GiS17lRSfdkcr7UdQ&oe=69877D24",
+                    "event": null,
+                    "caption": "nike.com",
+                    "cta_text": "지금 구매하기",
+                    "cards": [
+                      {
+                        "body": "나이키 베스트셀러\n앱에서 무료 배송 & 반품까지, 나이키 인기 상품을 만나보세요.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com",
+                        "link_description": "Nike delivers innovative products, experiences and services to inspire athletes.",
+                        "link_url": "https://www.nike.com/kr/t/보메로-18-남성-로드-러닝화-B50lEW5o/HM6803-005?utm_source=Facebook&utm_medium=SOC&utm_campaign=365DIGITAL_Facebook_DA_DPA_all_all",
+                        "title": "나이키 보메로 18 남성 로드 러닝화",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623695572_1557253422065817_4845940540405184206_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5-jx0ZfcKBMQ7kNvwGbI5sO&_nc_oc=AdkGe-z4Hugi4XLgqsI4Y5706cQoSDkl6-Oz-gcyjJQ8iQ5Vy7h4-0VRvU2Ttfvt9xg&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_AfsWUmdKC4m2rO6I0UqAcfGnO_-evq7cchCZYlH7DepIJw&oe=69874FDA",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623695572_1557253422065817_4845940540405184206_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5-jx0ZfcKBMQ7kNvwGbI5sO&_nc_oc=AdkGe-z4Hugi4XLgqsI4Y5706cQoSDkl6-Oz-gcyjJQ8iQ5Vy7h4-0VRvU2Ttfvt9xg&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_AfvxDPBlaewL_x0iuSsn6lAaVzIQ_8050TbS01rwfjwngw&oe=69874FDA",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "나이키 베스트셀러\n앱에서 무료 배송 & 반품까지, 나이키 인기 상품을 만나보세요.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com",
+                        "link_description": "Nike delivers innovative products, experiences and services to inspire athletes.",
+                        "link_url": "https://www.nike.com/kr/t/스포츠웨어-에브리데이-에센셜-크루-삭스3켤레-QNCLvdng/DX5025-904?utm_source=Facebook&utm_medium=SOC&utm_campaign=365DIGITAL_Facebook_DA_DPA_all_all",
+                        "title": "나이키 스포츠웨어 에브리데이 에센셜 크루 삭스(3켤레)",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624427148_756334683738108_14107725102534518_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BxSrbUdFUDkQ7kNvwGU8CdT&_nc_oc=AdnVqQmc14eIBnsyj7RWKQyKZtQ3eC4kTCSHYSEMZ9vLoRhOQR_Z40bRsx3EKtbIVms&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_AftCKSKEddv-1_DbDbzHalzaDyAqbz2Z9ZD_kEqPsDqkRA&oe=69877ED4",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624427148_756334683738108_14107725102534518_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BxSrbUdFUDkQ7kNvwGU8CdT&_nc_oc=AdnVqQmc14eIBnsyj7RWKQyKZtQ3eC4kTCSHYSEMZ9vLoRhOQR_Z40bRsx3EKtbIVms&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_Aft0mDqhBwo64EqeL61YiTLsaLsqXBKyg9m9VGbIvN6mbQ&oe=69877ED4",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "나이키 베스트셀러\n앱에서 무료 배송 & 반품까지, 나이키 인기 상품을 만나보세요.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com",
+                        "link_description": "Nike delivers innovative products, experiences and services to inspire athletes.",
+                        "link_url": "https://www.nike.com/kr/t/줌-보메로-5-남성-신발-HSNnxxRU/BV1358-003?utm_source=Facebook&utm_medium=SOC&utm_campaign=365DIGITAL_Facebook_DA_DPA_all_all",
+                        "title": "나이키 줌 보메로 5 남성 신발",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624573632_898443256006340_3054888847934606079_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=EZJCv6sMcBkQ7kNvwEwqcG_&_nc_oc=AdnUcwqJlwbRKLnL-wuVRH0chIoBXdeCvEixLlLNPT_op3L3aqjdx9-lAyCnhaSeSzk&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_AfsHxxMHM1LkeJ0rLAqbZzCAK2WAc3_0Xc4kFCC73KY1Kw&oe=69877892",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624573632_898443256006340_3054888847934606079_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=EZJCv6sMcBkQ7kNvwEwqcG_&_nc_oc=AdnUcwqJlwbRKLnL-wuVRH0chIoBXdeCvEixLlLNPT_op3L3aqjdx9-lAyCnhaSeSzk&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_Afv6VKXTp6GyB4TW1Z05oCMssrG6tlXAoZFIUQiZjawBow&oe=69877892",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "나이키 베스트셀러\n앱에서 무료 배송 & 반품까지, 나이키 인기 상품을 만나보세요.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com",
+                        "link_description": "Nike delivers innovative products, experiences and services to inspire athletes.",
+                        "link_url": "https://www.nike.com/kr/t/드라이-핏-adv-플라이-언스트럭처-에어로빌-에어로어댑트-캡-j4HapP4s/FJ0736-010?utm_source=Facebook&utm_medium=SOC&utm_campaign=365DIGITAL_Facebook_DA_DPA_all_all",
+                        "title": "나이키 드라이 핏 ADV 플라이 언스트럭처 에어로빌 에어로어댑트 캡",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623393781_25721977897438251_1052389772874947705_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tBmxXwLSnbcQ7kNvwGB9aCO&_nc_oc=AdlWazAn1AFd-GuKNFZQM8zUQKTe6RF6u1k87BBLWD-GSr3t-svZ3MPA1KPdK7QIuu0&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_Afs_L3d72KyXSWmwwGN1cSvGHDX_leLlIRk_7DmPKHgLow&oe=69878105",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623393781_25721977897438251_1052389772874947705_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tBmxXwLSnbcQ7kNvwGB9aCO&_nc_oc=AdlWazAn1AFd-GuKNFZQM8zUQKTe6RF6u1k87BBLWD-GSr3t-svZ3MPA1KPdK7QIuu0&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_AfspKtlUubPXlqevk808WPE3467ZEiYWjxyf7vb3YWQCAQ&oe=69878105",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "나이키 베스트셀러\n앱에서 무료 배송 & 반품까지, 나이키 인기 상품을 만나보세요.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com",
+                        "link_description": "Nike delivers innovative products, experiences and services to inspire athletes.",
+                        "link_url": "https://www.nike.com/kr/t/샥스-r4-남성-신발-aM3P5hsq/HQ1988-101?utm_source=Facebook&utm_medium=SOC&utm_campaign=365DIGITAL_Facebook_DA_DPA_all_all",
+                        "title": "나이키 샥스 R4 남성 신발",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624544209_1627671595055704_6575931184780284361_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HXFRwD4OZ-UQ7kNvwEZKDYj&_nc_oc=AdmfQOs4_T_wO6OtNcLuJZ9ZoeQ26X6RLdGOtU0c1STOkgh3SJX1GfNVKwymzYnAqZM&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_Afsk6VwlXSsCUMxTJrLOU5beYaP5zBZVtTkVooi57P55Cw&oe=69877E01",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624544209_1627671595055704_6575931184780284361_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HXFRwD4OZ-UQ7kNvwEZKDYj&_nc_oc=AdmfQOs4_T_wO6OtNcLuJZ9ZoeQ26X6RLdGOtU0c1STOkgh3SJX1GfNVKwymzYnAqZM&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_AfuYt1S3niTbbSwnKg4nXYbxKpFz8wU2JW7mZBkN1wraLg&oe=69877E01",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "나이키 베스트셀러\n앱에서 무료 배송 & 반품까지, 나이키 인기 상품을 만나보세요.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com",
+                        "link_description": "Nike delivers innovative products, experiences and services to inspire athletes.",
+                        "link_url": "https://www.nike.com/kr/t/페가수스-플러스-남성-로드-러닝화-DXTuhZ4J/FQ7262-002?utm_source=Facebook&utm_medium=SOC&utm_campaign=365DIGITAL_Facebook_DA_DPA_all_all",
+                        "title": "나이키 페가수스 플러스 남성 로드 러닝화",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623776907_25733316162957610_4495586758365443275_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=__B-JImEuUAQ7kNvwFFVZ9w&_nc_oc=Admb5grHLeT0L8JvlqP-ZZ8nhp-DoDmsvdPfzGnH_jeY0yxHoSsTSH0T3wybToM-Er0&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_AfvKd9goV39j-t_J9Gz8wlpdyu-k8PgYKwOru0GoE9snaA&oe=69875C13",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623776907_25733316162957610_4495586758365443275_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=__B-JImEuUAQ7kNvwFFVZ9w&_nc_oc=Admb5grHLeT0L8JvlqP-ZZ8nhp-DoDmsvdPfzGnH_jeY0yxHoSsTSH0T3wybToM-Er0&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_AfskN0UJuDPPHs030IoWxVPbxe20z2rQPvhp_8AGrueXaQ&oe=69875C13",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "나이키 베스트셀러\n앱에서 무료 배송 & 반품까지, 나이키 인기 상품을 만나보세요."
+                    },
+                    "cta_type": "SHOP_NOW",
+                    "display_format": "DPA",
+                    "link_description": null,
+                    "link_url": "http://www.nike.com/",
+                    "images": [],
+                    "page_categories": [
+                      "Brand"
+                    ],
+                    "page_like_count": 26593,
+                    "title": "{{product.name}}",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "Nike Seoul",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "MESSENGER"
+                  ],
+                  "start_date": 1769760000,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "1560581718515424",
+                  "collation_count": 1,
+                  "collation_id": "1591479315072637",
+                  "page_id": "177741318763328",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "177741318763328",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/61554808873338/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "Fvaad",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/580879887_1189628233152040_7865575631252851574_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ngyoLTa1AoQQ7kNvwHXZ9HJ&_nc_oc=AdnbhMDYeT3zltDPWVW2g0XiuF1fZTYmAIo5tp2cjgZ3DNp4bUsG-6P0okZswyBL98w&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_AfssrZMUZDYb_J9X-cA3IHWQ9Jpbqe56oevkr6qeaDYzYQ&oe=69875BFA",
+                    "event": null,
+                    "caption": "instagram.com",
+                    "cta_text": "Instagram 프로필 방문",
+                    "cards": [
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "https://www.instagram.com/_u/fvaacademy",
+                        "title": "FVA · Film Visual Art Academy l 피바 영상 아카데미 (@fvaacademy) • Instagram photos and videos",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/581785190_25091420573859179_2823010519463612017_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UvDcDBrVlXcQ7kNvwHUSDmr&_nc_oc=AdleMSdREHQOE0i46AnWNLn48MBrPC7yJb_PNTV0wxNg2SfwdhSIH-1j3hjpthKe8gE&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_AfsQrBvY3GMrHJ-ZONNV8xceZJVC8aJfaeSuL3ZkAXXGwA&oe=69877080",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/580993299_1351224119809130_3330818171491288545_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lxP1OR5XIYEQ7kNvwGJgI6g&_nc_oc=AdkM0o1odlPKLTdtIT1gxGGLbtvGh9yZlBJ3mjT4_GCL5cs-MZBxsrrHIHF6QiL3wig&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_AfvGzy98KqY2vVLoT34EvFmz0wBR29d2aU8FreQisYKh9w&oe=6987800F",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "https://www.instagram.com/_u/fvaacademy",
+                        "title": "FVA · Film Visual Art Academy l 피바 영상 아카데미 (@fvaacademy) • Instagram photos and videos",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/580993378_25103907552601156_5375317495440106544_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jcpQVgSUju4Q7kNvwH6Drfl&_nc_oc=AdmHXi8D7gWCrWHYMlUHp_F8friDOeAjPV0XuwdGcKsviNbny_I8KJ69w9hXIC6wfy0&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_Afts5tNWUUW4xDQjU2ZqEKUMKU8LFTmX-xRbIUXq7CkfHA&oe=69875A34",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/580962006_808801475385238_5030785334822725816_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JamGCeeA-WUQ7kNvwH4m1T-&_nc_oc=AdnVOnpr_-4UoMmdM26SbvfYWzXTuMhIL7RvFD_K9fsZXgqaRepwW0l2wSBjAWC1qjg&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_AfuQW2cA1X5fUpFiv11NdpmGKe5G_jVhAnA39HRC7ne5DA&oe=698754AB",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "https://www.instagram.com/_u/fvaacademy",
+                        "title": "FVA · Film Visual Art Academy l 피바 영상 아카데미 (@fvaacademy) • Instagram photos and videos",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/580980779_811744645070264_813137597604134551_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5TE2VB8LNmoQ7kNvwEXIr9y&_nc_oc=Adl111gYwg2b0MP0ygPEJL7mVj-y0HqRnPxonaPPsCRvzC9vEDf9XIX5Ka1aBh2WbS8&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_AftzCZu6cWRiWNHieN20CFePaLGFmarIh8_MgNbfxxnkew&oe=69877C5B",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/580980546_1186004419698692_4907310539509544655_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZZff6AseqHcQ7kNvwHn4nA0&_nc_oc=AdnRyiQwPAsNBgsw7qGBpOkcydbfa4WyOpiUvLMecYcDBthOG_eO724acduQqjEXiZc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_Afueaf7i-SbtMDxAaX0VwgwC2CFh2WvMyJPsEeOjZ1nVkQ&oe=698773F6",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "https://www.instagram.com/_u/fvaacademy",
+                        "title": "FVA · Film Visual Art Academy l 피바 영상 아카데미 (@fvaacademy) • Instagram photos and videos",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/581926456_1246438127502022_1647861627822629085_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=V6T_j7iHMTAQ7kNvwHv0p0Z&_nc_oc=AdlvbjYTuhdiTk-xTDzt-fKomHJN75D4rdKnhmctmFfnSrFXxKLJ9oXpS1RsCWEz9ds&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_AfvEJQHgh6k-WiSGNfxLG23Gb7G6LJnyMXnu49BFmKwq8A&oe=698771CF",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/581881625_1745224929508612_451892729992929683_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1CGmhg8U_fcQ7kNvwFelG5f&_nc_oc=AdkDfsXn3Aw680mDgJg4bGLNu_ac8VwS9IodsF7K2mQZKAtPCKS3FJIfnwyhVv2_VtU&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_Afv8CXOsyM1QuG2K6ofSlrlr3aurKi1Bie0P_ADRUz35ww&oe=698769F6",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "https://www.instagram.com/_u/fvaacademy",
+                        "title": "FVA · Film Visual Art Academy l 피바 영상 아카데미 (@fvaacademy) • Instagram photos and videos",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/580905215_1526350068692029_4089023611424565931_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7PHz0f3-hp4Q7kNvwEnba2D&_nc_oc=AdlT-0sC9zWU2IsgPzOnRYZ62FqFVTZUpgq6G8Vfn-uOrGVE0Au8NcVET3ItpWeu3Zk&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_Afvc2vgff2VAc3IUX4a9uRbEHNtQrVb8w6fMvzG8fKWe5g&oe=6987582B",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/580980085_874554858334620_1587760189187340065_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=z6-RogDio7UQ7kNvwEkekyo&_nc_oc=Adn0xk9dbCbtgZ2Q9CoL2AL12Ob3Jv5hMQedNYhwxZFH5GSQ6ngofYyR8sibw2qjyPI&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_AfvktMO0Xq5EER59ByJTGFTt33GKM1Egbh5SUvqPYSD_QA&oe=698770A0",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "https://www.instagram.com/_u/fvaacademy",
+                        "title": "FVA · Film Visual Art Academy l 피바 영상 아카데미 (@fvaacademy) • Instagram photos and videos",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/580983743_1125386096062049_4565434016134773600_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZYFm_vwagGwQ7kNvwEIVGNv&_nc_oc=Admi7bqHx46B8lPPjUr_NGvBgW7NqFkoxUdP3LUDOv8M2ENSuzmCaI9XTp1Qp0FpiFQ&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_AfsjjnFC4CL9iXbxfuJwghS3X6nmrGe893pQuJTgHGWIuQ&oe=69875B2A",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/580869353_1165143392261129_419550597454330894_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4Gh30ug_ntQQ7kNvwHiXdIR&_nc_oc=AdnSW4AwsxtdnkUiW0t1Cucm18348y-TtHYS0y1egmn3t0jG2unE4UYt0X9klnfGMoA&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_Afv41t3kVA5UaR-yvydFe8izxkEa0cwka69VvdrtcNxKQg&oe=69874FF5",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "https://www.instagram.com/_u/fvaacademy",
+                        "title": "FVA · Film Visual Art Academy l 피바 영상 아카데미 (@fvaacademy) • Instagram photos and videos",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/580903691_1344022960839436_7235466915884446837_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BCtgD6Yh87gQ7kNvwHGRvBH&_nc_oc=AdmulhII4rlj7LP9fHBcC8mqt0NAD6hYKXkJpxtzC07ehbe73JUsqToxsK5fHEXB3tI&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_AfscXaCBsbD5ZkBoJyniHqKsbdhSwf6pOGHarbV5HjX3kg&oe=69878095",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/581775631_1201700045342735_1534720641412235159_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BwSTdnCOD1cQ7kNvwHAHwwQ&_nc_oc=Adlbhg4Y-71Xfjt-qwc4568jarNJcDXBsixTLuWXQ1r6-xKXLSBCy9Z8UaWjei_XrOY&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_AfsTxWAHQ4FHrjnVgFVPnQJdhjMUB9YgXVS3AHe7Zs5tRQ&oe=6987505C",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "https://www.instagram.com/_u/fvaacademy",
+                        "title": "FVA · Film Visual Art Academy l 피바 영상 아카데미 (@fvaacademy) • Instagram photos and videos",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/581871110_1037472911828625_7078389117888533310_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3KG2Jrfy4isQ7kNvwGfUdbx&_nc_oc=AdlIMAiQMW8xftPwh6oPU6EwTEBAzxT3hXhSTr_2Hi_E-pE3T4t9maJqzL1vKwUHejQ&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_Afs9u71N9T5JZSZGwiN3NOsW_6_vR1TUke-fwW6xmS28Dw&oe=69875532",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/580973526_1547886719813612_3338921084956896865_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bgaXmw1ai_sQ7kNvwFoBGPd&_nc_oc=AdlMTrW0Vxe9qXRW2yiZqs7lJl4h33gNQx_99wnfSraQAZMRRue3WdV_x6-VznmBa0Q&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_AftvljdV4kLufyBKetFfEnI3M__SZkdKzmm5MiHtwoUW0Q&oe=69876103",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "https://www.instagram.com/_u/fvaacademy",
+                        "title": "FVA · Film Visual Art Academy l 피바 영상 아카데미 (@fvaacademy) • Instagram photos and videos",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/581924675_1350414333152868_8476108620044134468_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PWNYd1y9cekQ7kNvwGBz2Ax&_nc_oc=Adme2qvXJKcwhIrJkK-pGni8Mm7M-Kkp1aPiXsiPf8AHfOLaRyboXE2F-jovQaLzh6Y&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_AfvEA4H47LjUPZ-nQ8Cr14c15ArKiILBuLek_HnTwl4gpA&oe=698766B4",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/580906393_2872690272926909_995890544031131017_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ENNlBir42pAQ7kNvwGcNnoF&_nc_oc=AdntJxVICCQ9QcCFSFAerLMehgGkpQW1W1lQ1cOM6p7v16HoYO68ry0dKtCIjtbeZck&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_AfvUcPwgKJq3vnx7WdM4J0eatMLrsykh3cbgZSdDAFR9SA&oe=69876620",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "타일러, 더 크리에이터의 인생 영화 4편!\n세계를 사로잡은 올라운더 아티스트의 감각이 다 여기서 나왔군요🍀\n\n국내에는 잘 알려지지 않은 흥미로운 작품들,\n어떤 작품들이 여러분들을 기다리고 있을지 궁금하지 않으신가요?\n\n타일러의 인생 영화 4편을 지금 바로 만나보세요!\n\n🌵 다양한 문화에 대한 깊은 인사이트를 공유하며 배우는 집단, FVA와 함께해보세요.\n🔗 프로필 링크에서 더 자세한 내용을 확인하세요\n\n#영화감독 #영화 #뮤비 #movie #musicvideo #음악 #매거진 #영화매거진 #음악추천 #영화추천\n#타일러더크리에이터 #영상학원 #영상제작 #영상제작학원 #영상학원추천 #영상학원주말반 #영상연출 #홍대영상편집학원 #클래스101 #연출학원 #피바아카데미"
+                    },
+                    "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                    "display_format": "CAROUSEL",
+                    "link_description": null,
+                    "link_url": "https://www.instagram.com/_u/fvaacademy",
+                    "images": [],
+                    "page_categories": [
+                      "Education"
+                    ],
+                    "page_like_count": 0,
+                    "title": null,
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "Fvaad",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "INSTAGRAM"
+                  ],
+                  "start_date": 1769760000,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "898492505926330",
+                  "collation_count": 1,
+                  "collation_id": "889591460601928",
+                  "page_id": "741113015756401",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "741113015756401",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/61579958701305/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "대한민국 최초 슈즈 멀티샵 슈마커",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622844882_1073125881631885_25005752530470124_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xNypxdIa8jgQ7kNvwHHKybP&_nc_oc=AdnabQq5P-3jo6YK3A9Ruy1Hb6SpFmB01yzTLVjceusbuPe-Vte1pmbnIj34XinYYpo&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_AfsChwR79EsZpNz1BEkYGJsWp2k2ev0q4r-6ic1o3VgQQg&oe=69876FBB",
+                    "event": null,
+                    "caption": "shoemarker.co.kr",
+                    "cta_text": "더 알아보기",
+                    "cards": [],
+                    "body": {
+                      "text": "올블랙의 완성\n나이키 V5 RNR"
+                    },
+                    "cta_type": "LEARN_MORE",
+                    "display_format": "IMAGE",
+                    "link_description": "즐거움을 신다! 나이키, 아식스, 아디다스 등 인기 브랜드 슈즈 멀티샵",
+                    "link_url": "https://www.shoemarker.co.kr/ASP/Product/ProductDetail.asp?ProductCode=47126&utm_source=SNS&utm_medium=DA&utm_campaign=purchase&utm_content=NIKE_2601",
+                    "images": [
+                      {
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622837092_1512625533174946_1507802256240245023_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Bfn8kOatgdsQ7kNvwHLFMcr&_nc_oc=AdmIhLibKgC2cfWlgZPL8EeI6BIMXQ8Opt2S0_6J7ImTqhyLAelqaGLH7u3eyQ0n_3w&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_AftIvdVzh_zdxVmWW1UVyTLsBo5gyljUayDOPDk9qjU8pQ&oe=698766EE",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623368408_1468173435000361_664615326710151995_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_aid=0&_nc_ohc=O_xCWCj162cQ7kNvwFLz9xR&_nc_oc=AdmOz74FMyyNIV0OFy_xPutRA_hlf2ncFn_LC2y9UMAPkbnv5uVKuMt897H-tCu5NsY&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_AftKNAu_OVwSh-1-h9weVRIrsl4WuBT5SaPvqH6WqjcWXQ&oe=69877360",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "page_categories": [
+                      "Shoes"
+                    ],
+                    "page_like_count": 12,
+                    "title": "나이키 V5 RNR",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "대한민국 최초 슈즈 멀티샵 슈마커",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "MESSENGER",
+                    "THREADS"
+                  ],
+                  "start_date": 1769673600,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "2305986599880841",
+                  "collation_count": null,
+                  "collation_id": null,
+                  "page_id": "2147221902165896",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "2147221902165896",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/100068923691125/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "BrandBigMall",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622960221_1214462670811677_6171628709358890964_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HfIbjzSWxqwQ7kNvwG51Xf_&_nc_oc=AdnRtWnCmGrYjHzjmDWrol8XKd37gESoUWysaRe87h-vZxQYhoDJVRe5JtUT8-Lsgbo&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_AftAAhSThb5_covhW32yB34sM-49id6ltruJQU7D5KzlCg&oe=698756FA",
+                    "event": null,
+                    "caption": "fb.com",
+                    "cta_text": "더 알아보기",
+                    "cards": [],
+                    "body": {
+                      "text": "브랜드빅사이즈 쇼핑몰 파격 SALE!\n<Since 2009>17년차 빅사이즈계 베테랑!\n브랜드 빅사이즈 컬렉션으로 완벽한 핏을 경험하세요.\n나이키 아디다스 언더아머 몽클레어 라코스테등 \n브랜드 빅사이즈 전문몰, 매장가지 말고 '브랜드빅몰' 하세요"
+                    },
+                    "cta_type": "LEARN_MORE",
+                    "display_format": "IMAGE",
+                    "link_description": null,
+                    "link_url": "https://fb.com/canvas_doc/1585603526120947",
+                    "images": [
+                      {
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622560708_1396170832054086_8004739913189853337_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=A8sRejDMurcQ7kNvwHbOFWN&_nc_oc=AdlAXfSnd1sXbwDSlmYpCYmBl-yPF7PGoLFBaztNTDhB1-4bcHibgtoWwy0U94q2LEQ&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_AftVgN7qM-fNdLEICpQwxT39W-FyOMhA-gkkMRS24nF9Aw&oe=69875B8D",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/619285435_1442516064158667_6330097416838697934_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ctg0LgNo_c8Q7kNvwEmhrPX&_nc_oc=Adm3VehosBMZIcvUw_h2NwlpMiiQZk6Z8fnT_UOQqSDO0kEOZf9sqMTsaCe7dA76_Os&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_AfvlAcMmuYEDbZFau_II6qgvu4pmFiQvVYE31fWnw5z6mw&oe=69876317",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "page_categories": [
+                      "Shopping Mall"
+                    ],
+                    "page_like_count": 444,
+                    "title": "빅사이즈 브랜드 정품 쇼핑몰 브랜드빅몰",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [
+                      "http://www.brandbigmall.com/"
+                    ],
+                    "extra_texts": [],
+                    "extra_images": [
+                      {
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624593827_904706852138999_1347930717976981356_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UdyONVApU0sQ7kNvwFstdhk&_nc_oc=AdneZenf6jqj4Hk0130svXaQozqKmxkyVFeOS29pLDc3g_p-g9vq85R3_seBClAtR-M&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_AfvXZTPbc5pBPThr2BcNl8VxiZAFZH97qUWO_uC3L4M1gA&oe=698778CB",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624593827_904706852138999_1347930717976981356_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UdyONVApU0sQ7kNvwFstdhk&_nc_oc=AdneZenf6jqj4Hk0130svXaQozqKmxkyVFeOS29pLDc3g_p-g9vq85R3_seBClAtR-M&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_Afs11xgEj8wYnknosMBUHg4UL18ILUdqOVXezd9bJKj7kQ&oe=698778CB",
+                        "image_crops": []
+                      }
+                    ],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "BrandBigMall",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "MESSENGER"
+                  ],
+                  "start_date": 1769673600,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "1449419342734838",
+                  "collation_count": 1,
+                  "collation_id": "839897715705929",
+                  "page_id": "271992092674706",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "271992092674706",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/61560206221453/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "Peryvintage",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625239335_757632524059562_6721235305199691770_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YsYGqBDdAoEQ7kNvwHQaJj7&_nc_oc=AdnrTNFthRz-xfgPlXlITg3Z8ESaVMvrD6fmzQfa0eSPwB5ZAk8TNcvOMBFZzv_zN38&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_AfvX_64J1O72VrZF1Slk2xvD2aEUG4S96GJnQunIPA7D0g&oe=69877CC7",
+                    "event": null,
+                    "caption": "instagram.com",
+                    "cta_text": "Instagram 프로필 방문",
+                    "cards": [
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "http://instagram.com/pery_vintage",
+                        "title": " ",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/619561096_1578162896723653_6028561220426992502_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=k993eK71kYkQ7kNvwEUNpMV&_nc_oc=AdlByelRHMhHS8iAYGKbphiiPVQBuoS5ysaojj97E3JQeWsE0z56Zh-1TF1YqcGkehA&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_Afuua_KqPcHPx2C4iN-1Zd7Bd4W2IFFKZ5A6vmeRUGvKag&oe=69875D01",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/616040847_1893436444636493_5989921877258555408_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=08UBqxHRu9sQ7kNvwEfnzra&_nc_oc=AdmNEvbbjw5EIL13Cn61rx0vWtcK1Ww2u43V26AUzFWsh44vWQs0h_L9MFE10Ue8M0s&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_AfugHY8vpw9fLmFzYekYs5TiJYkJ5H5rLHQnJ3M6Hv7T4Q&oe=6987675F",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "http://instagram.com/pery_vintage",
+                        "title": " ",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624864999_1617412156350806_3296641541364744007_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BxFPuSHwguIQ7kNvwF3PQog&_nc_oc=AdmHM2o5AorQDQOkCD8zhrdbdJ-9r_tLCy7Uwk-yJ-OxWbeqsZjmsisM7i8mOLAX-sw&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_AfvjYVblqi8AMTzIcLFHIKvquGRrEWkmMuPNhasK-vO-Tg&oe=69876CA2",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624301920_1375912444335206_344998246361525875_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wWMccVco8wgQ7kNvwH55DQK&_nc_oc=Adndb_ptmonHE-NX9I3NJZmR1gpqns5jwScSgmP6LGxba34WJceKlfq5GuIsbmRcvFE&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_AfssJjQ69eU6jQYAZ8X-RuhKaSwxpqnLFygwknCgRd-OpA&oe=69875FA6",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "http://instagram.com/pery_vintage",
+                        "title": " ",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624872639_810513354781964_3712248773366782010_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VQVfBezpJSkQ7kNvwE-pm9O&_nc_oc=Adk9deVA8lAlgTc9cWVNHt74eSFudbQ-fgDBZtqR-AOM6biDxXbsXDIemghUUvFDtKw&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_AfvyuEy6wleVZjFHMa90t1u85mziqm_v4ihNScwoWycMqQ&oe=69876AEB",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625045269_669349199535226_3110641075509132099_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5g-hr5ahs60Q7kNvwGMOSkc&_nc_oc=AdkvExIFZC3tf-4pk3ngUbTgu8xk2EZvFORjveW3iEWtZydKuGEtErQi4So4GNGXruo&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_AfvjhHeUYoHSPP8jzWW4CmtN-N6fVsLkrPAlkQik4JTWgg&oe=69876B2D",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "http://instagram.com/pery_vintage",
+                        "title": " ",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624884868_2386540505154905_5503948884196804768_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=idO5LtolkC0Q7kNvwEm8tZ3&_nc_oc=AdlLAP6JZaouemDF42Az2qR-xDYTtWIdpPuDVR9iLAjWVoUOtVpF6irk1v0XUfJUKAM&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_Afuv71-4Q-cann5WUwsO4qJNQPGXUHSYB5tS6SSoi8o82w&oe=6987809C",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622716145_2118111699043582_8990853872149898503_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DTF4J1ZlWTMQ7kNvwGvCQlQ&_nc_oc=Adm7pIb7WlJHL-WTC4_nyJ2L7EbW3yEqA6VoDUerE96MpHHAa0S7C3RVRoPsQAx6a5U&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_AfvyKmhGH_O_0yUCpWbA9fxAvzOU50DDFseIKY2VZ71NFg&oe=69878421",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "http://instagram.com/pery_vintage",
+                        "title": " ",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622615491_1598723044673535_5620498806889630761_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=O7d6-p3h79QQ7kNvwGrf8ev&_nc_oc=AdmWvusz0vlC-fFOIMhlSnda6fK46EPdH_6BHe6oDuZYYf0pdIS1B8GC3eWiJRsExpc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_AfsfT3hsi4jrA4EgLW6wrB0n796tNgtNvV211Qc1ouAApA&oe=69877141",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623244062_2286989895131877_4333919374372858750_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rW6K5RIxmG0Q7kNvwHiTsWL&_nc_oc=AdloVobZDjRe_9LO1vHCfQs79M9ABB43bXr_2CjK_lc-84r5Ixp1bWDXZ6ZJlGV0kU4&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_AfsEUZqN7J9xE_bcj7NQTeLqz4hwiEyngOtHtH6SoshbUA&oe=6987752D",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "#페리빈티지주문가능\n♠️ PRICE - 80,000원\n♠️ 나이키 고프코어 바람막이 (블랙 color)\n♠️ 실측 SIZE - 총장 66 어깨 48 가슴 58 소매 62 (단면기준,cm)\n♠️ 하자나 이염없이 컨디션 좋아요👍\n\n❗하이라이트 NOTICE 꼭 읽어주세요❗\n모든 문의는 DM,카카오톡 채널로 보내주세요.\n실측 사이즈는 1~3cm 오차가 있을 수 있습니다.\n전 제품 살균 스팀/탈취/보풀제거 후 발송됩니다."
+                    },
+                    "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                    "display_format": "CAROUSEL",
+                    "link_description": null,
+                    "link_url": "http://instagram.com/pery_vintage",
+                    "images": [],
+                    "page_categories": [
+                      "Vintage"
+                    ],
+                    "page_like_count": 0,
+                    "title": null,
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "Peryvintage",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "INSTAGRAM"
+                  ],
+                  "start_date": 1769846400,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "1471645014340540",
+                  "collation_count": 1,
+                  "collation_id": "922448480722916",
+                  "page_id": "112650196940811",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "112650196940811",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/KREAM.co.kr/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "KREAM",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622842660_1350863350057747_8577913304962615729_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=C-fCamPAgQoQ7kNvwFjtcZp&_nc_oc=Adninx6mwvhb_CRutImz03NvpYZG3-WAmH_NwRIV3dSnyeCcl5OaI-UeDUfRqsm1RwI&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_AfsRg8Sd235MI_80KqVlGlkt6RHTm_LnUKLYjRAEeHbPWw&oe=69875B78",
+                    "event": null,
+                    "caption": "abr.ge",
+                    "cta_text": "지금 구매하기",
+                    "cards": [
+                      {
+                        "body": "",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "",
+                        "link_description": null,
+                        "link_url": "https://abr.ge/@kream/fbig?&campaign=Echo_Meta_BAU_Purchase_All_2508_NV90d+&ad_group=RT.NV90d+_ALL_ALL_ALL_2&ad_creative=catalog.mind001_ST_kreammag.feb1st_Shoes_nike_I_0129_0210&is_reengagement=1&deeplink_url=kreamapp://content/14115&pid=fbig&af_click_lookback=7d&is_retargeting=true&af_reengagement_window=7d&af_force_deeplink=true&advertising_id={adid}&idfa={idfa}&c=Echo_Meta_BAU_Purchase_All_2508_NV90d+&af_adset=RT.NV90d+_ALL_ALL_ALL_2&af_ad=catalog.mind001_ST_kreammag.feb1st_Shoes_nike_I_0129_0210",
+                        "title": "이번 주 트렌드 아이템 무료배송 쿠폰💫",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622823063_1543859240253940_73806155530776242_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VOMXcRD7uKYQ7kNvwF9vERD&_nc_oc=AdkhBP14Uv2p2GBJt9LwoWnRBbBC8-MLQG3yFNtPkiqfdOYzuBlXpPeKF8qKme6o45w&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_Afs96t7_VxV_KugPM97cHHGbc2tZci0w-_n77dytFdo7aQ&oe=69875269",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622968553_1878751029414957_5993494177932575544_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eYMqh5o2XfUQ7kNvwFDG4MO&_nc_oc=AdnXzNpzcQ83baOWZ6tdUDu9z4MZM1U69OZhHJ2DeChAjqdkoJH13L0anG3jtQLJkh8&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_AfsiV0fsDK9VUHz3OuYQG6O4GLCofLPiCMuwYRT2IvaTrQ&oe=69876E71",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "",
+                        "link_description": null,
+                        "link_url": "https://abr.ge/@kream/fbig?&campaign=Echo_Meta_BAU_Purchase_All_2508_NV90d+&ad_group=RT.NV90d+_ALL_ALL_ALL_2&ad_creative=catalog.mind001_ST_kreammag.feb1st_Shoes_nike_I_0129_0210&is_reengagement=1&deeplink_url=kreamapp://content/14115&pid=fbig&af_click_lookback=7d&is_retargeting=true&af_reengagement_window=7d&af_force_deeplink=true&advertising_id={adid}&idfa={idfa}&c=Echo_Meta_BAU_Purchase_All_2508_NV90d+&af_adset=RT.NV90d+_ALL_ALL_ALL_2&af_ad=catalog.mind001_ST_kreammag.feb1st_Shoes_nike_I_0129_0210",
+                        "title": "이번 주 트렌드 아이템 무료배송 쿠폰💫",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622862286_1226458286266580_5524501848724959267_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3719bdaxtnMQ7kNvwFnW9cX&_nc_oc=Adm_C9DCeBwHRRQF1VGrnU-7yVK9uSgee2GRLodVyVNLG2JQFcX_4puBzEGeXrYukFQ&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_AfuEBhtfIjZ6P1ozQwjoH1osmlJMRozRveisTnv3sjH9pw&oe=6987529F",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622848486_1537663204165452_8629304038825695056_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_jkmssWsVIcQ7kNvwEr7Xak&_nc_oc=Adk2iABr7E5UdTMlfvlTrzWqSh5WvFuk1wtVslUOqNFK-MVeVc0X8YBFPGzeQec9BI4&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=hmCA0Ls7kEyAqsSYfxQp2g&oh=00_AfsEWcdiQByh1IWmO49IyvywhUIz2x9UMmPX4tKlOL32pg&oe=69878566",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "{{product.brand}}"
+                    },
+                    "cta_type": "SHOP_NOW",
+                    "display_format": "DCO",
+                    "link_description": "{{product.description}}",
+                    "link_url": "https://abr.ge/@kream/fbig?&campaign=Echo_Meta_BAU_Purchase_All_2508_NV90d+&ad_group=RT.NV90d+_ALL_ALL_ALL_2&ad_creative=catalog.mind001_ST_kreammag.feb1st_Shoes_nike_I_0129_0210&is_reengagement=1&deeplink_url=kreamapp://content/14115&pid=fbig&af_click_lookback=7d&is_retargeting=true&af_reengagement_window=7d&af_force_deeplink=true&advertising_id={adid}&idfa={idfa}&c=Echo_Meta_BAU_Purchase_All_2508_NV90d+&af_adset=RT.NV90d+_ALL_ALL_ALL_2&af_ad=catalog.mind001_ST_kreammag.feb1st_Shoes_nike_I_0129_0210",
+                    "images": [],
+                    "page_categories": [
+                      "App page"
+                    ],
+                    "page_like_count": 12321,
+                    "title": "{{product.name}}",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "KREAM",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "MESSENGER",
+                    "THREADS"
+                  ],
+                  "start_date": 1769760000,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          }
+        ],
+        "page_info": {
+          "end_cursor": "AQHSCr3cVSQVTFAPEC2pyTHZKrxLcN1MK4UQuYfKTCzWQ4rA53Ogl4XS32fU63-mstxXJ5tipgSd2PGzCJ3vAWEvju2XOsO9IrkuD4hjTfM1su7WDbdS7-1gk-IWVs8gGmjK4F9oSU3pUK5CHIiskMEwHP_5D6d6IbR_iBsvuSdn-95pn0ZyodxnfTDCklHFCJDTT5gfUb7a2Tc2cGbsa5exiCba4uqDcZ12rWg1X0avK2RUudH1EnVPd2VcSc6qprBwqcK9uRiPrAzsB32y1CoeA9ukqdo48Zh2R2nxFkMBBtzZ_NgruDuS8aO6MVAq88AE9c4fKURsxXAffvXg8D28CM4M_4sfVxq5BQ332O7VrgGUx8W45UCjAnhkv8L15XUN6eo9-PizCZHNp3--0MF99sp7SpElP_x2wrUYLof-14dT27GoRW0AAz7H2u8NTx2HPedZ350EErNIWmW9_8fVEm4Q-HCryDtw8EvZZ5M1kmTU0_ldboOdXbRWz9jHk8bJKOG0Sbbu3nL6E4fssO1rvJVVrc8lbkIgpnSl0VyiYiuqkfJopbGLIMgx5KSvamv3M7euNAOvwKhNJ6G9dK1BRokRLP_UtflicZL5M7x9plRsUqLrDYNyWr31o9VT07uFZbADDkwEhHkxdJURXvGpSZzD2HKdF3al-pWSqdSVM_ohsAO7kd6ZkDTgoVVvsfPUcXu8yDJ63yucQdiGuRkCXQ6nJ8w6jpaoUdXTLbvC7Y7BmMds9IuYRqQMX16rEQY8bz5YMJu4ITb2ATlgstm26s14V4tyj3ZIv6ppmueUj5bUN9wZvJLlACW44im3mjxtpRZoaG9563WcpYBvLEtsh3oDBGlivAnYIAj6xd6CgUrhVL8eymwsWEe7LpufgPVInX0gH8o1QWF8XSYzXZ1hCnBRL_v5g7jOZd33NfyF3kPcNDobOGWm78IWP6PRx-TcBaFtS9bfG_wvwJQbM1AAV7rzw0FkmOnjoq4ci3wmYzpRSRZa7up9QWzeMboYFZSiJnhush-tXaK0MXnRI1LiTXJC6RVHXwhNrDOzd3Yu3tC4iMvMnWIPTuRzJv0N_U4z7e3t_z88xgv5nXi26nUHWX18GUimSrdVZ99k4oj9bTv2kIxOkJZdp22jZsZsq1WqxO9FlH2IbCZVt-aBYkjplSdk5eWyf0OZP2AjFDlBfiX1AqkT0jan-3LUAS-JWcje04kFqSQwQJcooLYPjY95WcMpGZ9RojVabmaZAtaWEPAltXnPjRi6XcL2KEPELN8F_wL7yuP_pCQAqttkml7N585yhmSnfyPmfsjjjjwQW4xkBLye5bfLqPenBROhtR7RyGIRFzztSjCp9yO14rYf-2Nr7-YXYY8_UcydCMVLesfcJHxPk71B-97B7uyEE-7qO8UqXKkTRX66Tx8AZNcsvy09VkIJGRZ1JqkWGwMbETrwSPRRrnDkYvN6235WwfPPCoR95xRLhnz-jWHgCNc_YQX_g-48nqkjI8nkZUiC2FSnKN_yIDsSbI9Q1w5TV1FFsl4rbgzKQsEDWCl3dpSQ8_92QQisGNYtA1OknUO39aa9NsTmHLAj9k3Ofrg-jYWDFFeLAblAIDwaIR-2pBgFBiQqWqNvf5y4h6rEASE8z3VvbJ-03kJvZLE5lHZFAi9UCh49wu3TCj79TPqirkMcgF8UaKQUPjkwhfpmcKKYdqitlWMCwsLkFWmXHVte0v0_nc7v8XqH__aHkEQpPMr313vlkySOUi0lgo4ddVhlhUgOre2FK5NvopnthbXzGBgmj-pGCSQkCBYceldO9uI7RIeW93oVpcZKWsg2sGezOXNo0HKXLhSn0jP4t-bCujS3hx9Dj0B7VvNJkclHHhtoC6tTz01rWkhgd9Ql6_l2BVQk_E40N8c331CWvE2o9DS2Zn3fTkvcqnYdl4-7-lipy4o4yV5hcU_g6m9DOTUf1JN-H4ajdZFRRpB9LXL7XC4LRlLbSJPhWfok0D73pO7N4-3LUyhrSmO_C6V-2AWDULC-5cScvuLAmfak0_FK2CkUJJiIWKTFf-AIVN1ps-qeWl-bZy6nLi2Sy1hHxw5tQiiv_6ptlWJfS2vnMfC1IL9buvwO3gH_0HTB8ixB5cZlz3ioMkG6ciCtZom5jwTCuo2HM_e2j_Wn6h3zXUeBgo9Ey3LUOnw9BQOS34BR52qM1YTg-xAxcZQIbbG3npq5uJw",
+          "has_next_page": true
+        }
+      }
+    }
+  },
+  "extensions": {
+    "server_metadata": {
+      "request_start_time_ms": 1770100711297,
+      "time_at_flush_ms": 1770100712281
+    },
+    "is_final": true
+  }
+}

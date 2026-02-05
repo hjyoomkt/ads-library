@@ -1,0 +1,1291 @@
+{
+  "data": {
+    "ad_library_main": {
+      "search_results_connection": {
+        "edges": [
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "1281952163739867",
+                  "collation_count": 1,
+                  "collation_id": "1382407220030385",
+                  "page_id": "741113015756401",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "741113015756401",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/61579958701305/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "대한민국 최초 슈즈 멀티샵 슈마커",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/611170277_1419284232389495_6912969211296946532_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3-MM_2X5wo8Q7kNvwG6EMXf&_nc_oc=AdmU8u765vL2kBm14XHCxIK2Cx3kg1Y2hsJqlWQhZ0i_J243mR77Ocz7Xlx0NGrqMd0&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=2GxqPi2XOSA3zQ2mt_ABUA&oh=00_Aftbwf9Hqqr1uVghmoEFQq0ykGsRqAIqWLPIo4Bf7JXeHQ&oe=698762B4",
+                    "event": null,
+                    "caption": "shoemarker.co.kr",
+                    "cta_text": "더 알아보기",
+                    "cards": [],
+                    "body": {
+                      "text": "집, 사무실, 캠핑까지 따뜻하게‼️\nGAP 폴드 패딩 슬리퍼, 슈마커에서 구매하기👉"
+                    },
+                    "cta_type": "LEARN_MORE",
+                    "display_format": "IMAGE",
+                    "link_description": "즐거움을 신다! 나이키, 아식스, 아디다스 등 인기 브랜드 슈즈 멀티샵",
+                    "link_url": "https://www.shoemarker.co.kr/ASP/Product/ProductDetail.asp?ProductCode=50239&utm_source=SNS&utm_medium=DA&utm_campaign=purchase&utm_content=GAP_0107",
+                    "images": [
+                      {
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/612894955_1325194409408384_1363653811903485645_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=s5f7kOctUxkQ7kNvwFa7hEf&_nc_oc=AdmcsSSHnzwbxZV2W31bJvYSJFkBAqCOEpN4uhwyaj7uAK-9C7leCRs9RgCacFgK5jA&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=2GxqPi2XOSA3zQ2mt_ABUA&oh=00_AfuWHHP2IAGJsahcefk0OlFHWdjFMhg0okdgFtN-RlGznQ&oe=698759F5",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/611842719_1390738309312172_7747520679353401476_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=aIEPl_Qg6WQQ7kNvwEheC0A&_nc_oc=AdmELKAbJ2XVTG7Ix0MD8D8K5DCOwl3t7GweHhohR26r2Fwbasiw1YU7knljjDeDrf0&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=2GxqPi2XOSA3zQ2mt_ABUA&oh=00_AfsRH3RBbaZt4ORdsTLZVu1mtl99RuO3LL4NzffOcoE-zQ&oe=69875004",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "page_categories": [
+                      "Shoes"
+                    ],
+                    "page_like_count": 12,
+                    "title": "GAP 폴드 패딩 슬리퍼",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "대한민국 최초 슈즈 멀티샵 슈마커",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "MESSENGER",
+                    "THREADS"
+                  ],
+                  "start_date": 1767772800,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "1400485354937422",
+                  "collation_count": 1,
+                  "collation_id": "4300499470221507",
+                  "page_id": "521214848071202",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "521214848071202",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/lookpinpage/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "룩핀",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/601531683_1396501048508596_4140971172373571515_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9yGmOe_Q8O0Q7kNvwEj4v0B&_nc_oc=Adl0Z6ebmZkhG9ErMR1UwAXFhhah1bOHy8cugZ0q2X6v95kvb_xxzqT0mlapQJsOCls&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=2GxqPi2XOSA3zQ2mt_ABUA&oh=00_AfuMzyUfS7h-nhc45T8FpywBJZ5wwy_CJpzuNzf0dzzy5g&oe=6987609B",
+                    "event": null,
+                    "caption": "http://store.lookpin.co.kr",
+                    "cta_text": "더 알아보기",
+                    "cards": [
+                      {
+                        "body": "나이키 스우시 크루탑 ✨\n광고를 지나치면 더 이상 만나지 못하는 특가🔥",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "http://store.lookpin.co.kr",
+                        "link_description": null,
+                        "link_url": "https://abr.ge/@lookpin/facebook.business?ad_creative={{ad.name}}&ad_creative_id={{ad.id}}&ad_group={{adset.name}}&ad_group_id={{adset.id}}&campaign={{campaign.name}}&campaign_id={{campaign.id}}&routing_short_id=h48mku&sub_id={{site_source_name}}&sub_id_1={{placement}}&tracking_template_id=72a2295caf17925a38e5bea71e1acd5e&ad_type=click",
+                        "title": "룩핀 - 전상품 무료배송 🚚",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/602358424_1410059867514993_3239586513359465145_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9NyWhPXQHm0Q7kNvwHAqCsF&_nc_oc=AdkkIzb2qF8w3jrExRgLfIlg7myWfAbct4VGmBjGoBYedK6pUNksbQgHeOGiHzJ52ww&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=2GxqPi2XOSA3zQ2mt_ABUA&oh=00_Afth9-2UHMuNKD5Rnvh0j1-Ko9IIBzxRcACI-ORXVACFwQ&oe=69876915",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/604509821_861900193254195_3944267725551210622_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=axy4jI-uXyIQ7kNvwGMzW9U&_nc_oc=AdmQVjD4YBNVXFFEASy25LkVk_Mls3T1ihuclPvTi3nGXkONB0mvGXbSnYSTaJejavw&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=2GxqPi2XOSA3zQ2mt_ABUA&oh=00_Afto9xJ7-cQ2HSwaR6Ruyy8kNZJwPM_YjBa1q9EY1OqCiA&oe=69877732",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "나이키 스우시 크루탑 ✨\n광고를 지나치면 더 이상 만나지 못하는 특가🔥",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "http://store.lookpin.co.kr",
+                        "link_description": null,
+                        "link_url": "https://abr.ge/@lookpin/facebook.business?ad_creative={{ad.name}}&ad_creative_id={{ad.id}}&ad_group={{adset.name}}&ad_group_id={{adset.id}}&campaign={{campaign.name}}&campaign_id={{campaign.id}}&routing_short_id=h48mku&sub_id={{site_source_name}}&sub_id_1={{placement}}&tracking_template_id=72a2295caf17925a38e5bea71e1acd5e&ad_type=click",
+                        "title": "룩핀 - 전상품 무료배송 🚚",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/603961809_1573714394059672_2328130484561263385_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fp1ItzN9im0Q7kNvwH2bW_k&_nc_oc=AdkWqY3emd-BFfqqVOIKv8YhM3FhE6PhuqnCRNXXS76YQ3xKP1980L7UGdxMGwPoMlw&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=2GxqPi2XOSA3zQ2mt_ABUA&oh=00_AftGZUoS6jiBTOLkZyzU_3nuhfmoLI_z7SQZVOlnAFgQuA&oe=69878257",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/602463313_2471723543243386_2534365533020306277_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WaYWy0BJLdgQ7kNvwG8JwPp&_nc_oc=AdkVURFngFEjv9__XvXWs7fC5F2uS-B-dqKHwxorKugxGwhYrbBDxtFo5I6_pKekhfM&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=2GxqPi2XOSA3zQ2mt_ABUA&oh=00_AftVw4wCpDEf7_JEj987s4RoheJE3bm0ZpiCA-TVhAffFg&oe=69878093",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "나이키 스우시 크루탑 ✨\n광고를 지나치면 더 이상 만나지 못하는 특가🔥",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "http://store.lookpin.co.kr",
+                        "link_description": null,
+                        "link_url": "https://abr.ge/@lookpin/facebook.business?ad_creative={{ad.name}}&ad_creative_id={{ad.id}}&ad_group={{adset.name}}&ad_group_id={{adset.id}}&campaign={{campaign.name}}&campaign_id={{campaign.id}}&routing_short_id=h48mku&sub_id={{site_source_name}}&sub_id_1={{placement}}&tracking_template_id=72a2295caf17925a38e5bea71e1acd5e&ad_type=click",
+                        "title": "룩핀 - 전상품 무료배송 🚚",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/600365350_1316913090475701_8534919602231541224_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=meapVzDxtAcQ7kNvwFiQHle&_nc_oc=Adn0Uug7xOyh5wr3av8SPgzz3sTKcR0yaoHUzKC7Ni-d6voEMevdGJKSvhQ4h_VmxhI&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=2GxqPi2XOSA3zQ2mt_ABUA&oh=00_AftR4-pDYt_M2WGzr4po9Wfd8GBZyHgSsVuMnYz2SQrELg&oe=698772E1",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/603822629_1518909932671847_8646489758883325956_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LYBUcVT8KXsQ7kNvwF0QDX2&_nc_oc=AdkCUqB4KIvBWE2Dz0R747Qs2Gnmn-dpomBoxpxtToIqVWpflcCaj0xGQUt6cI_VRrA&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=2GxqPi2XOSA3zQ2mt_ABUA&oh=00_AfuZMkyj_FYwWmmJkzlGXQhv8FMDwJNQeRHiGePt4OXWWQ&oe=698772F2",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "{{product.brand}}"
+                    },
+                    "cta_type": "LEARN_MORE",
+                    "display_format": "DCO",
+                    "link_description": "{{product.description}}",
+                    "link_url": "https://abr.ge/@lookpin/facebook.business?ad_creative={{ad.name}}&ad_creative_id={{ad.id}}&ad_group={{adset.name}}&ad_group_id={{adset.id}}&campaign={{campaign.name}}&campaign_id={{campaign.id}}&routing_short_id=h48mku&sub_id={{site_source_name}}&sub_id_1={{placement}}&tracking_template_id=72a2295caf17925a38e5bea71e1acd5e&ad_type=click",
+                    "images": [],
+                    "page_categories": [
+                      "Shopping"
+                    ],
+                    "page_like_count": 24222,
+                    "title": "{{product.name}}",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "룩핀",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "MESSENGER",
+                    "THREADS"
+                  ],
+                  "start_date": 1766476800,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "1434861134939012",
+                  "collation_count": 1,
+                  "collation_id": "4348260642087548",
+                  "page_id": "101934595738267",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "101934595738267",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/100077551151044/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "Newcody1",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/621809364_1633645294288970_2955114959740300413_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CLa-tpqR90EQ7kNvwE9n2Mp&_nc_oc=AdkUpbLnbGjz_GKa1_ThceX707vXF7BN6dzHX5kivJP3nMubn0hIel_Qn1_i3JYDml4&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=2GxqPi2XOSA3zQ2mt_ABUA&oh=00_AfvVbkKV3TaCCspg-h1_qhY8-bpnZKmOkxSk5AByKlJ74A&oe=6987753E",
+                    "event": null,
+                    "caption": "instagram.com",
+                    "cta_text": "Instagram 프로필 방문",
+                    "cards": [],
+                    "body": {
+                      "text": "Kimcody Vintage\n매일 라이브방송 하는 김코디빈티지샵❤️\n07:00 - 9:00 PM 📺\n\n이 영상을 봤다면, 당장 김코디빈티지샵으로 고고 🔥\n매일저녁 라이브 필수 코스‼️"
+                    },
+                    "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                    "display_format": "VIDEO",
+                    "link_description": null,
+                    "link_url": "http://instagram.com/kimcody.vintage",
+                    "images": [],
+                    "page_categories": [
+                      "Product/service"
+                    ],
+                    "page_like_count": 33,
+                    "title": null,
+                    "videos": [
+                      {
+                        "video_hd_url": "https://video-icn2-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQMm1vdpMKWHiBVtJEaExMTYNuJKmb-YjLKKA093Y8vCe0jH653SRCv3KlwEyjQFm_t5D8p4QTFPJi9u-CDfz8aeWP3B2FK0fncMwOvbEA.mp4?_nc_cat=109&_nc_sid=8bf8fe&_nc_ht=video-icn2-1.xx.fbcdn.net&_nc_ohc=S-l6X2gnfa8Q7kNvwEQZSdu&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxNzg4ODgzNzM0OTQyMzE5NCwiYXNzZXRfYWdlX2RheXMiOjgsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo1OCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=2GxqPi2XOSA3zQ2mt_ABUA&_nc_zt=28&oh=00_AftB0QBeZ9Hlj56TrgVS6hDvxC0Oh6ptEIaPhGnbrVxjlQ&oe=6987778D",
+                        "video_preview_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/618716258_2351090185318921_8702859592680315460_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6N-fu3G2ticQ7kNvwHJ_IiX&_nc_oc=AdkdRZwfnAAm35Pyn0rgmkHtaBtzr5ZUVIWziYhBrwUqpA4uoAt9adfwdtj8SWnT9eM&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=2GxqPi2XOSA3zQ2mt_ABUA&oh=00_Aft7VgyUsiXsesSVDAoQTD_wB6YGCHSIajzsSdFUEHLYJA&oe=69875FEE",
+                        "video_sd_url": "https://video-icn2-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQMcZ9_uV6zVXnKnykZJDB9KDkAPvuCNAUCFi1NRV57Oob6EMCBuiOWhidBybYBGHgp_mNLDHPpBETghCMqRqRh2b0b7_VuzxntLVIV7VA.mp4?_nc_cat=103&_nc_sid=8bf8fe&_nc_ht=video-icn2-1.xx.fbcdn.net&_nc_ohc=0nCVmcQKDsQQ7kNvwHffnOO&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl8zNjBwIiwieHB2X2Fzc2V0X2lkIjoxNzg4ODgzNzM0OTQyMzE5NCwiYXNzZXRfYWdlX2RheXMiOjgsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo1OCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=2GxqPi2XOSA3zQ2mt_ABUA&_nc_zt=28&oh=00_Afv2nOdkTFfhulwZGPWafv_6XMJnTuuztFhrMZMmypehCA&oe=69875D3B",
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null
+                      }
+                    ],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "Newcody1",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "MESSENGER"
+                  ],
+                  "start_date": 1769673600,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "1589310878636064",
+                  "collation_count": 1,
+                  "collation_id": "2414545255648199",
+                  "page_id": "359105620621205",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "359105620621205",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/racement.co.kr/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "Racement",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624992549_2355635638193406_4156898273074595885_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wOpB7lBffFoQ7kNvwHdh821&_nc_oc=AdnryATMOpZNXiI9Dhc5tP9kF9V0KW_hJakbdA03J-m2mLWM5eX8LWWh6IEcrm7ko2w&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=2GxqPi2XOSA3zQ2mt_ABUA&oh=00_Aft14P42QVNJXp_twE_kTrhzrGEunhYMbRqPOnm8XeuD_A&oe=69875949",
+                    "event": null,
+                    "caption": "racement.co.kr",
+                    "cta_text": "지금 구매하기",
+                    "cards": [],
+                    "body": {
+                      "text": "🆕𝗡𝗜𝗞𝗘 - 𝗔𝗖𝗚 𝗚𝗢𝗔𝗧 𝗣𝗔𝗖𝗞 𝗩𝗘𝗦𝗧 𝟱𝗟 & 𝗕𝗘𝗟𝗧​\n험난한 지형일수록, 장비는 가벼워야 하니까. ⛰️✨​\n\n경량 메쉬 소재로\n거친환경에서도 효율적인 땀배출과 열발산을 통해​\n\n어떤 지형이든 가뿐하게 달릴 수 있습니다🏃‍♀️🏃‍♂️​\n\n✔️ 몸에 착 붙는 5L 수납력의 베스트\n✔️ 흔들림 없는 완벽한 고정력의 벨트​\n\n전천후 트레일러너들을 위한\nACG VEST& BELT로 어디든 더 멀리 나아가세요\n1월16일 레이스먼트에서 만나보실 수 있습니다\n\n[판매 안내]​\n🗓️ 1월 16일(금)​\n🏬 레이스먼트 11:30-​\nACG GOAT PACK VEST 5L(IQ7354-039)​\n🛒 199,000원​\nACG GOAT BELT(IQ6027-039)​\n🛒 79,000원​\n\n𝐄𝐕𝐄𝐑𝐘 𝐑𝐔𝐍𝐍𝐈𝐍𝐆 𝐌𝐎𝐌𝐄𝐍𝐓, 𝐑𝐀𝐂𝐄𝐌𝐄𝐍𝐓®​\n\n#나이키ACG #nikeacg​ #레이스먼트 #racement\n#러닝베스트 #runningvest #runningbelt #러닝벨트 #트레일러닝 #trailrunning​"
+                    },
+                    "cta_type": "SHOP_NOW",
+                    "display_format": "VIDEO",
+                    "link_description": null,
+                    "link_url": "https://racement.co.kr/products?keyword=ACG",
+                    "images": [],
+                    "page_categories": [
+                      "Shopping"
+                    ],
+                    "page_like_count": 48,
+                    "title": null,
+                    "videos": [
+                      {
+                        "video_hd_url": "https://video-icn2-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQOnHG4OKTvkG29CeuXsNnSnGUy75YOYbLuXYF2w4j6VJ6V2lKxGsolXtHmtT-m043uoCu2PT1JROgQksq33xcrS-kJuh7orkPYHJTcMSg.mp4?_nc_cat=110&_nc_sid=8bf8fe&_nc_ht=video-icn2-1.xx.fbcdn.net&_nc_ohc=Wr_e7X4zTX0Q7kNvwGNKQxD&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxMzI4NTIwODQyNDEzNTM1LCJhc3NldF9hZ2VfZGF5cyI6MTgsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjozNSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=2GxqPi2XOSA3zQ2mt_ABUA&_nc_zt=28&oh=00_AftKylkC8Ny9loEV7DSPhuxVpnL4M5fwZ23OrR8GpFURtg&oe=698767F8",
+                        "video_preview_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622396142_1594424825059465_5316263436616871747_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=uiaX_fuC0jwQ7kNvwGkYZ9K&_nc_oc=AdlHv8nJ_zuQrfFMfDjB3t6lPI60a4R33v_u39KNRsV8fbzkY5yvJjOMIG_4kev5xyE&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=2GxqPi2XOSA3zQ2mt_ABUA&oh=00_AfuxTTED-f08roMtolGohgmj5uavJ-GtoCYdewOfZbEWvw&oe=69876EF5",
+                        "video_sd_url": "https://video-icn2-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQMKsCSMIGtv7E500axT1cWMAeGFRzDsokcNrRS0JakIrwEtNAu33i0TKDO-L_AO8jcJEGYWc1sGR4MpsVkxJO9CmnbpffYvDSfrE5abPQ.mp4?_nc_cat=109&_nc_sid=8bf8fe&_nc_ht=video-icn2-1.xx.fbcdn.net&_nc_ohc=g9cEz-XOZBAQ7kNvwFZNh7r&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl8zNjBwIiwieHB2X2Fzc2V0X2lkIjoxMzI4NTIwODQyNDEzNTM1LCJhc3NldF9hZ2VfZGF5cyI6MTgsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjozNSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=2GxqPi2XOSA3zQ2mt_ABUA&_nc_zt=28&oh=00_AfsgTM7LF0zd_puJtR2aDgQTMn_efg1eaDOBdjGc-ILytw&oe=6987639D",
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null
+                      }
+                    ],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "Racement",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "MESSENGER",
+                    "THREADS"
+                  ],
+                  "start_date": 1769846400,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "1392615358995105",
+                  "collation_count": 1,
+                  "collation_id": "927278383020259",
+                  "page_id": "110144887573788",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "110144887573788",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/100063571478863/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "홀리스패션",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623366779_1348817573929762_3526965470944738553_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=i6EOmwdKaKsQ7kNvwEDebrC&_nc_oc=Adk-332Ac7S0trGpx1GH2_xlRSgxI7qtq33NtOHlq5fd80V5-_zoC836ZSMWQXVLQVM&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=2GxqPi2XOSA3zQ2mt_ABUA&oh=00_AfuH1gEWR_XAIuquWGjE69U_-QxNpsG0NiY7s670rXUocQ&oe=69875252",
+                    "event": null,
+                    "caption": "smartstore.naver.com",
+                    "cta_text": "더 알아보기",
+                    "cards": [],
+                    "body": {
+                      "text": "지금부터 봄까지 쭉- 입는 두께감 윈드러너! ❄️🍃\n\n\"아직은 춥고, 곧 봄인데 뭐 입지?\" 고민 끝!\n 얇은 바람막이랑은 비교 거부❌ \n안감 전체 기모로 든든하고 도톰한 두께감의 나이키 윈드러너 플리스 자켓입니다.\n\n지금은 코트나 패딩 안 이너로, \n날 풀리면 단독 아우터로! \n가성비와 스타일 다 잡은 이번 시즌 필수템이에요.\n\n✨ CHECK POINT \n✅ 포근한 두께감: 내부 전체 '풀 플리스' 안감으로 보온성 UP! \n✅ 2-Way 실루엣: 하단 스트링을 조여 귀여운 벌룬핏 연출 가능🎈\n✅ 고퀄리티 우븐: 탄탄한 겉감 소재로 무너지지 않는 핏\n✅ 컬러 라인업: 블랙 / 그레이 / 카키 (실물 깡패 3종)\n\n한 번 사면 반년은 뽕 뽑는(?) 마성의 자켓! 한정 수량이라 고민은 배송만 늦출 뿐입니다 🏃‍♂️💨\n\n🛡️ TRUST & SERVICE\n해당 제품은 나이키 코리아 정품으로, 가품 걱정 없이 믿고 구매하세요! \n국내 공식 매장 상품이기 때문에 전국 나이키 매장에서 A/S 접수가 가능합니다. \n(병행수입이나 가품과는 비교 불가한 퀄리티와 서비스를 보장합니다. 👍)"
+                    },
+                    "cta_type": "LEARN_MORE",
+                    "display_format": "IMAGE",
+                    "link_description": null,
+                    "link_url": "https://smartstore.naver.com/hollisfashion/products/13036879362",
+                    "images": [
+                      {
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623244905_1236565025068079_602634496179583980_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WRZIw-u7_UQQ7kNvwEJsYep&_nc_oc=Adn0pgkmkQ1cJSQZopw7VD3RrmzKQ4KO_mEX2TDM3fGEpHux2x2VUUhmSSFvL6WqxNw&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=2GxqPi2XOSA3zQ2mt_ABUA&oh=00_AftkaESkn35DDQF6LYvGVF5ZFs8igTQo75DChBm_8Bf8ZA&oe=698776F6",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624703870_1198743719010305_4994239712107414458_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=b9o9PGFFLiIQ7kNvwFH3Yp0&_nc_oc=AdlNJhfx8vNeTHTCH7NYEs2iZRIUYqo5uaB09enp-u1pjbtCCkg6iCIZtjh2Z_EsQiE&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=2GxqPi2XOSA3zQ2mt_ABUA&oh=00_AftO_7wwQJlomkCU7Snkxi_beDaxZjit6s19y6IFv6t2sQ&oe=698750EF",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "page_categories": [
+                      "Website"
+                    ],
+                    "page_like_count": 73,
+                    "title": null,
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "홀리스패션",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "INSTAGRAM"
+                  ],
+                  "start_date": 1769673600,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "1275710941161852",
+                  "collation_count": null,
+                  "collation_id": null,
+                  "page_id": "106677552177143",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "106677552177143",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/100085042578516/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "애슬러",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623160292_1419326899898538_5374741193958875221_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vWxeWcuVFcUQ7kNvwFLvBUo&_nc_oc=AdlahE1EHELPlYhWtVPDEdwZk0Bfhqq3cQT4wJwLJiGfZigY3_6iS1M_T6dROtJ6Czs&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=2GxqPi2XOSA3zQ2mt_ABUA&oh=00_Afuh8YfZfFH_6ALJtsxT0XovebL5DG0EjnbDuMotaPjf2Q&oe=69875623",
+                    "event": null,
+                    "caption": "play.google.com",
+                    "cta_text": "지금 설치",
+                    "cards": [],
+                    "body": {
+                      "text": "N0.1 35+ 남성들을 위한 패션앱, 애슬러 \n\n📌 몽벨/ 스파이더/ 나이키 외 패딩 ~90% 특가\n📌 첫구매 10% 장바구니 쿠폰 \n📌 하나만 사도 무료배송"
+                    },
+                    "cta_type": "INSTALL_MOBILE_APP",
+                    "display_format": "IMAGE",
+                    "link_description": null,
+                    "link_url": "http://play.google.com/store/apps/details?id=com.athler",
+                    "images": [
+                      {
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/619962072_2692487791143917_6679280945460032670_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zJIDZjAbv34Q7kNvwFZnM_-&_nc_oc=Adn7TP3aBFaAB1Wv5Xz64lJrLsLe19EpsUMADJY5MAagJPCQTnNDPsNQBXMJ5AngS3w&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=2GxqPi2XOSA3zQ2mt_ABUA&oh=00_AfubFqSDs_TYTgZDnOVNVAkdzVC6YpZM3YAH132tYbTGSg&oe=69877340",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622380188_1674160020621257_7222106260943683279_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=X55qdPNRHicQ7kNvwHws7YS&_nc_oc=AdnGomvstMTNyY-CrhLKr_MMWER9KXD71TkyEstQOZHMZXyZB5lfZVBjSGZnRYaC3VU&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=2GxqPi2XOSA3zQ2mt_ABUA&oh=00_AfvQBHRT3MqTAI0cLwhqdWbxwbrhUYFa40oG5X0lddWisA&oe=69876525",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "page_categories": [
+                      "App page"
+                    ],
+                    "page_like_count": 400,
+                    "title": "패딩 5만원대부터 🔥",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "애슬러",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "MESSENGER",
+                    "THREADS"
+                  ],
+                  "start_date": 1769587200,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "2298539427292903",
+                  "collation_count": null,
+                  "collation_id": null,
+                  "page_id": "1275105262550265",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "1275105262550265",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/croket.official/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "크로켓 : 전세계 커넥팅 쇼핑",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/607928971_2298865460621410_8190224964986407451_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0AFCtxQTsh4Q7kNvwEFYqX5&_nc_oc=AdnhqRgGe2Q91dZXwB-EB1ByjJjO7i9en7ygxmcCFUhOgcrS8X-P5ZdvnE6ZdtLFNik&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=2GxqPi2XOSA3zQ2mt_ABUA&oh=00_AfucKZU9czl_TxnqAG9d27jYJKQfAsZqsxkjJ9vJXlNTJg&oe=69877B92",
+                    "event": null,
+                    "caption": "croket.co.kr",
+                    "cta_text": "지금 구매하기",
+                    "cards": [
+                      {
+                        "body": "아디다스 바람막이부터 나이키 패딩까지!\n한국에서 못 구하는 해외판 한정 특가로 구매하세요🔥",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "croket.co.kr",
+                        "link_description": "아디다스 브랜드 상품을 크로켓에서 무료배송으로 만나보세요.",
+                        "link_url": "https://web.croket.co.kr/seller/product/5d9f23aabbdb7a0e9eda812f?yg_type=SNS_roas&utm_source=SNS&utm_medium=roas",
+                        "title": "토니스 초콜리니 네덜란드 한정판",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/611314554_1980520499531377_2364895428686443494_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MjOhpNPCmBEQ7kNvwGSNMN5&_nc_oc=AdnzYCuUlINF_dUTbpLUQjPBz-r14wfFn1rTnjqu1wrvr4i3bGpgd8moQjz8mArU77Y&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=2GxqPi2XOSA3zQ2mt_ABUA&oh=00_AftcPWbz-kLu_bst2D0cXTZt71oHk4RemR-TDmTXGYcxhA&oe=698752D7",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/611314554_1980520499531377_2364895428686443494_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MjOhpNPCmBEQ7kNvwGSNMN5&_nc_oc=AdnzYCuUlINF_dUTbpLUQjPBz-r14wfFn1rTnjqu1wrvr4i3bGpgd8moQjz8mArU77Y&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=2GxqPi2XOSA3zQ2mt_ABUA&oh=00_AfsKjC7xhKsmisWr1yxiv8Fti6YJ0JBWuNF6CN7mVH-jvg&oe=698752D7",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "아디다스 바람막이부터 나이키 패딩까지!\n한국에서 못 구하는 해외판 한정 특가로 구매하세요🔥",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "croket.co.kr",
+                        "link_description": "아디다스 브랜드 상품을 크로켓에서 무료배송으로 만나보세요.",
+                        "link_url": "https://web.croket.co.kr/seller/product/5d9f23dc40938077b7fdc465?yg_type=SNS_roas&utm_source=SNS&utm_medium=roas",
+                        "title": "스테델릭 뮤지엄 캔버스백",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/608257344_1408766003918502_4922815088886076267_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fi1sihOzu8AQ7kNvwEMQ9Fp&_nc_oc=AdlAaRw_HcH5HbGcbNQGC7hh26WQQx1pm0RvC5DAK-TSD1ZCJpeaTLlLgTirajCGjXM&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=2GxqPi2XOSA3zQ2mt_ABUA&oh=00_AftAPsQu9VwTTNKo24Cy-rjZzGCAlPU9fYVfL3DxlcE5pw&oe=69877F15",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/608257344_1408766003918502_4922815088886076267_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fi1sihOzu8AQ7kNvwEMQ9Fp&_nc_oc=AdlAaRw_HcH5HbGcbNQGC7hh26WQQx1pm0RvC5DAK-TSD1ZCJpeaTLlLgTirajCGjXM&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=2GxqPi2XOSA3zQ2mt_ABUA&oh=00_Afs7nzjWZfviEWPNAJfHSPB0OXAcFzR4I_S_08ZdhIIUlw&oe=69877F15",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "아디다스 바람막이부터 나이키 패딩까지!\n한국에서 못 구하는 해외판 한정 특가로 구매하세요🔥",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "croket.co.kr",
+                        "link_description": "아디다스 브랜드 상품을 크로켓에서 무료배송으로 만나보세요.",
+                        "link_url": "https://web.croket.co.kr/seller/product/5c3c39d873daad4f216b0e7a?yg_type=SNS_roas&utm_source=SNS&utm_medium=roas",
+                        "title": "파타고니아 맨즈 마이크로 디 풀오버 긴팔 롱슬리브 스냅 티셔츠 26176",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/607697761_25581122538249333_4394619353911677047_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ekWjMk2XkLsQ7kNvwGcCVm4&_nc_oc=AdkpfBgLjqOIZYeKvqPaoGC2YVirXX-1nV5r77qfvGciRstnTvILjU2yGxkIIf65R7E&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=2GxqPi2XOSA3zQ2mt_ABUA&oh=00_AfvYn8XcFUdyXx3DlHHkh-R-fc8M1XNktun7S9Zpctavig&oe=69876735",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/607697761_25581122538249333_4394619353911677047_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ekWjMk2XkLsQ7kNvwGcCVm4&_nc_oc=AdkpfBgLjqOIZYeKvqPaoGC2YVirXX-1nV5r77qfvGciRstnTvILjU2yGxkIIf65R7E&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=2GxqPi2XOSA3zQ2mt_ABUA&oh=00_Afs6tvKTF66ETxCZAUwr6KofKHlZzfWOy9TX1lrzOOx4ww&oe=69876735",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "아디다스 바람막이부터 나이키 패딩까지!\n한국에서 못 구하는 해외판 한정 특가로 구매하세요🔥",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "croket.co.kr",
+                        "link_description": "아디다스 브랜드 상품을 크로켓에서 무료배송으로 만나보세요.",
+                        "link_url": "https://web.croket.co.kr/seller/product/5d25b207ac1ae635195eae8a?yg_type=SNS_roas&utm_source=SNS&utm_medium=roas",
+                        "title": "너프 피라냐 물총",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/608073316_1176727151285499_343368604303939354_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hWD7nBRUK-4Q7kNvwGhUCW_&_nc_oc=AdkbzDiH7UL8PfF5zT1EqN31szp3tDmW-NbwZzFBa9j2bo9HxT1XS-Ed64qO93_zMP4&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=2GxqPi2XOSA3zQ2mt_ABUA&oh=00_Afv91-hHea6BOZ1PekHtt7tnXr_lTPqQO4GfiB4TqmR8PA&oe=69875803",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/608073316_1176727151285499_343368604303939354_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hWD7nBRUK-4Q7kNvwGhUCW_&_nc_oc=AdkbzDiH7UL8PfF5zT1EqN31szp3tDmW-NbwZzFBa9j2bo9HxT1XS-Ed64qO93_zMP4&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=2GxqPi2XOSA3zQ2mt_ABUA&oh=00_Afs840GJvjru-FarvDSblkOQDOIwpqMbnROJqEAXHLGdNA&oe=69875803",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "아디다스 바람막이부터 나이키 패딩까지!\n한국에서 못 구하는 해외판 한정 특가로 구매하세요🔥",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "croket.co.kr",
+                        "link_description": "아디다스 브랜드 상품을 크로켓에서 무료배송으로 만나보세요.",
+                        "link_url": "https://web.croket.co.kr/seller/product/5d9f2b1f40938077b7fdc48c?yg_type=SNS_roas&utm_source=SNS&utm_medium=roas",
+                        "title": "반 고흐 뮤지엄 인물화 컬렉션북",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/611315586_883404457475927_6156284923287560801_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=51hR2L6a-3IQ7kNvwGXg2Px&_nc_oc=AdloGt4xVcXodUoOt6AGMj2TAu94M3EplvqFEc_izqost2vl8wotoigej7vOWA8w2ac&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=2GxqPi2XOSA3zQ2mt_ABUA&oh=00_AfvCzSyZT-Qwz1sVT0200h6PNkCcHLhrXFTQM3rgNmeBfA&oe=69875EB6",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/611315586_883404457475927_6156284923287560801_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=51hR2L6a-3IQ7kNvwGXg2Px&_nc_oc=AdloGt4xVcXodUoOt6AGMj2TAu94M3EplvqFEc_izqost2vl8wotoigej7vOWA8w2ac&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=2GxqPi2XOSA3zQ2mt_ABUA&oh=00_AftLWfTdfsYA7_xckJgC6ogIssiXrPo7ziyfFYrp5krfXg&oe=69875EB6",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "아디다스 바람막이부터 나이키 패딩까지!\n한국에서 못 구하는 해외판 한정 특가로 구매하세요🔥",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "croket.co.kr",
+                        "link_description": "아디다스 브랜드 상품을 크로켓에서 무료배송으로 만나보세요.",
+                        "link_url": "https://web.croket.co.kr/seller/product/5d403af3942f12427a026661?yg_type=SNS_roas&utm_source=SNS&utm_medium=roas",
+                        "title": "파타고니아 남성 배기스 쇼츠 5인치 롱스 7인치 반바지 블랙 네이비 57022 / 58035",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/607494847_1638760750871982_1664586722695547899_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yal6JzToO30Q7kNvwHsHLGa&_nc_oc=AdlB5z43qYO3HWH6DijjacxCEFDbHrT7nuPazpBR2Qpkqs2r2VoYfEyNmCuAEmeqRaE&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=2GxqPi2XOSA3zQ2mt_ABUA&oh=00_AfukxnT-10UncmNQJyNH_PfMFpkf8MMExGfqG8mvmTvvpw&oe=69876E05",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/607494847_1638760750871982_1664586722695547899_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yal6JzToO30Q7kNvwHsHLGa&_nc_oc=AdlB5z43qYO3HWH6DijjacxCEFDbHrT7nuPazpBR2Qpkqs2r2VoYfEyNmCuAEmeqRaE&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=2GxqPi2XOSA3zQ2mt_ABUA&oh=00_Afuvz5T8vKEhFFuJ6O6tmrK8457VeAom4_bdh_DyCuRwfQ&oe=69876E05",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "아디다스 바람막이부터 나이키 패딩까지!\n한국에서 못 구하는 해외판 한정 특가로 구매하세요🔥"
+                    },
+                    "cta_type": "SHOP_NOW",
+                    "display_format": "DPA",
+                    "link_description": null,
+                    "link_url": "https://www.croket.co.kr/brand/68be33f054fd2a25f7e68eba?yg_type=SNS_roas&utm_source=SNS&utm_medium=roas",
+                    "images": [],
+                    "page_categories": [
+                      "Shopping"
+                    ],
+                    "page_like_count": 18636,
+                    "title": "{{product.name}}",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "크로켓 : 전세계 커넥팅 쇼핑",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "THREADS"
+                  ],
+                  "start_date": 1769500800,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "1640977073928688",
+                  "collation_count": null,
+                  "collation_id": null,
+                  "page_id": "310526012318961",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "310526012318961",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/TheLotteon/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "롯데ON",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623784885_2487388625009252_8228152317124509270_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8cpqEBPO5QwQ7kNvwFHerjM&_nc_oc=AdnCRX3wt_Kn4q3N4RcsBkCjIKUuxC2H21UsaG5OQ3NBqB6LYmmrKyiTBXASybicn94&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=2GxqPi2XOSA3zQ2mt_ABUA&oh=00_AfswH8lDxrIYQ4CUNX6nV46KsgEZH3vtuJcwqbAUZdn_Rg&oe=69875DA5",
+                    "event": null,
+                    "caption": "on.lotteon.com",
+                    "cta_text": "지금 구매하기",
+                    "cards": [],
+                    "body": {
+                      "text": "📢 나이키 브랜드데이 \n2.2 - 2.4 단 3일!\n\n✨ 겨울 인기 상품 최대 35% OFF\n✨추가 22% 쿠폰 + 5% 카드 즉시 할인까지!\n\n나이키 역대급 혜택, 지금 바로 확인 👉"
+                    },
+                    "cta_type": "SHOP_NOW",
+                    "display_format": "IMAGE",
+                    "link_description": "겨울 인기 상품 최대 35% 할인",
+                    "link_url": "https://on.lotteon.com/@lotteonapp/meta?ad_creative=260202-260204_nikebrandday&ad_group=nikebrandday_2602&campaign=2602_da&og_tag_id=377639225&routing_short_id=q7cnem&tracking_template_id=d58145319a330f2ee6f13ee8460b15c1&ad_type=click",
+                    "images": [
+                      {
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624091334_33965820529675952_1283535595349549612_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yFluZSp4E70Q7kNvwHDvmat&_nc_oc=AdmMPLMRyLC3rSxVYJPqFTEzYXFm3kAAyiYxeiBDyh3hhysbxvKXA2IRHswE32LLDO4&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=2GxqPi2XOSA3zQ2mt_ABUA&oh=00_AfvIZpezC5zS2eya5KmobZszHa1vphX9RvM2xRPKzkpQCg&oe=698778FC",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623365179_899418275778712_1219756436473493707_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HR9iFfkNTNsQ7kNvwFbLVMT&_nc_oc=AdllsaDWfQoRLDoCzYEExGmfEh7_KCbB4Br6Nq3XDzzAPB4bge8CDaqV9o0_eZTUOos&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=2GxqPi2XOSA3zQ2mt_ABUA&oh=00_AftbyGYSwIh-F6Wy_sFNY_9GjAcJu5VfYi-dTF76sKrnSA&oe=69875446",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "page_categories": [
+                      "Retail company"
+                    ],
+                    "page_like_count": 501035,
+                    "title": "2026 나이키 브랜드데이",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "롯데ON",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "MESSENGER",
+                    "THREADS"
+                  ],
+                  "start_date": 1769932800,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "2384751258607843",
+                  "collation_count": null,
+                  "collation_id": null,
+                  "page_id": "181693921701690",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "181693921701690",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/61555003423031/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "fruitsfamily.co",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/596778316_1724254048961192_8459860954023615252_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xnHLG-D_rT0Q7kNvwHolQPm&_nc_oc=Adl7dzcwVLeB-h0pypYhowNvjGC_GVEg5DrcglS4fxW6HKpK6qv_sfOdJUt6AeTbIbI&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=2GxqPi2XOSA3zQ2mt_ABUA&oh=00_AftOCBLR9-KbSbtUxAoxIUE3wqn6UDx4dYHvWLi7Lxo7og&oe=69875957",
+                    "event": null,
+                    "caption": "itunes.apple.com",
+                    "cta_text": "지금 설치",
+                    "cards": [
+                      {
+                        "body": "보물 같은 빈티지 ‘나이키’만 +100,000개. 지금 후루츠 앱에서 더 다양한 아이템을 만나보세요.\n\n패션 러버들의 중고거래 앱 🍒",
+                        "cta_type": "INSTALL_MOBILE_APP",
+                        "caption": "itunes.apple.com",
+                        "link_description": "Download 후루츠패밀리: 빈티지, 세컨핸드 패션 중고거래 커뮤니티 by Fruits Family Company, Inc. on the App Store. See screenshots, ratings and reviews, user tips, and more games like…",
+                        "link_url": "https://fruitsfamily.com/product/2xo8l/%EB%82%98%EC%9D%B4%ED%82%A4-%EB%B9%88%ED%8B%B0%EC%A7%80-%EC%BA%A1-00s",
+                        "title": "나이키 빈티지 캡 00s",
+                        "cta_text": "Install Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/594534533_1583225946023910_229343595802274634_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IpuzOo6HIHYQ7kNvwH98fDH&_nc_oc=Adm8tEnPK8uO1cMSj5JQMudD0OeYCIHc9osI5DS2TtMavys_s1k5CZlwac6uktDWy9o&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=2GxqPi2XOSA3zQ2mt_ABUA&oh=00_AfvhfzwtwO5cxbf8ThNdrSxqcZ8QYWyWTFtEcgJbBNoOBg&oe=698770F3",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/594534533_1583225946023910_229343595802274634_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IpuzOo6HIHYQ7kNvwH98fDH&_nc_oc=Adm8tEnPK8uO1cMSj5JQMudD0OeYCIHc9osI5DS2TtMavys_s1k5CZlwac6uktDWy9o&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=2GxqPi2XOSA3zQ2mt_ABUA&oh=00_AftilcFLZQU8semMYtcOKlTP4LsctZL3nNDogq1YX6Rqgw&oe=698770F3",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "보물 같은 빈티지 ‘나이키’만 +100,000개. 지금 후루츠 앱에서 더 다양한 아이템을 만나보세요.\n\n패션 러버들의 중고거래 앱 🍒",
+                        "cta_type": "INSTALL_MOBILE_APP",
+                        "caption": "itunes.apple.com",
+                        "link_description": "Download 후루츠패밀리: 빈티지, 세컨핸드 패션 중고거래 커뮤니티 by Fruits Family Company, Inc. on the App Store. See screenshots, ratings and reviews, user tips, and more games like…",
+                        "link_url": "https://fruitsfamily.com/product/b85b/%EB%82%98%EC%9D%B4%ED%82%A4-90s-%EC%98%AC%EB%93%9C%EC%8A%A4%EC%BF%A8-%EC%96%91%EB%A9%B4-%EC%9E%90%EC%88%98-%EB%A6%AC%EB%B2%84%EC%8B%9C%EB%B8%94-%EC%88%8F-%ED%8C%A8%EB%94%A9%EC%9E%90%EC%BC%93",
+                        "title": "나이키 90s 올드스쿨 양면 자수 리버시블 숏 패딩자켓",
+                        "cta_text": "Install Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/595296008_689342114052210_8628301665282389632_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mtE-sF1UmjgQ7kNvwFwV4XR&_nc_oc=Adnn8tILAqa7dXwZwsdKf8srZOoWm3VtLrh2fesQJttpLMT7KTPX2T1w5LqckF2Fm18&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=2GxqPi2XOSA3zQ2mt_ABUA&oh=00_AfsL9h8KWIgrCeIZSShsAPQ8d6Md3j3snSMGcd0IVnSJHw&oe=69877AA5",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/595296008_689342114052210_8628301665282389632_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mtE-sF1UmjgQ7kNvwFwV4XR&_nc_oc=Adnn8tILAqa7dXwZwsdKf8srZOoWm3VtLrh2fesQJttpLMT7KTPX2T1w5LqckF2Fm18&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=2GxqPi2XOSA3zQ2mt_ABUA&oh=00_AfsWjbk6ikQG8BLSFDiNwvamNmKRbpd275E4gckhqPZMYg&oe=69877AA5",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "보물 같은 빈티지 ‘나이키’만 +100,000개. 지금 후루츠 앱에서 더 다양한 아이템을 만나보세요.\n\n패션 러버들의 중고거래 앱 🍒",
+                        "cta_type": "INSTALL_MOBILE_APP",
+                        "caption": "itunes.apple.com",
+                        "link_description": "Download 후루츠패밀리: 빈티지, 세컨핸드 패션 중고거래 커뮤니티 by Fruits Family Company, Inc. on the App Store. See screenshots, ratings and reviews, user tips, and more games like…",
+                        "link_url": "https://fruitsfamily.com/product/2q7gv/%EB%82%98%EC%9D%B4%ED%82%A4-%ED%86%A0%ED%83%8890-245",
+                        "title": "나이키 토탈90 245",
+                        "cta_text": "Install Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/594147875_905496502019350_5325529080064386012_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iMdE1zJU6XkQ7kNvwFZEHLu&_nc_oc=AdmeNjSFiaPwX4WmdF0RFX06_usANBCbulfK58cjcj5G2OO335atkWkTfGtr1zv68Rc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=2GxqPi2XOSA3zQ2mt_ABUA&oh=00_AftgVJfE3w4JRo20zCfjSiMIsK_BKr1ELFJU5c6D7gaP-w&oe=69876438",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/594147875_905496502019350_5325529080064386012_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iMdE1zJU6XkQ7kNvwFZEHLu&_nc_oc=AdmeNjSFiaPwX4WmdF0RFX06_usANBCbulfK58cjcj5G2OO335atkWkTfGtr1zv68Rc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=2GxqPi2XOSA3zQ2mt_ABUA&oh=00_Afuqun4pXSRIzQ7d3cZxvvDN4UESVnfnZ_zYJ6_sr-kZiQ&oe=69876438",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "보물 같은 빈티지 ‘나이키’만 +100,000개. 지금 후루츠 앱에서 더 다양한 아이템을 만나보세요.\n\n패션 러버들의 중고거래 앱 🍒",
+                        "cta_type": "INSTALL_MOBILE_APP",
+                        "caption": "itunes.apple.com",
+                        "link_description": "Download 후루츠패밀리: 빈티지, 세컨핸드 패션 중고거래 커뮤니티 by Fruits Family Company, Inc. on the App Store. See screenshots, ratings and reviews, user tips, and more games like…",
+                        "link_url": "https://fruitsfamily.com/product/2o75a/%EB%82%98%EC%9D%B4%ED%82%A4-%EC%97%B0%ED%95%98%EB%8A%98-%EB%B9%85%EB%A1%9C%EA%B3%A0-%EB%A9%B4%EC%A7%91%EC%97%85",
+                        "title": "나이키 연하늘 빅로고 면집업",
+                        "cta_text": "Install Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/591746168_4130809607152088_6990899653956099052_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=av0jsPXGEDoQ7kNvwFOBeQw&_nc_oc=AdnN6VsaOU7XVcKmpxm0R-yscZEtKdUgVRAUF0P_wYhpLQQPUbzr_w7ghSDglAh_Cgk&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=2GxqPi2XOSA3zQ2mt_ABUA&oh=00_AfuA_uCT23Hv_AZwK53WSCwYSMYOaq_VBjM5vcMBgS9UFA&oe=69876396",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/591746168_4130809607152088_6990899653956099052_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=av0jsPXGEDoQ7kNvwFOBeQw&_nc_oc=AdnN6VsaOU7XVcKmpxm0R-yscZEtKdUgVRAUF0P_wYhpLQQPUbzr_w7ghSDglAh_Cgk&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=2GxqPi2XOSA3zQ2mt_ABUA&oh=00_AfscjfjebON2ut1hnkWT2XVVUKKsWrjY0Gb0Azn6fqk3PA&oe=69876396",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "보물 같은 빈티지 ‘나이키’만 +100,000개. 지금 후루츠 앱에서 더 다양한 아이템을 만나보세요.\n\n패션 러버들의 중고거래 앱 🍒",
+                        "cta_type": "INSTALL_MOBILE_APP",
+                        "caption": "itunes.apple.com",
+                        "link_description": "Download 후루츠패밀리: 빈티지, 세컨핸드 패션 중고거래 커뮤니티 by Fruits Family Company, Inc. on the App Store. See screenshots, ratings and reviews, user tips, and more games like…",
+                        "link_url": "https://fruitsfamily.com/product/23ut5/%EB%82%98%EC%9D%B4%ED%82%A4-%EB%A7%A8%EC%9C%A0-%EC%98%AC%EB%B8%94%EB%9E%99-%EC%A0%B8%EC%A7%80-m",
+                        "title": "나이키 맨유 올블랙 져지 M",
+                        "cta_text": "Install Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/595446517_1415404150179531_1887304092660869303_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oVXz6uzmgpEQ7kNvwGM_nRw&_nc_oc=AdneXIArufZjqBNkg4omtyCUTWH7keugQdetoaCQqBzrRVUng2aOn92uIf3XdJBaAng&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=2GxqPi2XOSA3zQ2mt_ABUA&oh=00_Afsy9xZNHuCcODr242v9WarS3azHViXxE0mchaijNFv3nA&oe=698756C3",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/595446517_1415404150179531_1887304092660869303_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oVXz6uzmgpEQ7kNvwGM_nRw&_nc_oc=AdneXIArufZjqBNkg4omtyCUTWH7keugQdetoaCQqBzrRVUng2aOn92uIf3XdJBaAng&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=2GxqPi2XOSA3zQ2mt_ABUA&oh=00_AfvZ5Eq75M9izyR1N38UiB3SyeCu77eIR62wKy3N-0AQ-Q&oe=698756C3",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "보물 같은 빈티지 ‘나이키’만 +100,000개. 지금 후루츠 앱에서 더 다양한 아이템을 만나보세요.\n\n패션 러버들의 중고거래 앱 🍒",
+                        "cta_type": "INSTALL_MOBILE_APP",
+                        "caption": "itunes.apple.com",
+                        "link_description": "Download 후루츠패밀리: 빈티지, 세컨핸드 패션 중고거래 커뮤니티 by Fruits Family Company, Inc. on the App Store. See screenshots, ratings and reviews, user tips, and more games like…",
+                        "link_url": "https://fruitsfamily.com/product/w7bk/%EB%82%98%EC%9D%B4%ED%82%A4-%EB%B0%94%EB%A5%B4%EC%85%80%EB%A1%9C%EB%82%98-%ED%8C%A8%EB%94%A9",
+                        "title": "나이키 바르셀로나 패딩",
+                        "cta_text": "Install Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/595553039_2917209475334795_1714213740741276349_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ArezivsldXEQ7kNvwEKIpWd&_nc_oc=Adk5Zq9fSphpln_T9NEyrmhwVt9oreDmmoRhNmqImYp0mZOtJlbFsAQoZ7Oag6aHizI&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=2GxqPi2XOSA3zQ2mt_ABUA&oh=00_AfslYoKddxwTerxJW6QfBk76N_j6gUl0FV6XUARqc-DBnw&oe=69877175",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/595553039_2917209475334795_1714213740741276349_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ArezivsldXEQ7kNvwEKIpWd&_nc_oc=Adk5Zq9fSphpln_T9NEyrmhwVt9oreDmmoRhNmqImYp0mZOtJlbFsAQoZ7Oag6aHizI&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=2GxqPi2XOSA3zQ2mt_ABUA&oh=00_AfsSJIeDnsJiN-lPjdmX7wEfhzqrgfccabjqE_O1hZ2l6w&oe=69877175",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "보물 같은 빈티지 ‘나이키’만 +100,000개. 지금 후루츠 앱에서 더 다양한 아이템을 만나보세요.\n\n패션 러버들의 중고거래 앱 🍒"
+                    },
+                    "cta_type": "INSTALL_MOBILE_APP",
+                    "display_format": "DPA",
+                    "link_description": null,
+                    "link_url": "http://itunes.apple.com/app/id1466193804",
+                    "images": [],
+                    "page_categories": [
+                      "Product/service"
+                    ],
+                    "page_like_count": 5,
+                    "title": null,
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "fruitsfamily.co",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "INSTAGRAM"
+                  ],
+                  "start_date": 1765094400,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "1957741531786472",
+                  "collation_count": 1,
+                  "collation_id": "609395731925930",
+                  "page_id": "447884895736311",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "447884895736311",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/catclothers/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "김포 구제 옷파는 야옹이",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/616593490_1463154115377585_388980116029892459_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_wwyR-xYn5IQ7kNvwFJ9LIz&_nc_oc=AdnyeKiUjAjGebPWMigP5gkpN0wPyan092beY_dXnsFk7Mj2WUYO8tnO6ApWW6MFG1s&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=2GxqPi2XOSA3zQ2mt_ABUA&oh=00_AfsSw6B5Sf_Af772I8iizRc8AxTDJnPQrxJ9EhaSqU6eGQ&oe=698782A0",
+                    "event": null,
+                    "caption": "www.instagram.com",
+                    "cta_text": "Instagram 프로필 방문",
+                    "cards": [],
+                    "body": {
+                      "text": "🎈 800평 전국 최대규모 가성비 빈티지샵 🎈\n\n옷 \"한 벌\" 가격으로 이만~큼 살 수 있는 역대급 퀄리티의 가성비 빈티지샵 알고 계셨나요🎁🎀\n진짜 < 야옹이 >가 반겨주고 남녀캐주얼부터 여성복까지 다양하게 있고😸😸\n모든 종류 옷이 총집합🚩  매일 들어오는 신상👕👖\n나이키, 아디다스 스포츠브랜드부터⚽ 하이앤드, 명품 브랜드까지✨✨\n구매금액에 따라 최대 20%까지 엄청난 할인율✔✔\n\n-\n\n🎁 빈티지샵 #옷파는야옹이 🎁\n🏡 경기도 김포시 통진읍 귀전로154번길 85\n👔 @catclothers_\n⏰ 영업시간 Open 10:00 ~ Close 20:00\n🗓 365일 매일매일 오픈 ( 휴무x )\n🚕 단독 무료 주차장 ( 30대 이상 주차 가능 )\n📞 010-2448-8982\n\n-\n\n#빈티지샵 #빈티지쇼핑 #김포빈티지샵 #김포구제 #김포구제매장 #김포 #김포데이트 #김포쇼핑 #김포핫플 #김포가볼만한곳 #창고형빈티지 #강화가볼만한곳 #강화도데이트 #인천데이트 #인천여행 #인천데이트코스"
+                    },
+                    "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                    "display_format": "VIDEO",
+                    "link_description": null,
+                    "link_url": "https://www.instagram.com/_u/catclothers_",
+                    "images": [],
+                    "page_categories": [
+                      "Clothing (Brand)"
+                    ],
+                    "page_like_count": 2610,
+                    "title": null,
+                    "videos": [
+                      {
+                        "video_hd_url": "https://video-icn2-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQOpwaOdsU54EpCqX4VdLjHyqN3fzoZstYxdvq1KYZe4ZYgrq5OFmCYbpUVmrg563dFnMWKxcUPrFvF9Cr9dAQGEkxWHda23IMlIZgdRUzfUFA.mp4?_nc_cat=109&_nc_sid=5e9851&_nc_ht=video-icn2-1.xx.fbcdn.net&_nc_ohc=jGKIwvbyZNQQ7kNvwEDxvcL&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzMDIyNjEyNzEwMDI1MTcsImFzc2V0X2FnZV9kYXlzIjozMzYsInZpX3VzZWNhc2VfaWQiOjEwMTAxLCJkdXJhdGlvbl9zIjoyOCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=732e79ad657c5b97&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GNzQwNDVFRUM4MkQ4Rjk1QjQxNTdCQTk3REIwQTBCOF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dMRlJ4UnlBckQzYnQ0QWhBUEwtY2lzcHNZZ2JidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaq9rPHypnQBBUCKAJDMywXQDvu2RaHKwIYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZeqdAQA&_nc_gid=2GxqPi2XOSA3zQ2mt_ABUA&_nc_zt=28&oh=00_AfuFtAU76zRciNHw_VRdbeGos7mw-rQWmMYPCwxEmQVF0Q&oe=69877797",
+                        "video_preview_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/615672854_1198918908998450_6614544235991827244_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Z-6pJw4i2kUQ7kNvwGbVdTZ&_nc_oc=Adm2slXbZ8DxuNLHknqLducUdENpvzPC9QwEs8DUjkeVwTxF9v10R5zUuyAuMOt8Scw&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=2GxqPi2XOSA3zQ2mt_ABUA&oh=00_AfsiTX6mNAsbH51YYy7p0PEjwAhazTRGU94d8FlYAIYkDw&oe=6987720F",
+                        "video_sd_url": "https://video-icn2-1.xx.fbcdn.net/o1/v/t2/f2/m69/AQPqrw_rQ4306zHTtx-POe-2hdoMgrEuO2RIBNBJGpAD3cABZhu7DfJIbJVr15RfUU8fQsTGOVfA24u11Ori2Po9.mp4?strext=1&_nc_cat=104&_nc_sid=8bf8fe&_nc_ht=video-icn2-1.xx.fbcdn.net&_nc_ohc=_22kPMD3rZQQ7kNvwH8U5Dn&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTMwMjI2MTI3MTAwMjUxNywiYXNzZXRfYWdlX2RheXMiOjMzNiwidmlfdXNlY2FzZV9pZCI6MTAxMDEsImR1cmF0aW9uX3MiOjI4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=2GxqPi2XOSA3zQ2mt_ABUA&_nc_zt=28&oh=00_AftLh0BtuVRBUrA5kx-LghBYLOCEPmfqqxRWsnawpNaBFQ&oe=6987698E",
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null
+                      }
+                    ],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "김포 구제 옷파는 야옹이",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM"
+                  ],
+                  "start_date": 1768377600,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          }
+        ],
+        "page_info": {
+          "end_cursor": "AQHSuqxh37dV8WxjS0fw-IQwPXLVo-iRqcw1eRRo7G_RLuMN326BA2oiFnCPiTM8CMN6IXghiK27jIOHIdm1z4bjopUB4MzPunciWG2jmSnTNLPOKBW2dQWv-hIOLA6GuCVOXB0JWac-TScLgLuDKU7zJNCvDrC87tO2lNlN3-ufd-Qxy8ymiOD5c8yFMUPoHuRshfV1EpNU17-0X4GtAb6RkEOgQv28JQOc3_O-iDav9tvxMMnNEqj20dwQHNRGnXqv1fPa0p4_CDDWgozXzU9wUIwoVUJk27fsMqWb7zFWSFjaHYmDHIq3e9dYyVDsBNLP-7B45awC5GR9-m456QKSJL9TiUr8kzz2KlLBbMqVmhkTL7-56TYMxCH6UF4BZ03mGqZAdo6FEtQf3WYoQz2Qbva1d3folt8KZh0pvYO6yI-dmI54-tsUc6084incV91auvDbttr3NPzkl1JThxqcRHQZaqZYSCmg8fEtlmTAnxOvemNVbDGj9jNr-8bCOipyjtUkdzulOvzvEBMHbf54KvjNKH2r13cqN00Sny2hedkdL3updLfIt8Rq7HrJGQb5UoN5aN8VjJaxOpZNvfrDJQTWdloyqd9Zhpc4zdc0c3qObiDiWBR6Y3dxRx73epHDNFj10h0SlAtK4lOlUriuMZiF0rQIHBd_X-RIVMi9aIVA0-qtf1-jMBVrbP2kIQ9xthgZe6-ZP7GKbKCAYed_VKTQFtlHHu4VTnP9KfJ4K-QCFgvcV7P29amcVftn7aVEp9EjU30eKMdn0a6V49qqybI2l9MmgNnyTVAL-7kFTIDHxj8syTBNp87cfIZbwZx4Qtq6Z_Ob8v_1oRWeuJ-ti3sb1Q31oxra1p53AsjmLMlL0UyMKlCGH7W9dJs8iku9CIfkiUTt4xIczXXEK-z97CZJhNe7LD4BTeu0SiTFz59nmyGHksj5is8HxgX8PZ7IQ3IHkch3EqjTC5bXrPTI3RGl1W9_E6g6JLQrA_DuinL7SZGOwLJHU9-udf_Es17e-OYBNPBJqV1czWsFvWEuGOAGVCiUJsTqPY62mtMicUJtlsOAAO5HNRrTHoH2ORNq-r9tVMiJL5awEWNk69L5V4h36WxUbGhRD8R5sqcJU-Bd4-blOKzO49XuFH6MNJO_",
+          "has_next_page": true
+        }
+      }
+    }
+  },
+  "extensions": {
+    "server_metadata": {
+      "request_start_time_ms": 1770099864274,
+      "time_at_flush_ms": 1770099865026
+    },
+    "is_final": true
+  }
+}

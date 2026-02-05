@@ -1,0 +1,129 @@
+{
+  "data": {
+    "ad_library_main": {
+      "dynamic_filter_options": {
+        "content_languages": [
+          {
+            "count": 10,
+            "key": "ko",
+            "display_name": "한국어"
+          }
+        ],
+        "disclaimers": [],
+        "pages": [
+          {
+            "count": 1,
+            "key": "253442794702245",
+            "display_name": "29CM"
+          },
+          {
+            "count": 1,
+            "key": "100195026188703",
+            "display_name": "6032Corp."
+          },
+          {
+            "count": 1,
+            "key": "102379985725064",
+            "display_name": "collectwithme_"
+          },
+          {
+            "count": 1,
+            "key": "107166272200627",
+            "display_name": "draw__vintage"
+          },
+          {
+            "count": 1,
+            "key": "103164259268905",
+            "display_name": "Nike Seoul"
+          },
+          {
+            "count": 1,
+            "key": "132544546812936",
+            "display_name": "Notefolio l 노트폴리오"
+          },
+          {
+            "count": 1,
+            "key": "532799486593896",
+            "display_name": "performancelab_kr"
+          },
+          {
+            "count": 1,
+            "key": "359105620621205",
+            "display_name": "Racement"
+          },
+          {
+            "count": 1,
+            "key": "100744785868630",
+            "display_name": "vintage.manju"
+          },
+          {
+            "count": 1,
+            "key": "100145807038071",
+            "display_name": "김도현 뉴미디어 영어"
+          },
+          {
+            "count": 10,
+            "key": "458275074033694",
+            "display_name": "댄블 - 3040 남성을 위한 맞춤 스타일, 사이즈 추천"
+          },
+          {
+            "count": 1,
+            "key": "119546338123785",
+            "display_name": "무신사"
+          },
+          {
+            "count": 1,
+            "key": "201758973013693",
+            "display_name": "반스타92"
+          },
+          {
+            "count": 1,
+            "key": "620531737811618",
+            "display_name": "스포티라인"
+          },
+          {
+            "count": 1,
+            "key": "845433605639011",
+            "display_name": "에브리유니즈 학생복지스토어"
+          },
+          {
+            "count": 1,
+            "key": "764781720224569",
+            "display_name": "올댓부츠"
+          },
+          {
+            "count": 1,
+            "key": "692944623910260",
+            "display_name": "인사이트잡스"
+          },
+          {
+            "count": 1,
+            "key": "111213178522389",
+            "display_name": "젠마켓 - ZenMarket: 글로벌 No.1 일본 구매 서비스"
+          },
+          {
+            "count": 1,
+            "key": "106801155130659",
+            "display_name": "카페 모먼트인 : 당신의 특별한 순간"
+          },
+          {
+            "count": 1,
+            "key": "747724358414267",
+            "display_name": "현백디큐브광고"
+          }
+        ],
+        "reached_regions": [],
+        "countries": [],
+        "cities": [],
+        "targeted_regions": []
+      }
+    }
+  },
+  "extensions": {
+    "server_metadata": {
+      "request_start_time_ms": 1770098954476,
+      "time_at_flush_ms": 1770098954565
+    },
+    "is_final": true
+  }
+}

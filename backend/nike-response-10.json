@@ -1,0 +1,1618 @@
+{
+  "data": {
+    "ad_library_main": {
+      "search_results_connection": {
+        "edges": [
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "706964032473405",
+                  "collation_count": 2,
+                  "collation_id": "736010042619201",
+                  "page_id": "103164259268905",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "103164259268905",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/nikeseoul/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "Nike Seoul",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623430526_1432288121852674_6306866541712589684_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vJ5gq0AhlI4Q7kNvwGHc5rm&_nc_oc=Admmx41wA998ZGL_tIDB3WypB6WaCh3sES-ZPgxstQcCxmL8LdXYKfhNNjGeHhpvkwg&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AfvOB72DikzRGrfTEgu4Nsmaem7R0blEdjdIlpDnFgnldQ&oe=69876FC6",
+                    "event": null,
+                    "caption": "play.google.com",
+                    "cta_text": "지금 구매하기",
+                    "cards": [
+                      {
+                        "body": "앱 첫 구매 시 15% 할인",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "",
+                        "link_description": null,
+                        "link_url": "http://play.google.com/store/apps/details?id=com.nike.omega",
+                        "title": "나이키 에어맥스 TL 2.5",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625254324_915550957811240_6518150622377071628_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=p1qUBYYUTuUQ7kNvwFSZVym&_nc_oc=AdkXIIETFxCNco-VsQJ0q3ijMI_JmPraBoJ2xLyLe1CWSIvgV222v8LuJxzoC4We5K8&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AfvlCUqTxp4RR3dIXeZnCMMH_kLYSL_4mTqop178zv8hwA&oe=69877905",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624497248_1671707867576923_4279203138613137221_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=quIC0oBqOJ4Q7kNvwHVLP83&_nc_oc=AdkP2w0pYE1J3joJWVdeJBS9glCHmYE4RWfi58LCOHiA2MWwJRN9iZd3JrQgUNIkIXs&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_Afucvht8eoLK5CU2uUMdttSjC0P3b8XYJxgIhuUYKrXRqg&oe=698777B8",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "앱 첫 구매 시 15% 할인",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "",
+                        "link_description": null,
+                        "link_url": "http://play.google.com/store/apps/details?id=com.nike.omega",
+                        "title": "나이키 에어맥스 TL 2.5",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623429731_883534281241005_6295291004691796129_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3cnBMVSUyrsQ7kNvwFNhHIW&_nc_oc=AdnVIG23bsyG9vkAZHFXA326idX1b08T8ZSkJRLE-rzmKZD09rRlD7k18sTfZf3MJIU&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AfsrlLKMNtR6Z2bRiOo-NdcV0PNpxXINGjabi4UXHrjyzQ&oe=69874FDE",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625159140_1388288359157078_1160010883421561848_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=c3qj9dxDwtEQ7kNvwEQZQ8n&_nc_oc=AdmVP7QK8i062fTPTh9npoN9cGClCtc2vSKFB0TkFiEaoZm2SemQ6Lb7_z9D0P6Rk5s&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AfvwJgkWnFy4rfNPJZVZiiEvP54buKGyZDAVfxShmykkgw&oe=69876055",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "{{product.brand}}"
+                    },
+                    "cta_type": "SHOP_NOW",
+                    "display_format": "DCO",
+                    "link_description": "{{product.description}}",
+                    "link_url": "http://play.google.com/store/apps/details?id=com.nike.omega",
+                    "images": [],
+                    "page_categories": [
+                      "Brand"
+                    ],
+                    "page_like_count": 26593,
+                    "title": "{{product.name}}",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "Nike Seoul",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "MESSENGER",
+                    "THREADS"
+                  ],
+                  "start_date": 1769760000,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "3246783448836349",
+                  "collation_count": 1,
+                  "collation_id": "25120450440991204",
+                  "page_id": "771127719407642",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "771127719407642",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/61578042280028/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "My fashion blog Coyun",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/605117967_1769579897040187_4281822400549598291_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zJeqSX38AW4Q7kNvwHIkc9H&_nc_oc=AdmeS3A6PvELTl0VGKq_ZTp2_PIpOiqs7IWfH2_PQCCkZA9hKHqXDTxeSUphWK34qgs&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AftCsJkupft9MSkRze4-tNY-y16fSSMjtKZgiwzi9ArE3g&oe=69876F9D",
+                    "event": null,
+                    "caption": "coyun.co.kr",
+                    "cta_text": "더 알아보기",
+                    "cards": [
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "coyun.co.kr",
+                        "link_description": " ",
+                        "link_url": "https://coyun.co.kr/",
+                        "title": "Coyun.co.kr- 믿을 수 있는 쇼핑 플랫폼",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/605123909_1935057704072046_6117852717339454205_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mJyavMDTHEEQ7kNvwG1MkcH&_nc_oc=AdkITCqZKiTOsQpsGNQ3i-0yE4deb8Yj7Y7OyiyGEyO7F-7I5i6vAPRZYllv4V6wDT4&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AfvzD8F0Cqh46AhSmS8LO5nY7nAF7rAgWRIVF6yXMzlTFw&oe=69877D3C",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/605113881_25825354680416562_1440998201585518064_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=53hzLmSVZ6cQ7kNvwHtQDz3&_nc_oc=Admv1c7pCe55AeYd2Qb3eJVoJ9kwo1qaO734LlqVV_c79VJo0F9SoL1Kj2COUW-TX74&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AfuWdzD_gW-Pg3ZdBGHmOEjqhH7b9kUc53-y1xmkNR3w-Q&oe=6987695E",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "coyun.co.kr",
+                        "link_description": " ",
+                        "link_url": "https://coyun.co.kr/",
+                        "title": "Coyun.co.kr- 믿을 수 있는 쇼핑 플랫폼",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/605107864_1621758705507735_5765815680333053296_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8LS9gR0M86cQ7kNvwHDNaAb&_nc_oc=AdmfYsaxWUQaA6xR9wusEvTU4hm3j84OmpeqoQ-ud8hWG8n3hAKFmSE1BYMJpSZB2dQ&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AfujSB9cDmmleYtxM7PYTPTdkAkMzmFQ9RemlZJYfUbrHw&oe=69877895",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/605244098_3920544678238953_8670529463883555157_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7w0oSsRj08kQ7kNvwHPcv0l&_nc_oc=AdkG63Oc2YhtfYOrFeqbz4OP1CyDVwi4LPUZlytKXIMmf-u6Izfh6bpFGj5PDPInNXs&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AftE9IDGiAc6V1BQKNDTtQC0uy42zmljd-Ge0Gb-8ObelQ&oe=69874F52",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "coyun.co.kr",
+                        "link_description": " ",
+                        "link_url": "https://coyun.co.kr/",
+                        "title": "Coyun.co.kr- 믿을 수 있는 쇼핑 플랫폼",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/606382426_1848793469332533_1258305625216585093_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Otnol-MmCPUQ7kNvwGPk3MN&_nc_oc=AdkvBiAyBwE0hwP2yiXPiJXHL2Tmk5dQWb9pJRqQvNw3rs-f4NDkM5SAZCyGsVc3Tf4&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_Afsn9hQp_BBkWLM7haSV_Yze1jRYwdNt7MzBytlhscbaog&oe=69877A2D",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/605116306_1135071738707135_6353338051349446153_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qm9VLta-M7gQ7kNvwGIZW-H&_nc_oc=AdlHOvGqMNvulswcgM2nQwWxgby4uPqNVq6CayP4bpYrK4W5_qC56BAI_Z-dUHOcZYM&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AftQcdbyOMixZ4gojk0FuN91tVL-7uel_-A3R7_gVNLCZA&oe=69876054",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "coyun.co.kr",
+                        "link_description": " ",
+                        "link_url": "https://coyun.co.kr/",
+                        "title": "Coyun.co.kr- 믿을 수 있는 쇼핑 플랫폼",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/605128041_1593784354962434_923962827605010372_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jzFiLG1YrZ8Q7kNvwG2RHyw&_nc_oc=Adl48W0KaZ2mxHqU9YdiTsAnom3A3X6VtTA_mb0ItOJ-8j7QSFX_MggXg5esQFJdarE&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AfsVIv-WrvyW-Z2IBeJjMAvwlgA4MYb_dHgHVHH3xN2itA&oe=698752F0",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/605116849_1386019389670770_8708254088586532924_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0bsDWMr6_kgQ7kNvwHk_tN5&_nc_oc=Adm0mU7W9Ua17_yoeWuYKjTPPpZXBJebTCkRemhfHBuLx-HSf9vyPMv51KHuNGvz0bc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AfuWwr8HZS-ehADwpbTYr6MeBOyW5beQvlbYj6XgqJj9zw&oe=698754BE",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "coyun.co.kr",
+                        "link_description": " ",
+                        "link_url": "https://coyun.co.kr/",
+                        "title": "Coyun.co.kr- 믿을 수 있는 쇼핑 플랫폼",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/605255086_1353833882646500_8727390484012736414_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=uDEqtEBq3eMQ7kNvwHxrtuq&_nc_oc=AdlyolORPVVvN_mOnPUWAP-TvA0nAQrpvY8vrxcFPQVlKKFEquzX-IIIyw8YOcV8oYo&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AfuzzJ5vkGYa9tz-rg8Bl28vaOKmfbvU1_qzT-afWlJPZw&oe=69876055",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/606196629_2934715813388835_3291869532748793780_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Ot91z1CxgwMQ7kNvwEWSdB6&_nc_oc=AdkSX2PAfGQqzylWcl8Tpgzi8pMQOJ8miinvAR-Aaolel4QxcWGjdLcueauzsBwFEtg&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AfsqST5aNAapBgVzRJFqBxXCdcH17cYOgsEGotjui7q2qA&oe=69877ECE",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "coyun.co.kr",
+                        "link_description": " ",
+                        "link_url": "https://coyun.co.kr/",
+                        "title": "Coyun.co.kr- 믿을 수 있는 쇼핑 플랫폼",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/605106271_1410601427151080_4071216775334065260_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xJUtbVMlLFwQ7kNvwGbIWRU&_nc_oc=Adlk51npJTAvR4yTVflDHj7PoRQJUpXescdDyB5dSHTrFX9f2PyNesOByMt_641Td1c&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AfuclCXuIj1Ejmf57gbLsKrfiq3cQOioJMAgoM8OC4eUhg&oe=69875240",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/606300062_3846325318998003_6030773512572132279_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fVCOkSSyERkQ7kNvwF8AFyT&_nc_oc=Adly4AUhi24r0BOU27H82BwUvh4WV0s1vxJjrIISbxxkQtZbuXoMGAD8YvA2dev1Rnw&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AfuPSFlzGcXvKl2CEckLl8jKerNBtLBamzssEpNhol9xDw&oe=6987672D",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "coyun.co.kr",
+                        "link_description": " ",
+                        "link_url": "https://coyun.co.kr/",
+                        "title": "Coyun.co.kr- 믿을 수 있는 쇼핑 플랫폼",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/606263933_1390663095762588_5069309636695608425_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tJwY0_-QVEsQ7kNvwGDFcJ1&_nc_oc=AdlCEjWxz80xn4IdGuraNdb9adohj3p6SnuabTEVe1heVduDqcWWNfg26FIf0cb04F4&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AftLQS7ySqt9lCBPRB5roj1OxLHpk89LeGxK0uCBkShiLA&oe=698766CD",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/603971006_2069734580533893_7309005508256399991_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bAEGx1ITJREQ7kNvwHE6OcR&_nc_oc=AdmVJz-fceywy4OiQG22Jtu6MyV_wYxmAC5hAZDd4RRG0OugFm2couMwJbnm_dD3R7I&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AfvsLDVU1AMu2beJrWEJ_E104Ut2A3VWQ9hh8F8CFwKKTg&oe=69877198",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "coyun.co.kr",
+                        "link_description": " ",
+                        "link_url": "https://coyun.co.kr/",
+                        "title": "Coyun.co.kr- 믿을 수 있는 쇼핑 플랫폼",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/605128902_1259273939360958_7464278069867573079_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-yiNclHgDR0Q7kNvwHW_eyK&_nc_oc=AdmoEKG7SMjFxc23qhIYhJmN6_VIUswAAQHAnJeo18b-L-Z6KprCY3v9K2Xlk1q9xFo&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AfvoN8bdHNWEHalZJECZ54OMkduPLa5NSLwAaAB5UD1z4Q&oe=69875367",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/605116306_1987582121813580_6621083192732822730_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NL9nJWfGCWIQ7kNvwE53BqB&_nc_oc=AdnmQFaT4rX1IaOS08DxcQRbTxGIj0jEnqOo-LRNQEOPAjW0JpFmtabOw_UChCr60Xk&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_Afvf4rsMfSb6SAmOs3WN9g2V1U6Eugn4W1gIt25Yv5x1wA&oe=69875B83",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "사이트: www.coyun.co.kr\n\"한정 타임 세일\"\n\"10년 한국 판매 경험\"\n\"카드 결제 가능\"\n\"편리한 반품/교환 서비스\"\n\"초특가 59800원\"\n\n다양한 브랜드 운동화 (나이키, 뉴발란스, 아디다스, 아식스)\n남성/여성 신발, 다양한 스타일, 다양한 사이즈 보유\n\n[특가 알림] 뉴발란스 530 스틸 그레이 블루 블랙,\n[특가 알림]나이키 줌 보메로 5 코블스톤 바스트 그레이 블랙 오트밀 포톤 더스트 앤 메탈릭 실버\n오직 59,800원으로 당신의 일상을 업그레이드하세요!"
+                    },
+                    "cta_type": "LEARN_MORE",
+                    "display_format": "CAROUSEL",
+                    "link_description": null,
+                    "link_url": "https://coyun.co.kr/",
+                    "images": [],
+                    "page_categories": [
+                      "Shopping"
+                    ],
+                    "page_like_count": 16,
+                    "title": "My fashion blog Coyun",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "My fashion blog Coyun",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM"
+                  ],
+                  "start_date": 1766563200,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "1217923100463699",
+                  "collation_count": null,
+                  "collation_id": null,
+                  "page_id": "1275105262550265",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "1275105262550265",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/croket.official/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "크로켓 : 전세계 커넥팅 쇼핑",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/606047952_1561098468342806_2647775739944057426_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=y5KtDjFdJcUQ7kNvwHAxGr0&_nc_oc=AdnkhdIZ_9lTicsoVq9RWyYvSYQgZrtc6X9us7ot0cXCBME6lgOYIAnfZ3iDiHygLXE&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AfuyG0h7--pUf53ioffiKErGrpn7SfYTKPfufsPa3Dnj2g&oe=6987788D",
+                    "event": null,
+                    "caption": "croket.co.kr",
+                    "cta_text": "지금 구매하기",
+                    "cards": [
+                      {
+                        "body": "아디다스 바람막이부터 나이키 패딩까지!\n한국에서 못 구하는 해외판 한정 특가로 구매하세요🔥",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "croket.co.kr",
+                        "link_description": "아디다스 브랜드 상품을 크로켓에서 무료배송으로 만나보세요.",
+                        "link_url": "https://web.croket.co.kr/seller/product/5d9f2b1f40938077b7fdc48c?yg_type=SNS_roas&utm_source=SNS&utm_medium=roas",
+                        "title": "반 고흐 뮤지엄 인물화 컬렉션북",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/607140046_2477720329352255_5057636280103372976_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-kPd55jpey8Q7kNvwEeK7Y2&_nc_oc=AdnP8X-KHOsKNYIA-_nlom15ATRJ931-H5_j1TUh6aqfjyJLhLOSwzTgC8SSZzYA4qQ&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_Afuzc4E0FqcchTHnLx5CANEcsSZWUpnxnq4LKuxMUvpSNg&oe=69875E46",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/607140046_2477720329352255_5057636280103372976_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-kPd55jpey8Q7kNvwEeK7Y2&_nc_oc=AdnP8X-KHOsKNYIA-_nlom15ATRJ931-H5_j1TUh6aqfjyJLhLOSwzTgC8SSZzYA4qQ&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_Aftu5PNLsOOzSYSY1OtEuI3sB9_k8OFLmEQaaALa5Hvh_g&oe=69875E46",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "아디다스 바람막이부터 나이키 패딩까지!\n한국에서 못 구하는 해외판 한정 특가로 구매하세요🔥",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "croket.co.kr",
+                        "link_description": "아디다스 브랜드 상품을 크로켓에서 무료배송으로 만나보세요.",
+                        "link_url": "https://web.croket.co.kr/seller/product/5d9f23dc40938077b7fdc465?yg_type=SNS_roas&utm_source=SNS&utm_medium=roas",
+                        "title": "스테델릭 뮤지엄 캔버스백",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/605141929_1369401794446189_2836602286867262257_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XBmMbOK1FagQ7kNvwE82kVM&_nc_oc=AdmpY6sXRGf2Gu35OmCFgiqnbmAqdwDYecOqZVVUMHamRja66-oUqitooQm-S_lpoXU&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AftsvfJxtu_BjVKenYfskVBbMET1PQ_JOJ5Nn_ADuMXArQ&oe=69877D84",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/605141929_1369401794446189_2836602286867262257_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XBmMbOK1FagQ7kNvwE82kVM&_nc_oc=AdmpY6sXRGf2Gu35OmCFgiqnbmAqdwDYecOqZVVUMHamRja66-oUqitooQm-S_lpoXU&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AfsRkPLU4TapU8u-SinO7eMWx8Poaek8nU6ta_PhGpHaQA&oe=69877D84",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "아디다스 바람막이부터 나이키 패딩까지!\n한국에서 못 구하는 해외판 한정 특가로 구매하세요🔥",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "croket.co.kr",
+                        "link_description": "아디다스 브랜드 상품을 크로켓에서 무료배송으로 만나보세요.",
+                        "link_url": "https://web.croket.co.kr/seller/product/5d9f23aabbdb7a0e9eda812f?yg_type=SNS_roas&utm_source=SNS&utm_medium=roas",
+                        "title": "토니스 초콜리니 네덜란드 한정판",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/607625816_2023603595100039_282276004931792201_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cdNHgQjcEzIQ7kNvwFrqwix&_nc_oc=AdmM3FLQfN14Sr7vJx_aT9atdjdBukQZ3eJSNQ3htR6Fjds4-WlRWklHKi6qVLjaPUc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AftShtQCxS3DmU5LpTB9-CqxNgAq8DYAg1PcJAxZGRmVPA&oe=69874FBF",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/607625816_2023603595100039_282276004931792201_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cdNHgQjcEzIQ7kNvwFrqwix&_nc_oc=AdmM3FLQfN14Sr7vJx_aT9atdjdBukQZ3eJSNQ3htR6Fjds4-WlRWklHKi6qVLjaPUc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AfvM2qxL6UZuVrZKm8RUdwlYHeFPvKAtgCkSI8P1sGE6pg&oe=69874FBF",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "아디다스 바람막이부터 나이키 패딩까지!\n한국에서 못 구하는 해외판 한정 특가로 구매하세요🔥",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "croket.co.kr",
+                        "link_description": "아디다스 브랜드 상품을 크로켓에서 무료배송으로 만나보세요.",
+                        "link_url": "https://web.croket.co.kr/seller/product/5c3c39d873daad4f216b0e7a?yg_type=SNS_roas&utm_source=SNS&utm_medium=roas",
+                        "title": "파타고니아 맨즈 마이크로 디 풀오버 긴팔 롱슬리브 스냅 티셔츠 26176",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/608972076_2039421646814392_3049655837610591786_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SzYQbpkkPk8Q7kNvwF-omBf&_nc_oc=AdnJjoKhtRq4wyjNY1Gr1BjYx7UcW_ROyUk5tUeGbMz-14mMMM3Bpn6DBv-KbwB4S3M&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AfvSLcAs_S8cDA5dOYgwl8N6hZvMXLTOqD6FD2LYliPVdw&oe=69876DC5",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/608972076_2039421646814392_3049655837610591786_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SzYQbpkkPk8Q7kNvwF-omBf&_nc_oc=AdnJjoKhtRq4wyjNY1Gr1BjYx7UcW_ROyUk5tUeGbMz-14mMMM3Bpn6DBv-KbwB4S3M&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_Aft_clfu3XyfZ14OQh6a0AlSa_0lugDEWJQYD6LMU6bmtA&oe=69876DC5",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "아디다스 바람막이부터 나이키 패딩까지!\n한국에서 못 구하는 해외판 한정 특가로 구매하세요🔥",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "croket.co.kr",
+                        "link_description": "아디다스 브랜드 상품을 크로켓에서 무료배송으로 만나보세요.",
+                        "link_url": "https://web.croket.co.kr/seller/product/5d403af3942f12427a026661?yg_type=SNS_roas&utm_source=SNS&utm_medium=roas",
+                        "title": "파타고니아 남성 배기스 쇼츠 5인치 롱스 7인치 반바지 블랙 네이비 57022 / 58035",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/607472979_25877252851899906_7582013058709719036_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ny_bLhsnjIgQ7kNvwFfb5RK&_nc_oc=AdlpA0tzrDoGGADHOITPj3OnLaYmoIIZgxUWCoIlBfb3BaCIZuL7bEBXlpPc4jckeGg&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_Aft_Codp3q24fYleEfu6FxUFnHpvVhmLYQBtxjB8vLa0Wg&oe=69875C43",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/607472979_25877252851899906_7582013058709719036_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ny_bLhsnjIgQ7kNvwFfb5RK&_nc_oc=AdlpA0tzrDoGGADHOITPj3OnLaYmoIIZgxUWCoIlBfb3BaCIZuL7bEBXlpPc4jckeGg&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AftRTYg7EPBcJdTKX_vIoqap1eMjvDAdzrJBoldXLHRCBw&oe=69875C43",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "아디다스 바람막이부터 나이키 패딩까지!\n한국에서 못 구하는 해외판 한정 특가로 구매하세요🔥",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "croket.co.kr",
+                        "link_description": "아디다스 브랜드 상품을 크로켓에서 무료배송으로 만나보세요.",
+                        "link_url": "https://web.croket.co.kr/seller/product/5d25b207ac1ae635195eae8a?yg_type=SNS_roas&utm_source=SNS&utm_medium=roas",
+                        "title": "너프 피라냐 물총",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/607609974_1399227854992106_5927239531135008656_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6ugW0-gRkPAQ7kNvwEHN50L&_nc_oc=Adnd4AeCUpO0VtReWGXrWaeBl5iQbdKF2d5igsVwEKlYniIY9EBb09dT7DTVjCYeOVs&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AftfWRwM6rgDU6soQC6GVIJctHLK30PYbja8WeWzkDTzDQ&oe=69877254",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/607609974_1399227854992106_5927239531135008656_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6ugW0-gRkPAQ7kNvwEHN50L&_nc_oc=Adnd4AeCUpO0VtReWGXrWaeBl5iQbdKF2d5igsVwEKlYniIY9EBb09dT7DTVjCYeOVs&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AfvARU8WTAVF_rpG8Kiqoi0zrwAsGUU8CRKmV6Md_FrG5Q&oe=69877254",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "아디다스 바람막이부터 나이키 패딩까지!\n한국에서 못 구하는 해외판 한정 특가로 구매하세요🔥"
+                    },
+                    "cta_type": "SHOP_NOW",
+                    "display_format": "DPA",
+                    "link_description": null,
+                    "link_url": "https://www.croket.co.kr/brand/68be33f054fd2a25f7e68eba?yg_type=SNS_roas&utm_source=SNS&utm_medium=roas",
+                    "images": [],
+                    "page_categories": [
+                      "Shopping"
+                    ],
+                    "page_like_count": 18636,
+                    "title": "{{product.name}}",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "크로켓 : 전세계 커넥팅 쇼핑",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "THREADS"
+                  ],
+                  "start_date": 1769500800,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "1724971868083713",
+                  "collation_count": 2,
+                  "collation_id": "1722691311959813",
+                  "page_id": "605000166022530",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "605000166022530",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/61573716446167/",
+                    "root_reshared_post": null,
+                    "byline": "",
+                    "disclaimer_label": null,
+                    "page_name": "Idol Prank Video Call & Chat",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/481046666_1145643860541317_8612435839878105673_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UHch8XSsLVUQ7kNvwEyiseI&_nc_oc=AdmFh6XX6wq68W8Jxnmp3MCI7wj5fED5nrCqp1eN84jgoTRlHlhPh4teCxMD187ifYA&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AfuYHTZ2zgk9xvlFbXKJ1LVqZcTMdjGgeI8BbykgAiP1dQ&oe=69877E42",
+                    "event": null,
+                    "caption": "play.google.com",
+                    "cta_text": "지금 설치",
+                    "cards": [],
+                    "body": {
+                      "text": "Call to Idol easily"
+                    },
+                    "cta_type": "INSTALL_MOBILE_APP",
+                    "display_format": "VIDEO",
+                    "link_description": null,
+                    "link_url": "http://play.google.com/store/apps/details?id=com.fakecall.idol.prank.video.call.chat",
+                    "images": [],
+                    "page_categories": [
+                      "Media/news company"
+                    ],
+                    "page_like_count": 13,
+                    "title": "Call & Direct celebrity",
+                    "videos": [
+                      {
+                        "video_hd_url": "https://video-icn2-1.xx.fbcdn.net/v/t42.1790-2/481683558_1129489492247838_7934391733161765941_n.?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cAm-yYuRYSoQ7kNvwFdOXcu&_nc_oc=AdmFqDguOTYRZ47xPBbltdSTmKJda9OBHoatc3JxQJKcqra0jFPh2gKmtGbhfEHpypU&_nc_zt=28&_nc_ht=video-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AftMRzdsiZtHbaPnfUZv9rFj6zCjF1-oZVtJ2kX8o1BjcQ&oe=69876D7B",
+                        "video_preview_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/481942214_1155488119367290_6497670902568991917_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-5214aoK5MIQ7kNvwHOMxbW&_nc_oc=Adl_fZesqHKRPgiiD7Rr5cOnzhq-xQQ5E5TlsF8GU808l5zn4kuwWFay6M_99gp9Ge4&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AfuAKPx2KxAq0GV_khPkOYLX-y5PZ0iiHqhGh632DOI1Fg&oe=69874FE8",
+                        "video_sd_url": "https://video-icn2-1.xx.fbcdn.net/v/t42.1790-2/482146289_1851953202304776_5898488717448275840_n.mp4?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=irF333loH04Q7kNvwFyC_38&_nc_oc=AdkzbpHkmhXh78dz6HWRXdH1NHtuh7WgxSJm5h3iXNI0y6lTPFLkegprHgc0AHZKXJE&_nc_zt=28&_nc_ht=video-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_Afvvvk2nrsmx2g354HRspmOX8BF-PgRDW51VlsGmE78trw&oe=69874F75",
+                        "watermarked_video_hd_url": "",
+                        "watermarked_video_sd_url": ""
+                      }
+                    ],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": false,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "Idol Prank Video Call & Chat",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": true,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1742108400,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "MESSENGER"
+                  ],
+                  "start_date": 1741161600,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "4375369982709217",
+                  "collation_count": null,
+                  "collation_id": null,
+                  "page_id": "741113015756401",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "741113015756401",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/61579958701305/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "대한민국 최초 슈즈 멀티샵 슈마커",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/584863302_1605845160782228_6908206934387509433_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3DDFxI2piUEQ7kNvwH91wPV&_nc_oc=Adm7wff40xiqc3IhQ-iSKzufiIPfVCLW046w-6O_zLEAiwQBLa-eMphLDThgs0N_Gf0&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_Afs71bOxbMqRTzVQ497YoU5FF1VPGdr0KBXlsM0bgjp6cA&oe=69874CEE",
+                    "event": null,
+                    "caption": "shoemarker.co.kr",
+                    "cta_text": "더 알아보기",
+                    "cards": [],
+                    "body": {
+                      "text": "패딩 퐁실함으로 완성하는 윈터 룩\n나이키 퍼플 미니 백팩"
+                    },
+                    "cta_type": "LEARN_MORE",
+                    "display_format": "IMAGE",
+                    "link_description": "즐거움을 신다! 나이키, 아식스, 아디다스 등 인기 브랜드 슈즈 멀티샵",
+                    "link_url": "https://www.shoemarker.co.kr/ASP/Product/ProductDetail.asp?ProductCode=50171&utm_source=SNS&utm_medium=DA&utm_campaign=purchase&utm_content=NIKE_2511",
+                    "images": [
+                      {
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/585791080_677580335432157_4040529705485277855_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cmOJmwpfI-MQ7kNvwFYM2J4&_nc_oc=Adl4Uw6zUz_F4pHNhzAj4uGfLBtxKwtWpWMe3KlPBdB3bf9-hVF6XiIuPj8mahbFP4o&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_Aft2a_u8tqj5bjA4L7nOKzr9DOzdm-vvfbOZDiJTEXtJ2w&oe=6987800D",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/586077398_1491328095316508_7235484767602883679_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hzR_HZRZCvoQ7kNvwE5KmJB&_nc_oc=AdlAeupBjUC-imeSbbM-B-Dwq8a78zA3ZAWFBitRTeg5q3iaphqxwesCIXjdjJYojQE&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AfvqDLnt-IqCEu13rNFkNiPGX_z_e_hPA3GoWA2234oabA&oe=69876EDE",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "page_categories": [
+                      "Shoes"
+                    ],
+                    "page_like_count": 12,
+                    "title": "나이키 퍼플 미니 백팩",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "대한민국 최초 슈즈 멀티샵 슈마커",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "MESSENGER",
+                    "THREADS"
+                  ],
+                  "start_date": 1763539200,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "1359893278837678",
+                  "collation_count": 1,
+                  "collation_id": "4176248269297038",
+                  "page_id": "876625512197959",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "876625512197959",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/61583903104931/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "Lina",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/590318911_1597276444987332_4593449731059688815_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RJ6W4zFc5rQQ7kNvwGuQHy5&_nc_oc=AdmGGpa2wSm17UL0aG7__4Hzky3PvPRmCZY9SVyE3vKdnsJ8uDHlgQLxfEVowrVaG5M&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AftzFNq_IajthwXsD8-xo_-_PxPT7b6Ky4nzZ8-Lzu9PKQ&oe=69877264",
+                    "event": null,
+                    "caption": "wellnessinsight.life",
+                    "cta_text": "더 알아보기",
+                    "cards": [],
+                    "body": {
+                      "text": "이 글을 쓰기까지 거의 1년이 걸렸어요. 누가 자기 집안 치부를 드러내고 싶겠어요? 그런데 지난주 아빠가 그러시더라고요. \"딸아, 우리랑 같은 고생하는 가족들한테 조금이라도 도움이 된다면...\" 그래서 용기내서 써봅니다.\n\n작년 5월, 토요일 아침이었어요. 엄마한테서 카톡 보이스톡이 5분짜리로 왔더라고요.\n\n\"얘야, 나 진짜 네 아빠 때문에 못 살겠다. 벌써 5일째 거실 소파에서 주무셔. 어제는 코골이가 얼마나 심했는지 옆집 김 여사가 새벽 2시에 '혹시 리모델링 하시나요?' 하고 문자 보냈어. 진짜 지진 나는 줄 알았다니까. 나 진짜 이혼 변호사 알아볼까 봐.\"\n\n엄마가 또 오버한다고 생각했죠. 우리 엄마 원래 좀 드라마틱하거든요 – 전라도 분이라서요.\n\n그런데 6월에 부모님 집에서 주말 보내면서 완전히 이해했어요.\n\n진짜 옆방에서 드릴 작업하는 소리였어요. 아니, 더 심해요. 고장난 전기톱에 경운기 소리를 섞어놓은 것 같았어요. 남편이 노이즈 캔슬링 이어폰에 백색소음 최대 볼륨으로 틀고도 못 잤어요.\n\n근데 진짜 최악은 소음이 아니었어요. 갑자기 조용해지는 거예요.\n\n\"드르렁... 컥컥...\" 그리고는, 정적.\n\n세기 시작했어요: 1, 2, 3... 10초쯤 되니까 불안하고, 20초쯤 되니까 \"아빠!\" 하고 소리치고 싶고, 30초 – 한번은 47초까지 센 적 있어요 – 뛰어가서 확인했어요.\n\n그러다 갑자기: \"컥! 후아악!\" 물에 빠졌다가 나온 사람처럼.\n\n우리 아빠는 전형적인 \"강한 남자\" 스타일이었어요. 현대자동차 울산공장에서 32년 근무. \"단 하루도 안 빠졌다\"가 입버릇. 178cm, 전직 축구선수, 60대 조기축구회 아직도 뛰고 계세요. 66세인데 아직도 \"나 아직 젊어\"라고 하시죠.\n\n근데 최근 몇 년 사이...\n\n- 어버이날 외식 중에 잠들어버림 (젓가락 든 채로)\n- 삼촌 장례식장에서 코골기 (스님이 독경 멈추심)\n- 월드컵 한국전 보다가 잠들어버림 (16강전이었는데!)\n- 조카 돌잔치에서 서서 잠들어버림 (축하 노래 부르는 중에)\n\n엄마가 써놓은 메모 발견했어요:\n\"영수 일과: 저녁 6시 퇴근, 7시 저녁, 7시 30분 거실에서 기절, 뭘 해도 안 일어남, 11시에 나 혼자 위층으로\"\n\n7월. 엄마가 폭탄 선언: \"변호사 이미 만났어.\"\n\n병원이라곤 회사 건강검진 말고는 안 가던 아빠가 드디어 서울대병원 수면클리닉 예약.\n\n결과: AHI (무호흡-저호흡 지수) 53.2. 중증 수면무호흡증.\n\n젊은 여자 교수님이 차트 보여주시면서:\n\"환자분, 밤에 산소포화도가 63%까지 떨어집니다. 정상은 95% 이상이에요. 매일 밤 백두산 정상에서 주무시는 거나 마찬가지예요. 심장마비나 뇌졸중 위험이 3.5배 높습니다.\"\n\n아빠 얼굴이 하얘지셨어요.\n\n양압기(CPAP) 치료 시작. 월 15만원 렌탈.\n\n첫날 밤: \"이거 고문이야! 진공청소기로 물고문 당하는 것 같아!\"\n\n적응 도와드리려고 별짓 다 했는데, 2주 후: \"차라리 자다가 죽는 게 낫지, 이 다스베이더 마스크 쓰고는 못 살아!\"\n\n결국 반납. 위약금 140만원.\n\n그 다음은 별의별 시도들:\n\n- 맞춤 구강내 장치: 650만원 (보험 안 됨)\n  → \"턱이 빠질 것 같아!\"\n  \n- 코골이 방지 패치 (쿠팡에서 전 브랜드 구매): 총 45만원\n  → \"미식축구 선수 같아 보여\"\n  \n- 수입 코골이 방지 스프레이: 개당 8만 9천원 (6개 구매)\n  → 효과 제로, 그냥 박하향\n  \n- 옆으로 자는 벨트: 35만원\n  → 허리 디스크 악화\n  \n- \"스마트\" 코골이 방지 베개 (쿠팡): 89만원\n  → 모터 소리가 엄마 불면증 유발\n\n**총 지출: 1500만원 이상. 결과: 빵점.**\n\n8월 15일, 아빠 67번째 생일. 강원도 펜션 대관해서 온 가족 모임 – 16명.\n\n새벽 3시 17분 (절대 못 잊어요): 쿵 소리.\n\n아빠가 침대에서 떨어지셨어요. 정신 못 차리고, 헐떡이면서, 혼란스러워하시면서. \"여기가 어디야? 뭐하는 곳이야?\" 6살 조카가 울면서: \"할아버지 죽어요?\"\n\n119 부를 뻔했어요. 15분쯤 지나서 정신 차리셨는데, 그 눈빛... 두려움, 부끄러움, 패배감... 가슴이 찢어졌어요.\n\n아침에 속삭이시더라고요: \"내가 다들 인생 망치는 것 같아.\"\n\n한 달 뒤, 결혼 40주년 기념으로 독일 여행 보내드렸어요. 하나투어 10일 패키지.\n\n9월, 뮌헨 포시즌스 호텔.\n\n둘째 날 아침, 영상통화 믿을 수 없었어요.\n\n아빠가 빛나고 계셨어요. 프레첼이랑 소시지 드시면서 20대처럼. 눈이 반짝반짝.\n\n\"딸아, 너 안 믿겠지만 9시간을 푹 잤어. 9시간! 한 번도 안 깨고. 천국에 온 줄 알았어.\"\n\n엄마도 확인: \"코 소리 하나도 안 났어. 나 10분마다 숨 쉬나 확인했다니까.\"\n\n시차 때문이겠지 싶었는데.\n\n뮌헨에서 4일 내내 완벽했어요. 아빠가 다시 태어나신 것 같았어요. 셋째 날, 동네 산책도 안 하시던 분이 영국정원에서 3시간 하이킹. 그날 저녁 맥주 드시고, 농담하시고 – 이거 진짜예요 – 레스토랑에서 엄마랑 왈츠 추셨어요.\n\n\"1984년에 만났던 그 남자가 돌아온 것 같아,\" 엄마가 울면서.\n\n체크아웃할 때 프런트 직원한테 물어봤어요, 그레타라는 금발 여자분:\n\n\"아버지가 여기서 정말 잘 주무셨는데, 베개가 특별한가요?\"\n\n미소 지으며: \"아, Dегilа 베개 말씀이시군요. 독일 프리미엄 호텔 표준이에요. 하이델베르크 의사들이 수면 호흡 문제 전문으로 개발했죠. 독일에서는 수면을 아주 진지하게 생각해요. 좋은 베개는 사치품이 아니라 건강 투자죠.\"\n\n한국 돌아와서 바로 검색.\n\n공식 한국 사이트 찾았어요. 개당 8만원.\n\n1500만원 날린 거 생각하면... 껌값이죠. 바로 4개 주문했는데, 한국 독점 사이트 할인으로 개당 6만원에 샀어요!\n\n서울 물류센터에서 3일 만에 도착 (독일에서 수입).\n\n\"또 유럽 사기,\" 아빠가 투덜거리셨죠. \"독일 사람들이 한국 사람보다 잠을 더 잘 안다고?\"\n\n\"닥치고 써보세요!\" – 엄마의 명령.\n\n**첫날 아침, 6시 42분, 엄마 카톡:**\n\n이모티콘 폭탄: 🎉🎊✨😭😍🙏\n\n\"코골이 제로! 제-로! 옆에 사람이 없는 것 같았어!\"\n\n일주일, 한 달, 두 달... 계속 같았어요.\n\n11월 재검사: AHI 6.8로 떨어짐. 중증에서 경증으로. 베개만으로.\n\n서울대병원 교수님 충격: \"무슨 치료 하셨어요?\"\n\"독일 베개요, 교수님.\"\n\"베개? 베개만으로?\"\n\"베개만요.\"\n\n어색한 침묵.\n\n\"뭐... 독일이 수면의학 선진국이긴 하지만... 베개만으로... 놀랍네요. 수치는 거짓말 안 하니까요.\"\n\n이제 온 가족이 써요:\n\n- 남동생 (대전): \"형수가 내 아침 기분도 좋아졌대\"\n- 언니: \"형부가 밤에 팔꿈치 안 찌른대. 알고 보니 내가 코골이였어!\"\n- 남편이랑 나: 수면의 질 비교 불가. 남편 만성 두통 사라짐\n- 엄마: \"3년 만에 안방으로 돌아왔어. 69살, 67살인데 신혼 같아\"\n\n지난달 독일계 회사 다니는 김 과장한테 얘기했더니:\n\n\"당연하죠! 한국 사람들 매트리스에는 수백만 원 쓰면서 베개는 이마트에서 2만원짜리 사잖아요. 독일에서 베개는 의료기기예요. 150만원짜리 아이폰 사면서 하루 8시간 쓰는 거에는 돈 아끼고. 말이 안 되죠!\"\n\n아프지만 맞는 말이네요.\n\n아빠는 이제 매일 5시 30분에 일어나세요. 5km 산책하시고. 콧노래 부르며 아침 드시고. 목공 취미생활 하시고 (정년 후 활동).\n\n보이스톡 보내주셨어요:\n\n\"딸아, 오늘로 아기처럼 잔 지 75일째다. 지난 10년 중 최고의 75일이야. 늙은 아빠 포기 안 해줘서 고마워.\"\n\n이마트에서 펑펑 울었어요.\n\n저는 의사도 아니고, 베개 파는 사람도 아니고, 커미션 받는 것도 아니에요.\n\n근데 이것 때문에 이혼 위기 가는 부부가 수천 쌍은 될 거예요. 얼마나 많은 \"영수 아빠\"들이 좀비처럼 살면서, 생명 위험하면서, 관계 망치고 있을까요?\n\n여기까지 읽으면서 \"헐, 완전 우리 집 얘기네\" 싶으면, 그냥 한번 써보세요.\n\n공식 사이트에서 30일 환불 보장해요. 마음에 안 들면 그냥 반품하면 돼요.\n\n지금 70% 할인 중이래요. 진짜 치킨 두 마리 값이에요.\n\n중요: 짝퉁 조심하세요. 쿠팡에서 \"독일 정형 베개\" 1만 9천원짜리 봤는데, 올케가 샀다가 완전 쓰레기였어요.\n\n한국 공식 Dегilа 사이트 찾으세요. \"30일 보장 또는 환불\" 도장이랑 택배 추적 되는 곳이어야 해요.\n\n아래 \"자세히 보기\" 버튼 보이면 아직 할인가에 재고 있는 거예요. 사촌동생은 망설이다가 지난 세일 놓쳤어요. 6만원이면 (CGV 팝콘 세트 두 개 값), 솔직히 고민할 게 없죠.\n\n추신: 아빠가 어제 그러시더라고요: \"8년을 날렸네. 75인치 TV 값을 쓸데없는 데 쓰고, 정답은 나이키 운동화 값도 안 했는데.\"\n\n우리처럼 하지 마세요. 8년 기다리지 마세요.\n\n추추신: 남편/아빠/오빠가 코 골고 지금 새벽 3시에 코골이 소리 때문에 못 자고 이거 읽고 있다면... 이 글 지금 보내세요. 인생은 불면의 밤을 보내기엔 너무 짧아요. 좋은 결혼생활은 코골이 때문에 끝내기엔 너무 소중하고요."
+                    },
+                    "cta_type": "LEARN_MORE",
+                    "display_format": "IMAGE",
+                    "link_description": "30일 무료 리스크 프리 트라이얼. 코골이 그만. 더 잘 자요.",
+                    "link_url": "https://better-life-designer.xyz/cf/r/6902fae4d94c5200122b2c22?ad_id={{ad.id}}&adset_id={{adset.id}}&campaign_id={{campaign.id}}&ad_name={{ad.name}}&adset_name={{adset.name}}&campaign_name={{campaign.name}}&source={{site_source_name}}&placement={{placement}}",
+                    "images": [
+                      {
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/591312356_610740098767494_6818786998941584439_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zPtplE6cxvQQ7kNvwF4kXx7&_nc_oc=AdkrK7Paw28iQsdV6nXcX8V-5ku9H-nPnZRdeGHGAetpCMPjCHaKSvMoD2l0Wo0Bdvk&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AftfKcN1l8Qo4CMCgPfCB0igDIc5JMMx8T6uotdW3Ov_Zg&oe=69877817",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/588772659_3017774795075273_2189299212576154345_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=E-dLCeQ_-dgQ7kNvwEfp8pG&_nc_oc=AdlEK_bLNb__7XUNvu0dftPrVVS3fhwdQQkWYU0vvuHFgG2HNTMv7BB3Vtd7VrwTgbM&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AfvjaLnY0Kd9PFYKN0oLP1YHXj303vg8r9FHQFWkG92YEA&oe=69875354",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "page_categories": [
+                      "Health & Beauty"
+                    ],
+                    "page_like_count": 34,
+                    "title": "30일 무료 리스크 프리 트라이얼. 코골이 그만. 더 잘 자요.",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "Lina",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "MESSENGER"
+                  ],
+                  "start_date": 1764230400,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "1447618636961412",
+                  "collation_count": 1,
+                  "collation_id": "1596297661524053",
+                  "page_id": "103164259268905",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "103164259268905",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/nikeseoul/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "Nike Seoul",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625190057_939927298385931_1880661623785761881_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kEgwFDc66pMQ7kNvwGew8hb&_nc_oc=AdmUC34kZgu6y4kD3OYCuScBJbOV06FjRZJBWLw_yVhjIV8sLRFo2alzUr8aObNNen0&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_Afs3zd23qfS5AhhMh9dzU9OlzBA83EI77MVPTSQge0g0aw&oe=6987584B",
+                    "event": null,
+                    "caption": "play.google.com",
+                    "cta_text": "지금 구매하기",
+                    "cards": [
+                      {
+                        "body": "앱 첫 구매 시 15% 할인",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "",
+                        "link_description": null,
+                        "link_url": "http://play.google.com/store/apps/details?id=com.nike.omega",
+                        "title": "나이키 에어포스1' 07",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625079450_868673209343373_4510425947249307280_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JQ1pIt3aWxkQ7kNvwEGm7q1&_nc_oc=AdlphtIMAWsR8CxAiUw3661x_AqPcmPj0mb-jlwFrC0zVYh2lB90qvK7cgNv_S5Rcek&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AfuxPCW4GwYuuse_mr6R4O0wcLsickFe_kSjARtVgglQ9Q&oe=6987709D",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624579311_730887236524029_404977969786329183_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=07BID47fGA8Q7kNvwEPUb2H&_nc_oc=AdnnudAdal9ZxtWGoATSTF0adbgIomPMHAlHBJSz2u-ltNivtRI8_mRvfL-1GaCsUCk&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AfvLe0Tkj00KcDV-ve_aSY-GvWw5V1g5YCta92rjpdcrPA&oe=69876573",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "앱 첫 구매 시 15% 할인",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "",
+                        "link_description": null,
+                        "link_url": "http://play.google.com/store/apps/details?id=com.nike.omega",
+                        "title": "나이키 에어포스1' 07",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624551978_2578717979182061_3546500321929960721_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hzz3KlxtWukQ7kNvwGqa9GL&_nc_oc=Adlh3MMHYC7ljbhsqbXixlHE73e4APQA2SYZXG3au5CWesGagGhA2CtjlO0tof154Ek&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AfvKZYS9v-LlhBD2obOXnC_v3QziejXlALfLgEal8-FAiw&oe=698770D4",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624773610_1206434365007191_721370179833892793_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hEgqK4m7RNkQ7kNvwEGDobo&_nc_oc=Adk2ARN-G2XABRXB7MtCwjgQk4Ru5bHl9HwbO3iqy0PwFi5ON7JVkdL4-yxnsu0eRVw&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AfvecTAbnFwNudwZFdHM_BHX2UNHR6Y4CvLPtqAgrzmWlw&oe=69877EB4",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "{{product.brand}}"
+                    },
+                    "cta_type": "SHOP_NOW",
+                    "display_format": "DCO",
+                    "link_description": "{{product.description}}",
+                    "link_url": "http://play.google.com/store/apps/details?id=com.nike.omega",
+                    "images": [],
+                    "page_categories": [
+                      "Brand"
+                    ],
+                    "page_like_count": 26593,
+                    "title": "{{product.name}}",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "Nike Seoul",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "MESSENGER",
+                    "THREADS"
+                  ],
+                  "start_date": 1769760000,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "1579218746625301",
+                  "collation_count": null,
+                  "collation_id": null,
+                  "page_id": "1275105262550265",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "1275105262550265",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/croket.official/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "크로켓 : 전세계 커넥팅 쇼핑",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/601906182_1906256416769405_84990426749733133_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=urTE3vprS2QQ7kNvwFYYBn-&_nc_oc=AdlgS82k7uifiyZN_DgOM54kFooj4LkLgZbMlW6dMLRuqMSxxw11qPbIfGoby5IPPhI&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AfvDBgkb2fjXLfcp_zr7qZtU-XWHf0uFSEY5lz7d5WeE8w&oe=69876130",
+                    "event": null,
+                    "caption": "croket.co.kr",
+                    "cta_text": "지금 구매하기",
+                    "cards": [
+                      {
+                        "body": "아디다스 바람막이부터 나이키 패딩까지!\n한국에서 못 구하는 해외판 한정 특가로 구매하세요🔥",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "croket.co.kr",
+                        "link_description": "아디다스 브랜드 상품을 크로켓에서 무료배송으로 만나보세요.",
+                        "link_url": "https://web.croket.co.kr/seller/product/60e5ad8dc79df831305c7c89?yg_type=SNS_roas&utm_source=SNS&utm_medium=roas",
+                        "title": "나이키X사카이 블레이저 로우 그린₩210,500",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/605639555_3017404491777954_1577820693204410451_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6EHZQP9WvYUQ7kNvwElRqwa&_nc_oc=AdnDqX3l8VqEpS3jOLwLArzNL9kpWf59fnS65gGdOrDI7XnQgJFBTd1ZIIEdPM-XLM4&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AftdlYqVpzynctXWz7Dii8GkMtfp9yAPyCvUC3vIYOyK3A&oe=69875F70",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/605639555_3017404491777954_1577820693204410451_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6EHZQP9WvYUQ7kNvwElRqwa&_nc_oc=AdnDqX3l8VqEpS3jOLwLArzNL9kpWf59fnS65gGdOrDI7XnQgJFBTd1ZIIEdPM-XLM4&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_Afv8l2jzom-bKqDodLr35S6vvT4uV71pMiDGDDzRI8nTLg&oe=69875F70",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "아디다스 바람막이부터 나이키 패딩까지!\n한국에서 못 구하는 해외판 한정 특가로 구매하세요🔥",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "croket.co.kr",
+                        "link_description": "아디다스 브랜드 상품을 크로켓에서 무료배송으로 만나보세요.",
+                        "link_url": "https://web.croket.co.kr/seller/product/60f444f38cf8a44b75f85993?yg_type=SNS_roas&utm_source=SNS&utm_medium=roas",
+                        "title": "아디다스 레고 슈퍼스타 10282₩124,500",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/602332838_1132778605490306_6434069172552387450_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=R4Z81Y7jHjAQ7kNvwEyZ11P&_nc_oc=AdleYwFQPAKPcI1ItiHKG3M4O05cJiG6R14XVRHo-lsDNSuqyddaFbuVlHhoYwqT5UY&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_Aftg4wKR69GMbHaeFM-a6NsWk4PV1iEDXTSsxP9A0-Yu0Q&oe=69876BDB",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/602332838_1132778605490306_6434069172552387450_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=R4Z81Y7jHjAQ7kNvwEyZ11P&_nc_oc=AdleYwFQPAKPcI1ItiHKG3M4O05cJiG6R14XVRHo-lsDNSuqyddaFbuVlHhoYwqT5UY&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_Afs_zxj6_NLEGz-cxGvCJmaWQh8r8ieQXzPNATb6d2UUAg&oe=69876BDB",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "아디다스 바람막이부터 나이키 패딩까지!\n한국에서 못 구하는 해외판 한정 특가로 구매하세요🔥",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "croket.co.kr",
+                        "link_description": "아디다스 브랜드 상품을 크로켓에서 무료배송으로 만나보세요.",
+                        "link_url": "https://web.croket.co.kr/seller/product/5fd4f7b6205f3919469a43c7?yg_type=SNS_roas&utm_source=SNS&utm_medium=roas",
+                        "title": "나이키 헤어타이 머리끈 9종 세트 유스 9팩 포니테일 홀더₩19,900",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/603070009_1206459607554093_7487485840314305391_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nqbklFeoZbkQ7kNvwHIcUjU&_nc_oc=AdmHJdGRxXCgESdMwELTy2e6B8PXYqtQvslWYipFWwmadEqLJCvbyqGB-JSPLnAlDNM&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_Afue92by8-nkNV7OFC-c3H6oAD8JDc_Upq2TJu6iBK0wHA&oe=69877C2E",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/603070009_1206459607554093_7487485840314305391_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nqbklFeoZbkQ7kNvwHIcUjU&_nc_oc=AdmHJdGRxXCgESdMwELTy2e6B8PXYqtQvslWYipFWwmadEqLJCvbyqGB-JSPLnAlDNM&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AfuY1QPvnBbV493lOW6HzUeAe5IoxHyb-YoFifdkmBzSAA&oe=69877C2E",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "아디다스 바람막이부터 나이키 패딩까지!\n한국에서 못 구하는 해외판 한정 특가로 구매하세요🔥",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "croket.co.kr",
+                        "link_description": "아디다스 브랜드 상품을 크로켓에서 무료배송으로 만나보세요.",
+                        "link_url": "https://web.croket.co.kr/seller/product/5fd830c8e8d49d416effc8cf?yg_type=SNS_roas&utm_source=SNS&utm_medium=roas",
+                        "title": "나이키x스투시 에어포스 원 블랙₩400,500",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/603823548_1823446225035632_7136451241532626643_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oxyj3PMcci4Q7kNvwGlmzsw&_nc_oc=Adky7jveB3ePzFJix3Ecote3dtbOQim6-PkvJHQByhXZIEdTR8rqaNNKfSvasj8awTk&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_Afu8yEYqr8lKmhWIPnz8qVOUz7fT40-PLy6gsIgn36hN4Q&oe=69874FF3",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/603823548_1823446225035632_7136451241532626643_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oxyj3PMcci4Q7kNvwGlmzsw&_nc_oc=Adky7jveB3ePzFJix3Ecote3dtbOQim6-PkvJHQByhXZIEdTR8rqaNNKfSvasj8awTk&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AftUCAmTzebP45zCfXEVTkRV18tRiwd-ww6Bx4kUUUZt7Q&oe=69874FF3",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "아디다스 바람막이부터 나이키 패딩까지!\n한국에서 못 구하는 해외판 한정 특가로 구매하세요🔥",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "croket.co.kr",
+                        "link_description": "아디다스 브랜드 상품을 크로켓에서 무료배송으로 만나보세요.",
+                        "link_url": "https://web.croket.co.kr/seller/product/60c819dcf71b76142a9ce1b6?yg_type=SNS_roas&utm_source=SNS&utm_medium=roas",
+                        "title": "나이키 퓨리 헤드밴드 일체형 모음전 NJND8-010 N1002145₩30,300",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/603069999_1945835512630465_2102650142801423966_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pZQfQ_fl4FsQ7kNvwEkDTI9&_nc_oc=Adk6a3bY76W5WkHBHuu_jCwZyc3Rvz2sL7D7qcqYRuN_0N9zdXXTNxQBu6I2G_K9L3Q&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AftShNDUp7Gde_Db3A6Rh8JqQHHvzf4FoRg_ns9EN39UlA&oe=69877D18",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/603069999_1945835512630465_2102650142801423966_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pZQfQ_fl4FsQ7kNvwEkDTI9&_nc_oc=Adk6a3bY76W5WkHBHuu_jCwZyc3Rvz2sL7D7qcqYRuN_0N9zdXXTNxQBu6I2G_K9L3Q&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AfuEvhdL5Ash38JJhzDI1PsLcbidK4HWbiCw_s3hwCqOqQ&oe=69877D18",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "아디다스 바람막이부터 나이키 패딩까지!\n한국에서 못 구하는 해외판 한정 특가로 구매하세요🔥",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "croket.co.kr",
+                        "link_description": "아디다스 브랜드 상품을 크로켓에서 무료배송으로 만나보세요.",
+                        "link_url": "https://web.croket.co.kr/seller/product/60fa49287784694c11d58c5f?yg_type=SNS_roas&utm_source=SNS&utm_medium=roas",
+                        "title": "아디다스 여성 오리지널 밑단 프릴 나시₩79,300",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/605124545_879096917846993_4414873514986936966_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hSrN9ZjGVlsQ7kNvwHGPfKM&_nc_oc=AdkZAFGSXifXn0DSHVFrxFaNd0Po90i-zvH-pVCW7Yq_6ieJa7M_H9BRYp7Za4_I7lo&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_Afv6qatwLsRw47r8gSwgW_CuMsAByRVdbYeTR9W8wr_9Gg&oe=69877B5B",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/605124545_879096917846993_4414873514986936966_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hSrN9ZjGVlsQ7kNvwHGPfKM&_nc_oc=AdkZAFGSXifXn0DSHVFrxFaNd0Po90i-zvH-pVCW7Yq_6ieJa7M_H9BRYp7Za4_I7lo&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AfutA1pPZ8568mnCfQU5sUm71iMG0Vq3EATntaT62q6P7A&oe=69877B5B",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "아디다스 바람막이부터 나이키 패딩까지!\n한국에서 못 구하는 해외판 한정 특가로 구매하세요🔥"
+                    },
+                    "cta_type": "SHOP_NOW",
+                    "display_format": "DPA",
+                    "link_description": null,
+                    "link_url": "https://www.croket.co.kr/brand/68be33f054fd2a25f7e68eba?yg_type=SNS_roas&utm_source=SNS&utm_medium=roas",
+                    "images": [],
+                    "page_categories": [
+                      "Shopping"
+                    ],
+                    "page_like_count": 18636,
+                    "title": "{{product.name}}{{product.current_price strip_zeros}}",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "크로켓 : 전세계 커넥팅 쇼핑",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "MESSENGER",
+                    "THREADS"
+                  ],
+                  "start_date": 1769500800,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "1228560075754104",
+                  "collation_count": 1,
+                  "collation_id": "740293312423597",
+                  "page_id": "100365116182081",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "100365116182081",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/100085889747100/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "Betterthan",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/597733091_2983654765163084_267369070247722061_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=utNMGUwBz4MQ7kNvwG8s3tf&_nc_oc=AdnuAgP9RtiW1zFjVJOmnuTuKynwkmxPOQ5BkgNBqnItDCgBVO5zNf0YdvalMQW54CA&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_Aft3atWc0rV1C0z42t6gEfi7p8S1dPrkM4_jj5tj8EsoyA&oe=69875546",
+                    "event": null,
+                    "caption": "betterthann.com",
+                    "cta_text": "더 알아보기",
+                    "cards": [
+                      {
+                        "body": "나이키 정품 커스텀",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "betterthann.com",
+                        "link_description": "나이키 정품 커스텀",
+                        "link_url": "https://betterthann.com/69",
+                        "title": "나이키 커스텀 배럴댄",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/597857404_1403711231347574_7005417515735623638_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-QDo3B6y87YQ7kNvwHL4kfT&_nc_oc=AdmUvWgVjnW9ytPmzkiDUx4nmKWMb4eN8fgjbjccjuYljEbzo3zqYqPaUvf6Tl7Gx9s&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AftwH5yW-cQIj6JxjsXNa_n9MNWKfgcEXpVU1FhLVpVjFA&oe=69876894",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/597886241_1549834412774484_2578952016332049608_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SbSJYaHG79wQ7kNvwGjHZzK&_nc_oc=AdkWYWNSL5U6zF4X-XSD_T5PIPnzPzQy0SJNXnnjxHcEsw5W_qLbX5R4cXcczhyG0NA&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_Afsy9wlB4RbE5Vre9rsOFpSgfNakeoODuGDblGTrdNwfUA&oe=698771CA",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "나이키 정품 커스텀",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "betterthann.com",
+                        "link_description": "나이키 정품 커스텀",
+                        "link_url": "https://betterthann.com/69",
+                        "title": "나이키 커스텀 배럴댄",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/598785249_1839232010036373_2439843338766257959_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iTxAP7OpqyYQ7kNvwFPnkyq&_nc_oc=Adl32soF9r8KrLUmHcpgvrzqG9I3UhjdYVB7zVGdAZegjXfZIEbi-Ypm7JVIs3cF05M&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AfuBXdXKkz_aTwQu0pJEUYN1lTlxGOH8D63yPDvzCXwWww&oe=69875A11",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/597385843_729055923570927_2208901337006551233_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=liPq5_O7VK0Q7kNvwG-ntgv&_nc_oc=Adl-4lO5i0jAzbAotirC6o4aXo5Nf1OhONoeugRglmWVt3P2KgoLn7WWL07JC0I2pQk&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AfsJDWef2vSCrqWyUIkKxbmEohzu6BLyC3zFuhCTfVba5g&oe=698765A9",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "나이키 정품 커스텀",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "betterthann.com",
+                        "link_description": "나이키 정품 커스텀",
+                        "link_url": "https://betterthann.com/69",
+                        "title": "나이키 커스텀 배럴댄",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/597755889_837614792221877_2799535737153743524_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ox_duKeDoVwQ7kNvwGG4ytx&_nc_oc=AdlNBsHT6NNox9Lxtu1abVtsvLqQQiK8jdWu6ymn1utBW589_SO8r0wCVX3GK4LKeCc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AfssAoSeVWCwdct1n3zhcttrhRPBSwF5MfNfPahxG0tPmQ&oe=69877CAF",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/597865979_1104785401584849_3539483282534311370_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qYMvyXLVHn8Q7kNvwFIZoIt&_nc_oc=AdkDvTLNvJ-7eK8U8ARNaIBPYjM8vZDIfVruw2j9Mdm21xm359MCaAvpQHxC6gicSjQ&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AfsFXLEUHonTiJK3SGwThmwIiMBA9Ijf2nsK1_LNIN7lew&oe=6987561A",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "나이키 정품 커스텀",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "betterthann.com",
+                        "link_description": "나이키 정품 커스텀",
+                        "link_url": "https://betterthann.com/69",
+                        "title": "나이키 커스텀 배럴댄",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/598762234_1965414017518993_3893861684467903628_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mdtjR2T2W4cQ7kNvwFOMcrf&_nc_oc=AdmH4hJZ0QwJq5hsUgoC3ShNqrTgpNma1Wh9V8M30qtLfNi6TXyQkYokwAUHQw1jDpY&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AfttXRKdC7N7gAPXEnBfr7Y6KzLnK4V4GCar67AQW6piSw&oe=69877B9D",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/597887065_833124402678656_6862398349295738518_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hXSiEK-OPlMQ7kNvwFMYKvY&_nc_oc=AdnOw-3jTK7Jh-kl2ZVzBCyMb6p0LXdNHe3EAXfBeNr2ZbGcQ-3wtqzmS6BVrGo4LS8&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AfvxXgHj2c23IZiv-r4q9fpEILpKnGJoNEr3Mgu_Wr3RUw&oe=6987789C",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "나이키 정품 커스텀",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "betterthann.com",
+                        "link_description": "나이키 정품 커스텀",
+                        "link_url": "https://betterthann.com/69",
+                        "title": "나이키 커스텀 배럴댄",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/595933632_1528730785122319_6592148953274711377_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XkAkdArszwgQ7kNvwEBgfcL&_nc_oc=AdmLRLMMj6caQSvc_8EAlNGlyv4jDbFKb0rF5I2tBlkTtvcnPEo1mmxu5SU0CC23vjk&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AftOubbuEkxK17-NKbOhZ_C-thOUFHc7T9GSbxdu07ssMA&oe=69876E72",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/598688635_1205594388206227_617633532729154679_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rT1fNSoMQucQ7kNvwGio6LB&_nc_oc=AdmtnfNFCEfcojr8O_FbbTnyKjHAhCOxSM7Qqnn3zMZg2E44BGf33e0ODVNS4f2bsEo&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AfsXwZZ-zPG7eiljWyHwsUnnty4_XmMQHxU7zZYuH8NJYg&oe=698765A1",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "나이키 정품 커스텀",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "betterthann.com",
+                        "link_description": "나이키 정품 커스텀",
+                        "link_url": "https://betterthann.com/69",
+                        "title": "나이키 커스텀 배럴댄",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/597732003_876193048162588_3126518419086038492_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gCEWC4pcNq4Q7kNvwFn8ZNO&_nc_oc=AdmHgzfVnZC5sf0D9eVfrrrlypqAeR56in22enQ3UvXorEIMyvcjoI50dADr8RozEW4&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AfuqwiDXeEERTvIpVhy0MmzoFQuzc_uS9xjUa3vLYKChpQ&oe=6987574C",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/596099115_2760143297668896_5852390367323231560_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=j-Dmy0pJ7h0Q7kNvwHZkS0_&_nc_oc=AdnkLnwPjAQ3YaVPn-tqW99OMUW1SwYoC6jC6d2NMkp9fsjI3mBz7hHqzZVIjYm_S_A&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AfsvhwqqzNP8qgMImbIDQ3CHk20m-D-2HeFeYhE7Ao7ZWA&oe=698780ED",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "나이키 정품 커스텀",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "betterthann.com",
+                        "link_description": "나이키 정품 커스텀",
+                        "link_url": "https://betterthann.com/69",
+                        "title": "나이키 커스텀 배럴댄",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/597846265_1623172425333607_174960439789713489_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=J92t8YQ_JLsQ7kNvwGr3VkX&_nc_oc=AdlKKCSb0SiBGN55cX1B7_-Exz7gzzHpsI3P6l1vBlPTTqhxyalcn20fajAcrz1LeWw&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AfvOZqK1ds_4ftFJi3SoJB5LqlNOnsWZJSNZGeVu0VtOwg&oe=69875227",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/597882793_2657161587971848_2394000815986327529_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZAjaIx2V6qIQ7kNvwEvzBdw&_nc_oc=AdnjiIQPCBUG_rKWv0kFj9mLd-J4W9TLig99tOAfxrGzbAYHaNUrSNdqbu_IoVxNxHs&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AftGRPL56rE6uaDQmY4OA9qMFLi_sPSdqGq4X3sJB72OYA&oe=698764E5",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "나이키 정품 커스텀",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "betterthann.com",
+                        "link_description": "나이키 정품 커스텀",
+                        "link_url": "https://betterthann.com/69",
+                        "title": "나이키 커스텀 배럴댄",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/596125217_839370805688010_4235865722858913343_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dtGyLudzzusQ7kNvwFjNAS3&_nc_oc=Adna9jyhzZh3oJKGYPJ2QpI0yQICG8EsNUhMC8eYkRbPI84LEat-voyNzct_Woxztyg&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_Afvb-tMqx3dZKgDDurNLF6aQ0HKu8sSsv5-4L5-Lnp8Gow&oe=69875819",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/596131894_857689393480122_2149209848916499102_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cBS6COEqHjgQ7kNvwEFh_kf&_nc_oc=AdmjezYMh72fpILc6LvFpMql0q8tZq-2XtLp7O1AJW55zCqh_82MaD1j9_tEDhipBkw&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AfsHwFEGQ-yym56vhpQkanSUxZEglU31X2e291nAbNsQNA&oe=69876F96",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "나이키 정품 커스텀",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "betterthann.com",
+                        "link_description": "나이키 정품 커스텀",
+                        "link_url": "https://betterthann.com/69",
+                        "title": "나이키 커스텀 배럴댄",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/598799767_3272575052941777_5960382829554820495_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=aQb9ZpmdDooQ7kNvwFFbXFM&_nc_oc=AdnefBjD0QS9BPWJ9CxPP4kVOBS3_aYOzVkdxd136ycxDmOFJWvOo1sBpD3WhbUsvVk&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AfugYj2yBAnTEdNUO3BtnA1kErjHUsEhM57vOBxtozpEZg&oe=698752B1",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/596168127_1966677767215294_8131170488030334393_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=144CDg-kuSkQ7kNvwFBk7dK&_nc_oc=AdmSbmAhacRSoeQLgFgC87Wj_iD5TVY-JoJEv-5Dy4CgWXYhiIt4orTt0phhaETOqTU&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_Aftihj_b1nRxHdfMNnO_8Zph1x__ZMKQGafVYevZ3R9BgQ&oe=69877D10",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "나이키 정품 커스텀",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "betterthann.com",
+                        "link_description": "나이키 정품 커스텀",
+                        "link_url": "https://betterthann.com/69",
+                        "title": "나이키 커스텀 배럴댄",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/597890616_1157683713199802_6922647685823353172_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2B0sIKfc5awQ7kNvwEboNRh&_nc_oc=AdnW2GzTyQd6rdhsR0sCOEYVrZ0trfbfTgIjSPqyTpzIjKJ45JVxxqAdtt9mNKH5qRI&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AfsY_4NAMa7r_vjOLnCuERX38lMOeNZrlXNJHidlhgM26w&oe=69877506",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/597871131_1184907916481692_2642334972901296418_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DgHt30iMfZMQ7kNvwHcklSN&_nc_oc=AdnzwPmIQchDlbso_xaMT2gnXzCagYKOilTPRvrYaf7J72ED2pS2qEhvnCyLKF3KaVY&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_Aft4C-S4vfbmte14Fd_SDhROKaWGA-XS4q8SHtZRbpEitw&oe=698766E6",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "'나이키 커스텀 BETTER THAN'\n\nFLOWER COLLECTION\n\n꽃은 옆의 꽃과 경쟁하는 것을 생각하지 않는다.\n그냥 피어난다.\n자신만의 시기에 피어나는 꽃 처럼,\n삶은 각자의 아름다움과 개성을 지닌 개인이 \n자신만의 길의 찾아가는 과정입니다. \n각자의 계절에 맞게 피어나는 ‘꽃’을\n베럴댄의 감성으로 해석해 선보입니다."
+                    },
+                    "cta_type": "LEARN_MORE",
+                    "display_format": "CAROUSEL",
+                    "link_description": null,
+                    "link_url": "https://betterthann.com/69",
+                    "images": [],
+                    "page_categories": [
+                      "Shopping Mall"
+                    ],
+                    "page_like_count": 17,
+                    "title": "Betterthan",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "Betterthan",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "MESSENGER",
+                    "THREADS"
+                  ],
+                  "start_date": 1765267200,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "1488818352334497",
+                  "collation_count": null,
+                  "collation_id": null,
+                  "page_id": "536035950646488",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "536035950646488",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/100067609347200/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "슈마커",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/526805393_1407320337210312_4246405927079916088_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=C3mWDCGeVOkQ7kNvwEIeJ6R&_nc_oc=AdlzxmjyhJU06M7c9POkck-YgwikcKqmbrfrhksCazE2wcEp3uR0w0jcefU-P-JzfUE&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_Afuc8ixfL2Wy3oaVxt2avK40tCriF2hQn8VLjaRi_sbnBA&oe=6987827A",
+                    "event": null,
+                    "caption": "shoemarker.co.kr",
+                    "cta_text": "더 알아보기",
+                    "cards": [],
+                    "body": {
+                      "text": "발끝까지 여름 준비 완료\n쿠션감에 한 번, 편안함에 두 번 놀람!😲"
+                    },
+                    "cta_type": "LEARN_MORE",
+                    "display_format": "IMAGE",
+                    "link_description": "즐거움을 신다! 나이키, 아식스, 아디다스 등 인기 브랜드 슈즈 멀티샵",
+                    "link_url": "https://www.shoemarker.co.kr/ASP/Product/ProductDetail.asp?ProductCode=46433&utm_source=SNS&utm_medium=DA&utm_campaign=purchase&utm_content=NIKE_2508",
+                    "images": [
+                      {
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/526979532_24207733882181491_8581359869558505449_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-qrB6KghuSwQ7kNvwERdGhL&_nc_oc=Adk4H8lWvxkgMXObTpRF13xJWwoZpbTJ62WTflxgw3hJO9Ysa82HStY-KCDmDQqyVXw&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AfvvmKGEL6QIw_vDOHn1pTpQiElSGoj68gPO8QCtGMAHPQ&oe=69877264",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/518425966_1328604555262050_7679069098564594616_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gNvx5Gjp-v8Q7kNvwH9JTCi&_nc_oc=AdnyqJACbvG4usvIVmkd7HqnXJ1Qi5HvNEFRQ6q8rwoIIqZyWtB4e7k3LjMlI8ulP60&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZlvrvhTGyNK0P2--P4Is-w&oh=00_AfsvgbZYARJSiAyFAJUO0qrluYXKmw3d9A3v2WLCJMSNtA&oe=6987608A",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "page_categories": [
+                      "Retail company"
+                    ],
+                    "page_like_count": 68,
+                    "title": "나이키 오프코트 어저스트 슬라이드",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "슈마커",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1754895600,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "MESSENGER",
+                    "THREADS"
+                  ],
+                  "start_date": 1753945200,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          }
+        ],
+        "page_info": {
+          "end_cursor": "AQHSfmZz3xuth8Lu9gFrrt-a7vCRS7upbJVEMTMTUvFuRD-RtXctuWALFFUIRqVbsT-R9qd0Ut7phTa2uW1xA7HvNpKtSJvwcQmdwgga3A3vdOcprluIiAXClDIH2YrXAnaqxKrG0Hk927eUG3whJp74yYYdLKWePvdfJesOxIKTPs7kxkje9GNXXWzfmp2aZDtF-GeI5i1KLDgoE0nRv6Wb8TR1MMzp1g5cnE607VyVBvXJk4R4gkkWbxtXoAVoLBV5ukaYKTC4C3nBqtaZ8JISkhoYsN88YjrJPxwhgU9FKkqmj2FfUQj8Cu67JYL8E9m6d9FSPNXt-SKEHRWYLt6DaarHV0yogzStX63osGbAOm9xtHxhCL9rZ75fckKx_VP4tcgTlIQs-BylB3iLdGIMBDJV4Qu9pea6thcktMi7x5irxZEjzazdzBk3pquCl7pl8BeNDMLMtmQXDcxt-v4zQcfmvoPal0XlhP4dDUbVGn_kqBwMTsAikF4eCg_9bqRTzQnwB_F_7WCHN3TXaX3xH9LB5FbZ8QxWI_31ZK4juIEXwmZbeKkBjYtBULH426Dc-m_dRLHVHnEyCMrv4GsyeUa35S8aUFWRlRLo7OYDB2k7dEIZciVbtLh9QpdNnEbf3grXLjESTs5w5T1jaAEdMBFsTcL0UYJ7XirbJQxuxkGPIm4JOAfkGd8zhAOLftbKxO6QRZF4EIAVhC3GVycKvRQOjnYc65KbgBqx_EB6JlAeYuRUZphbmaKPHPk4ooRBc59LfGDR4CVXykEtFSGTLhtgYbAZlDeqbHjZSzjPkL3D4Shm5l8KLDYQJUJdbKZ2umqO4VTGsOap6ud_4Ven-vVLr_4ahBcycJ3Di3UxHIcG3a5gmqmypHUNM9_8RMmxNFOUX0TP_rPGVyuKzG1NG25suGPIiAKIunIXZAHez7_6DyMDxwrRaPivGZ3je90N5Qb37vyUnl0QjVSOoloqbcj6ifYfDQeJQ-pBzKT6PumBlg0x6HFHZmQJzayoBE4OGXE0JzpzwAq2JiB1GB2o0cLgHusJ3E6uLoNThCMWp4_YwzPcu-j4aFOWpT4TX8o04mqlJkz3CPGGwqCLqh6JlkhAip4RXTUA6QC8anNE3QA8HCRBclZVxKnXAHU7YPNG",
+          "has_next_page": true
+        }
+      }
+    }
+  },
+  "extensions": {
+    "server_metadata": {
+      "request_start_time_ms": 1770099867510,
+      "time_at_flush_ms": 1770099868218
+    },
+    "is_final": true
+  }
+}

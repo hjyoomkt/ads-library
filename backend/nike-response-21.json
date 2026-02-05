@@ -1,0 +1,1893 @@
+{
+  "data": {
+    "ad_library_main": {
+      "search_results_connection": {
+        "edges": [
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "3852377655064223",
+                  "collation_count": 1,
+                  "collation_id": "883021527922500",
+                  "page_id": "845433605639011",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "845433605639011",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/univstore/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "에브리유니즈 학생복지스토어",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/626681986_1452697829571253_7523686091374097416_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8HVR_-aK5LIQ7kNvwECBKD4&_nc_oc=AdlR35qwIaHo_0vSrX5_bo29TrvhgJ-5yABXebetV74H8rLa4BqIZ1LQeTg1TNvkI1w&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AfvIN69sg25lnX1aB5pveV5CEd-N9rt2qfO9Qbyj-95hLg&oe=698771B4",
+                    "event": null,
+                    "caption": "univstore.com",
+                    "cta_text": "더 알아보기",
+                    "cards": [],
+                    "body": {
+                      "text": "대학생특)) 교육 할인 받음🧨🧨"
+                    },
+                    "cta_type": "LEARN_MORE",
+                    "display_format": "IMAGE",
+                    "link_description": "캠퍼스 라이프의 시작과 끝엔 언제나 에브리유니즈",
+                    "link_url": "https://www.univstore.com/event/20260202_everyuneez_bts?utm_source=instagram&utm_medium=ads&utm_campaign=20260202_bag_01",
+                    "images": [
+                      {
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/626780634_916588321049823_7619318300805956593_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TGq1qx6jI-UQ7kNvwEPZIZD&_nc_oc=AdkTL7iz4zFzUW2SqW6C5VDSILHYAmCGZXl0dXItHVkhLFE64Hd609tN_li25xHGOtQ&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_Afs7vwIBvNddyRzZ6z_nu8vmUFbRiszSqfUK1T7k3NYHGA&oe=698769B8",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/627369146_1782024513201397_8821928997328426141_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wCh_TynTZ6cQ7kNvwFMb0lZ&_nc_oc=AdnFG8vbtuNEuLedH3Hz5DaojbzcXXEAp0VrcA_8bJIa_8gOlcsLlkzlgsLzlns9tpY&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_Afvy4mAR__UgWiFzrhSLecOmDQoz60VeYgWnmEipBTBNWQ&oe=698756CE",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "page_categories": [
+                      "Website"
+                    ],
+                    "page_like_count": 2223,
+                    "title": "에브리유니즈(학생복지스토어)",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "에브리유니즈 학생복지스토어",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "MESSENGER",
+                    "THREADS"
+                  ],
+                  "start_date": 1770019200,
+                  "contains_sensitive_content": false,
+                  "total_active_time": 77086,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "891471016667159",
+                  "collation_count": 1,
+                  "collation_id": "1231346485808419",
+                  "page_id": "139539656770599",
+                  "snapshot": {
+                    "branded_content": {
+                      "page_id": "883744011482999",
+                      "page_is_deleted": false,
+                      "page_profile_uri": "https://www.facebook.com/61582335012961/",
+                      "page_name": "Papstars"
+                    },
+                    "page_id": "139539656770599",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/papmagazine/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "PAP Magazine",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/619280228_782783950748534_3119100048276756347_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5O2hmBMq5cIQ7kNvwExVT8W&_nc_oc=AdmVvtOpvOuJFWVrYaE94J9nXt21_jdVi-OaE7c4KDP5mUQwzouNw7nFKtnpTPW1xTY&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_Afsh4so_POstkMafQz_69a6o5oCyT5OBySDjzw87OVaXng&oe=69877CE1",
+                    "event": null,
+                    "caption": "instagram.com",
+                    "cta_text": "Instagram 프로필 방문",
+                    "cards": [
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "https://www.instagram.com/pap_magazine",
+                        "title": " ",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/618555523_880769941536716_2605734456615748539_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=prwgYBat84wQ7kNvwEvweA_&_nc_oc=AdlNron2Bu716xX6srXi8mNiFiaC-6XLF-I65AxavncGohOqvglnybsyoWwq5zmN9fA&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AfsMkMxJenqtyxMh_OD7Mgfen6Z5fH_QxPeuy75K1qWD8g&oe=698782C0",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/618793095_1640412473995484_114424922069452659_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QTz8bowWLhwQ7kNvwErV70e&_nc_oc=Admm1wJqbA3ZWf0VKLZyelPWnnlpdIhMKCiob6ZqIOGXxYO1cQOUB1JNA0hL9TFMi1A&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_Afs_FPn3RTdc84Yyr0zm-BLYAfZEbWDu5PPrml1PEniIZA&oe=698779CF",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "https://www.instagram.com/pap_magazine",
+                        "title": " ",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/616426478_1703939763912776_7774617573931516494_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=b7Q_SNnXu7kQ7kNvwFh6pT8&_nc_oc=AdnT4zES3yQRSV2VLXIlCAYa8FnJX_nKlWxajwWJfV_zkuKFwjx49QeYwHnB-kfa9U8&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AfuZEaj8o3NPLJLgDSyUYUQ8oOYMLEFx3UtYET4XP-N4iA&oe=6987742D",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/615775682_1493632232377521_9079882264244076197_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gCUqHkMEHX0Q7kNvwEJ-1v5&_nc_oc=AdnvcV5FyvaN4uyy4Sz1hztHaFgrM2piViPg57qSqjiAh9iGxDk3KfrC64xnTxz9JXM&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AfuAaVy5fQoKYm8X_J72w-qhVl0K1AXKImsG9w7OmLKOBg&oe=69875373",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "https://www.instagram.com/pap_magazine",
+                        "title": " ",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/617593881_2035746667207234_1988928953882699035_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QF2gtKTvuw4Q7kNvwG-8Hrv&_nc_oc=AdnayIeaqV-YNEk3tAhNx4ehsNsVhiHyAan0wVRgB66kMCCj1OaS9iTrbIT_3_PB3V0&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_Aftk_-IC4Z2TeaoePkn3VeitMByJLIR_QF25lMSs3PgLyA&oe=698753C8",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/616552083_875352902086895_7626348496788947700_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TgpCqSMVeewQ7kNvwE_FB14&_nc_oc=Adku9FTjfhmZVjnPM-5olBBhiOZj7duGJCb9EHk80LeYQJXPa7BTlAIfQ52rAT4C2Zc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AftKaW9rTWMybEKnbDJ-JZowryUiJQmYDig8d-DyR01CMw&oe=69875CB8",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "@lalalalisa_m @nikesportswear @nikewomen\n\n전 세계를 사로잡아온 아이콘, 리사가 나이키와 글로벌 파트너십을 체결하며 새로운 챕터를 연다. 이번 협업은 단순한 앰버서더십을 넘어, 장인정신과 창의적 표현이라는 공통의 가치를 바탕으로 한 장기적 비전을 공유한다는 점에서 더욱 의미가 크다.\n\n공개된 인터뷰에서 리사는 패션을 자신감과 자기표현의 언어로 정의하며, 전 세계 여성들이 자신의 모습과 스타일을 두려움 없이 드러내길 바란다고 전했다. 나이키 역시 탁월함을 향한 집요함, 다재다능함, 그리고 장인정신을 통해 리사의 에너지와 맞닿아 있음을 강조한다. 그녀의 자세한 인터뷰는 지금 바로 어바웃 나이키를 통해 만나볼 수 있다.\n\nAn icon who has captivated the world, Lisa opens a new chapter as she enters into a global partnership with Nike. This collaboration goes beyond a simple ambassadorship and is especially meaningful in that it shares a long term vision rooted in common values of craftsmanship and creative expression.\n\nIn a recently released interview, Lisa describes fashion as a language of confidence and self expression, expressing her hope that women around the world will feel empowered to show who they are and how they style themselves without fear. Nike also emphasizes its alignment with Lisa’s energy through a relentless pursuit of excellence, versatility, and craftsmanship. Her full interview can be found now on About Nike.\n\nCourtesy of NIKE\n\n#NIKE \n#LISA"
+                    },
+                    "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                    "display_format": "CAROUSEL",
+                    "link_description": null,
+                    "link_url": "https://www.instagram.com/pap_magazine",
+                    "images": [],
+                    "page_categories": [
+                      "Magazine"
+                    ],
+                    "page_like_count": 2316,
+                    "title": null,
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": false,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "PAP Magazine",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": true,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1768982400,
+                  "publisher_platform": [
+                    "INSTAGRAM"
+                  ],
+                  "start_date": 1768896000,
+                  "contains_sensitive_content": false,
+                  "total_active_time": 31918,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "2930037213862273",
+                  "collation_count": null,
+                  "collation_id": null,
+                  "page_id": "103164259268905",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "103164259268905",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/nikeseoul/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "Nike Seoul",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625664913_1939067873388481_7136117471094450021_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YQzEGCwat1QQ7kNvwGoBmAs&_nc_oc=AdnMtI3mFeHhoF--X-MBXiMjWPUdwqfamrsdUqlxZuk9dpi5mnsM-MDxnC5ruHs3NtQ&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AftcAnnWmEln9J2braOLJ1wM2F3YjSkWa-x_8ykVe_8Jtw&oe=69877B6A",
+                    "event": null,
+                    "caption": "nike.com",
+                    "cta_text": "지금 구매하기",
+                    "cards": [
+                      {
+                        "body": "나이키 바람막이 컬렉션\n앱에서 무료 배송 & 반품과 첫 구매 15% 쿠폰을 사용해보세요",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com",
+                        "link_description": "Nike delivers innovative products, experiences and services to inspire athletes.",
+                        "link_url": "https://www.nike.com/kr/t/폼-남성-드라이-핏-후드-다용도-재킷-sYUpuWGn/FB7483-010?utm_source=Facebook&utm_medium=SOC&utm_campaign=365DIGITAL_Facebook_DA_DPA_all_all",
+                        "title": "나이키 폼 남성 드라이 핏 후드 다용도 재킷",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624447474_750606314368409_5638341685918639772_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LdqxUbDvUOQQ7kNvwH9bQat&_nc_oc=AdmjoRmUd1E0e64bFwOfhb02ZeZOL6Unj3ADOuZYo3SIXIiYq2-4onklbAlTVtQhJ3U&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AftFLoYAVp84x0IGc3HDn2Rew40EpmG2QxxCu21rbE9usw&oe=698763C0",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624447474_750606314368409_5638341685918639772_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LdqxUbDvUOQQ7kNvwH9bQat&_nc_oc=AdmjoRmUd1E0e64bFwOfhb02ZeZOL6Unj3ADOuZYo3SIXIiYq2-4onklbAlTVtQhJ3U&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AfueQsQ_PylWVbaJ_yPIU0lZc6RtCpoI2KLLePQi8x_wbA&oe=698763C0",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "나이키 바람막이 컬렉션\n앱에서 무료 배송 & 반품과 첫 구매 15% 쿠폰을 사용해보세요",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com",
+                        "link_description": "Nike delivers innovative products, experiences and services to inspire athletes.",
+                        "link_url": "https://www.nike.com/kr/t/스위프트-여성-리펠-패커블-러닝-재킷-rmelzaT0/HQ0651-010?utm_source=Facebook&utm_medium=SOC&utm_campaign=365DIGITAL_Facebook_DA_DPA_all_all",
+                        "title": "나이키 스위프트 여성 리펠 패커블 러닝 재킷",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/626436583_1952853832310393_1933826710005173945_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_VcJ1XkDxJYQ7kNvwHSm87s&_nc_oc=AdmgMpL0fUbo_qzA502mHeaX_OdcirMfVB8UgW4O08Wn2C84kioWvFrjtlYMx1y3IKg&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AftwLjQ8M1wDmQD_KZFgdnzDZGdVzQGgBqMg7FVyF4UypA&oe=69876258",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/626436583_1952853832310393_1933826710005173945_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_VcJ1XkDxJYQ7kNvwHSm87s&_nc_oc=AdmgMpL0fUbo_qzA502mHeaX_OdcirMfVB8UgW4O08Wn2C84kioWvFrjtlYMx1y3IKg&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AfvXS12NGnsDZiMC0p5Zf_8cL8qB_-7dI-yTuLgyQbzCiQ&oe=69876258",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "나이키 바람막이 컬렉션\n앱에서 무료 배송 & 반품과 첫 구매 15% 쿠폰을 사용해보세요",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com",
+                        "link_description": "Nike delivers innovative products, experiences and services to inspire athletes.",
+                        "link_url": "https://www.nike.com/kr/t/크로스오버-주니어-리펠-농구-재킷-gjS9ZyJk/FZ5233-010?utm_source=Facebook&utm_medium=SOC&utm_campaign=365DIGITAL_Facebook_DA_DPA_all_all",
+                        "title": "나이키 크로스오버 주니어 리펠 농구 재킷",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625045115_2304407443371130_8299300346339157161_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IuDhm4tuwiAQ7kNvwGlgtkI&_nc_oc=AdnZHNafAnr6__UiGBKnHKqhPDwwEN2xHgBEGmLKM9BitWB4IPr4yWIi421MHqvYghM&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AftGJGhm4_5Wmp33Wmg8cTdX2Is0NYDm00oEaf6GQ3Pi0A&oe=69877B94",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625045115_2304407443371130_8299300346339157161_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IuDhm4tuwiAQ7kNvwGlgtkI&_nc_oc=AdnZHNafAnr6__UiGBKnHKqhPDwwEN2xHgBEGmLKM9BitWB4IPr4yWIi421MHqvYghM&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_Afvd2U8CBaAWI1fY8i5mKnRbqv6Muo9pySsl2h_25cHVGw&oe=69877B94",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "나이키 바람막이 컬렉션\n앱에서 무료 배송 & 반품과 첫 구매 15% 쿠폰을 사용해보세요",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com",
+                        "link_description": "Nike delivers innovative products, experiences and services to inspire athletes.",
+                        "link_url": "https://www.nike.com/kr/t/스포츠웨어-클래식-우븐-여성-루즈-uv-프로텍션-후드-재킷-44y88LzW/FV6299-010?utm_source=Facebook&utm_medium=SOC&utm_campaign=365DIGITAL_Facebook_DA_DPA_all_all",
+                        "title": "나이키 스포츠웨어 클래식 우븐 여성 루즈 UV 프로텍션 후드 재킷",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625205985_1863604894284672_7482043625529929733_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5dtYklVJgq8Q7kNvwHNP6LZ&_nc_oc=Admdz6MSOnXAVt9X76Q8D0p9wL3Ku5lUCG0Y-Rsa2JNMQvQtN_3vw6K4b-ADv64G_m4&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AfsDoXIiyVSArxB1hlId7WgO_ba3XSVT4em1VKU90B_JrQ&oe=69875913",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625205985_1863604894284672_7482043625529929733_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5dtYklVJgq8Q7kNvwHNP6LZ&_nc_oc=Admdz6MSOnXAVt9X76Q8D0p9wL3Ku5lUCG0Y-Rsa2JNMQvQtN_3vw6K4b-ADv64G_m4&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AfvxqvW-PO_16NoNh4Kj0_jQA81j0lNkY3O4fY0MWpK72g&oe=69875913",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "나이키 바람막이 컬렉션\n앱에서 무료 배송 & 반품과 첫 구매 15% 쿠폰을 사용해보세요",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com",
+                        "link_description": "Nike delivers innovative products, experiences and services to inspire athletes.",
+                        "link_url": "https://www.nike.com/kr/t/스포츠웨어-윈드러너-남성-후드-재킷-WlocikQM/DA0002-652?utm_source=Facebook&utm_medium=SOC&utm_campaign=365DIGITAL_Facebook_DA_DPA_all_all",
+                        "title": "나이키 스포츠웨어 윈드러너 남성 후드 재킷",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624568907_1295508919299956_3990077021086384965_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YGiESqBwY6QQ7kNvwEoXka6&_nc_oc=Adklm4rOh1ljdbbK4RY1R5xawEElAQ4tv1a4Z1XG73rk_0KISR9oqKzEIUXHIUej3g4&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_Afu8d30sqETNDWlXCXlV_w3KqYuUw1x0zfkoOBZe8ieoYA&oe=69876220",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624568907_1295508919299956_3990077021086384965_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YGiESqBwY6QQ7kNvwEoXka6&_nc_oc=Adklm4rOh1ljdbbK4RY1R5xawEElAQ4tv1a4Z1XG73rk_0KISR9oqKzEIUXHIUej3g4&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AfuzCd2LkPDlWDyv-P2tQU0gFtDaPhXmWk28paMckmA8Eg&oe=69876220",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "나이키 바람막이 컬렉션\n앱에서 무료 배송 & 반품과 첫 구매 15% 쿠폰을 사용해보세요",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com",
+                        "link_description": "Nike delivers innovative products, experiences and services to inspire athletes.",
+                        "link_url": "https://www.nike.com/kr/t/리펠-언리미티드-남성-발수-후드-다용도-재킷-dNzrNc5w/FB7552-010?utm_source=Facebook&utm_medium=SOC&utm_campaign=365DIGITAL_Facebook_DA_DPA_all_all",
+                        "title": "나이키 리펠 언리미티드 남성 발수 후드 다용도 재킷",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624649462_741102238800508_2498201744869400067_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=c9IeubXrQ8EQ7kNvwF5Ll7i&_nc_oc=Adn-j1jWZ2q-6hc7EZWw5kyutwOzr8lxNpfagwuyB2z2C2pt43XJEQOT_NbFuP2cpng&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_Afthf09odiKLY0mntSfP6lF1sSRH2Dm_rhATyuKlNYDrVQ&oe=69876C46",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624649462_741102238800508_2498201744869400067_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=c9IeubXrQ8EQ7kNvwF5Ll7i&_nc_oc=Adn-j1jWZ2q-6hc7EZWw5kyutwOzr8lxNpfagwuyB2z2C2pt43XJEQOT_NbFuP2cpng&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AftiYIcAzAbJSnt1gFfLePGaCDsOek4C5tx9IRoX-AZnlQ&oe=69876C46",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "나이키 바람막이 컬렉션\n앱에서 무료 배송 & 반품과 첫 구매 15% 쿠폰을 사용해보세요"
+                    },
+                    "cta_type": "SHOP_NOW",
+                    "display_format": "DPA",
+                    "link_description": null,
+                    "link_url": "http://www.nike.com/",
+                    "images": [],
+                    "page_categories": [
+                      "Brand"
+                    ],
+                    "page_like_count": 26593,
+                    "title": "{{product.name}}",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "Nike Seoul",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "MESSENGER",
+                    "THREADS"
+                  ],
+                  "start_date": 1770019200,
+                  "contains_sensitive_content": false,
+                  "total_active_time": 77147,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "1508020506966664",
+                  "collation_count": 1,
+                  "collation_id": "1692780171881633",
+                  "page_id": "403269526194583",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "403269526194583",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/61563285595072/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "블랙콕",
+                    "page_profile_picture_url": "",
+                    "event": null,
+                    "caption": "instagram.com",
+                    "cta_text": "Instagram 프로필 방문",
+                    "cards": [
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "http://instagram.com/blackcoke.co.kr",
+                        "title": " ",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622817123_870955082387046_8839202083705973346_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7pCMcWyCGxgQ7kNvwHny1Ju&_nc_oc=AdlHOLf0gMytsqzl9udfHrEbpgvMKN3XYZKRnW-_Y7vZSpUSWZ0DbGSogkiiwXS7J-g&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_Afs3WnqE9H1DaqrtKEpkxc5iXt46O9PFUqXEDW8fKOK4vA&oe=69875593",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/620154740_1924435565134635_176435626958710213_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FvJpeFkkU40Q7kNvwHP2ZyE&_nc_oc=AdnBw181COdxCptHismJ-Q0DZkdg3aAGXm3paMBuNXwIJ1B3ZQiBjqhLFzalvjErpsU&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AfsdU5Zz6ii-MJcVUm8wXj97TaJnvmSW-X6PtLXKNbjP7A&oe=6987796D",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "http://instagram.com/blackcoke.co.kr",
+                        "title": " ",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/619459056_874042028812482_2931666315380702100_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=r25UVjbPWWsQ7kNvwGzNo-C&_nc_oc=Admaguq9uQWMuX1oGNFj3IH4NOymTzUeqfus5vcKGeqDSs31pyP2GjglIQSiFqcg6Qo&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AfvhgLQfrMzqJ7h9xuRjzlMxBGVupmZZWZYQY8AHVCYegA&oe=69877106",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/621697015_3560375700784289_4206940708818321868_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=EcsvPOyyvDQQ7kNvwGwa5VC&_nc_oc=AdkAYRB6b3Tto6cWAgY_EVBeXrMzA-Gx811Tlo6_UlZW-Mhy-7oUuXHjRMNE1g_Egcc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AfuCkvOhUDV6BRBXoaKJ-UhgIrtWIvzNFF8YEfhylyNU2Q&oe=69875D25",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "http://instagram.com/blackcoke.co.kr",
+                        "title": " ",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623678557_2393801097723201_4040960312309835939_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=O09G0xTOKuUQ7kNvwEhjcmg&_nc_oc=AdkkU3JYB8lrqLh67kHkCnOMODxES46GT_cE9oOhRTHuA0iWTZWrmaymOf10JCTOhuk&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_Afu51ap37LheUzEdOhllBP2d8c2pnPgAUng0F7SxV_z-RQ&oe=69877D91",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623295924_1524059243060668_4831557659711393566_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xLxV0w3hGdwQ7kNvwFMQLha&_nc_oc=Adkhp62a_lFiJdBR9BbYVLrz7NpZ0MGx88tcsVRWdS-IJdV8h-qOWG9W5q11Y4VXjoA&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AfviBxIlcWmQ-IRJNDwSxXN4SB41wvhlRfTYxqs1Kmpd-Q&oe=69875147",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "http://instagram.com/blackcoke.co.kr",
+                        "title": " ",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/621811261_1327405139156091_2960364207514469699_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DDmzyPScRT0Q7kNvwE4GlBA&_nc_oc=AdkJgO107z9bLNJH-DiPEcdyBCBinYc0BC5WPDB5KFZYC7Rb6_VJylKgqw8scCYNvmI&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AfsdIq71UcaK9qLqiT0dPWszI0J6_2rsdDDUHrESexH8xQ&oe=69876A97",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/619261674_3005092429878215_2752973104164696512_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WExZwbOMvCYQ7kNvwFT376n&_nc_oc=Adngp5nOiCKm3CwhoLerC0uPfINcUVfojYMcDA2lxUNQjxlPYUfX2c5NyNlJvCiVgBA&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_Aft7dV_JBnWh1oOAzWXt4bzg-Z0auFmOqszR-n1SN3xtHQ&oe=698756E8",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "http://instagram.com/blackcoke.co.kr",
+                        "title": " ",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624260914_1194295526198502_6715429267624625463_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hnovuFVG49gQ7kNvwGTmGjo&_nc_oc=Adk-zd_3o_cdXQkw7WwOz8dJSAr4WtsJN4hEzdz8Bxj26uFfdXIPWQ8pfQWMOqwzWMA&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AfuRg_Yj0ksfhObcoqoDxO9wmuy1sClHQg2CmGSf8iW9mA&oe=69876A5A",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624546571_2519678341762339_3958914273726297593_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4HQFlScbh4wQ7kNvwHM2AWQ&_nc_oc=AdkXbY4SsLQuS2-cXnenbjvK2ZeJcQ9cW3Vsyde05c7ThiZs9vAYToBhaKJ9GX0y0AU&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_Afv9yxr6JQ39DNZXCwu23wj2P-ERj5skAs9OHutPjyEY9Q&oe=6987601F",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "http://instagram.com/blackcoke.co.kr",
+                        "title": " ",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623296118_734014346176468_3619035281612537949_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_lmEdWzPlo4Q7kNvwH468Ox&_nc_oc=AdntRfGbpjxDZHT8OrPHbEdEvPsilh0p17rWcD9rRLyCQUETJGglslnnKTB9-fFVuFM&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AfvvHFvH3tMDyZ_mXA3DqDXPEismLKfIGjtf7ix0aibatQ&oe=69876853",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/619121053_1936272630299709_7201705654233011633_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1YhLL-Wx1HcQ7kNvwFoO5Th&_nc_oc=AdmNNVulfgsNN7gNBdP-DUXt-bwbTXB8ZCZ5nhcnCx4Vl53w6ykYIreynb3-1R_0bSA&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AfvdxBKp2laRVF2uFE6JSKbZ_-Y-vF1lrU3Ikn3H4mQRQA&oe=69877F45",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "http://instagram.com/blackcoke.co.kr",
+                        "title": " ",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/619996301_1198032262436886_5253452685350248698_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=suQKshz-KFEQ7kNvwG4madk&_nc_oc=AdlQE457PVL_qw6mc6PVEN12HbU0XO346oMGdx337L6sQjWCxqAImhX9j-Emi3Qj-Ck&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AftAlBH1mi92jdtctKRfdj4maK75YqTcfLYx9YOvc4gmLQ&oe=69877078",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/621644788_1542797546806508_6987485963782792655_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xWSGjfKQFAsQ7kNvwEVS78K&_nc_oc=AdlL581Y5FoRdWFCyBLbjYflcEZG8PaZI6SR_rUASoZwacwWG618-6HcN1LwuNVfQCE&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AfufDkyoMS15GFmD0h_i9FJei3iU9qlYbhbiNaQNdyZLLQ&oe=698771C0",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "http://instagram.com/blackcoke.co.kr",
+                        "title": " ",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/619580392_1189811583311431_1548406983194712200_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Zk1mG5scl_8Q7kNvwF_Zf54&_nc_oc=AdkxAYZrFMcOMa0wskPkGJ4Xh3f_RU7Pfc-5N3YwMWS4aNneC8161EprS6029UPNlYo&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AfvyE_flHLslhvWC4t686U4jCefIqiiVq5Rc2s0WHn7-aQ&oe=698759F2",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/621787324_2976254385897303_7466071681420964539_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WC5VmhggFfcQ7kNvwF6EqpE&_nc_oc=AdlOJkfKmA-8C2naxqwEtfRuVcwTeKVTYnheCyayM8EkBtMD6z97uToQGhUIPpu_OV8&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AfvA3JMaZqLcybec-B8ixq8ynBi45kLO2zNScuruADWFRw&oe=69877786",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "http://instagram.com/blackcoke.co.kr",
+                        "title": " ",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624757454_1393254932553484_9065558252466727771_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ShFn-ogditkQ7kNvwHJQjjY&_nc_oc=AdnHMjHJsWefnrPnIMOzcHwh5FQBPM8ikAIR2Er9pBxluupSQZAJtxSVw-POBtdrnRk&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AfsgVpfYb4Ko1WNtCjK8dGshO6c8U9zXQFJqqAHzVYsQNg&oe=6987736D",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/619996301_1168960991737155_5265683574121894638_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=x8Q0yDrnwDUQ7kNvwEV0Uow&_nc_oc=AdnH_pvedbPfvO4mkyd4CmbwXZKgNTyXOh8JWpEaos9iVawe8geUDE_lMwdgRHv2NIc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_Aft2E7VkM1GznFdF2p0b7OiVTxU8lOUxOH9jO7olwjM1Bw&oe=6987544F",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "http://instagram.com/blackcoke.co.kr",
+                        "title": " ",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/620057127_1593726638719809_160125738818937704_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4oGTp-oCXrcQ7kNvwHRkhpd&_nc_oc=AdnXDzh3uyRFNO6cuJhadE2zthjyulzSV4-un1CprfRlr9qsghYceT5LwD9s96Iy3Cw&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_Aft7KyfAOimSnYZMEGmI17-Jai0eaXNDrEK_056I0Td9MQ&oe=698771B1",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/619538470_1384185540054379_5940097912891826132_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9GKD5OCGl-wQ7kNvwHe8fEL&_nc_oc=AdkgENh5infMXxWlhaYue0emF0_G93Ydbb3ks5mOc3V2u23eK2lm_fsPRYxJEOMTZMM&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AfvKJQscbYGL5hylawnRc_vRg-nrgitcclhUpXFUI2OYJw&oe=69876DBE",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "나이키 마인드 슬리퍼입니다!!!!\n국내 품절되서 사이즈 못구하신 분들\n디엠주세요🤍\n리셀가 붙어서 좀 비싼점 참고바랍니다\n정품이에여✨️"
+                    },
+                    "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                    "display_format": "CAROUSEL",
+                    "link_description": null,
+                    "link_url": "http://instagram.com/blackcoke.co.kr",
+                    "images": [],
+                    "page_categories": [
+                      "Shopping"
+                    ],
+                    "page_like_count": 0,
+                    "title": "블랙콕",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "블랙콕",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM"
+                  ],
+                  "start_date": 1769673600,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "4245524729111718",
+                  "collation_count": null,
+                  "collation_id": null,
+                  "page_id": "310526012318961",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "310526012318961",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/TheLotteon/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "롯데ON",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623437216_1196224025959867_5731595764585349262_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yYSNjLeSiu4Q7kNvwEooCgQ&_nc_oc=Adm5eo6m9sD1tWWClogypk2q2VpkIC_uy8bDVFvhJlwbzx1wkAQI7OBJkb0IBYO6F8Y&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_Afsi-N2AB9OK5oiahBAoOf6zDyS07U8Ijlxr8-Y90kUmmQ&oe=69876C19",
+                    "event": null,
+                    "caption": "on.lotteon.com",
+                    "cta_text": "지금 구매하기",
+                    "cards": [],
+                    "body": {
+                      "text": "📢 나이키 브랜드데이 \n2.2 - 2.4 단 3일!\n\n✨ 겨울 인기 상품 최대 35% OFF\n✨추가 22% 쿠폰 + 5% 카드 즉시 할인까지!\n\n나이키 역대급 혜택, 지금 바로 확인 👉"
+                    },
+                    "cta_type": "SHOP_NOW",
+                    "display_format": "IMAGE",
+                    "link_description": "겨울 인기 상품 최대 35% 할인",
+                    "link_url": "https://on.lotteon.com/@lotteonapp/meta?ad_creative=260202-260204_nikebrandday&ad_group=nikebrandday_2602&campaign=2602_da&og_tag_id=377639225&routing_short_id=q7cnem&tracking_template_id=d58145319a330f2ee6f13ee8460b15c1&ad_type=click",
+                    "images": [
+                      {
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622740694_866180146302301_5980724753051001230_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vkewMJyU86cQ7kNvwEkW-jm&_nc_oc=Adn-KIYo9lo1El-ioXR5_YqZtvq5r8qiIzOds_3DPXaqdSS7lkZ9obq1NgiNATdW1RQ&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_Afs43t-Y1YdyWvMFzXhS1oVqkpAn4DvVaWBsRdaWS2D8cg&oe=69875DEC",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623221230_881297494305087_8426372368573529947_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ww-4JC6650EQ7kNvwHeCcRr&_nc_oc=AdkRy5FVoNIqHmHS3ztrRIROAGCzDiu3ASGWxCIm2dbP3YKYZM6tK_XeKrlXjJqfiEc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_Afsz9fPhDumk_q02AmmnZ0Lz3fIhdo860_R2bIJ9hCFiJQ&oe=698765DB",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "page_categories": [
+                      "Retail company"
+                    ],
+                    "page_like_count": 501035,
+                    "title": "2026 나이키 브랜드데이",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "롯데ON",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "MESSENGER",
+                    "THREADS"
+                  ],
+                  "start_date": 1769932800,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "910111054963494",
+                  "collation_count": 5,
+                  "collation_id": "2316436735496330",
+                  "page_id": "103164259268905",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "103164259268905",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/nikeseoul/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "Nike Seoul",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624626829_1212971284320425_7802138107217186077_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Xw2iDMNRhEAQ7kNvwF_fFch&_nc_oc=AdlNsOqzLH3gXL3a-et72Mq53r4A7kdJIpCl6bc_lCaqML-in7hsJnP6rov5Ildg-4g&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AfvghZVK9-vTPtLX7dlvvgu83bHkdH9UAWUOdWlj5X_Nrw&oe=698766FD",
+                    "event": null,
+                    "caption": "play.google.com",
+                    "cta_text": "지금 구매하기",
+                    "cards": [
+                      {
+                        "body": "앱 첫 구매 시 15% 할인",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "",
+                        "link_description": null,
+                        "link_url": "http://play.google.com/store/apps/details?id=com.nike.omega",
+                        "title": "나이키 에어맥스 TL 2.5",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625323118_931066422917729_3711152336124054608_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JNvCfASAYOAQ7kNvwGvqBWP&_nc_oc=AdnxbG3bT_un4z44O4okzdmr0D9PbYa647GIOIo0QViR-hbuENU0eGCd6ZEW87XadHA&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_Afu5WYGDpwmPZXzOR9FQzHiVoJbODaVvXVC6xDuZ7FQzbA&oe=69877917",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625255174_740754405433800_7170080171614298085_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MnO5wLEO614Q7kNvwFQXY7Q&_nc_oc=Adl2Wh3e3-DN9Lc0ut6FMPWqgJi0azoVQrD6Zg-oCgZxnWOvchGcXoyeTNU14dxXYUc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AftrpschJTTfGSGPbsBc5_f-YHhmvGaIyBCHAmvxwuwPFA&oe=6987503F",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "앱 첫 구매 시 15% 할인",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "",
+                        "link_description": null,
+                        "link_url": "http://play.google.com/store/apps/details?id=com.nike.omega",
+                        "title": "나이키 에어맥스 TL 2.5",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622181863_1879583082950255_1578663306579374387_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qdfYE5ixQF0Q7kNvwHjCdq1&_nc_oc=Admfxoj7i2ia47_uCJLc7hC1FWijQcHjVP_cwLRY9D6IXeqXRiftc_JQHhBig9mCbu8&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_Afui8FCk6iJoTm49xB80ma1WFAHNFE1bsdMvvfmo2KSfNA&oe=69876F00",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623802282_792914860488448_5889285230023238073_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fnDqtZ0CCZgQ7kNvwGV_svv&_nc_oc=AdkCSBNWRC_Q6wvlyz1vZ1zU-TybkS48047ezn0l8ZBFVS08hM9Im-sj2eoVKzeak-w&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AfuzuOLvWzieFZ0P2pxsgzBaJnx_Rpg60J_bRFD3riH2SA&oe=69875F74",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "앱 첫 구매 시 15% 할인",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "",
+                        "link_description": null,
+                        "link_url": "http://play.google.com/store/apps/details?id=com.nike.omega",
+                        "title": "나이키 에어맥스 TL 2.5",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624869976_1777660432899825_3167403735331366586_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2aFXPaVtFlAQ7kNvwGczJXZ&_nc_oc=Adlt2vW9bVt1b4tARq06WCG7uP5BgKtfDpKP_V5njAUwN6QBLh4b0V2FJ3FWKVpZGCs&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AfuziAiU0UQrxxycVTBnHVdqjrhrp4LMzQvfPRbGfJj40g&oe=69875F86",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622879708_25310116542022910_2701382072224011909_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fYB6IThaObcQ7kNvwFHtiCT&_nc_oc=Adl7BrXBIi1XzhSAvPOY7eNrQHDjs9gtyNXorl_rS6skOaTg8LH66oGZSApFq0PM4ok&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AfvQXBsX_QE7b-1--nTWWjE_05vqlHsxH3IPPnViwWVZPw&oe=6987584E",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "{{product.brand}}"
+                    },
+                    "cta_type": "SHOP_NOW",
+                    "display_format": "DCO",
+                    "link_description": "{{product.description}}",
+                    "link_url": "http://play.google.com/store/apps/details?id=com.nike.omega",
+                    "images": [],
+                    "page_categories": [
+                      "Brand"
+                    ],
+                    "page_like_count": 26593,
+                    "title": "{{product.name}}",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "Nike Seoul",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "MESSENGER"
+                  ],
+                  "start_date": 1769760000,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "833408452517146",
+                  "collation_count": 1,
+                  "collation_id": "1159091809090715",
+                  "page_id": "111651785085396",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "111651785085396",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/100087790984688/",
+                    "root_reshared_post": null,
+                    "byline": "",
+                    "disclaimer_label": null,
+                    "page_name": "Top Heroes",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/571325961_1377174937357927_4544610355744150523_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=I8VuN-a-GbcQ7kNvwF_WG6v&_nc_oc=Adnc6PJesi_Q7CAlplt0DTf-J7Byo-UiW5lc2iTl8k8NlrAeFA7vpv7J_ww7S2bJq3U&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_Afs9SMNoNW780N-rmadeHLeiUDTWvVahh3XBDQW-pbdKhA&oe=69876DB9",
+                    "event": null,
+                    "caption": "apps.apple.com",
+                    "cta_text": "게임하기",
+                    "cards": [],
+                    "body": {
+                      "text": "끝없는 무한 전투, 특별한 SSR 영웅 수집"
+                    },
+                    "cta_type": "PLAY_GAME",
+                    "display_format": "VIDEO",
+                    "link_description": "Download Now for SSR hero and Exclusive Once-a-Year Gifts",
+                    "link_url": "https://apps.apple.com/us/app/top-heroes/id6450953550",
+                    "images": [],
+                    "page_categories": [
+                      "Media/news company"
+                    ],
+                    "page_like_count": 274874,
+                    "title": "요즘 출퇴근길에 할만한 갓겜",
+                    "videos": [
+                      {
+                        "video_hd_url": null,
+                        "video_preview_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/571340802_1452459462517420_2700716095880062063_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xO8ZtktJ3tUQ7kNvwEu3DYV&_nc_oc=Adl-L2MaAXwMZ6h2Z_kjV3pHaZeptvlYF64bIdmbj5FUTiVnxgMLO2p_dWINIE-LAVk&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AfvCDp0EE3G0lpwhvU9legJ7nEOw0CBUUi1a4Xq7SptuMw&oe=69876E13",
+                        "video_sd_url": "https://video-icn2-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQOKApwK5XO78JFqcF1X4QnjX-4WitYLpmznvtFSK-MPos4X4QpXHNNixk0REjPT022rnz83rQoyXT_NRr-uKidh1zHjzJpzOnPW4Ysfxg.mp4?_nc_cat=109&_nc_sid=8bf8fe&_nc_ht=video-icn2-1.xx.fbcdn.net&_nc_ohc=86bpEbHbWtAQ7kNvwF6N7ed&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTcyMDA3MjkzODcwMTUyMSwiYXNzZXRfYWdlX2RheXMiOjEyOCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjU3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=OakZ_JxeoP046UV0UBd63A&_nc_zt=28&oh=00_AftmGQPlcVicfW-Oak43AUePzhmbpnyElix8i6OToargyA&oe=69877709",
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null
+                      }
+                    ],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": false,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "Top Heroes",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": true,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1761548400,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "MESSENGER"
+                  ],
+                  "start_date": 1761289200,
+                  "contains_sensitive_content": false,
+                  "total_active_time": 56823,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "1215975753401210",
+                  "collation_count": 1,
+                  "collation_id": "1395709402350197",
+                  "page_id": "606139075919599",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "606139075919599",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/61575358045986/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "Jewelzz Fashion Market",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622424486_1285201160105593_1284545246735556456_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pna19eV94F0Q7kNvwHYR-RJ&_nc_oc=AdlPgozXEo1ju37uOg5ag2RGcZeE407-OQAhJH9FF5acSxrNLXkRMwaEt6kLbtp38ms&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_Aft5V8PyS-eSrGYqbm9ASmXNz_Ff4lMra0pINjPBkJzNnA&oe=69877EC3",
+                    "event": null,
+                    "caption": "jewelzz.shop",
+                    "cta_text": "더 알아보기",
+                    "cards": [
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "jewelzz.shop",
+                        "link_description": " ",
+                        "link_url": "https://jewelzz.shop/",
+                        "title": "Jewelzz.shop-10년 연속 NAVER 인증! 믿을 수 있는 국내 로컬 판매자",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622269609_868005999185417_2462562755182305668_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PiqyoobUXM8Q7kNvwHiY8O9&_nc_oc=Adlsa9QWKZE-GzWM_Sgmgew0XwOQlWDQNajcgVM4moqvGJ4dqYTNCsc3USvm0SjqBtM&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AfusYEz4jgdG4GFtSUYn5BDx4Maext1s0ak2klqfDY_dbQ&oe=69876F1A",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623270539_1408697410662894_6661305650583449588_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oQfR1b_CZc8Q7kNvwFXa0l3&_nc_oc=Adns-z1zdPbjk5nM9RjIaEpFiA0rSVr1bbv1WJRBYH5mB0VJwZ_euksE0lnzGJT4vUk&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_Afv6zpqgXpQf8edYdHi2zj12cmAFKi815yBaH0lG12u57g&oe=69876A7D",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "jewelzz.shop",
+                        "link_description": " ",
+                        "link_url": "https://jewelzz.shop/",
+                        "title": "Jewelzz.shop-10년 연속 NAVER 인증! 믿을 수 있는 국내 로컬 판매자",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624795230_1719630122340302_2616361740950973001_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=x1i_IBg5WE8Q7kNvwG-wZJU&_nc_oc=AdnZbvj1i4Yi1tTMXvRVHn0cHPmVRyNtcXDTGiJxr9LjUzqQEazXwwG-3gzZ2eEskF4&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AfvzeBLi35noo4ohjs8jyPWPj1lcBaoi9AkM5IPhdQ_WEQ&oe=69875F26",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623688098_1224421105792282_7523297861626190244_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=v4AUEKZUceoQ7kNvwFvVRO9&_nc_oc=AdnVljI2_blSvPUYg_anQaIDYJZBhrwq7GHw_ZITvcjRdClsA53BrL5IEW-F7stkKok&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AfvsoepgGD_tJW7HVXzvGM-vUawqmP12fW58p9lc5RiHjQ&oe=69875E88",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "jewelzz.shop",
+                        "link_description": " ",
+                        "link_url": "https://jewelzz.shop/",
+                        "title": "Jewelzz.shop-10년 연속 NAVER 인증! 믿을 수 있는 국내 로컬 판매자",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624630272_2098312847583896_317570534658275894_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VCoE_CJxlu8Q7kNvwEmwsI0&_nc_oc=AdndE1pQ9yMOY7NMs-X1jfJNpZz5NKbwIUcTjX2Q561PJywmcJwQyyVWixwIXLGRff0&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_Afv1CyccGpA2ii8WyTATE5nis_QRqLdQ821QjP7lwhJc_A&oe=69874F4E",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624309637_1908278976490659_344026954092976349_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pqkNEkbbk94Q7kNvwHxeeL0&_nc_oc=AdkMU2bR0cMpgTtHNcdVPj0KiUX0oGIjKctaJR168uikUHGnitb2N-TSd2rA2PTnLPc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_Afu4VZDzSdgK-lBpC2qRZgK_QyGVtsECsDg-zLQOVDKM8g&oe=69877B7F",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "jewelzz.shop",
+                        "link_description": " ",
+                        "link_url": "https://jewelzz.shop/",
+                        "title": "Jewelzz.shop-10년 연속 NAVER 인증! 믿을 수 있는 국내 로컬 판매자",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/620127216_918901217319217_7095277353620585201_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=03yEsRLf1-8Q7kNvwEixIxO&_nc_oc=Adk_NVYUDSffMQr1D6GYvruDWQtuA3XDqGa3ZS7O7hjDWhKBrqXqeWbztI2IbLjO7V0&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AfvE-bZU4yPni9o571EWnKHR_NWUZbBKVBaH1msXZNBePQ&oe=698782B9",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622386914_1161646449256305_1474229546441819066_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bk3ZLPc0LT8Q7kNvwFFPE0H&_nc_oc=AdnHsMIUhHRyljK6C-9DlgC7esSJ0xjJIsdqo2OHstXTtW6iyzEhUrhOswkMTfxeX6M&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_Aft9SdjVbJPAmc_-Kz491r0TWH4uHHTDigUCszHWuLeFwA&oe=69876AF7",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "jewelzz.shop",
+                        "link_description": " ",
+                        "link_url": "https://jewelzz.shop/",
+                        "title": "Jewelzz.shop-10년 연속 NAVER 인증! 믿을 수 있는 국내 로컬 판매자",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623114518_1381144516555344_267927580086634175_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rwhUJe76lI0Q7kNvwE8Bz5J&_nc_oc=Adlohp9C-N_3aecWX6tHdS54dMebfGM-DzKkzfZ1w62CKu0aOz7Hm6WCpkj11lEXx8M&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_Afs-Mw7NHbJXEZgKCFQZV1qB2Ojibe2uBOS1EZyiLZlgBg&oe=69875206",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622434425_1448935713356589_6192598388780032345_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1s7VYsOhmsIQ7kNvwGBUu_h&_nc_oc=AdmCnNL24otwCaHM2_08hIf2PAEJRG-IKjjh4GAD8tDGUV9096ouLjMa_9o3nVXPvFk&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_Afs_7Jwb8HvClzaTJiI_TgG9vvw2W7nwAczEkZzS7EwuOw&oe=69877D0C",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "jewelzz.shop",
+                        "link_description": " ",
+                        "link_url": "https://jewelzz.shop/",
+                        "title": "Jewelzz.shop-10년 연속 NAVER 인증! 믿을 수 있는 국내 로컬 판매자",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623374211_2654681638238345_3240044831158167097_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VNAFGCagYr0Q7kNvwGm7KC1&_nc_oc=Adm1pvd-bMO3oqJEWJgmmexg6A5q9dI8P5RCW4WC7S3fp2voQUYBICzWMrkvXz6FZAs&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_Afvb5-NH74Cgh1nWm8_kH1lDx5DRYStu7uK7WH1hbJwP1A&oe=69877C5C",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622574702_1193797019627059_8702379878891479375_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fUxqAF-wYNgQ7kNvwEKiuWW&_nc_oc=AdmF1Qxf_xiB2qqjPE3Mz26t88LqBM7i7HzgrtTMmkias4ZEOn0SYPIukKVLOaLACgE&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AfsKhBvfrSTlga-2qIG_vgVK91FKXPia2vzt4Ket2zPlIg&oe=69877712",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "jewelzz.shop",
+                        "link_description": " ",
+                        "link_url": "https://jewelzz.shop/",
+                        "title": "Jewelzz.shop-10년 연속 NAVER 인증! 믿을 수 있는 국내 로컬 판매자",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622393038_1290469179555878_4279265459895318518_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2domZUIdkE4Q7kNvwHYoIar&_nc_oc=AdnCPD7uFVgLwMoPzk0tw-DitAb-nlRsKJcyqEwkiOaDzbr-DxFoB9pQHBeguB8g5so&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AfuXuc0VqlTnTdDrGYh45BLq_vcmuBfpr9SYeR1kM0O31Q&oe=69877E33",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622459948_1440050037716821_8119339348545521366_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wMZP7VImRYkQ7kNvwGfvCPs&_nc_oc=Adk71P9zm25cgXkW-6ZKizc95bki_Gw9M9ad0xmPzogKsahU3bklGXK8fgr4WUxA6A8&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_Afu5CcZ8DoGY7Ss8nPB8lO65LjXZ-Lu33m4a_8gKN4CL5w&oe=69874D12",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "jewelzz.shop",
+                        "link_description": " ",
+                        "link_url": "https://jewelzz.shop/",
+                        "title": "Jewelzz.shop-10년 연속 NAVER 인증! 믿을 수 있는 국내 로컬 판매자",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622620050_892831763676274_4734983059692278583_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NRfVxRZHzzMQ7kNvwFlMp_o&_nc_oc=Adk-PXUWiQfRESH4QHNDf9BNIquolMNGK9jwfBy1uyXztcMC_puIgsn3jPjEqtbYd0A&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_Afv3StIBFyrklWtT38lYqVZQghzDCiDIL38jXzuLpE5EZQ&oe=69876534",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622373961_1402221841364219_1630764160761313659_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2jxhlvyrT50Q7kNvwEKF4dt&_nc_oc=Adndbu_Glbe34m7LfRK6IUo1h6avKbUt6ekcurbBLpWACZxzYUeFnBnxocxbWZ0X6mY&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_Afs0G55KJSFiekH4zv70Qgw1NnRE9j7_wAzwhTiwOP9FWQ&oe=69874BFA",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "jewelzz.shop",
+                        "link_description": " ",
+                        "link_url": "https://jewelzz.shop/",
+                        "title": "Jewelzz.shop-10년 연속 NAVER 인증! 믿을 수 있는 국내 로컬 판매자",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625043698_3847456712053254_1297664690555343496_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=aDR_h86y5hwQ7kNvwHT_rq6&_nc_oc=AdkT_3j4VYxbUd0xhh1WPGmoANEohdnmR688WppdnXbEbkPusfiruB_kMsgl3vbpQ9s&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_Afu41ByzCnNdRz_e9wBvkHbxQpsXoooBPs1wydL8r64djg&oe=698758DB",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622384731_882032451409184_6308465848676979792_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kEQceCQirxMQ7kNvwE00QtO&_nc_oc=AdmJ-lfiwHvpWys_nZgkXpXqsbL2mj1Bxn8FaWCj0TVQKLwQyw6q0e0VTGzqepBBtCI&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AfsoZjkF2CIGZjGGuplZx2k8ZUgIFigL1xMXj1ao8yZ14g&oe=698774AA",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "jewelzz.shop",
+                        "link_description": " ",
+                        "link_url": "https://jewelzz.shop/",
+                        "title": "Jewelzz.shop-10년 연속 NAVER 인증! 믿을 수 있는 국내 로컬 판매자",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624722441_1202713098731768_5055736277082035917_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZBMftHMjRJEQ7kNvwH-BdxZ&_nc_oc=AdmlCQ4B_4oViRJc7xfgBTCQLATzCQxTp1fLjWlBPZV6bHGR8oVzKjimmh-qhdll21M&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AfvCzm356WDbnmf7Io_FsbiSTEqjuX7JvS1FLhhAj964Jg&oe=69875A5F",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622330250_1365715805307342_2782659427763115658_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5ilFaAhSzwAQ7kNvwFETrf1&_nc_oc=AdlQ_6nYcuOlRStl0kvw6ym-joHV__nAxJbptvSvVuPeh-L0J6464rAg__72iWtRXHw&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AfsGN6fc7bWlRflBkoPWlqyTs2vrg4A6sqGeT9X484IYzw&oe=698772DB",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "www.jewelzz.shop\n\"한정 타임 세일\"\n\"10년 한국 판매 경험\"\n\"카드 결제 가능\"\n\"편리한 반품/교환 서비스\"\n\"초특가 59800원\"\n\n다양한 브랜드 운동화 (나이키, 뉴발란스, 아디다스, 아식스)\n남성/여성 신발, 다양한 스타일, 다양한 사이즈 보유\n\n[특가 알림] 뉴발란스 530 스틸 그레이 블루 블랙,\n[특가 알림]나이키 줌 보메로 5 코블스톤 바스트 그레이 블랙 오트밀 포톤 더스트 앤 메탈릭 실버\n[특가 알림]아디다스 아디제로 EVO SL 남성 로드 런닝화\n오직 59,800원으로 당신의 일상을 업그레이드하세요!\n\n사이트: www.jewelzz.shop"
+                    },
+                    "cta_type": "LEARN_MORE",
+                    "display_format": "CAROUSEL",
+                    "link_description": null,
+                    "link_url": "https://jewelzz.shop/",
+                    "images": [],
+                    "page_categories": [
+                      "Shopping"
+                    ],
+                    "page_like_count": 185,
+                    "title": "Jewelzz Fashion Market",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "Jewelzz Fashion Market",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM"
+                  ],
+                  "start_date": 1769673600,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "26143563751904192",
+                  "collation_count": 1,
+                  "collation_id": "1396644315297247",
+                  "page_id": "104172534877809",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "104172534877809",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/mooncademy/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "Cr8tour",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/619297487_1267700631869918_6719018402130514633_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iLYgtJN-JXMQ7kNvwGBFP0i&_nc_oc=AdklAvRZtatPigcDQnzDjV2At6GKPAZwkXI4pZxapM-muEFgtVizBEVZir0GpWzC4D4&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AfvX8Ax5y7NygkNC_dd7dAxYhrRkf2sZqE8U1B19gG78iw&oe=69877B55",
+                    "event": null,
+                    "caption": "instagram.com",
+                    "cta_text": "Instagram 프로필 방문",
+                    "cards": [
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "http://instagram.com/cr8tour",
+                        "title": " ",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/602329916_1202970145349452_4736921299488678313_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FzX3oxtDticQ7kNvwHCW_lg&_nc_oc=AdmaU5Mw1NYm5g0WYkF7PN8iouQyOAipRnmVlPWB0uZia7DOVBMr-UF_PPvNttja-Xo&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AfujzvdCrQvFvX4iBoYIqPKijtkuxqhJD_8aR6u3zbqzyA&oe=69877D54",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622076712_2677316919285637_8819204336842990356_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bN_zCj0NfsEQ7kNvwFuuyGN&_nc_oc=AdnfjjcqQbD9yxYM-J2U8a23-QtScgdzeJ8zPS9-2DOBDybTQNCNDcviOyNvYXDTlLY&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AfsriyQIqY4p008BfOV_Bpa4-0Go0HW16Z8GmOsJ1cO_dw&oe=69875604",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "http://instagram.com/cr8tour",
+                        "title": " ",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/602311657_1395928825608242_84351461421011838_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rmtAj1BucVoQ7kNvwGow1mV&_nc_oc=AdlQ22tsLBSFdvlvDqZ8g2Hmw8z57-kqDRUxIC9Aa0UWulJyCGJXAUE9n1eNgcm6Q34&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_Afs0OAN0bUi6AWKiRzWXVUX1GmI4qW75UM8mIxv5NX6O1g&oe=6987521E",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622723938_4383972271848280_1208798244648534997_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=da-pEAFgGW8Q7kNvwFxFMUX&_nc_oc=AdmNAG7li3dqxvhokyYXlfTsTmfGjJ2abySG7Lf6eaBLNrQcv_QXMJFNx4T_Sq9n3oQ&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AfvQ40q6VXGMDiDsaoXA-Saq7Od8L51EJP8gImkmyjseiQ&oe=698780B7",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "http://instagram.com/cr8tour",
+                        "title": " ",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622914456_4522033454750032_6254964606277464453_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=e2PjAf9m9jUQ7kNvwEIqlUw&_nc_oc=AdmNssErbze763Zio_3bhA93uk61iQOEov--CAyOspkjVPnlODTNEzbp_3uobsGS8iw&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_Aft7PCmInPNkIC_T3_N2F7-AApcer2mzJrLSG72acEEagw&oe=69876304",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622090578_1213363237440666_2587385054019486556_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=aGiapu8hkJMQ7kNvwE2vmbg&_nc_oc=Adl7AkcgOGP8vc36QU4aaJP1pN1C3C95FJfjWo_A8M_0LftI31qcdI8crJW71cN9VOQ&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_Afs6ooZFKkILYitD6g-mv0Mk5WnZDY2b7uFfEceZs_W7Mg&oe=69875DC9",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "http://instagram.com/cr8tour",
+                        "title": " ",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623349335_4442380882717446_7220980940707110408_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7uDvXU8_ZsQQ7kNvwFKaYu9&_nc_oc=AdnAKrdU4GxRDH8tBKS2fLVduQllOwHCv8532HaGHmo05QH54D4TgOQKtBTcjXzneZQ&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AfvG6yhoFMaxEeanJC_0LU-addgiSqaLk-G7chT4JQiUuA&oe=698761CD",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/620098912_1317911990096159_831389363907730831_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=p9BjKHJnGesQ7kNvwGMEGdJ&_nc_oc=AdkqARlFezR9NKCrrjeRXKBDZcMKPf9byxtOWgGEdBYcEB0t_vC7ghq4SMVy41-rdno&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_Afv_tueoeMuZSXZXnjXDNV7HzbFeoa01Gdt0GER4eIuAZQ&oe=698781C6",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "http://instagram.com/cr8tour",
+                        "title": " ",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/619182095_1111304124355288_6637705163358162752_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=v-JNcrI--VkQ7kNvwHRiOPx&_nc_oc=Adm7elxJBZV7WuwwFQIWe85UCstS4u6124RRc7EdEWe4oeXPq7rDobNWn974l8KcAxE&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AfslAey33jGS6biCx5Fgo2spNZHLigde_i1k5zSu7O972Q&oe=69875438",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622388995_1342829927595533_6815512853580439806_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=n9or7u6b5Z8Q7kNvwHDjt-m&_nc_oc=Adm4tAds8CIxzNkNHSFb5nbImL3Q2Yiozr0rEcA1CVjB7s_zH-vIU6h0CG8MptK43LU&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AfudQ5Xd1cwF5eq9VKqUyNF9ZQoBuuWJjazmtZXFmxpC4w&oe=69878013",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "http://instagram.com/cr8tour",
+                        "title": " ",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/619387039_1786843115332365_8787713304019093665_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2t342WmhS8EQ7kNvwHEHzJo&_nc_oc=AdmEoS42RoU1vwFtnBSmTR9YJjDM-FdFihj_1pb0E96fSKqMN1LnuduH9y4eVSzcq3o&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AfsFVfyEyEyG799A6-sNY3mrpxzAPYT1brpyT4GJRmg_CA&oe=69874F61",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622822429_1423947372467055_5147700640748522897_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FxNSBi-JW2sQ7kNvwGnV-O4&_nc_oc=AdmeU6tuYvNFK1utMm8cDUe6fRbe_3Y4xnV1A-NqEE4ue7SxtqXb-ZHHRxEzYKXmuJY&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AftBQzKj9lMXKBQ5k5l_bQWiOVu0-MGZLj5wnY0W1Ik21g&oe=69875457",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "http://instagram.com/cr8tour",
+                        "title": " ",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/619491855_767983095772964_187415223780743837_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KJMWlfHgO1wQ7kNvwH5lj3P&_nc_oc=Adk7U34891Q2SzX7tin0UPCrFaGQ-kqXokrds_AqHC876SVD-2dM4eJybMEpUhpQ8kE&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AfuIjX-Ew7TDjgbuS3KJinqNb0ciWAc76GDHJ2d0jRy2Jw&oe=69876F6D",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/619298764_860978536759390_1669701566706685881_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_ZT_HWBc26oQ7kNvwGIpNq9&_nc_oc=AdnId2yYa_RGfx9ojwOSts8cHqrDBJGOeup4ci5IwZ60aBz_l6PM_W9tL4uL3LZ_Rrk&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AftzpeD2MwKsiKX7A7CX9FBJj7iau1XJ115nNEKjnH-cxg&oe=69877FD6",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "http://instagram.com/cr8tour",
+                        "title": " ",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/621710892_1940443083244416_158314539586075437_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=MTib2rP4SkEQ7kNvwHV8QN1&_nc_oc=Adk3yh4eiF5LahFRcXelKSmrwm3YXvPbWTcBBwYeNjer1lM2rL1qKUqYUoYoXIBYuY0&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_Aft4U0xyX5Ofd2xFwMIYZd8tnbR1PK3_VzuwWfhrJEYnSQ&oe=69877EB2",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/618798984_1609629130040798_4378566107535513243_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2s6_YUubUP8Q7kNvwG9L8pA&_nc_oc=AdlnJ5TzIrhKt3mreRM1I3RC5KUVzz9NdAQGXqH-S9d_x-epuqXoMU6Yhmwx-KyqxYo&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AfuJalUgn0wgwCNWP2u1BvK9qIliPpYzImDHdqEtPWuOxA&oe=69878017",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "http://instagram.com/cr8tour",
+                        "title": " ",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/619526716_1608117833651478_7805539378049949729_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_h0p4ewYrAUQ7kNvwGaWkgL&_nc_oc=AdmH8NxlV2ISGFvLZqKgmjx9YRHrOZTnvrSq7yekj_KwtIM-P9VbDutEiPR6YAlPzzc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AftjlbQTb_wvmZXkJRT8FFw7zDHnqZrtJT2y3MHkAuG2NQ&oe=69877BDA",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622881679_1578576359756303_6243783101188213786_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=M3FELMkidQoQ7kNvwFfOluE&_nc_oc=AdkgvE8zvLovcm6P_NtQpNC2pSSBkn0mMKINyAfdMQiUMoHzISwBDG5mPWL6jyaynz8&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AftmUVBq8wA-2UwrvGmIpaiymWnLowakRp0Mio9ASddHig&oe=69875DB1",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "http://instagram.com/cr8tour",
+                        "title": " ",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622378895_766591669268948_1714191879906218516_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=neD90wdDABAQ7kNvwGMKqLW&_nc_oc=Adk4YtEM6xWJ8MvtymiTERnOP2DwuDlMpJuSxyzBB6_FItbGMdE3MB0vnucGg_sk3us&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AfvLb_WUAtocBPgudRtr8ghZHzYfGeu83-vS7Rke0AOqSQ&oe=698777D0",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/619508914_26025749587048236_1499240334254270_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Nrge9paf8OcQ7kNvwHOeSio&_nc_oc=AdmhtDKhQgebUW1WdVEPRTFtY_s6Re_OyY3SDp8od-jO8vKLfzGKzZBnqBQZClaS0RI&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AftMssTQ-tbdseUtzmOnK3-dkQLO1EueTgrkFllhBJLk0g&oe=69876AD1",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "🔍클투 리포트 | 2026년 러닝라이프 트렌드는?\n\n온다, 온다, 트레일러닝붐이 온다! ⛰️🔥\n산길, 흙길, 오솔길 등을 달린다는 의미의 트레일러닝!\n2026년 러닝 열풍에 더해 트레일러닝이 새롭게 떠오를 예정이에요.\n\n💡 데이터가 증명하는 떡상 시그널\n 📈 트레일러닝화 검색량 121% 급증\n🏃‍♂️ 트랜스제주 참가자 16배 폭발적 증가\n💰 코오롱스포츠 매출 +153%, 호카 820억 달성\n\n시장이 뜨거워지니, 브랜드들의 ‘산악 전쟁’도 시작됐어요! ⚔️\n\n✅ Nike: 비브람 메가그립 장착한 ‘카이거 10’\n✅ Adidas: 보급형까지 로커 디자인 전면 적용\n✅ Asics: 기술의 집약체!, ‘메타후지 트레일’\n\n그 외에 블랙야크와 노스페이스도\n새로운 트레일러닝화를 출시했는데요,\n\n트레일러닝 시장을 확보하려는 투지가 느껴지지 않나요?\n\n트레일러닝은 일반 도로에서 달리는 것보다 더 큰 스릴과 성취감을 주는 동시에\n자연에서의 힐링도 만끽할 수 있어요.\n🤫 2026년 라이프 트렌드인 웰니스와도 맞닿아 있다는 사실!\n\n🌿 산지가 70%인 한국이야말로 트레일러닝 천국 아닐까요?\n2026년 새로운 러닝 붐, 여러분은 탑승하실 건가요?\n댓글로 러너들의 생각을 들려주세요! 👇"
+                    },
+                    "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                    "display_format": "CAROUSEL",
+                    "link_description": null,
+                    "link_url": "http://instagram.com/cr8tour",
+                    "images": [],
+                    "page_categories": [
+                      "Travel Service"
+                    ],
+                    "page_like_count": 102,
+                    "title": null,
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "Cr8tour",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "INSTAGRAM"
+                  ],
+                  "start_date": 1769500800,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "2589473188113048",
+                  "collation_count": 1,
+                  "collation_id": "2087050705416475",
+                  "page_id": "177741318763328",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "177741318763328",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/61554808873338/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "Fvaad",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624482140_1435423141484286_5136166222637393271_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XjiLk6HuqDAQ7kNvwHS_DeA&_nc_oc=AdlUl03XvZwsrrTLiA08vAw14TJLlqSxwfrbCyn9QoqEe9xaW7ItGkAQ1YlGq24jRzI&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AftZLMuhsbljy_YQWITUWw7gLWu2J6NBMiJNzXHCZ8lxxg&oe=69876956",
+                    "event": null,
+                    "caption": "instagram.com",
+                    "cta_text": "Instagram 프로필 방문",
+                    "cards": [
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "http://instagram.com/fvaacademy",
+                        "title": " ",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624482137_1208175848108273_7664222290956006082_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JBfYvkwPW6YQ7kNvwHu5cqK&_nc_oc=AdmQXw8U5qtZNfDAC8qjb3ScFefuWDZ54lQhU6bJFOaAo2a_5PP1PfL7Za5rgoP3A1o&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AfuVKMrBN1Jl_8JzlTxzXL8Tu_9NkB4kKk4IZpyD2hCtlQ&oe=69875478",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625201834_1515182476256097_5818482142831036879_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cyrJiVv7TzgQ7kNvwEIWOfI&_nc_oc=AdkY2yj1YJYclenSawj_Yam-fwLlaVOr3fJkIPYGN-K_gbqEzE2OTQ2Ec2ODCZ9_718&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AfsZrXEUomkxzoW3ooHCG5E_0GwgE29gXCEAW6Pkoz2Vew&oe=698764E3",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": "",
+                        "link_url": "http://instagram.com/fvaacademy",
+                        "title": "",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": "https://video-icn2-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQNigWGKqxwcOJKJWTKfN8gp3_XSt0oZfNyabqjwmjND0me4tC2o6h7zsDd99vts8ZzVxCBnilHIbfDBRHPQ3n2Uqd_aCbB-wuOeiidilQ.mp4?_nc_cat=101&_nc_sid=8bf8fe&_nc_ht=video-icn2-1.xx.fbcdn.net&_nc_ohc=E8c6CLqWYLsQ7kNvwGnpLBz&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzE2LnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxNDMyODMyMDc4NTA4ODgxLCJhc3NldF9hZ2VfZGF5cyI6MTMsInZpX3VzZWNhc2VfaWQiOjEwMTQ2LCJkdXJhdGlvbl9zIjoxNCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=OakZ_JxeoP046UV0UBd63A&_nc_zt=28&oh=00_AfvitgB1H_mn0j0HkZrb5In7HlB43TIZxNY9L8aG49UIDg&oe=698753F1",
+                        "video_preview_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624970081_829680056789613_6504195268340016182_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HqYXiuqNAcwQ7kNvwH1D4w0&_nc_oc=Adm5VVDb-38nef9SqbbHsoKa9e9-IvjD28ql6oYyDAKbZwXZHEThOEfwmoxlqRUIOpE&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_Aft5482x6V_m8R8WZnUzypJG867dyEn9ipyBoY7pNHf6vA&oe=69875278",
+                        "video_sd_url": "https://video-icn2-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQMABaks37U7_j2eAMGZ-t9Mf1ObLUxPtYRaRUmuGEQ8OXgJXpaqT2CHrF7kVjPdhd971QS2ZmDIly0jEzp3J4o4nUo50lZmIkDAET3ZlA.mp4?_nc_cat=110&_nc_sid=8bf8fe&_nc_ht=video-icn2-1.xx.fbcdn.net&_nc_ohc=tEZLCeg0SWsQ7kNvwHEQ3iM&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl8zNjBwIiwieHB2X2Fzc2V0X2lkIjoxNDMyODMyMDc4NTA4ODgxLCJhc3NldF9hZ2VfZGF5cyI6MTMsInZpX3VzZWNhc2VfaWQiOjEwMTQ2LCJkdXJhdGlvbl9zIjoxNCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=OakZ_JxeoP046UV0UBd63A&_nc_zt=28&oh=00_AfsRQ2gowC0O6fkD4NVvBJkGPc4xp4Op0bxjp6ZCQxmz0Q&oe=69875FDC",
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": null,
+                        "resized_image_url": null,
+                        "watermarked_resized_image_url": null
+                      },
+                      {
+                        "body": "",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": "",
+                        "link_url": "http://instagram.com/fvaacademy",
+                        "title": "",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": "https://video-icn2-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQPaN8VX5oqflWu_JzhtHf0DoXqGiwM7GCKJPOSDty5DkfzCkm3cpRI3etAlFjZ397sofYY6itTaglZ8DCoGMfkE6Qzj8vBCqcA5gd6njQ.mp4?_nc_cat=108&_nc_sid=8bf8fe&_nc_ht=video-icn2-1.xx.fbcdn.net&_nc_ohc=1NFrC7W6jg4Q7kNvwEpalWd&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzE2LnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxOTUyOTE5Mjk4OTExOTcwLCJhc3NldF9hZ2VfZGF5cyI6MTMsInZpX3VzZWNhc2VfaWQiOjEwMTQ2LCJkdXJhdGlvbl9zIjoxNCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=OakZ_JxeoP046UV0UBd63A&_nc_zt=28&oh=00_AfsiYGHilatDG9n4GV_0U8MN3QRQ3i_a7BkHIjdcsVORfg&oe=69877DA6",
+                        "video_preview_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623381455_875322201887373_397223580373904853_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0sQNNlrVwecQ7kNvwH13BXy&_nc_oc=Adlcyt59IwlWP2NT5beplMsHB9ExVPOdZDYbVsZOaaVIKb4R1dgu42oJ71rz4uPez6Q&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AfvpFi474t8f-B4X8DU8Nn2_10T9Srx2--W9aLp1Ak_h1g&oe=69877AF3",
+                        "video_sd_url": "https://video-icn2-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQNiGtvE7a7BRYZ-ZzaKFdbBZGME2UyPUglke-mCeL3kNBz9xoItOw372vn-fjlzjTo9x52XwodRz2dyPSUa06vJRDPwL26LK5Kd8ySOVw.mp4?_nc_cat=100&_nc_sid=8bf8fe&_nc_ht=video-icn2-1.xx.fbcdn.net&_nc_ohc=rVMff8Bjq14Q7kNvwFnoK6n&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl8zNjBwIiwieHB2X2Fzc2V0X2lkIjoxOTUyOTE5Mjk4OTExOTcwLCJhc3NldF9hZ2VfZGF5cyI6MTMsInZpX3VzZWNhc2VfaWQiOjEwMTQ2LCJkdXJhdGlvbl9zIjoxNCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=OakZ_JxeoP046UV0UBd63A&_nc_zt=28&oh=00_Afsmw4d7X_VHPiNU2fNS2NlCE7EeN623tAyMPgIbM_T3Kg&oe=6987584E",
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": null,
+                        "resized_image_url": null,
+                        "watermarked_resized_image_url": null
+                      },
+                      {
+                        "body": "",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": "",
+                        "link_url": "http://instagram.com/fvaacademy",
+                        "title": "",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": "https://video-icn2-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQNQZaYTZKtL3Hip_bXnOTuPJ-NwiwB8lWyLyHf9sksoa1jEdGcDGjxX6jICf_RrMlf1QApp8ez1Evge57o5sCSdEHOFm_Xu247udgARUg.mp4?_nc_cat=105&_nc_sid=8bf8fe&_nc_ht=video-icn2-1.xx.fbcdn.net&_nc_ohc=Yhymd3vBSV0Q7kNvwEX5GmJ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzE2LnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxNDE0NjA3NDAwMjQxNzMxLCJhc3NldF9hZ2VfZGF5cyI6MTMsInZpX3VzZWNhc2VfaWQiOjEwMTQ2LCJkdXJhdGlvbl9zIjoxNCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=OakZ_JxeoP046UV0UBd63A&_nc_zt=28&oh=00_AfvQkcHalajvOQvQpfNe0sBim1WipiE1mY6NQhIqe6JmeQ&oe=69875FB9",
+                        "video_preview_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625400898_884941167488562_241069503567233749_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Oa8MmCb16I4Q7kNvwEdHKBz&_nc_oc=AdkxK8sVPT0z-US5w-xe142RXk_lRq_VZJYA8vywhf4keJ0nt-B6V52R0uU-J210924&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AfuFusuyZj8e8UFP8RYFOcMHnEu2ZOuQpgxx_wwG3JX39w&oe=69875E94",
+                        "video_sd_url": "https://video-icn2-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQO9C2Du4iZ2eJWc1ohMBq-SK00rvM7YzpGtxIA7of-2iWp475nbi7Yc4irbgXA4XL77Dqm0ue_HbJDoX2fTLXUZURNYJeg82ThKVc07Ug.mp4?_nc_cat=103&_nc_sid=8bf8fe&_nc_ht=video-icn2-1.xx.fbcdn.net&_nc_ohc=ZNlptz1ktEkQ7kNvwHw5WOi&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl8zNjBwIiwieHB2X2Fzc2V0X2lkIjoxNDE0NjA3NDAwMjQxNzMxLCJhc3NldF9hZ2VfZGF5cyI6MTMsInZpX3VzZWNhc2VfaWQiOjEwMTQ2LCJkdXJhdGlvbl9zIjoxNCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=OakZ_JxeoP046UV0UBd63A&_nc_zt=28&oh=00_AfuHIVW9od2UuhFjqHBlTYv4npvjmMeXJsm1ge3XUl-_4w&oe=698766DF",
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": null,
+                        "resized_image_url": null,
+                        "watermarked_resized_image_url": null
+                      },
+                      {
+                        "body": "",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": "",
+                        "link_url": "http://instagram.com/fvaacademy",
+                        "title": "",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": "https://video-icn2-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQMRsxq_H0or9YWxrf7Ilb_hFfC4c6JJqR5PL4ZIqYDX_vN8TVgrHB5XC2nZcs3M8Pzc8hRADt8tFilNYncQqRO4BZ6Tkd9PyUsjCUkYKQ.mp4?_nc_cat=105&_nc_sid=8bf8fe&_nc_ht=video-icn2-1.xx.fbcdn.net&_nc_ohc=yWoZ_RtaI0QQ7kNvwHW6hM9&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzE2LnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjo5MzAzODgzOTI2NDY0NTAsImFzc2V0X2FnZV9kYXlzIjoxMywidmlfdXNlY2FzZV9pZCI6MTAxNDYsImR1cmF0aW9uX3MiOjE0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=OakZ_JxeoP046UV0UBd63A&_nc_zt=28&oh=00_Afu3tLtV9CjrvURAr0w41DheLXkklg0qXRGbaLlKc9_XYQ&oe=6987664D",
+                        "video_preview_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625121619_912955988149328_6006595937188102061_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZOphiCX4zqoQ7kNvwFM0GkE&_nc_oc=AdmaOr-ImF1Jq5NHC-pK4YLfcnCGUHxFY5mMpF9GqjmX0vtfbdS-j9aUhzyYRs9xKHc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AfvwxEVMFZqOJt2wmdVswB4DIOABU0kPPyLk8fQhC72wMQ&oe=698750E2",
+                        "video_sd_url": "https://video-icn2-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQOqYZnhJg2NA7XVNrM5Dg5xrpOLsqENEq2LW6emLFzbetXZeuxqI7OgNvUgrX9SLYyuQISnzLkMWig01qkX4fu0v8iJ_eQutsTbuw31Fg.mp4?_nc_cat=107&_nc_sid=8bf8fe&_nc_ht=video-icn2-1.xx.fbcdn.net&_nc_ohc=_HI7Pg8lHmQQ7kNvwH5xfH5&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl8zNjBwIiwieHB2X2Fzc2V0X2lkIjo5MzAzODgzOTI2NDY0NTAsImFzc2V0X2FnZV9kYXlzIjoxMywidmlfdXNlY2FzZV9pZCI6MTAxNDYsImR1cmF0aW9uX3MiOjE0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=OakZ_JxeoP046UV0UBd63A&_nc_zt=28&oh=00_AfvO2KdlyrvL2Hiw2bEK2bNwmV7_i-k1C_qmkIuNVjGSBw&oe=69876127",
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": null,
+                        "resized_image_url": null,
+                        "watermarked_resized_image_url": null
+                      },
+                      {
+                        "body": "",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": "",
+                        "link_url": "http://instagram.com/fvaacademy",
+                        "title": "",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": "https://video-icn2-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQMFEhGMQIsf3jbDWcpu9DLPPS9USU79C6aseqkupIl-0BJkGR42aeBEqXonWopStYoNhltgp7XuWQvZObOEsizVyo7GADXS6XVUxbp4cQ.mp4?_nc_cat=101&_nc_sid=8bf8fe&_nc_ht=video-icn2-1.xx.fbcdn.net&_nc_ohc=SgrqwCeo7zcQ7kNvwHwmXqJ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzE2LnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoyMTA2NjE3NDU2NzU5ODM5LCJhc3NldF9hZ2VfZGF5cyI6MTMsInZpX3VzZWNhc2VfaWQiOjEwMTQ2LCJkdXJhdGlvbl9zIjoxNCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=OakZ_JxeoP046UV0UBd63A&_nc_zt=28&oh=00_Afsqtqu9jNGcNfn1OybR2o2VBA0G4Cg5prv1Le44dqL7mw&oe=69877B51",
+                        "video_preview_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624122835_4909004119240606_7937069763679335782_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-4G7VhjcYfAQ7kNvwFHdpga&_nc_oc=Adk-Ivfa0J9uhpbPX9CwMyATC02XfqtqPovIIWvRRMHbdzYTyaOMhXhC1pOVBjwIA3U&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AfsJlUy92qMnA3giFG11EiUW6WzsKU0n_uZT9xqb_lzsRw&oe=69878192",
+                        "video_sd_url": "https://video-icn2-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQMNAvqD5m_moe1U6IkKqtmW4pq1F4TOSSEl8ugY5XgITcJawepDnxJjV7hFwHEisuvh_Alr5AAAl85VBb0eMWb6HEWtRP_CxYcwKBqscA.mp4?_nc_cat=110&_nc_sid=8bf8fe&_nc_ht=video-icn2-1.xx.fbcdn.net&_nc_ohc=ocL1jn1SbgUQ7kNvwHddsQU&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl8zNjBwIiwieHB2X2Fzc2V0X2lkIjoyMTA2NjE3NDU2NzU5ODM5LCJhc3NldF9hZ2VfZGF5cyI6MTMsInZpX3VzZWNhc2VfaWQiOjEwMTQ2LCJkdXJhdGlvbl9zIjoxNCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=OakZ_JxeoP046UV0UBd63A&_nc_zt=28&oh=00_AfvU0cSYIkmEfcVGMbnO3-jsh6zcYIZtbmafOcv-6QlsMw&oe=69875734",
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": null,
+                        "resized_image_url": null,
+                        "watermarked_resized_image_url": null
+                      },
+                      {
+                        "body": "",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": "",
+                        "link_url": "http://instagram.com/fvaacademy",
+                        "title": "",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": "https://video-icn2-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQMbFmz_dbYCWVgA8VQDBe6HZjduO0tyliID5Ihwn-sXewg0AjHMRgRAf9YZmbFEBunhExl6HX3VvgxJh2dZbh1YthGrENXUB4Au_qLxaA.mp4?_nc_cat=109&_nc_sid=8bf8fe&_nc_ht=video-icn2-1.xx.fbcdn.net&_nc_ohc=Eo8o2ngxPVgQ7kNvwEIU6o8&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzE2LnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxNTE3Nzg5Nzk5MzI1NTczLCJhc3NldF9hZ2VfZGF5cyI6MTMsInZpX3VzZWNhc2VfaWQiOjEwMTQ2LCJkdXJhdGlvbl9zIjoxNCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=OakZ_JxeoP046UV0UBd63A&_nc_zt=28&oh=00_AfvwDGWURNwic78V8YK_qyyVye5dFGEQFsGzkiTh2aR7Bw&oe=69874F4D",
+                        "video_preview_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625057230_3052700658452568_117353868772896856_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=j4ijRBXhLqMQ7kNvwE2rrOI&_nc_oc=AdkoEMtJGCKhleIY6ZTL1DcEex99txNeIKHLmwaJax-89eidlgAQmJOqKwIzMIbbHxA&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AftulxeNdZdxDhpRiZbYR2LmA8_rcr6SqN3bWpH8_3uCbA&oe=69877A62",
+                        "video_sd_url": "https://video-icn2-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQMjybiom-2dLM1lcw0tdfhbL9CrOkv5FQ9vDMlO05ux9puWTMmM9k2w7roUUWxsgLKEgWVuj4qOMekqoI4ECxBrMdrZtf31Q4Nkl4yNsg.mp4?_nc_cat=100&_nc_sid=8bf8fe&_nc_ht=video-icn2-1.xx.fbcdn.net&_nc_ohc=b9pYNIjDMgoQ7kNvwGUIYFU&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl8zNjBwIiwieHB2X2Fzc2V0X2lkIjoxNTE3Nzg5Nzk5MzI1NTczLCJhc3NldF9hZ2VfZGF5cyI6MTMsInZpX3VzZWNhc2VfaWQiOjEwMTQ2LCJkdXJhdGlvbl9zIjoxNCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=OakZ_JxeoP046UV0UBd63A&_nc_zt=28&oh=00_Afum6ntxa6YKf_bLxENhHJTFIVa4EVGlwtAQpKgQvE8BFg&oe=6987620A",
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": null,
+                        "resized_image_url": null,
+                        "watermarked_resized_image_url": null
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "http://instagram.com/fvaacademy",
+                        "title": " ",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622369534_886704214073788_4808500878217138691_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5kfhm1apxs8Q7kNvwGiKG20&_nc_oc=AdkDht-T-5t0pgNlT-f1IA7_bIhRaCPPv1qqbV1lzNVtxqi9MFv97wiX0iqbUkzJAqM&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_Afty9RkN1ohz4HFla4TrVK86m5moCFeqxZECYolwYAkr-Q&oe=6987657F",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625219555_1931541577773866_9005196516042886574_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JarBN8hnZjUQ7kNvwG8zrfd&_nc_oc=AdkRS3c82rFKT_V7TIe2UJo7uz14x7D7Wpi-iLAV3dSoTcuwMDbYwSiedhlpHDlIavE&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=OakZ_JxeoP046UV0UBd63A&oh=00_AfsWc30uuq6NgP9bQsQOjp0H59_JHV5GAwXZUqW7I1qRRA&oe=69876FAC",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "아무 일도 없는 평화로운 장면인데, 왠지 모르게 불안하게 느껴지나요? 이번에는 작품 촬영 시 영상에서 ‘불안’을 불러일으키는 시각적 구조 몇 가지를 소개해드립니다. 혹시 여러분만 알고 있는 극강의 불안감을 주는 영상이 있다면 댓글로 공유해주세요!\n\n🎬 다양한 문화에 대한 깊은 인사이트를 공유하며 배우는 영상인들의 비밀 클럽, FVA와 함께해보세요.\n\n🔗 프로필 링크에서 더 자세한 내용을 확인하세요.\n\n#영상학원 #영상연출 #프리프로덕션 #뮤직비디오 #아트디렉터"
+                    },
+                    "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                    "display_format": "CAROUSEL",
+                    "link_description": null,
+                    "link_url": "http://instagram.com/fvaacademy",
+                    "images": [],
+                    "page_categories": [
+                      "Education"
+                    ],
+                    "page_like_count": 0,
+                    "title": null,
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "Fvaad",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "INSTAGRAM"
+                  ],
+                  "start_date": 1769846400,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          }
+        ],
+        "page_info": {
+          "end_cursor": "AQHSZbwD7UmWyZc4PK3XUEAHYxx7ZMz-VkCrXmxRdd2S9u3N-OfXZp4H2oaGwkHLDUEwdR_fQ7seBA6UfuouncT7mv6bByLBeodoe-8vKmKV7LGau2lkcJTGPcgC51aZAnO8I3fVa0pcVsw10EIuxFN5hpTiqSWdF0AIRo5jAdlu4u4osrHxSV_e1IrB_6Zoj49DA5ybf0vC6SDMPwRhtbi_MxabdH3fylBrVly-VLUhTosgS0FXZpInC8oAR2ZC6OlTN0iNLYbIpkGj5AB-QaJ_0oOCnggzz72CjvfNUPXosW1L2vDc8vGCC8RW04CsKUUFZN6XhikHYEvKfM0AQm38LicH4BV0p7rykd4YCvVTGJ5OtNsxFcS74jGBpXaBf3L6HYT2Hey0Y85jVJBbdS-axyz8QwCLFyzSIvytLIwQh62ysguIytQy_JLM6wa860YVSxmzna-MJ0ITxZ_GyB_j--x25ClKnUtlT-1JXk494XHMm5kr73Y1VoES29uhCoVjeeZX3nM5KRvvZ-eh8-F87onBrxZleX3f7aQL2sI05ByBySBXQVsP5Ys2D5adf8ai9vf_UGYWknjUOjORjHLv9ILkny8sqPZxCzu1ym5lJWCHNjSdPj8p5hGZQCAMJBYNsPdPu0pDixvMoEQruaaf7hHrfmJ-gilE98H_NJEuu5gI2PrwPuVQGkajFP6llIUD9wP8iIUWF5HBWCzzqiajh6M40CgBcX9u0b6ZIlHYdgmS2tfQHAfCvt27drnrYhPV0kRS64XfCI--xD_yh4-G1xHfzJTrFHeMY6_xscuoupVOup7Ytos4GhWa4paVZvw9VRnJg6c7JTXr2HRQwlnHMCj5bdu653Z8-0OSZ6uORHak3_OIy4UeS-DSJliU_NDNdptU3qRp3Ai0-7ZBrszyf61J7j4CvRUbfDVivQJq2gAnsOeR5st_XnNN-qLTdgXOG8b8F06lvcZjPvX86vd0ab3UYHogj6rWXlZOa5fhLI8Vftj9pRAjgMXBcYQLX9Pww3n2uecIhEtVNMLE8M1FdLeBjioqPgiLIaYeuC3vQhqoDy65aR88BrSceXRNhi6tiClUpYKq0ftRJXTM-tyd-XVW23c7kT48wArBpyA4u7t2xX0jdqtsEZYrdomdCrfA5hzC2do11spEiDXr2pmxevao0yYKsy6Wjsb1DASxDU6cqhHSHfgyl0i3ik3sNXcpTG-zqDmAeR7QknDtU_CLqrti9gQRetG1RNJjmP3xw_VGjt2-xXQvfOUtF9SbAC2SP3b4nn7vbUREsKn_DdSrl0iAqzUbOCHoBrH98SCh9IFdasOxihglORJslaJa8uyGPZWXA-vKMF3Fz7VVfFV-vZ3gKWPPs0NRyB1YnxmigkE2qyGzELWcQmhDM-u8TJ6mYGQ2iSaZeYQl6zeQxRc_7tiapUqOyb68ZQke83Qbgzgr2aa4RxFOMP7ZCVFPyE8U3oLJq9-OTeKCCPDM1CkeJ0jFdpZSBErMYxCuFySjOB_b6Han-tB05R6sc4NjTkgAajao0JuUuWRBa7eqzXuggkhbd-zrlAj0UkVjSqLsstv6lEaLWMWm2HsycEg7Jb8U0bFQIF2uzI7pAfZsCJQLLBrKSo0Q98RnVX2NICAXAG7fDvj1gK-b14nF5PAjYZz-mRXc3upv-e6Wkpt5TgDwV84h01dwDG6H3agtCnvL9xzpZSvGOlamQKO37VjTzxy5OVnK4jyykeQlglqpByHdrunOgrX5TuRqSyUkhJIk8teGp2mVWEWuL36z-XVYWFltTS310qTW0zu7iawo9RDqDnD-loGII2nyMCoy-LvvGHMgNbpKoWF9RiIzfqFo0vZPTjhT4MzIEctbjEjjDt0UXwd5HQ3UP4prny2FMvW2XNUc-pihAWXVtFMkrnoTjxkRcz7jgcaKg5qgacONM7zxNDrm4cMx5rE2dIMnuR5mU8-IIdBeu2eOCpsUGQxNHrDt5hkYN77c1BzCyvYHBjSbx6XkVPqUEl3FWle8Tq9rrdG2mj7gMY23NoxVYc2nHx5f_qsPippVJPFhGIcIG0bC94fXWxNHLj594nHlwP1Y7K2XBRYjuSeJbXA4vL-gufJaW04EuIDe0l-nPHinYCgFCTE_VyC8cGyx0JewierTXTR1QDsZRrpC73gPcJfSNXRDae-ZQrX07tl6qeszdsH0g13OFAqg_dyWPK8atuOs9FU",
+          "has_next_page": true
+        }
+      }
+    }
+  },
+  "extensions": {
+    "server_metadata": {
+      "request_start_time_ms": 1770099888029,
+      "time_at_flush_ms": 1770099888850
+    },
+    "is_final": true
+  }
+}

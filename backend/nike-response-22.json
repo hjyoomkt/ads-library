@@ -1,0 +1,1290 @@
+{
+  "data": {
+    "ad_library_main": {
+      "search_results_connection": {
+        "edges": [
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "893041233093929",
+                  "collation_count": 6,
+                  "collation_id": "1390232185932085",
+                  "page_id": "103164259268905",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "103164259268905",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/nikeseoul/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "Nike Seoul",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623531292_1445800587190739_8143823358613798156_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BCqPl1-_nB8Q7kNvwHi9vEe&_nc_oc=AdnjAgtaooFHgXwaPezYuxw_tV8pdaderhf3XJd1zywEdaZEuX7v6-eu47Q_xRCywJw&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&oh=00_AfvPyhgizzHNe57c2XFA7b-CnbWVha6JwwE_fzeZNbOqLw&oe=698779DA",
+                    "event": null,
+                    "caption": "play.google.com",
+                    "cta_text": "지금 구매하기",
+                    "cards": [
+                      {
+                        "body": "앱 첫 구매 15% 할인",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "",
+                        "link_description": null,
+                        "link_url": "http://play.google.com/store/apps/details?id=com.nike.omega",
+                        "title": "나이키 캐리어",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/626457014_932703912783019_8792793990703968692_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WT7PavZ-tbcQ7kNvwHKSy4Q&_nc_oc=AdkdDWUkuDKGhvNPUO_2QVNu1ZVAPgzRVHiPcnwlG5ojUjXYM15HTxT2gVv0qH-br8Y&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&oh=00_AftyI0Ojn9cJthcg0fERRP34-Gl5tZHx3pP5SUDxOxpYtg&oe=6987786B",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623923850_1642625147190258_1536480771936038367_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pmI50w4V4coQ7kNvwGLOPJB&_nc_oc=Adn3xv_2Fi5dh5kD8_Ad-XBB8veBpgbQUIw1RNqq7lkS39z9e95nxc5h3qhbQoIpZJY&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&oh=00_Afvb3V-HRtbVW57w1u2hKT8I5d_kNQMW5rQhu-StJO6beg&oe=69874FD0",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "앱 첫 구매 15% 할인",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "",
+                        "link_description": null,
+                        "link_url": "http://play.google.com/store/apps/details?id=com.nike.omega",
+                        "title": "나이키 캐리어",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623520184_1802318033765116_2671566652235559549_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=opfBea5m9RcQ7kNvwE0WfS9&_nc_oc=AdkhP1vmu-STyQbCYr8eCwjo3xlUM2BtXCi0g8sFIdeSFAhDZ8kLmmT-lONXjGxYsrE&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&oh=00_AfsIaMAozguE5TzwhTxd57PfyM8o_3YdNqnQkk1t5YZQtQ&oe=69877BC2",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/626420800_911622338074852_2824360609364267870_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4t7ReuP77sgQ7kNvwFxaW4M&_nc_oc=AdnQATMjexE0rpKRq4z38zaI7rSCKbMnvrd-4L5fn-hifA6Cs6z3eCxHo-GVjBOVisw&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&oh=00_AfsQ_GEpWow1PxTRwEavO4n59v1okKrOT7mZPCDuKqdPLw&oe=69875512",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "앱 첫 구매 15% 할인",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "",
+                        "link_description": null,
+                        "link_url": "http://play.google.com/store/apps/details?id=com.nike.omega",
+                        "title": "나이키 캐리어",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624327549_1321056460048850_7136621632804054627_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Jj0mEj_R0dcQ7kNvwGZmBL7&_nc_oc=Adl-R1w-bOusOcS3qYpH2fmzwfwuBownduIddpCw6xwLOzmDkSCH2V6e6i8S0uNP_i0&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&oh=00_Afvqd65GNK6vSBUbvmqM0JbfAs4SIous-jr1gp0dyh5-QA&oe=69876EDA",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623989355_2380456299063491_629016664790784517_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Iz_UNFtuQqMQ7kNvwEBPIV1&_nc_oc=Adl0diBg58MioEdfbGk-1-EdxVH_ZQ9yU7eI734q0MHvteBOFlrHRhixJ4zEkNyU6oE&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&oh=00_AfsY31t5_JCQG-KBYhaz_iqYQiCGG1I1JwuD-_IUhxKthA&oe=69877044",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "{{product.brand}}"
+                    },
+                    "cta_type": "SHOP_NOW",
+                    "display_format": "DCO",
+                    "link_description": "{{product.description}}",
+                    "link_url": "http://play.google.com/store/apps/details?id=com.nike.omega",
+                    "images": [],
+                    "page_categories": [
+                      "Brand"
+                    ],
+                    "page_like_count": 26593,
+                    "title": "{{product.name}}",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "Nike Seoul",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "MESSENGER"
+                  ],
+                  "start_date": 1769932800,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "1053553640303911",
+                  "collation_count": 1,
+                  "collation_id": "1183726360542139",
+                  "page_id": "532799486593896",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "532799486593896",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.instagram.com/_u/performancelab_kr",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "performancelab_kr",
+                    "page_profile_picture_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-19/619848472_17890720644410622_1003360460449492048_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=103&ccb=7-5&_nc_sid=525117&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDAwLkMzIn0%3D&_nc_ohc=fWEG5egX_SsQ7kNvwFM9rWG&_nc_oc=Adn-Jzc34SMxjH3hjajlsnLKDXMCdm-1AbgT0pRjlXtHrnfKfNv9C4K4mWsGUmGu5WQ&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&oh=00_AftAkxvJwdlxVs_qn8OVhZ1k5A1TR3-Am5slnrjxpAmU-Q&oe=69875648",
+                    "event": null,
+                    "caption": "mkt.shopping.naver.com",
+                    "cta_text": "지금 구매하기",
+                    "cards": [],
+                    "body": {
+                      "text": "훈련의 중심에 서는 바벨\n나이키 스트랭스로 기준을 높여보세요"
+                    },
+                    "cta_type": "SHOP_NOW",
+                    "display_format": "IMAGE",
+                    "link_description": null,
+                    "link_url": "https://mkt.shopping.naver.com/link/685d02fa85fc064064b40091",
+                    "images": [
+                      {
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622225173_1732771937431079_1968006889708511386_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Q0IyyBm1gY4Q7kNvwGWQMz0&_nc_oc=AdmkrFNO9U4zpa0AMUOd-nVjv4_TI5ASC22ieuxkAUNRQ8RBizb6X_qsGQ6T7YVTcPs&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&oh=00_AftWS1-dkmZ6LjxlB1rBOrEgPIhKvGGugfpHd08ZNAU73g&oe=69874B86",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622785759_893377513093774_7199028321448099845_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SH_YLVhmsUIQ7kNvwEMnI28&_nc_oc=Adn6ZppuCb2FZxiBqYLbTvBKi5mliCTW0WsK4rmNVScXZwT3gJuL55eiqo5phBBpzkA&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&oh=00_Afvb-aRK7jq6_eqQbgcRI03t8N7bDLsDdiFsBJXlXHOKLA&oe=6987506B",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "page_categories": [
+                      "Profile"
+                    ],
+                    "page_like_count": 0,
+                    "title": null,
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "performancelab_kr",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "INSTAGRAM"
+                  ],
+                  "start_date": 1769760000,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "1379394103505824",
+                  "collation_count": null,
+                  "collation_id": null,
+                  "page_id": "359105620621205",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "359105620621205",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/racement.co.kr/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "Racement",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/626815702_1936724926927696_3065842597724685128_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=k_9us7vKbxgQ7kNvwFdy8Ax&_nc_oc=AdkVJMxsyh_im53rfkaMNrfJLFGp-g_Jjg-LZhzPNwfArFpWy06wB4gK7xA2IUv1yqM&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&oh=00_AftgtCp5_A8yD3n4jFD23cWLh3KN84kiW2uiHu_u5h52QQ&oe=698755FE",
+                    "event": null,
+                    "caption": "racement.co.kr",
+                    "cta_text": "지금 구매하기",
+                    "cards": [
+                      {
+                        "body": "Worn to be Wild\n트레일 러닝 시즌을 여는 나이키ACG 컬렉션",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "racement.co.kr",
+                        "link_description": "지속가능한 러닝을 위해 필요한 모든 제품과 서비스를 제공하는 맞춤형 러닝스페셜티 플랫폼 레이스먼트입니다.",
+                        "link_url": "https://racement.co.kr/product-detail?productNo=132573667&channelType=FACEBOOK",
+                        "title": "ACG 라바 루프 드라이핏 ADV 하프 트레일 러닝 타이츠",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625253724_1459490869024406_6490415544206268311_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8OdbplEyRmYQ7kNvwHm9Bj8&_nc_oc=AdmJ4SSZdVrtTOx7VJ6uUDGAB06dpcKPqRUlAoIvKgoU2ss3OWo5OHVpJOyETBsfG_c&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&oh=00_AftpsJWLygv-8f841MDIKbYto1qE1ev8apxxdvOlDSpj1A&oe=6987642F",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625253724_1459490869024406_6490415544206268311_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8OdbplEyRmYQ7kNvwHm9Bj8&_nc_oc=AdmJ4SSZdVrtTOx7VJ6uUDGAB06dpcKPqRUlAoIvKgoU2ss3OWo5OHVpJOyETBsfG_c&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&oh=00_AftExALwuhIF4OsD_6s7X1n58N_ZfmUh9H9bw5yL9nchoQ&oe=6987642F",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "Worn to be Wild\n트레일 러닝 시즌을 여는 나이키ACG 컬렉션",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "racement.co.kr",
+                        "link_description": "지속가능한 러닝을 위해 필요한 모든 제품과 서비스를 제공하는 맞춤형 러닝스페셜티 플랫폼 레이스먼트입니다.",
+                        "link_url": "https://racement.co.kr/product-detail?productNo=132644502&channelType=FACEBOOK",
+                        "title": "ACG 써마 핏 라바 로프트 재킷",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/626434061_1171521468120957_6585227445381908129_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=uk1W3yQzrrwQ7kNvwFzd1du&_nc_oc=AdmNvihCpzUFvnHXC7PgX3i7KRLEnAONEECvMEHi2ClC_-k1lmKAOvDnl5zqx6Ax2-E&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&oh=00_AfvlLa5_OPAqlvfiNx4X5HIa1PEjZn2RDq9qktHql-56Pg&oe=6987739C",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/626434061_1171521468120957_6585227445381908129_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=uk1W3yQzrrwQ7kNvwFzd1du&_nc_oc=AdmNvihCpzUFvnHXC7PgX3i7KRLEnAONEECvMEHi2ClC_-k1lmKAOvDnl5zqx6Ax2-E&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&oh=00_Aft48W0Zfj5BPV6EJnqi8G8pLAx_aQ6B52HycmEe8aaQUQ&oe=6987739C",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "Worn to be Wild\n트레일 러닝 시즌을 여는 나이키ACG 컬렉션",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "racement.co.kr",
+                        "link_description": "지속가능한 러닝을 위해 필요한 모든 제품과 서비스를 제공하는 맞춤형 러닝스페셜티 플랫폼 레이스먼트입니다.",
+                        "link_url": "https://racement.co.kr/product-detail?productNo=132573672&channelType=FACEBOOK",
+                        "title": "ACG DFADV 솔라 체이스 SS 탑",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/626816688_2074137893335750_150013685762088010_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fKWAJ8KvLc4Q7kNvwFKXSgi&_nc_oc=AdkGi8elzsGwsvxidqpLPXrFiYLiniuyEoSd_ONPL9XI8ldsKPrXvdt1wIABaW9lUcM&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&oh=00_AfvGI8wzL73hnNcfWx0VqOJgl5BLYCmxdi9uvQdJxrQH7g&oe=69875BDE",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/626816688_2074137893335750_150013685762088010_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fKWAJ8KvLc4Q7kNvwFKXSgi&_nc_oc=AdkGi8elzsGwsvxidqpLPXrFiYLiniuyEoSd_ONPL9XI8ldsKPrXvdt1wIABaW9lUcM&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&oh=00_Afuj1X0ujDMfJZu-dN8aIMhTYWPo7Q7cbj_hPOrrAaTycA&oe=69875BDE",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "Worn to be Wild\n트레일 러닝 시즌을 여는 나이키ACG 컬렉션",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "racement.co.kr",
+                        "link_description": "지속가능한 러닝을 위해 필요한 모든 제품과 서비스를 제공하는 맞춤형 러닝스페셜티 플랫폼 레이스먼트입니다.",
+                        "link_url": "https://racement.co.kr/product-detail?productNo=132644383&channelType=FACEBOOK",
+                        "title": "ACG 아웃도어 쿠션 크루 1PR",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/627056094_2126439034859351_6403903911119336982_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=G071x5XugosQ7kNvwE57lk3&_nc_oc=AdnkWv63WmhN3igEPAHR9CDc1k3Dmw0Lb9FLiS55E97e6qdLNlXp_Usus2Q2_g91Z6g&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&oh=00_AftVi3jtJxe4xiAh2Dei5JNY8OB7Xdkvi32cNzmUEt9E0A&oe=69877C82",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/627056094_2126439034859351_6403903911119336982_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=G071x5XugosQ7kNvwE57lk3&_nc_oc=AdnkWv63WmhN3igEPAHR9CDc1k3Dmw0Lb9FLiS55E97e6qdLNlXp_Usus2Q2_g91Z6g&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&oh=00_AfvQ-G8F2fyLD3qGdWVN5mnrdJTFmfs7Fba_VR33tKz2oA&oe=69877C82",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "Worn to be Wild\n트레일 러닝 시즌을 여는 나이키ACG 컬렉션",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "racement.co.kr",
+                        "link_description": "지속가능한 러닝을 위해 필요한 모든 제품과 서비스를 제공하는 맞춤형 러닝스페셜티 플랫폼 레이스먼트입니다.",
+                        "link_url": "https://racement.co.kr/product-detail?productNo=132552628&channelType=FACEBOOK",
+                        "title": "ACG GOAT 팩 베스트 5L",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623818279_1589334642169432_3247133263134563314_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=V5209ExA21IQ7kNvwFFymHm&_nc_oc=AdmnB4Fuqlvmb8kXZwjMcZmrRz3zj3VKrcIW9ruWHOhyI31T78D0fPBBMuv6J7p7_6Q&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&oh=00_Aftyb3xFrf0ptZ9FDMxOnA8R41OwkS7fYzrwgR7AL9icNg&oe=69876CCE",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623818279_1589334642169432_3247133263134563314_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=V5209ExA21IQ7kNvwFFymHm&_nc_oc=AdmnB4Fuqlvmb8kXZwjMcZmrRz3zj3VKrcIW9ruWHOhyI31T78D0fPBBMuv6J7p7_6Q&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&oh=00_AfvwER9EKskZzmXFFxs38gWmBnuuMyfw-Ab2T-1WclaoRQ&oe=69876CCE",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "Worn to be Wild\n트레일 러닝 시즌을 여는 나이키ACG 컬렉션",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "racement.co.kr",
+                        "link_description": "지속가능한 러닝을 위해 필요한 모든 제품과 서비스를 제공하는 맞춤형 러닝스페셜티 플랫폼 레이스먼트입니다.",
+                        "link_url": "https://racement.co.kr/product-detail?productNo=132644389&channelType=FACEBOOK",
+                        "title": "ACG 드라이 핏 숏 슬리브 탑",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/626843957_4106048579708427_1136638156365872546_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=v6ENC0P0uhQQ7kNvwFgPetO&_nc_oc=AdnoBTkgGGXJDAyckBMEsF0DoBugf6vUVghIjYwd7lsclW3deUebRYcZMmu8Hd3JyHA&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&oh=00_AfscrpMBHwWVjHBiP8ZU0C8Zk5iwpMaXuQb79fuG0hFr0g&oe=698763F8",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/626843957_4106048579708427_1136638156365872546_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=v6ENC0P0uhQQ7kNvwFgPetO&_nc_oc=AdnoBTkgGGXJDAyckBMEsF0DoBugf6vUVghIjYwd7lsclW3deUebRYcZMmu8Hd3JyHA&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&oh=00_AfuZdMZBD8ZbMhBF_zaJVp-Tzel-Fp5zi-QLO76tfuD9Uw&oe=698763F8",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "Worn to be Wild\n트레일 러닝 시즌을 여는 나이키ACG 컬렉션"
+                    },
+                    "cta_type": "SHOP_NOW",
+                    "display_format": "DPA",
+                    "link_description": null,
+                    "link_url": "https://racement.co.kr/products?keyword=ACG",
+                    "images": [],
+                    "page_categories": [
+                      "Shopping"
+                    ],
+                    "page_like_count": 48,
+                    "title": "{{product.name}}",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "Racement",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "THREADS"
+                  ],
+                  "start_date": 1769932800,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "914575651132003",
+                  "collation_count": null,
+                  "collation_id": null,
+                  "page_id": "359105620621205",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "359105620621205",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/racement.co.kr/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "Racement",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625020433_921502027190045_8980197336881250251_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KI87VwYB_mIQ7kNvwHeVX_j&_nc_oc=AdmfMzeE_ZFJcB7SIAO7IRGkN_CcgP8GdpprS6guW83eXx369FOje3OR0c3ZPWVrN4E&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&oh=00_AfuXmtxq15eFwb65ErLvN6Ib9Nzu9-fC1xFEEzoXt9iQxw&oe=69878147",
+                    "event": null,
+                    "caption": "racement.co.kr",
+                    "cta_text": "더 알아보기",
+                    "cards": [
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "racement.co.kr",
+                        "link_description": " ",
+                        "link_url": "https://racement.co.kr/products?keyword=ACG",
+                        "title": "레이스먼트",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/619378017_1398314555002413_4039121496804298008_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=P7FYWX8gh8cQ7kNvwHt6tGb&_nc_oc=Adlgd0iZHdcGVYLqITHm1H-7q360-fFco89sJKlYmAAGxbL12-C4cEGBnyh15N49GUs&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&oh=00_Afsf3FoJXUPXm879xxdSCXUnkJoyG2tAAtoQO1rRhT0RsA&oe=698760F7",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/621186921_25860070806957636_6102986448228241751_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Jn8fBn4zauwQ7kNvwFTF0k7&_nc_oc=AdnxJy_UPS9hX1X8ia3NNQzprA5oUIHiRaQI5N86G7XHYKhvz7_Gz9nT_1bhyyzkApk&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&oh=00_AfsoMuxI3bm3EOpDuwruF-dqHTtJ8u2iCsGovGcbwJrE-Q&oe=6987622B",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "racement.co.kr",
+                        "link_description": " ",
+                        "link_url": "https://racement.co.kr/products?keyword=ACG",
+                        "title": "레이스먼트",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622325709_1583792449614761_7800775413455282744_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_x54rMFebV0Q7kNvwF9hSfg&_nc_oc=AdlaiBh0msx8OimfW6EePsLgYEGc9bKAQysIevbzr68Gr90ZHIXJ8Kf9qKYqmh4GFaE&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&oh=00_AfvILNr1D6uzaiwpEKhStPVEl2POzx6ktDZ1Wgwu-9zxFQ&oe=69877614",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625211690_922511800337143_1070702160322892136_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5v2DGfz6tg4Q7kNvwGw_SVo&_nc_oc=AdkpNgd5EPq42NS4sGlmmKLx6lAtUnWk6NGHLBnve91_1ym0n9YbbgJSUZh-wZUPWGM&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&oh=00_AfspfBj6SbobUJYKDVhoXPFYElAcXiQnefWA_j-dqtT-WA&oe=6987553B",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "racement.co.kr",
+                        "link_description": " ",
+                        "link_url": "https://racement.co.kr/products?keyword=ACG",
+                        "title": "레이스먼트",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624439662_1970416100176219_7595484251252932579_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ikulRLD08U8Q7kNvwG317TU&_nc_oc=AdlCnLnjxApmqLzhOSKx5LNNMLHThOdjsgES0sVfwmm-edf0TTVyqxj_lPSpBVXsmLY&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&oh=00_AfsKdWgZ3I4K3NRbLwP5kGI0m-887PcGks1XKd_pHzYXGA&oe=69876664",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624571467_1629525218404141_1957398939805553741_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=N_DqiiW5TxcQ7kNvwHr9NQ-&_nc_oc=AdmDXdD9XLGZlaHAoug_txIN4Jz7VctY2ZWmqOhTkhrCoBe18g9n5TpyyZ66yMWOM0E&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&oh=00_AfuciR045wDjXQhFdEVpnVwK_USeGHjRHufjjMT-iFsMAg&oe=69875DAA",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "racement.co.kr",
+                        "link_description": " ",
+                        "link_url": "https://racement.co.kr/products?keyword=ACG",
+                        "title": "레이스먼트",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625196607_875108278702544_8535286677907817039_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hyH4nYnFKcMQ7kNvwE4oXg2&_nc_oc=AdnR5aqXlaMgDTmFhGMVqB0nhP9cFnZP-9JJS2ymCIF1XF5XhlHaFvyYQYfH4ToKA6g&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&oh=00_Aft-PfZla9xQuQX0EC5TOWNOYDByqD1KT0snxjKbZLV5PQ&oe=698762C9",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/626278281_908632298307220_4209925709929598380_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=r07Gz9FU7G4Q7kNvwF-oxwQ&_nc_oc=AdnvN7eHa5efF3LyAgOgreFkLS-CkxPs5rljJPRajiiN5wV0k-e5aKrc8Y3ATJlqkbM&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&oh=00_AfvMfS71Eukn-Ga2H7H5H2ccDJhH_JVIJaHnfkrR8JZJ1A&oe=69877213",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "racement.co.kr",
+                        "link_description": " ",
+                        "link_url": "https://racement.co.kr/products?keyword=ACG",
+                        "title": "레이스먼트",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625522330_1630169504788706_5716863416076133242_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1f9QvD9ttFwQ7kNvwH7945o&_nc_oc=AdnNKHxaAhJhZqA4hQ7gbDpULyTt9TO8jWbcW_G9J9JstzpOv3Q0Inih-iFcYGgNIQ0&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&oh=00_AftzcCwYRcONDjRRxPve7jJKvSYW-0kBP_7pK0kjs6Uykg&oe=69875C91",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/621795723_913910981376641_2469274745042896858_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=G2cwjRhqSb0Q7kNvwEo-UxH&_nc_oc=AdmawKmf2gLEVapM0nJCpq0Ma_IIiI1ffwHQfbk1rAqshmU4W88YfgS-SkHh2GFvDgc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&oh=00_AfukFEChFjQMHzH6bJeOed_47osNSJjBNYLHJplYLjc25g&oe=698781C6",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "racement.co.kr",
+                        "link_description": " ",
+                        "link_url": "https://racement.co.kr/products?keyword=ACG",
+                        "title": "레이스먼트",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625039390_1635168667491173_7401284325788544491_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=l3geulOsoowQ7kNvwEb1lTU&_nc_oc=AdmK1RN3_qQX9txhdPVJL3EWZRLWbbrhQ200LBvMgiTywxGANucUnocSZiiJIBibcdc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&oh=00_AfuleO515cKWUAZwwcGJbHcJfIsc5OKuQZI_J6rpOQsqqw&oe=69874C69",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625666148_1570525124151525_4482247412449354479_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8_T7dazgIqoQ7kNvwEM3slP&_nc_oc=AdlgtaAh-I2bxL2wflNx4NYq3bqFlwYuuiY9hokJS3YOtwTy1SMdW4YMIze3Ywzm0UI&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&oh=00_AfvayulNSP4hZYuOX7H84rYRFjsCbTzHwePrZaWLwF36kA&oe=698764FA",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "🆕𝗡𝗶𝗸𝗲 𝗔𝗖𝗚 𝗟𝗮𝘃𝗮 𝗟𝗼𝗼𝗽𝘀 𝗗𝗿𝗶-𝗙𝗶𝘁 𝗔𝗗𝗩 ½ 𝗧𝗿𝗮𝗶𝗹 𝗥𝘂𝗻𝗻𝗶𝗻𝗴 𝗧𝗶𝗴𝗵𝘁𝘀 (𝗠)\n러닝시, 땀과 열기를 빠르게 발산시키는 \n나이키 드라이핏 ADV 기술\n\n½ 타이츠로 내몸에 맞게, 브리프 안감으로 \n안정적인 착용감까지\n\n허리 뒤쪽 번지 루프로 접은 의류나 트래킹폴 고정까지되는\n트레일러닝을 위한 디자인 설계\n\n로드와 트레일에서 최고의 기량을 유지하고 싶다면?\n지금 레이스먼트 온라인몰&가로수길🛍️\n\n𝐄𝐕𝐄𝐑𝐘 𝐑𝐔𝐍𝐍𝐈𝐍𝐆 𝐌𝐎𝐌𝐄𝐍𝐓, 𝐑𝐀𝐂𝐄𝐌𝐄𝐍𝐓®\n\n#레이스먼트 #racement #나이키acg #nikeacg #하프타이즈"
+                    },
+                    "cta_type": "LEARN_MORE",
+                    "display_format": "CAROUSEL",
+                    "link_description": null,
+                    "link_url": "https://racement.co.kr/products?keyword=ACG",
+                    "images": [],
+                    "page_categories": [
+                      "Shopping"
+                    ],
+                    "page_like_count": 48,
+                    "title": "Racement",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "Racement",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "MESSENGER",
+                    "THREADS"
+                  ],
+                  "start_date": 1769846400,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "1542883256768291",
+                  "collation_count": null,
+                  "collation_id": null,
+                  "page_id": "103164259268905",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "103164259268905",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/nikeseoul/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "Nike Seoul",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/590748867_625422473927124_8076464072088980968_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yY1Ls2XD5X4Q7kNvwECJTGq&_nc_oc=Adkmf6tUaBerGzAOKppljBsmuhk5YdTMqohGavnuPnK4BFJsn9gFIYlyKBzffQMNwOQ&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&oh=00_AfuZ0dJfVIwwcM2aJpV_AzphygDjwVpvzp618ETj7gE8FA&oe=69876C82",
+                    "event": null,
+                    "caption": "itunes.apple.com",
+                    "cta_text": "지금 구매하기",
+                    "cards": [
+                      {
+                        "body": "멈추지 않는 러닝, 모든 날씨를 내편으로\n앱에서 무료 배송 & 반품까지, 나이키 인기 상품을 만나보세요.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "itunes.apple.com",
+                        "link_description": "‎The Nike App is your personal guide to all things Nike. ​​Become a Member ​​​and​​ get​​ exclusive ​access ​to ​the latest from Nike and Jordan. Shop innovative sport styles, trending sneaker releases, and curated apparel collections. Unlock ​​Member Rewards, personali...",
+                        "link_url": "https://www.nike.com/kr/t/써마-핏-adv-에어로로프트-남성-리펠-다운-러닝-재킷-OqBLwTyq/FB7557-492?utm_source=Facebook&utm_medium=SOC&utm_campaign=365DIGITAL_Facebook_DA_DPA_all_all",
+                        "title": "나이키 써마 핏 ADV 에어로로프트 남성 리펠 다운 러닝 재킷",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/591263079_854304390524364_883598947854592972_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FMxxV9DVLTIQ7kNvwGmZFu5&_nc_oc=AdndUBEHeAqPPOtTSWRe06fQwQEG3bahFZhkpNgHUSdLhvWVQBN0N1R2szeoy47sQOI&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&oh=00_Afvmce3Nx4mydeAyF9eU0Qk4eSph69atFF1Ma2OSnsfNLA&oe=69877E77",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/591263079_854304390524364_883598947854592972_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FMxxV9DVLTIQ7kNvwGmZFu5&_nc_oc=AdndUBEHeAqPPOtTSWRe06fQwQEG3bahFZhkpNgHUSdLhvWVQBN0N1R2szeoy47sQOI&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&oh=00_AfuOWLcvYj5EcjSr2mRpE_rD1UJ4Drd6S_O0dsZMAIw4Ng&oe=69877E77",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "멈추지 않는 러닝, 모든 날씨를 내편으로\n앱에서 무료 배송 & 반품까지, 나이키 인기 상품을 만나보세요.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "itunes.apple.com",
+                        "link_description": "‎The Nike App is your personal guide to all things Nike. ​​Become a Member ​​​and​​ get​​ exclusive ​access ​to ​the latest from Nike and Jordan. Shop innovative sport styles, trending sneaker releases, and curated apparel collections. Unlock ​​Member Rewards, personali...",
+                        "link_url": "https://www.nike.com/kr/t/남성-써마-핏-adv-반사-러닝-베스트-bIRQEqYn/IM6279-027?utm_source=Facebook&utm_medium=SOC&utm_campaign=365DIGITAL_Facebook_DA_DPA_all_all",
+                        "title": "나이키 남성 써마 핏 ADV 반사 러닝 베스트",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/589826654_1340787430865046_4062569163621464088_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eISuO1bB7r4Q7kNvwHxcOxH&_nc_oc=AdkROjF0MngqGdzegeQGpdcXiuxBVaADvcizvtiZyNcyR7XQNuAHQIWtLS45qbuNKdc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&oh=00_AfsQ4k1NWUJb4GhDf01cJzqLkOQVfSMqK2Yfr2A2phD2LA&oe=69876EFE",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/589826654_1340787430865046_4062569163621464088_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eISuO1bB7r4Q7kNvwHxcOxH&_nc_oc=AdkROjF0MngqGdzegeQGpdcXiuxBVaADvcizvtiZyNcyR7XQNuAHQIWtLS45qbuNKdc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&oh=00_AftVss7_Nv64NxPpTQBLo8TLWmKgpM80j8abVnkqhPaOCg&oe=69876EFE",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "멈추지 않는 러닝, 모든 날씨를 내편으로\n앱에서 무료 배송 & 반품까지, 나이키 인기 상품을 만나보세요.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "itunes.apple.com",
+                        "link_description": "‎The Nike App is your personal guide to all things Nike. ​​Become a Member ​​​and​​ get​​ exclusive ​access ​to ​the latest from Nike and Jordan. Shop innovative sport styles, trending sneaker releases, and curated apparel collections. Unlock ​​Member Rewards, personali...",
+                        "link_url": "https://www.nike.com/kr/t/베이퍼플라이-4-남성-로드-레이싱화-3BlNqVbx/IM8068-999?utm_source=Facebook&utm_medium=SOC&utm_campaign=365DIGITAL_Facebook_DA_DPA_all_all",
+                        "title": "나이키 베이퍼플라이 4 남성 로드 레이싱화",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/589878221_1809931717063765_4575277114908026899_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LaINQXyM3FcQ7kNvwGsDcZK&_nc_oc=AdkXAS1wyto4BWQy-DeGCOBkB16SKbmuMbAYu-k1CmCn-DCJ3iiJRJeBQtbXCN6g1g0&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&oh=00_AfuXKAzyS0TTpKMSjmrsY5XP9WCjR2vD99pspy24F6u4bA&oe=69878131",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/589878221_1809931717063765_4575277114908026899_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LaINQXyM3FcQ7kNvwGsDcZK&_nc_oc=AdkXAS1wyto4BWQy-DeGCOBkB16SKbmuMbAYu-k1CmCn-DCJ3iiJRJeBQtbXCN6g1g0&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&oh=00_AfsM7NJGKmyX10ua2T2cF0ajaE9bkSBZRatjYyBTAuNlfw&oe=69878131",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "멈추지 않는 러닝, 모든 날씨를 내편으로\n앱에서 무료 배송 & 반품까지, 나이키 인기 상품을 만나보세요.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "itunes.apple.com",
+                        "link_description": "‎The Nike App is your personal guide to all things Nike. ​​Become a Member ​​​and​​ get​​ exclusive ​access ​to ​the latest from Nike and Jordan. Shop innovative sport styles, trending sneaker releases, and curated apparel collections. Unlock ​​Member Rewards, personali...",
+                        "link_url": "https://www.nike.com/kr/t/알파플라이-3-엘리우드-킵초게-남성-로드-레이싱화-CWUbvnbQ/HJ7041-600?utm_source=Facebook&utm_medium=SOC&utm_campaign=365DIGITAL_Facebook_DA_DPA_all_all",
+                        "title": "나이키 알파플라이 3 '엘리우드 킵초게' 남성 로드 레이싱화",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/589118142_1574379830259342_4787135289792222638_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=n5hI-TsAGWYQ7kNvwGIzTVL&_nc_oc=Adl3Z5e0o3LcChTOYRfPfqegUyziASr5ERtC12P-cn9rHA6edFZt_X22v-TaCRsK9JE&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&oh=00_Aftse_GbZUR0d-iA6qFy3sTHWprZbvgrxakz6CwruGbxpw&oe=69876897",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/589118142_1574379830259342_4787135289792222638_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=n5hI-TsAGWYQ7kNvwGIzTVL&_nc_oc=Adl3Z5e0o3LcChTOYRfPfqegUyziASr5ERtC12P-cn9rHA6edFZt_X22v-TaCRsK9JE&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&oh=00_Afs1yPiMx6dT4MdaglDAlpz6ZOGLBxsOiWwibK0QNuSmrA&oe=69876897",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "멈추지 않는 러닝, 모든 날씨를 내편으로\n앱에서 무료 배송 & 반품까지, 나이키 인기 상품을 만나보세요.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "itunes.apple.com",
+                        "link_description": "‎The Nike App is your personal guide to all things Nike. ​​Become a Member ​​​and​​ get​​ exclusive ​access ​to ​the latest from Nike and Jordan. Shop innovative sport styles, trending sneaker releases, and curated apparel collections. Unlock ​​Member Rewards, personali...",
+                        "link_url": "https://www.nike.com/kr/t/써마-핏-adv-에어로로프트-남성-리펠-다운-러닝-재킷-OqBLwTyq/FB7557-010?utm_source=Facebook&utm_medium=SOC&utm_campaign=365DIGITAL_Facebook_DA_DPA_all_all",
+                        "title": "나이키 써마 핏 ADV 에어로로프트 남성 리펠 다운 러닝 재킷",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/589432780_806635229037984_2481407275114544331_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HbkjXkckoHkQ7kNvwG-bRID&_nc_oc=AdnOk9a4MTx_g_Nrtpk8fjKcPQ2keN9xnXZA5vL8mRz78K5GzrIZ_Mbf9aMDVUQBz5Q&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&oh=00_AfuneGDlPbz6ANEc0ZWs-tYtyCbHvHhVBaoToVlXeMod2Q&oe=69877362",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/589432780_806635229037984_2481407275114544331_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HbkjXkckoHkQ7kNvwG-bRID&_nc_oc=AdnOk9a4MTx_g_Nrtpk8fjKcPQ2keN9xnXZA5vL8mRz78K5GzrIZ_Mbf9aMDVUQBz5Q&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&oh=00_AfsMuK0s62tbebWWFMyFQkQ-K18zSVlglXMLvnlCwGlZAA&oe=69877362",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "멈추지 않는 러닝, 모든 날씨를 내편으로\n앱에서 무료 배송 & 반품까지, 나이키 인기 상품을 만나보세요.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "itunes.apple.com",
+                        "link_description": "‎The Nike App is your personal guide to all things Nike. ​​Become a Member ​​​and​​ get​​ exclusive ​access ​to ​the latest from Nike and Jordan. Shop innovative sport styles, trending sneaker releases, and curated apparel collections. Unlock ​​Member Rewards, personali...",
+                        "link_url": "https://www.nike.com/kr/t/알파플라이-3-남성-로드-레이싱화-UUZHIYeh/IM8066-999?utm_source=Facebook&utm_medium=SOC&utm_campaign=365DIGITAL_Facebook_DA_DPA_all_all",
+                        "title": "나이키 알파플라이 3 남성 로드 레이싱화",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/591260861_2238732916623535_5696564964478548328_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IzPyVxxaR7IQ7kNvwGutJgi&_nc_oc=AdmIDDAywFRXtuAosM93f5b7NkiQZjlGIpGsvurc-JcqK3NMcOlg191hu0VCW2OlRAo&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&oh=00_AfulnO3y63P7R0RZQnBtV4_7KAPALIfiy9UmdcLjMtGRSA&oe=698763D1",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/591260861_2238732916623535_5696564964478548328_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IzPyVxxaR7IQ7kNvwGutJgi&_nc_oc=AdmIDDAywFRXtuAosM93f5b7NkiQZjlGIpGsvurc-JcqK3NMcOlg191hu0VCW2OlRAo&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&oh=00_AfuxE-0eyO6M32TR4qOuWdYSt6nMCQcSC5cOppC_GbheTg&oe=698763D1",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "멈추지 않는 러닝, 모든 날씨를 내편으로\n앱에서 무료 배송 & 반품까지, 나이키 인기 상품을 만나보세요."
+                    },
+                    "cta_type": "SHOP_NOW",
+                    "display_format": "DPA",
+                    "link_description": null,
+                    "link_url": "http://itunes.apple.com/app/id1095459556",
+                    "images": [],
+                    "page_categories": [
+                      "Brand"
+                    ],
+                    "page_like_count": 26593,
+                    "title": "{{product.name}}",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "Nike Seoul",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "MESSENGER",
+                    "THREADS"
+                  ],
+                  "start_date": 1769760000,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "1202399164531563",
+                  "collation_count": 1,
+                  "collation_id": "1751316082406707",
+                  "page_id": "679733835228513",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "679733835228513",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/61576355263726/",
+                    "root_reshared_post": null,
+                    "byline": "",
+                    "disclaimer_label": null,
+                    "page_name": "Idol Prank Video Call & Chat",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/504958390_2160453081139071_4271714563155685687_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=aCFSv0bNFsQQ7kNvwGSLTBJ&_nc_oc=Adn2hUw6xz_pqD4RJoES3j2EAr6YI4Ua19D418MlW4Y9MC_lKVEYuGwy5kzoXhhreBM&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&oh=00_Afuwuc01V3d5Q_tj2KSG-r8CdFqd1DYQP6wBIvfru0xaUw&oe=698759ED",
+                    "event": null,
+                    "caption": "play.google.com",
+                    "cta_text": "지금 설치",
+                    "cards": [],
+                    "body": null,
+                    "cta_type": "INSTALL_MOBILE_APP",
+                    "display_format": "VIDEO",
+                    "link_description": null,
+                    "link_url": "http://play.google.com/store/apps/details?id=com.fakecall.idol.prank.video.call.chat",
+                    "images": [],
+                    "page_categories": [
+                      "Công ty truyền thông/tin tức"
+                    ],
+                    "page_like_count": 48,
+                    "title": null,
+                    "videos": [
+                      {
+                        "video_hd_url": null,
+                        "video_preview_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/504357116_1013560583868602_8253432530257676837_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iYEtX6RE_0AQ7kNvwFTWcBj&_nc_oc=AdmSBf0dgZ77S2MW9M3t7YbS-_pU3NA5i2oYuyIAIpdDOQxH32rOtV9qUNsd9i8BA6g&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&oh=00_AfvVp83RBpltnHTYJp8ofOhf6NbxXFpPygFXMJlc_HI_SQ&oe=69875DF9",
+                        "video_sd_url": "https://video-icn2-1.xx.fbcdn.net/o1/v/t2/f2/m69/AQNQdZBmM8p1Tc3mGlhn6fqmfrlYXocq_alqXqp5vO-Ib8xZ_K4OfPRorJccvp-Q4D8y0JAyXW_hTQ3cQ6l2WeXM.mp4?strext=1&_nc_cat=111&_nc_sid=8bf8fe&_nc_ht=video-icn2-1.xx.fbcdn.net&_nc_ohc=5aW51gBDR4YQ7kNvwE2npkl&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjA5MTE2MzI2MTMyMDI3NSwiYXNzZXRfYWdlX2RheXMiOjM0MSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjIwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&_nc_zt=28&oh=00_AftkqHMEpucVT760GoMA_fB-A6i6w0QlNfSabWJhpEtTQw&oe=69877853",
+                        "watermarked_video_hd_url": "",
+                        "watermarked_video_sd_url": ""
+                      }
+                    ],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": false,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "Idol Prank Video Call & Chat",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": true,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1754204400,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "MESSENGER"
+                  ],
+                  "start_date": 1749193200,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "684610107926690",
+                  "collation_count": null,
+                  "collation_id": null,
+                  "page_id": "536035950646488",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "536035950646488",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/100067609347200/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "슈마커",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/529141162_3994363890824919_1885165602149978885_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cyY6AaQae9QQ7kNvwG97PkF&_nc_oc=AdnQRbvxTm88hYl9UKLL_gRF5Y7CUG_rSOKmznobTCaoAfa1HR6aBWh7GuUZQTDTGE4&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&oh=00_Afs8kTO7HJjpTvjhE79RoegmRGxdElF1Op2w-2COai1k1g&oe=698768B2",
+                    "event": null,
+                    "caption": "shoemarker.co.kr",
+                    "cta_text": "더 알아보기",
+                    "cards": [],
+                    "body": {
+                      "text": "가벼운 발끝으로 달려봐 🏃‍♂️💨\n더 빠르고, 더 가벼운 미즈노 러닝화"
+                    },
+                    "cta_type": "LEARN_MORE",
+                    "display_format": "IMAGE",
+                    "link_description": "즐거움을 신다! 나이키, 아식스, 아디다스, 클라우드 제로 등 온라인 공식 스토어",
+                    "link_url": "https://www.shoemarker.co.kr/ASP/Event/EventView.asp?EventIDX=3656&utm_source=SNS&utm_medium=DA&utm_campaign=purchase&utm_content=MIZUNO_2508",
+                    "images": [
+                      {
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/529935934_1483912332960818_5238911430323645975_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=g5O6weYzAhUQ7kNvwHoJSuJ&_nc_oc=Adkt5oqK_drwXODnARWVMIcjJrVeEUN-Xsmsa2udD7EU0PPA1kj6592QunbEJMmS5fk&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&oh=00_Afv5H_GGL1xifSQuODK55AZfJXfbgqz-WFvBBeEBohfv7Q&oe=69876522",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/528566878_1435684517482226_3615935915516667197_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=re20DSmA9SoQ7kNvwHDa4pV&_nc_oc=AdlSt0O12co72Omk-RvY8IIySNoxc3tZelO7CiEsXtIkaCNzpcTVL_2HWKeGRDW0_Sk&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&oh=00_AftzWXmUFyMr7bToaUnSQ1CVnqYwkC6ZyQHGvri59uu9cw&oe=69876398",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "page_categories": [
+                      "Retail company"
+                    ],
+                    "page_like_count": 68,
+                    "title": "[미즈노] 스피드 러닝화 BEST",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "슈마커",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1754809200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "MESSENGER",
+                    "THREADS"
+                  ],
+                  "start_date": 1754636400,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "833216653052559",
+                  "collation_count": 2,
+                  "collation_id": "3009505092584115",
+                  "page_id": "1275105262550265",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "1275105262550265",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/croket.official/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "크로켓 : 전세계 커넥팅 쇼핑",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/611175269_2399080023860511_6540438858428843949_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0FnlIXWWbwQQ7kNvwHM9lu3&_nc_oc=Admd4VJ3EDpxfRGgxge2w0s4aIAOjU1kx_wUUQ1useNQBWhFbbMLnSKia3-VCArjd_s&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&oh=00_AfsazJuUd_lmLVT4RRrcB_GUOLxtEtjHlT4ZxTSK_t1osw&oe=69877467",
+                    "event": null,
+                    "caption": "web.croket.co.kr",
+                    "cta_text": "지금 구매하기",
+                    "cards": [],
+                    "body": {
+                      "text": "나이키에서 출시한 신상 방한화💥\n지금 크로켓에서 한정 특가로 구매하세요!"
+                    },
+                    "cta_type": "SHOP_NOW",
+                    "display_format": "IMAGE",
+                    "link_description": "/ 나이키 ACG 이지 카키 앤 블랙 FV4317 200 을(를) 크로켓에서 전 세계 셀러를 통해 구매하세요! 가품/분실/파손/오배송도 안전 보장!",
+                    "link_url": "https://web.croket.co.kr/seller/product/694c81fe947059fff3d95d88?yg_type=SNS_roas&utm_source=SNS&utm_medium=roas",
+                    "images": [
+                      {
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/607833354_2065330697598543_2092385543421139472_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2OP0p5fXsXMQ7kNvwGRbTeB&_nc_oc=AdkQVxHeBpVtDCESJ6toeyDEWgN8QWHUK5WrX-Zz9qyOMACyFRx7IeiCbPGE1VAcuL4&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&oh=00_Afv4hvo150GIQmxbg7a88U2nYH_pELUba5PAN_qlhMTI3A&oe=69877494",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/611262529_33494103180173036_2795167042875009079_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HgHPc89SvaQQ7kNvwFysGx2&_nc_oc=AdnBzS3ypiCSX1LsvQ9qmFZJheOKtfegNUcF0TlG2t8hdrh-eRvlX-HQf7VAdwVGBMc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&oh=00_Afum1nvnwDuWyi-x3wXOlgCsTORiRH2pPVUKG0z4P6MrQQ&oe=69876FF5",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "page_categories": [
+                      "Shopping"
+                    ],
+                    "page_like_count": 18636,
+                    "title": "나이키에서 출시한 신상 방한화💥",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "크로켓 : 전세계 커넥팅 쇼핑",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "MESSENGER",
+                    "THREADS"
+                  ],
+                  "start_date": 1769500800,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "695186940038752",
+                  "collation_count": 1,
+                  "collation_id": "1721793491788807",
+                  "page_id": "679733835228513",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "679733835228513",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/61576355263726/",
+                    "root_reshared_post": null,
+                    "byline": "",
+                    "disclaimer_label": null,
+                    "page_name": "Idol Prank Video Call & Chat",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/504650987_690990727023209_5595349872071434829_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YjMpStl4FTsQ7kNvwEwR7TK&_nc_oc=AdnYrECgNtBKiKBHRUWln_7ahzK_6roOeqGhSped0zf7VtQ3JpmZoYHk6BK0eNMj5L4&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&oh=00_AftJubsHbd8Vdf6YCQYhfPBM64zh6GaJ_BTJJyp-1LHh3A&oe=69874BCE",
+                    "event": null,
+                    "caption": "play.google.com",
+                    "cta_text": "지금 설치",
+                    "cards": [],
+                    "body": null,
+                    "cta_type": "INSTALL_MOBILE_APP",
+                    "display_format": "VIDEO",
+                    "link_description": null,
+                    "link_url": "http://play.google.com/store/apps/details?id=com.fakecall.idol.prank.video.call.chat",
+                    "images": [],
+                    "page_categories": [
+                      "Công ty truyền thông/tin tức"
+                    ],
+                    "page_like_count": 48,
+                    "title": null,
+                    "videos": [
+                      {
+                        "video_hd_url": null,
+                        "video_preview_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/503432907_1255392375922146_979316743731745260_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Un6hplu70hsQ7kNvwFQpSIB&_nc_oc=AdmjAYnf-fSU_bQmqRTf86ZxQ97Y5U9ruGIxWZueZxbIg1_46gKYdrtk118qtt8kbSo&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&oh=00_AfvcpN4BEe7HbSmakgeA5QezcS1Ub733mNJik3G3XX4I6g&oe=6987697F",
+                        "video_sd_url": "https://video-icn2-1.xx.fbcdn.net/o1/v/t2/f2/m69/AQMDK-FULmp5yTKUOf2enZCh5FveEXrtr3wndepr8paR6UDzuT-YvLFl6EGg9u7M4gZf-Qt6MaxY8phJpb2recom.mp4?strext=1&_nc_cat=107&_nc_sid=8bf8fe&_nc_ht=video-icn2-1.xx.fbcdn.net&_nc_ohc=ohyjvIz1G-kQ7kNvwGw6kR0&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6NjUyOTYzMjgzOTAzMTY5LCJhc3NldF9hZ2VfZGF5cyI6MzQxLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6MjAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=-wDVS3B5hoyEFKh5RoBc8g&_nc_zt=28&oh=00_Afv-jwiZLCv1xUDmxKXGZv5_U8yumkKF-q2zLHEAbhEIxQ&oe=69876243",
+                        "watermarked_video_hd_url": "",
+                        "watermarked_video_sd_url": ""
+                      }
+                    ],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": false,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "Idol Prank Video Call & Chat",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": true,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1754290800,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "MESSENGER"
+                  ],
+                  "start_date": 1749193200,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          }
+        ],
+        "page_info": {
+          "end_cursor": "AQHSDVgeSuTrMDsi32jHm3oc5kBKoJ2_azYjodoF4gyScLbpsvRtoqsGEOqKoREotMUqKXny-sdZVFb711ThtsNDVz2kWVH3cghGw7-N4fYSzaOG1j24lPDrmVN6dAdILXAWOkAigk_Qn5I8z0GNvGPUel3jGC2sAeil1HWXm8KU7QFKlYyujjGacvgy2Se5KKcEY9zH11-FKs9WCBqrGdb0C5ut_dYSN7P_EU1BSyvifIIL99Vk2tXtFYiNuipgxiOEnHB7lzZRvbCFwqzscT6fy7xPjgiMSyOCWpxiU7AECaiK1qKTKSDprrzkL8gSorpwLOIQ7Tz0LtE_dzA7jkiToZTY35ZPreO2hPBmhB81zUVSHUgGnBtnFOXBXUBjbXGNqf43DJad9B9mgKP4AjATlhhjeFH21Hiqn6q1SYgwcaYd-d_mU_p_TKYODLYAI7QT9_JzHfQwLgu6q3XWHiM9smJ781SjCBiJbFI0PV3E1XOVKK7iFxlD37zcyMq7YWz2B1KGN1HVvOG3cY_RRFYs2p2kGojJJgD-NCUlG97OXy7OcJX7WWVuXdLHwosiI5y7BDHvMTELcfaonU5Thj-rjvjz9ONXi6EzQLs2dj81Onqc6cvk1mvOf6GiSzqjKq0UfevvOj-8EO0hFU_z4cTiVtWddDIYD-0g1cVIX5iiyNpZ70gViLowdWmflw0a4jI4dycq6qn1ArdQfsdYJ7Jd7QpXn03EIfsrvVR5mtqEZgT-aKkUSD6otWofBzMYxRq8ZlAjRvng0c6PfofNvPv0oLHggHr27Q9_Sl7H-ASuMGZr8Tzvy8-AMepeuGpCWizBrUKsLTH2ssqCCcQTgYHMj_KT66TaenRXg5ebzNPar89CBrd8FOm9Bp6LI--MQmM8L2S4wVAt_F2WVOYrq_0P0awMr-9T15ztJ6LwgoWTMM4Cw55RBC2TzUqeVY7QHBA_4AewG98i1UWo9CJ_d-Lf7RTlbTX5CokQAEJBv3tjqjqa0q3t9f9hHXkejcZVE0JtrDbnJjrK_hBcc5lLseNaDi04ZGTP9Er69kvTzvKgTEbUl9V4fhtEHOuDidG_alyYgQWJWE0pwVhlQ5AfUm1JoPbWot7joqnTw9pFdGH9_rbRlYZMo0Wle9FYxmgEXC5CtUEAOtEVlvQy4ln83aeQ8YPS4HefwBAyAUh0ZYx_q5VI6AIOxOjWqGsTQgl9lwdvxbVTulNp2DiIiib1qCBJaLjoRxcIyU9vMjytGhAWCAWTkf5oHXjCnEpZIPczAmYHMAp-X_ftDeaH_eCIyF5C1QBJARGZ2n3joVAbcOoK3nDX7nu8W3dcJypVwkF65Sx6Ov_u8LQp7GMA1cAIIdOw_A-1exMtYpfuIuO-U2ktNqL-sM3pCaYm4z1TK_TT6r62MNQ2eXzq-hPspY-hlbJtIsH3Fl-Y51tuV5Yl4J4Ygc4FodfKKG_OmfnFwf6_f8lJ46emWHxqXeZ6gV-IwzDOYoQT-PZvsJbHBUhF5pfjUztMIAxppp7OdNFNvenVZIQcvShk9uejzeBB0aB4HEnUmVLsXQA6TuGOtD-K2A3JF6NNRoNAHwfkTftRbua29RnMAfSf-gznrwwStAuIpzEtkbC0DCd5mrHG-vjee587H4tYwiovLVQNMCd3gsj-3OPAGrrSb2L0KOJMkEUmQHCrP_4feQmerpq9muCWTDwyLrTCdNGCxALvxD72ZzrjVa14aRBUaoNG1f-uAujm4t8HWV4UGE1FRyJv3r0IcLGhNM5f_6A_siQr1uHn9eRoZqjpKw82vbhWdRi6ZMXICKhXNP2iBozqjPRmraPvMXmNPkvVyp7dQf-bnOr0mVTYD9MArZ4ad-r4RVc9GF4rqzWQ_-GrJoxobm8HBY2MnySFd7FvKAejgCESdNYdu_9bDopetAXaJaF4H-nrAY6dPPUpPUxtOhiRkrRWifvlOx-HwYKJ5SKEAqODgduG-pCe71hE-rDaSOaZyITYs0_z4xclwyAl19kBAT9iEpWBpLboqNwiq9ArURWEA3Ji6xgPk0spJ1bWZGO8GpBeFAc93fYeZIxmttfJz0boeRt1OCJ8yyPFMEe9LYAKP_dAj5ykibd7VDK_AuC4Ewkdxy6GIOREk7sFHZ6acCoqK3i3s1siqeswVx_IQisxFggyTFV7HXFV_G14xvsKY02je2aRnkNuGHAOZgxPCkBNw3OTp2ajwys",
+          "has_next_page": true
+        }
+      }
+    }
+  },
+  "extensions": {
+    "server_metadata": {
+      "request_start_time_ms": 1770099890040,
+      "time_at_flush_ms": 1770099890683
+    },
+    "is_final": true
+  }
+}

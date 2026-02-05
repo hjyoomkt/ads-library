@@ -1,0 +1,2901 @@
+{
+  "keyword": "나이키",
+  "initial_count": 30,
+  "graphql_count": 457,
+  "total_count": 487,
+  "unique_count": 487,
+  "ads": [
+    {
+      "ad_archive_id": "666461685966308",
+      "page_name": "Nike Seoul",
+      "source": "HTML"
+    },
+    {
+      "ad_archive_id": "1370426024223159",
+      "page_name": "Jewelzz Fashion Market",
+      "source": "HTML"
+    },
+    {
+      "ad_archive_id": "807804754952193",
+      "page_name": "4910",
+      "source": "HTML"
+    },
+    {
+      "ad_archive_id": "2038994320283837",
+      "page_name": "Nike Seoul",
+      "source": "HTML"
+    },
+    {
+      "ad_archive_id": "1119171429865104",
+      "page_name": "소나이-Armadio di Sonai",
+      "source": "HTML"
+    },
+    {
+      "ad_archive_id": "1333782720947798",
+      "page_name": "룩핀",
+      "source": "HTML"
+    },
+    {
+      "ad_archive_id": "3271175543044814",
+      "page_name": "Nike Seoul",
+      "source": "HTML"
+    },
+    {
+      "ad_archive_id": "624781053593350",
+      "page_name": "Idol Prank Video Call & Chat",
+      "source": "HTML"
+    },
+    {
+      "ad_archive_id": "1548015953221300",
+      "page_name": "룩핀",
+      "source": "HTML"
+    },
+    {
+      "ad_archive_id": "2631047380604492",
+      "page_name": "Nike Seoul",
+      "source": "HTML"
+    },
+    {
+      "ad_archive_id": "908327581475731",
+      "page_name": "부티크 서울",
+      "source": "HTML"
+    },
+    {
+      "ad_archive_id": "1179701634284107",
+      "page_name": "Nike Seoul",
+      "source": "HTML"
+    },
+    {
+      "ad_archive_id": "1465138424580792",
+      "page_name": "4910",
+      "source": "HTML"
+    },
+    {
+      "ad_archive_id": "1142342837976012",
+      "page_name": "Nike Seoul",
+      "source": "HTML"
+    },
+    {
+      "ad_archive_id": "907270685003316",
+      "page_name": "Nike Seoul",
+      "source": "HTML"
+    },
+    {
+      "ad_archive_id": "719629467446105",
+      "page_name": "coyun.co.kr",
+      "source": "HTML"
+    },
+    {
+      "ad_archive_id": "782077900975716",
+      "page_name": "My fashion blog Coyun",
+      "source": "HTML"
+    },
+    {
+      "ad_archive_id": "4334123876870035",
+      "page_name": "Nike Seoul",
+      "source": "HTML"
+    },
+    {
+      "ad_archive_id": "1066880381687077",
+      "page_name": "Jewelzz Fashion Market",
+      "source": "HTML"
+    },
+    {
+      "ad_archive_id": "1614923739934379",
+      "page_name": "Nike Seoul",
+      "source": "HTML"
+    },
+    {
+      "ad_archive_id": "2079315802890682",
+      "page_name": "Nike Seoul",
+      "source": "HTML"
+    },
+    {
+      "ad_archive_id": "1387620872867148",
+      "page_name": "부티크 서울",
+      "source": "HTML"
+    },
+    {
+      "ad_archive_id": "1298174208568553",
+      "page_name": "Jewelzz Fashion Market",
+      "source": "HTML"
+    },
+    {
+      "ad_archive_id": "2079756625847778",
+      "page_name": "Jewelzz Fashion Market",
+      "source": "HTML"
+    },
+    {
+      "ad_archive_id": "1290089452729560",
+      "page_name": "Jewelzz Fashion Market",
+      "source": "HTML"
+    },
+    {
+      "ad_archive_id": "525712330575535",
+      "page_name": "더베네푸드",
+      "source": "HTML"
+    },
+    {
+      "ad_archive_id": "933066709001613",
+      "page_name": "Jewelzz Fashion Market",
+      "source": "HTML"
+    },
+    {
+      "ad_archive_id": "1400382328126569",
+      "page_name": "deer_vtg",
+      "source": "HTML"
+    },
+    {
+      "ad_archive_id": "750086487427201",
+      "page_name": "My fashion blog Coyun",
+      "source": "HTML"
+    },
+    {
+      "ad_archive_id": "2111566802665964",
+      "page_name": "Yemomile",
+      "source": "HTML"
+    },
+    {
+      "ad_archive_id": "4046299142311497",
+      "page_name": "Jewelzz Fashion Market",
+      "source": "GraphQL",
+      "response_index": 1
+    },
+    {
+      "ad_archive_id": "1591126728570448",
+      "page_name": "KREAM",
+      "source": "GraphQL",
+      "response_index": 1
+    },
+    {
+      "ad_archive_id": "4256292231361793",
+      "page_name": "Yemomile",
+      "source": "GraphQL",
+      "response_index": 1
+    },
+    {
+      "ad_archive_id": "1790292778556410",
+      "page_name": "Jewelzz Fashion Market",
+      "source": "GraphQL",
+      "response_index": 1
+    },
+    {
+      "ad_archive_id": "1075601461205019",
+      "page_name": "Jewelzz Fashion Market",
+      "source": "GraphQL",
+      "response_index": 1
+    },
+    {
+      "ad_archive_id": "674079372111136",
+      "page_name": "4910",
+      "source": "GraphQL",
+      "response_index": 1
+    },
+    {
+      "ad_archive_id": "739598325243899",
+      "page_name": "Jewelzz Fashion Market",
+      "source": "GraphQL",
+      "response_index": 1
+    },
+    {
+      "ad_archive_id": "856584680190328",
+      "page_name": "우주먼지 여승호",
+      "source": "GraphQL",
+      "response_index": 1
+    },
+    {
+      "ad_archive_id": "1283726920176281",
+      "page_name": "Betterthan",
+      "source": "GraphQL",
+      "response_index": 1
+    },
+    {
+      "ad_archive_id": "1527461331643868",
+      "page_name": "Jewelzz Fashion Market",
+      "source": "GraphQL",
+      "response_index": 1
+    },
+    {
+      "ad_archive_id": "1092507125773963",
+      "page_name": "Jewelzz Fashion Market",
+      "source": "GraphQL",
+      "response_index": 2
+    },
+    {
+      "ad_archive_id": "1167799835439818",
+      "page_name": "우주먼지 여승호",
+      "source": "GraphQL",
+      "response_index": 2
+    },
+    {
+      "ad_archive_id": "1402142568275841",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 2
+    },
+    {
+      "ad_archive_id": "1154249883251697",
+      "page_name": "My fashion blog Coyun",
+      "source": "GraphQL",
+      "response_index": 2
+    },
+    {
+      "ad_archive_id": "1290812158715857",
+      "page_name": "My fashion blog Coyun",
+      "source": "GraphQL",
+      "response_index": 2
+    },
+    {
+      "ad_archive_id": "4348465192052113",
+      "page_name": "ypnam15",
+      "source": "GraphQL",
+      "response_index": 2
+    },
+    {
+      "ad_archive_id": "1248503590384435",
+      "page_name": "괌트립",
+      "source": "GraphQL",
+      "response_index": 2
+    },
+    {
+      "ad_archive_id": "1353823789438882",
+      "page_name": "Jewelzz Fashion Market",
+      "source": "GraphQL",
+      "response_index": 2
+    },
+    {
+      "ad_archive_id": "2319830311786103",
+      "page_name": "Yemomile",
+      "source": "GraphQL",
+      "response_index": 2
+    },
+    {
+      "ad_archive_id": "1575688853672386",
+      "page_name": "쿠팡 Coupang",
+      "source": "GraphQL",
+      "response_index": 2
+    },
+    {
+      "ad_archive_id": "744342321343150",
+      "page_name": "coyun.co.kr",
+      "source": "GraphQL",
+      "response_index": 3
+    },
+    {
+      "ad_archive_id": "1335329087928937",
+      "page_name": "coyun.co.kr",
+      "source": "GraphQL",
+      "response_index": 3
+    },
+    {
+      "ad_archive_id": "2421460124938301",
+      "page_name": "4910",
+      "source": "GraphQL",
+      "response_index": 3
+    },
+    {
+      "ad_archive_id": "4000598670251007",
+      "page_name": "Jewelzz Fashion Market",
+      "source": "GraphQL",
+      "response_index": 3
+    },
+    {
+      "ad_archive_id": "1457441568803917",
+      "page_name": "삭스유스",
+      "source": "GraphQL",
+      "response_index": 3
+    },
+    {
+      "ad_archive_id": "3066487906867519",
+      "page_name": "My fashion blog Coyun",
+      "source": "GraphQL",
+      "response_index": 3
+    },
+    {
+      "ad_archive_id": "938665762157917",
+      "page_name": "Hang.vintage",
+      "source": "GraphQL",
+      "response_index": 3
+    },
+    {
+      "ad_archive_id": "820572970645893",
+      "page_name": "Yemomile",
+      "source": "GraphQL",
+      "response_index": 3
+    },
+    {
+      "ad_archive_id": "1214391570105093",
+      "page_name": "KREAM",
+      "source": "GraphQL",
+      "response_index": 3
+    },
+    {
+      "ad_archive_id": "683523504597270",
+      "page_name": "Idol Prank Video Call & Chat",
+      "source": "GraphQL",
+      "response_index": 3
+    },
+    {
+      "ad_archive_id": "1425671942391314",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 4
+    },
+    {
+      "ad_archive_id": "2881320508735250",
+      "page_name": "One store",
+      "source": "GraphQL",
+      "response_index": 4
+    },
+    {
+      "ad_archive_id": "26002853362672461",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 4
+    },
+    {
+      "ad_archive_id": "2400956873686395",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 4
+    },
+    {
+      "ad_archive_id": "1184005770511922",
+      "page_name": "대한민국 최초 슈즈 멀티샵 슈마커",
+      "source": "GraphQL",
+      "response_index": 4
+    },
+    {
+      "ad_archive_id": "3770032766627595",
+      "page_name": "My fashion blog Coyun",
+      "source": "GraphQL",
+      "response_index": 4
+    },
+    {
+      "ad_archive_id": "906038408479101",
+      "page_name": "댄블 - 3040 남성을 위한 맞춤 스타일, 사이즈 추천",
+      "source": "GraphQL",
+      "response_index": 4
+    },
+    {
+      "ad_archive_id": "713236851169191",
+      "page_name": "4910",
+      "source": "GraphQL",
+      "response_index": 4
+    },
+    {
+      "ad_archive_id": "754244497599740",
+      "page_name": "Jewelzz Fashion Market",
+      "source": "GraphQL",
+      "response_index": 4
+    },
+    {
+      "ad_archive_id": "1323788102869439",
+      "page_name": "Tpshop",
+      "source": "GraphQL",
+      "response_index": 5
+    },
+    {
+      "ad_archive_id": "721565424245123",
+      "page_name": "Jewelzz Fashion Market",
+      "source": "GraphQL",
+      "response_index": 5
+    },
+    {
+      "ad_archive_id": "1258621332736427",
+      "page_name": "Jewelzz Fashion Market",
+      "source": "GraphQL",
+      "response_index": 5
+    },
+    {
+      "ad_archive_id": "3344642409007002",
+      "page_name": "My fashion blog Coyun",
+      "source": "GraphQL",
+      "response_index": 5
+    },
+    {
+      "ad_archive_id": "876787554827338",
+      "page_name": "Betterthan",
+      "source": "GraphQL",
+      "response_index": 5
+    },
+    {
+      "ad_archive_id": "930203332778234",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 5
+    },
+    {
+      "ad_archive_id": "1129489468914507",
+      "page_name": "Idol Prank Video Call & Chat",
+      "source": "GraphQL",
+      "response_index": 5
+    },
+    {
+      "ad_archive_id": "2348152362311494",
+      "page_name": "Jewelzz Fashion Market",
+      "source": "GraphQL",
+      "response_index": 5
+    },
+    {
+      "ad_archive_id": "845070338452317",
+      "page_name": "LEE FIT",
+      "source": "GraphQL",
+      "response_index": 5
+    },
+    {
+      "ad_archive_id": "793885323466260",
+      "page_name": "Jewelzz Fashion Market",
+      "source": "GraphQL",
+      "response_index": 5
+    },
+    {
+      "ad_archive_id": "1332015638404643",
+      "page_name": "410shop_",
+      "source": "GraphQL",
+      "response_index": 6
+    },
+    {
+      "ad_archive_id": "1241463177497108",
+      "page_name": "PAP KOREA",
+      "source": "GraphQL",
+      "response_index": 6
+    },
+    {
+      "ad_archive_id": "719567564520622",
+      "page_name": "Jewelzz Fashion Market",
+      "source": "GraphQL",
+      "response_index": 6
+    },
+    {
+      "ad_archive_id": "1461641305356146",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 6
+    },
+    {
+      "ad_archive_id": "1611423533361246",
+      "page_name": "김포 구제 옷파는 야옹이",
+      "source": "GraphQL",
+      "response_index": 6
+    },
+    {
+      "ad_archive_id": "1398595562010012",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 6
+    },
+    {
+      "ad_archive_id": "892178136809491",
+      "page_name": "Lórisḙḙp",
+      "source": "GraphQL",
+      "response_index": 6
+    },
+    {
+      "ad_archive_id": "923268420131557",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 6
+    },
+    {
+      "ad_archive_id": "1059488132468329",
+      "page_name": "Yemomile",
+      "source": "GraphQL",
+      "response_index": 6
+    },
+    {
+      "ad_archive_id": "1373696087473272",
+      "page_name": "대한민국 최초 슈즈 멀티샵 슈마커",
+      "source": "GraphQL",
+      "response_index": 6
+    },
+    {
+      "ad_archive_id": "25591426610469772",
+      "page_name": "fruitsfamily.co",
+      "source": "GraphQL",
+      "response_index": 7
+    },
+    {
+      "ad_archive_id": "1896298041271821",
+      "page_name": "대한민국 최초 슈즈 멀티샵 슈마커",
+      "source": "GraphQL",
+      "response_index": 7
+    },
+    {
+      "ad_archive_id": "1584702202952503",
+      "page_name": "29CM",
+      "source": "GraphQL",
+      "response_index": 7
+    },
+    {
+      "ad_archive_id": "1220149386850112",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 7
+    },
+    {
+      "ad_archive_id": "1816611585875714",
+      "page_name": "permanent_books",
+      "source": "GraphQL",
+      "response_index": 7
+    },
+    {
+      "ad_archive_id": "1295749098649950",
+      "page_name": "permanent_books",
+      "source": "GraphQL",
+      "response_index": 7
+    },
+    {
+      "ad_archive_id": "1224095103090152",
+      "page_name": "Yemomile",
+      "source": "GraphQL",
+      "response_index": 7
+    },
+    {
+      "ad_archive_id": "938579488711722",
+      "page_name": "รองเท้าในเกาหลี By น้องลิซ",
+      "source": "GraphQL",
+      "response_index": 7
+    },
+    {
+      "ad_archive_id": "719763431203509",
+      "page_name": "Newcody1",
+      "source": "GraphQL",
+      "response_index": 7
+    },
+    {
+      "ad_archive_id": "25312575591757696",
+      "page_name": "BrandBigMall",
+      "source": "GraphQL",
+      "response_index": 7
+    },
+    {
+      "ad_archive_id": "1281952163739867",
+      "page_name": "대한민국 최초 슈즈 멀티샵 슈마커",
+      "source": "GraphQL",
+      "response_index": 8
+    },
+    {
+      "ad_archive_id": "1400485354937422",
+      "page_name": "룩핀",
+      "source": "GraphQL",
+      "response_index": 8
+    },
+    {
+      "ad_archive_id": "1434861134939012",
+      "page_name": "Newcody1",
+      "source": "GraphQL",
+      "response_index": 8
+    },
+    {
+      "ad_archive_id": "1392615358995105",
+      "page_name": "홀리스패션",
+      "source": "GraphQL",
+      "response_index": 8
+    },
+    {
+      "ad_archive_id": "1589310878636064",
+      "page_name": "Racement",
+      "source": "GraphQL",
+      "response_index": 8
+    },
+    {
+      "ad_archive_id": "1275710941161852",
+      "page_name": "애슬러",
+      "source": "GraphQL",
+      "response_index": 8
+    },
+    {
+      "ad_archive_id": "2298539427292903",
+      "page_name": "크로켓 : 전세계 커넥팅 쇼핑",
+      "source": "GraphQL",
+      "response_index": 8
+    },
+    {
+      "ad_archive_id": "1640977073928688",
+      "page_name": "롯데ON",
+      "source": "GraphQL",
+      "response_index": 8
+    },
+    {
+      "ad_archive_id": "2384751258607843",
+      "page_name": "fruitsfamily.co",
+      "source": "GraphQL",
+      "response_index": 8
+    },
+    {
+      "ad_archive_id": "1957741531786472",
+      "page_name": "김포 구제 옷파는 야옹이",
+      "source": "GraphQL",
+      "response_index": 8
+    },
+    {
+      "ad_archive_id": "1144191244579934",
+      "page_name": "Lina",
+      "source": "GraphQL",
+      "response_index": 9
+    },
+    {
+      "ad_archive_id": "1914124926199201",
+      "page_name": "투슬로스",
+      "source": "GraphQL",
+      "response_index": 9
+    },
+    {
+      "ad_archive_id": "1879902755979258",
+      "page_name": "홀리스패션",
+      "source": "GraphQL",
+      "response_index": 9
+    },
+    {
+      "ad_archive_id": "740822268690332",
+      "page_name": "슈마커",
+      "source": "GraphQL",
+      "response_index": 9
+    },
+    {
+      "ad_archive_id": "1184656490308483",
+      "page_name": "더블유클럽 페이지",
+      "source": "GraphQL",
+      "response_index": 9
+    },
+    {
+      "ad_archive_id": "1175934534082533",
+      "page_name": "Yemomile",
+      "source": "GraphQL",
+      "response_index": 9
+    },
+    {
+      "ad_archive_id": "1108879861278156",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 9
+    },
+    {
+      "ad_archive_id": "1478106757274584",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 9
+    },
+    {
+      "ad_archive_id": "1125806896271043",
+      "page_name": "Sereal+",
+      "source": "GraphQL",
+      "response_index": 9
+    },
+    {
+      "ad_archive_id": "874804228350650",
+      "page_name": "fruitsfamily.co",
+      "source": "GraphQL",
+      "response_index": 9
+    },
+    {
+      "ad_archive_id": "706964032473405",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 10
+    },
+    {
+      "ad_archive_id": "3246783448836349",
+      "page_name": "My fashion blog Coyun",
+      "source": "GraphQL",
+      "response_index": 10
+    },
+    {
+      "ad_archive_id": "1217923100463699",
+      "page_name": "크로켓 : 전세계 커넥팅 쇼핑",
+      "source": "GraphQL",
+      "response_index": 10
+    },
+    {
+      "ad_archive_id": "4375369982709217",
+      "page_name": "대한민국 최초 슈즈 멀티샵 슈마커",
+      "source": "GraphQL",
+      "response_index": 10
+    },
+    {
+      "ad_archive_id": "1724971868083713",
+      "page_name": "Idol Prank Video Call & Chat",
+      "source": "GraphQL",
+      "response_index": 10
+    },
+    {
+      "ad_archive_id": "1359893278837678",
+      "page_name": "Lina",
+      "source": "GraphQL",
+      "response_index": 10
+    },
+    {
+      "ad_archive_id": "1447618636961412",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 10
+    },
+    {
+      "ad_archive_id": "1579218746625301",
+      "page_name": "크로켓 : 전세계 커넥팅 쇼핑",
+      "source": "GraphQL",
+      "response_index": 10
+    },
+    {
+      "ad_archive_id": "1228560075754104",
+      "page_name": "Betterthan",
+      "source": "GraphQL",
+      "response_index": 10
+    },
+    {
+      "ad_archive_id": "1488818352334497",
+      "page_name": "슈마커",
+      "source": "GraphQL",
+      "response_index": 10
+    },
+    {
+      "ad_archive_id": "1626123468553422",
+      "page_name": "My fashion blog Coyun",
+      "source": "GraphQL",
+      "response_index": 11
+    },
+    {
+      "ad_archive_id": "467666122769685",
+      "page_name": "SHARE X",
+      "source": "GraphQL",
+      "response_index": 11
+    },
+    {
+      "ad_archive_id": "1568598330956082",
+      "page_name": "Permanentbooks",
+      "source": "GraphQL",
+      "response_index": 11
+    },
+    {
+      "ad_archive_id": "2120914712011431",
+      "page_name": "롯데ON",
+      "source": "GraphQL",
+      "response_index": 11
+    },
+    {
+      "ad_archive_id": "1652161432804667",
+      "page_name": "deer_vtg",
+      "source": "GraphQL",
+      "response_index": 11
+    },
+    {
+      "ad_archive_id": "744262794843864",
+      "page_name": "My fashion blog Coyun",
+      "source": "GraphQL",
+      "response_index": 11
+    },
+    {
+      "ad_archive_id": "829718860102770",
+      "page_name": "여담",
+      "source": "GraphQL",
+      "response_index": 11
+    },
+    {
+      "ad_archive_id": "874036615371509",
+      "page_name": "socksworld.kr",
+      "source": "GraphQL",
+      "response_index": 11
+    },
+    {
+      "ad_archive_id": "2070228083753512",
+      "page_name": "fruitsfamily.co",
+      "source": "GraphQL",
+      "response_index": 11
+    },
+    {
+      "ad_archive_id": "1549532056339147",
+      "page_name": "Jewelzz Fashion Market",
+      "source": "GraphQL",
+      "response_index": 11
+    },
+    {
+      "ad_archive_id": "808360025554651",
+      "page_name": "홀리스패션",
+      "source": "GraphQL",
+      "response_index": 12
+    },
+    {
+      "ad_archive_id": "885608424430463",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 12
+    },
+    {
+      "ad_archive_id": "718106071118928",
+      "page_name": "Jewelzz Fashion Market",
+      "source": "GraphQL",
+      "response_index": 12
+    },
+    {
+      "ad_archive_id": "1412099660521557",
+      "page_name": "홀리스패션",
+      "source": "GraphQL",
+      "response_index": 12
+    },
+    {
+      "ad_archive_id": "1599365178176601",
+      "page_name": "투슬로스",
+      "source": "GraphQL",
+      "response_index": 12
+    },
+    {
+      "ad_archive_id": "1026081606166998",
+      "page_name": "Korea by sayuri",
+      "source": "GraphQL",
+      "response_index": 12
+    },
+    {
+      "ad_archive_id": "1191972269380610",
+      "page_name": "Korea by sayuri",
+      "source": "GraphQL",
+      "response_index": 12
+    },
+    {
+      "ad_archive_id": "729776456809642",
+      "page_name": "Lina",
+      "source": "GraphQL",
+      "response_index": 12
+    },
+    {
+      "ad_archive_id": "1215985633750122",
+      "page_name": "fruitsfamily.co",
+      "source": "GraphQL",
+      "response_index": 12
+    },
+    {
+      "ad_archive_id": "1428363828684071",
+      "page_name": "크로켓 : 전세계 커넥팅 쇼핑",
+      "source": "GraphQL",
+      "response_index": 13
+    },
+    {
+      "ad_archive_id": "1657590628557379",
+      "page_name": "Yemomile",
+      "source": "GraphQL",
+      "response_index": 13
+    },
+    {
+      "ad_archive_id": "977436457759940",
+      "page_name": "dr._kyu_",
+      "source": "GraphQL",
+      "response_index": 13
+    },
+    {
+      "ad_archive_id": "1567909524224453",
+      "page_name": "대한민국 최초 슈즈 멀티샵 슈마커",
+      "source": "GraphQL",
+      "response_index": 13
+    },
+    {
+      "ad_archive_id": "1678293433505970",
+      "page_name": "King Sport Store",
+      "source": "GraphQL",
+      "response_index": 13
+    },
+    {
+      "ad_archive_id": "1285349996490073",
+      "page_name": "artismsiso",
+      "source": "GraphQL",
+      "response_index": 13
+    },
+    {
+      "ad_archive_id": "2583337492037285",
+      "page_name": "vtg_onemoon",
+      "source": "GraphQL",
+      "response_index": 13
+    },
+    {
+      "ad_archive_id": "1433581245010576",
+      "page_name": "29CM",
+      "source": "GraphQL",
+      "response_index": 13
+    },
+    {
+      "ad_archive_id": "1546500530054793",
+      "page_name": "dr._kyu_",
+      "source": "GraphQL",
+      "response_index": 13
+    },
+    {
+      "ad_archive_id": "25841013072173126",
+      "page_name": "fruitsfamily.co",
+      "source": "GraphQL",
+      "response_index": 14
+    },
+    {
+      "ad_archive_id": "741744895614540",
+      "page_name": "Lórisḙḙp",
+      "source": "GraphQL",
+      "response_index": 14
+    },
+    {
+      "ad_archive_id": "743590928806759",
+      "page_name": "jbaeguen2",
+      "source": "GraphQL",
+      "response_index": 14
+    },
+    {
+      "ad_archive_id": "1333901418285754",
+      "page_name": "dr._kyu_",
+      "source": "GraphQL",
+      "response_index": 14
+    },
+    {
+      "ad_archive_id": "25575897338769820",
+      "page_name": "29CM",
+      "source": "GraphQL",
+      "response_index": 14
+    },
+    {
+      "ad_archive_id": "24193259916938140",
+      "page_name": "Korea by sayuri",
+      "source": "GraphQL",
+      "response_index": 14
+    },
+    {
+      "ad_archive_id": "1359459788840682",
+      "page_name": "Jewelzz Fashion Market",
+      "source": "GraphQL",
+      "response_index": 14
+    },
+    {
+      "ad_archive_id": "842065831864538",
+      "page_name": "fruitsfamily.co",
+      "source": "GraphQL",
+      "response_index": 14
+    },
+    {
+      "ad_archive_id": "25679576661708560",
+      "page_name": "dr._kyu_",
+      "source": "GraphQL",
+      "response_index": 14
+    },
+    {
+      "ad_archive_id": "1245969164133303",
+      "page_name": "tamnada_vtg",
+      "source": "GraphQL",
+      "response_index": 15
+    },
+    {
+      "ad_archive_id": "1603082540721893",
+      "page_name": "terter2_vintage",
+      "source": "GraphQL",
+      "response_index": 15
+    },
+    {
+      "ad_archive_id": "1425680355838006",
+      "page_name": "fruitsfamily.co",
+      "source": "GraphQL",
+      "response_index": 15
+    },
+    {
+      "ad_archive_id": "1388663082365351",
+      "page_name": "vintage.manju",
+      "source": "GraphQL",
+      "response_index": 15
+    },
+    {
+      "ad_archive_id": "1752148982125261",
+      "page_name": "fruitsfamily.co",
+      "source": "GraphQL",
+      "response_index": 15
+    },
+    {
+      "ad_archive_id": "25539645752314458",
+      "page_name": "fruitsfamily.co",
+      "source": "GraphQL",
+      "response_index": 15
+    },
+    {
+      "ad_archive_id": "1425753489336975",
+      "page_name": "앙꼬tico",
+      "source": "GraphQL",
+      "response_index": 15
+    },
+    {
+      "ad_archive_id": "1051885987098128",
+      "page_name": "socksworld.kr",
+      "source": "GraphQL",
+      "response_index": 15
+    },
+    {
+      "ad_archive_id": "1266661944886858",
+      "page_name": "Korea by sayuri",
+      "source": "GraphQL",
+      "response_index": 15
+    },
+    {
+      "ad_archive_id": "26032320999717458",
+      "page_name": "투슬로스",
+      "source": "GraphQL",
+      "response_index": 15
+    },
+    {
+      "ad_archive_id": "868761749308601",
+      "page_name": "댄블 - 3040 남성을 위한 맞춤 스타일, 사이즈 추천",
+      "source": "GraphQL",
+      "response_index": 16
+    },
+    {
+      "ad_archive_id": "1209831437719881",
+      "page_name": "Lina",
+      "source": "GraphQL",
+      "response_index": 16
+    },
+    {
+      "ad_archive_id": "715530124685383",
+      "page_name": "Hwatamin",
+      "source": "GraphQL",
+      "response_index": 16
+    },
+    {
+      "ad_archive_id": "1954707355462778",
+      "page_name": "시그니처라이브러리",
+      "source": "GraphQL",
+      "response_index": 16
+    },
+    {
+      "ad_archive_id": "26160750780186854",
+      "page_name": "29CM",
+      "source": "GraphQL",
+      "response_index": 16
+    },
+    {
+      "ad_archive_id": "1336390984089223",
+      "page_name": "서영",
+      "source": "GraphQL",
+      "response_index": 16
+    },
+    {
+      "ad_archive_id": "1222776152764367",
+      "page_name": "29CM",
+      "source": "GraphQL",
+      "response_index": 16
+    },
+    {
+      "ad_archive_id": "1549980636152174",
+      "page_name": "서영",
+      "source": "GraphQL",
+      "response_index": 16
+    },
+    {
+      "ad_archive_id": "2640848199649884",
+      "page_name": "fruitsfamily.co",
+      "source": "GraphQL",
+      "response_index": 16
+    },
+    {
+      "ad_archive_id": "1446899119887365",
+      "page_name": "슈마커",
+      "source": "GraphQL",
+      "response_index": 16
+    },
+    {
+      "ad_archive_id": "902477206055168",
+      "page_name": "29CM",
+      "source": "GraphQL",
+      "response_index": 17
+    },
+    {
+      "ad_archive_id": "2727225030968416",
+      "page_name": "투슬로스",
+      "source": "GraphQL",
+      "response_index": 17
+    },
+    {
+      "ad_archive_id": "900353902455341",
+      "page_name": "나인앤드 - 9AND",
+      "source": "GraphQL",
+      "response_index": 17
+    },
+    {
+      "ad_archive_id": "1213427260946928",
+      "page_name": "투슬로스",
+      "source": "GraphQL",
+      "response_index": 17
+    },
+    {
+      "ad_archive_id": "2776295465899724",
+      "page_name": "permanent_books",
+      "source": "GraphQL",
+      "response_index": 17
+    },
+    {
+      "ad_archive_id": "667847889683837",
+      "page_name": "발분석 SHOE FIT 플릿러너 Fleet Runner",
+      "source": "GraphQL",
+      "response_index": 17
+    },
+    {
+      "ad_archive_id": "870447782271375",
+      "page_name": "Joseph.kream Connected Page",
+      "source": "GraphQL",
+      "response_index": 17
+    },
+    {
+      "ad_archive_id": "1392610379276125",
+      "page_name": "투슬로스",
+      "source": "GraphQL",
+      "response_index": 17
+    },
+    {
+      "ad_archive_id": "1618384846011366",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 17
+    },
+    {
+      "ad_archive_id": "1678243723558348",
+      "page_name": "6032Corp.",
+      "source": "GraphQL",
+      "response_index": 17
+    },
+    {
+      "ad_archive_id": "630825719830793",
+      "page_name": "footballkits_kr",
+      "source": "GraphQL",
+      "response_index": 18
+    },
+    {
+      "ad_archive_id": "1546866479909971",
+      "page_name": "탐나다",
+      "source": "GraphQL",
+      "response_index": 18
+    },
+    {
+      "ad_archive_id": "26010696768549558",
+      "page_name": "Joseph.kream Connected Page",
+      "source": "GraphQL",
+      "response_index": 18
+    },
+    {
+      "ad_archive_id": "1422049482838900",
+      "page_name": "coolpoolthings",
+      "source": "GraphQL",
+      "response_index": 18
+    },
+    {
+      "ad_archive_id": "825977543588203",
+      "page_name": "콜로소 - Coloso",
+      "source": "GraphQL",
+      "response_index": 18
+    },
+    {
+      "ad_archive_id": "1500622298164104",
+      "page_name": "크로켓 : 전세계 커넥팅 쇼핑",
+      "source": "GraphQL",
+      "response_index": 18
+    },
+    {
+      "ad_archive_id": "1237504418010555",
+      "page_name": "artismsiso",
+      "source": "GraphQL",
+      "response_index": 18
+    },
+    {
+      "ad_archive_id": "1414627400075598",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 18
+    },
+    {
+      "ad_archive_id": "910899508074802",
+      "page_name": "29CM",
+      "source": "GraphQL",
+      "response_index": 19
+    },
+    {
+      "ad_archive_id": "1533718687848500",
+      "page_name": "Betterthan",
+      "source": "GraphQL",
+      "response_index": 19
+    },
+    {
+      "ad_archive_id": "4059183867658291",
+      "page_name": "Idol Prank Video Call & Chat",
+      "source": "GraphQL",
+      "response_index": 19
+    },
+    {
+      "ad_archive_id": "2291217414718830",
+      "page_name": "29CM",
+      "source": "GraphQL",
+      "response_index": 19
+    },
+    {
+      "ad_archive_id": "1246025297628696",
+      "page_name": "Hanasi Vintage",
+      "source": "GraphQL",
+      "response_index": 19
+    },
+    {
+      "ad_archive_id": "970506549477776",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 19
+    },
+    {
+      "ad_archive_id": "1607348673609296",
+      "page_name": "대한민국 최초 슈즈 멀티샵 슈마커",
+      "source": "GraphQL",
+      "response_index": 19
+    },
+    {
+      "ad_archive_id": "1867614637214326",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 19
+    },
+    {
+      "ad_archive_id": "1280131150808133",
+      "page_name": "Custom94",
+      "source": "GraphQL",
+      "response_index": 19
+    },
+    {
+      "ad_archive_id": "1528330464893235",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 19
+    },
+    {
+      "ad_archive_id": "1426224412498203",
+      "page_name": "0z_vintage",
+      "source": "GraphQL",
+      "response_index": 20
+    },
+    {
+      "ad_archive_id": "1307617161395920",
+      "page_name": "haveagoodtrip_official",
+      "source": "GraphQL",
+      "response_index": 20
+    },
+    {
+      "ad_archive_id": "3920236361605833",
+      "page_name": "29CM",
+      "source": "GraphQL",
+      "response_index": 20
+    },
+    {
+      "ad_archive_id": "862396316709530",
+      "page_name": "룩핀",
+      "source": "GraphQL",
+      "response_index": 20
+    },
+    {
+      "ad_archive_id": "4476135542710824",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 20
+    },
+    {
+      "ad_archive_id": "1451326277003299",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 20
+    },
+    {
+      "ad_archive_id": "25365139653168663",
+      "page_name": "bexpert_store",
+      "source": "GraphQL",
+      "response_index": 20
+    },
+    {
+      "ad_archive_id": "2876594219204671",
+      "page_name": "4910",
+      "source": "GraphQL",
+      "response_index": 20
+    },
+    {
+      "ad_archive_id": "1098234518397542",
+      "page_name": "슈마커",
+      "source": "GraphQL",
+      "response_index": 20
+    },
+    {
+      "ad_archive_id": "3852377655064223",
+      "page_name": "에브리유니즈 학생복지스토어",
+      "source": "GraphQL",
+      "response_index": 21
+    },
+    {
+      "ad_archive_id": "891471016667159",
+      "page_name": "PAP Magazine",
+      "source": "GraphQL",
+      "response_index": 21
+    },
+    {
+      "ad_archive_id": "2930037213862273",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 21
+    },
+    {
+      "ad_archive_id": "1508020506966664",
+      "page_name": "블랙콕",
+      "source": "GraphQL",
+      "response_index": 21
+    },
+    {
+      "ad_archive_id": "4245524729111718",
+      "page_name": "롯데ON",
+      "source": "GraphQL",
+      "response_index": 21
+    },
+    {
+      "ad_archive_id": "910111054963494",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 21
+    },
+    {
+      "ad_archive_id": "833408452517146",
+      "page_name": "Top Heroes",
+      "source": "GraphQL",
+      "response_index": 21
+    },
+    {
+      "ad_archive_id": "1215975753401210",
+      "page_name": "Jewelzz Fashion Market",
+      "source": "GraphQL",
+      "response_index": 21
+    },
+    {
+      "ad_archive_id": "26143563751904192",
+      "page_name": "Cr8tour",
+      "source": "GraphQL",
+      "response_index": 21
+    },
+    {
+      "ad_archive_id": "893041233093929",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 21
+    },
+    {
+      "ad_archive_id": "2589473188113048",
+      "page_name": "Fvaad",
+      "source": "GraphQL",
+      "response_index": 22
+    },
+    {
+      "ad_archive_id": "1379394103505824",
+      "page_name": "Racement",
+      "source": "GraphQL",
+      "response_index": 22
+    },
+    {
+      "ad_archive_id": "1053553640303911",
+      "page_name": "performancelab_kr",
+      "source": "GraphQL",
+      "response_index": 22
+    },
+    {
+      "ad_archive_id": "914575651132003",
+      "page_name": "Racement",
+      "source": "GraphQL",
+      "response_index": 22
+    },
+    {
+      "ad_archive_id": "1542883256768291",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 22
+    },
+    {
+      "ad_archive_id": "1202399164531563",
+      "page_name": "Idol Prank Video Call & Chat",
+      "source": "GraphQL",
+      "response_index": 22
+    },
+    {
+      "ad_archive_id": "684610107926690",
+      "page_name": "슈마커",
+      "source": "GraphQL",
+      "response_index": 22
+    },
+    {
+      "ad_archive_id": "833216653052559",
+      "page_name": "크로켓 : 전세계 커넥팅 쇼핑",
+      "source": "GraphQL",
+      "response_index": 22
+    },
+    {
+      "ad_archive_id": "695186940038752",
+      "page_name": "Idol Prank Video Call & Chat",
+      "source": "GraphQL",
+      "response_index": 22
+    },
+    {
+      "ad_archive_id": "739887102190483",
+      "page_name": "29CM",
+      "source": "GraphQL",
+      "response_index": 23
+    },
+    {
+      "ad_archive_id": "824812510594306",
+      "page_name": "스위밍 애니멀즈",
+      "source": "GraphQL",
+      "response_index": 23
+    },
+    {
+      "ad_archive_id": "1205684374550955",
+      "page_name": "Losingmycake Vintage",
+      "source": "GraphQL",
+      "response_index": 23
+    },
+    {
+      "ad_archive_id": "1823307461734397",
+      "page_name": "입력 중 .",
+      "source": "GraphQL",
+      "response_index": 23
+    },
+    {
+      "ad_archive_id": "1459483429076630",
+      "page_name": "대한민국 최초 슈즈 멀티샵 슈마커",
+      "source": "GraphQL",
+      "response_index": 23
+    },
+    {
+      "ad_archive_id": "1405015204492802",
+      "page_name": "아여리네 A 10,2ne",
+      "source": "GraphQL",
+      "response_index": 23
+    },
+    {
+      "ad_archive_id": "911128331259265",
+      "page_name": "인사이트잡스",
+      "source": "GraphQL",
+      "response_index": 23
+    },
+    {
+      "ad_archive_id": "1269152675083996",
+      "page_name": "삭스유스",
+      "source": "GraphQL",
+      "response_index": 23
+    },
+    {
+      "ad_archive_id": "1461763535692536",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 23
+    },
+    {
+      "ad_archive_id": "1663139147986673",
+      "page_name": "sportainers",
+      "source": "GraphQL",
+      "response_index": 24
+    },
+    {
+      "ad_archive_id": "1614696855875120",
+      "page_name": "Smart Mobile Apps",
+      "source": "GraphQL",
+      "response_index": 24
+    },
+    {
+      "ad_archive_id": "1176041294324322",
+      "page_name": "반스타92",
+      "source": "GraphQL",
+      "response_index": 24
+    },
+    {
+      "ad_archive_id": "1256747713175830",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 24
+    },
+    {
+      "ad_archive_id": "1560581718515424",
+      "page_name": "Fvaad",
+      "source": "GraphQL",
+      "response_index": 24
+    },
+    {
+      "ad_archive_id": "898492505926330",
+      "page_name": "대한민국 최초 슈즈 멀티샵 슈마커",
+      "source": "GraphQL",
+      "response_index": 24
+    },
+    {
+      "ad_archive_id": "2305986599880841",
+      "page_name": "BrandBigMall",
+      "source": "GraphQL",
+      "response_index": 24
+    },
+    {
+      "ad_archive_id": "1449419342734838",
+      "page_name": "Peryvintage",
+      "source": "GraphQL",
+      "response_index": 24
+    },
+    {
+      "ad_archive_id": "1471645014340540",
+      "page_name": "KREAM",
+      "source": "GraphQL",
+      "response_index": 24
+    },
+    {
+      "ad_archive_id": "675255125519684",
+      "page_name": "fruitsfamily.co",
+      "source": "GraphQL",
+      "response_index": 25
+    },
+    {
+      "ad_archive_id": "947219571310530",
+      "page_name": "인사이트잡스",
+      "source": "GraphQL",
+      "response_index": 25
+    },
+    {
+      "ad_archive_id": "862993509797429",
+      "page_name": "Yemomile",
+      "source": "GraphQL",
+      "response_index": 25
+    },
+    {
+      "ad_archive_id": "1829488894454762",
+      "page_name": "Obscure.paper",
+      "source": "GraphQL",
+      "response_index": 25
+    },
+    {
+      "ad_archive_id": "1271335037298965",
+      "page_name": "Idol Prank Video Call & Chat",
+      "source": "GraphQL",
+      "response_index": 25
+    },
+    {
+      "ad_archive_id": "2347217005754159",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 25
+    },
+    {
+      "ad_archive_id": "2144954842774835",
+      "page_name": "Mottoso",
+      "source": "GraphQL",
+      "response_index": 25
+    },
+    {
+      "ad_archive_id": "1463316005392675",
+      "page_name": "현백디큐브광고",
+      "source": "GraphQL",
+      "response_index": 25
+    },
+    {
+      "ad_archive_id": "814792301622489",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 25
+    },
+    {
+      "ad_archive_id": "1602065494446152",
+      "page_name": "빈티지아름",
+      "source": "GraphQL",
+      "response_index": 26
+    },
+    {
+      "ad_archive_id": "2015121342768852",
+      "page_name": "블랙콕",
+      "source": "GraphQL",
+      "response_index": 26
+    },
+    {
+      "ad_archive_id": "1625804485076126",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 26
+    },
+    {
+      "ad_archive_id": "2320418441806366",
+      "page_name": "Lina",
+      "source": "GraphQL",
+      "response_index": 26
+    },
+    {
+      "ad_archive_id": "1418791659946097",
+      "page_name": "빈티지컬렉션",
+      "source": "GraphQL",
+      "response_index": 26
+    },
+    {
+      "ad_archive_id": "1861718711370680",
+      "page_name": "훗타운",
+      "source": "GraphQL",
+      "response_index": 26
+    },
+    {
+      "ad_archive_id": "1441373540697072",
+      "page_name": "대한민국 최초 슈즈 멀티샵 슈마커",
+      "source": "GraphQL",
+      "response_index": 26
+    },
+    {
+      "ad_archive_id": "4031352237133919",
+      "page_name": "cuns.archive",
+      "source": "GraphQL",
+      "response_index": 26
+    },
+    {
+      "ad_archive_id": "1404366131267795",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 26
+    },
+    {
+      "ad_archive_id": "939820648706834",
+      "page_name": "필름어스",
+      "source": "GraphQL",
+      "response_index": 26
+    },
+    {
+      "ad_archive_id": "1606896550630534",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 27
+    },
+    {
+      "ad_archive_id": "1963930101022238",
+      "page_name": "Best App 2025",
+      "source": "GraphQL",
+      "response_index": 27
+    },
+    {
+      "ad_archive_id": "1422499506126870",
+      "page_name": "29CM",
+      "source": "GraphQL",
+      "response_index": 27
+    },
+    {
+      "ad_archive_id": "927963183093015",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 27
+    },
+    {
+      "ad_archive_id": "610518751869916",
+      "page_name": "슈마커",
+      "source": "GraphQL",
+      "response_index": 27
+    },
+    {
+      "ad_archive_id": "829577606606389",
+      "page_name": "xeslow",
+      "source": "GraphQL",
+      "response_index": 27
+    },
+    {
+      "ad_archive_id": "785682844562774",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 27
+    },
+    {
+      "ad_archive_id": "902112358852245",
+      "page_name": "대한민국 최초 슈즈 멀티샵 슈마커",
+      "source": "GraphQL",
+      "response_index": 27
+    },
+    {
+      "ad_archive_id": "1685619822409728",
+      "page_name": "대한민국 최초 슈즈 멀티샵 슈마커",
+      "source": "GraphQL",
+      "response_index": 27
+    },
+    {
+      "ad_archive_id": "1598137294831184",
+      "page_name": "대한민국 최초 슈즈 멀티샵 슈마커",
+      "source": "GraphQL",
+      "response_index": 28
+    },
+    {
+      "ad_archive_id": "1245368957539493",
+      "page_name": "대한민국 최초 슈즈 멀티샵 슈마커",
+      "source": "GraphQL",
+      "response_index": 28
+    },
+    {
+      "ad_archive_id": "1443684830739778",
+      "page_name": "데일리 패션 레슬",
+      "source": "GraphQL",
+      "response_index": 28
+    },
+    {
+      "ad_archive_id": "1551954402701089",
+      "page_name": "Fvaad",
+      "source": "GraphQL",
+      "response_index": 28
+    },
+    {
+      "ad_archive_id": "1797398210958768",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 28
+    },
+    {
+      "ad_archive_id": "2036883670405096",
+      "page_name": "fruitsfamily.co",
+      "source": "GraphQL",
+      "response_index": 28
+    },
+    {
+      "ad_archive_id": "1042959427653570",
+      "page_name": "슈마커",
+      "source": "GraphQL",
+      "response_index": 28
+    },
+    {
+      "ad_archive_id": "1949682062616465",
+      "page_name": "KREAM",
+      "source": "GraphQL",
+      "response_index": 28
+    },
+    {
+      "ad_archive_id": "2360627937693540",
+      "page_name": "performancelab_kr",
+      "source": "GraphQL",
+      "response_index": 28
+    },
+    {
+      "ad_archive_id": "1265503512272736",
+      "page_name": "Yemomile",
+      "source": "GraphQL",
+      "response_index": 29
+    },
+    {
+      "ad_archive_id": "2022335761659532",
+      "page_name": "performancelab_kr",
+      "source": "GraphQL",
+      "response_index": 29
+    },
+    {
+      "ad_archive_id": "2139989033470503",
+      "page_name": "29CM",
+      "source": "GraphQL",
+      "response_index": 29
+    },
+    {
+      "ad_archive_id": "1756257949466867",
+      "page_name": "hippo88__",
+      "source": "GraphQL",
+      "response_index": 29
+    },
+    {
+      "ad_archive_id": "1995249267707979",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 29
+    },
+    {
+      "ad_archive_id": "1253335243376000",
+      "page_name": "Racement",
+      "source": "GraphQL",
+      "response_index": 29
+    },
+    {
+      "ad_archive_id": "927341293190912",
+      "page_name": "더아놉",
+      "source": "GraphQL",
+      "response_index": 29
+    },
+    {
+      "ad_archive_id": "1380929876329152",
+      "page_name": "cuns.archive",
+      "source": "GraphQL",
+      "response_index": 29
+    },
+    {
+      "ad_archive_id": "1219065696373256",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 29
+    },
+    {
+      "ad_archive_id": "1562632275022276",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 30
+    },
+    {
+      "ad_archive_id": "1627776128390669",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 30
+    },
+    {
+      "ad_archive_id": "1468124688001676",
+      "page_name": "vintage.manju",
+      "source": "GraphQL",
+      "response_index": 30
+    },
+    {
+      "ad_archive_id": "753068614509214",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 30
+    },
+    {
+      "ad_archive_id": "1435623834924933",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 30
+    },
+    {
+      "ad_archive_id": "1424387303020020",
+      "page_name": "fruitsfamily.co",
+      "source": "GraphQL",
+      "response_index": 30
+    },
+    {
+      "ad_archive_id": "26021486107446504",
+      "page_name": "Notefolio l 노트폴리오",
+      "source": "GraphQL",
+      "response_index": 30
+    },
+    {
+      "ad_archive_id": "2984269475098891",
+      "page_name": "젠마켓 - ZenMarket: 글로벌 No.1 일본 구매 서비스",
+      "source": "GraphQL",
+      "response_index": 30
+    },
+    {
+      "ad_archive_id": "2103117403561111",
+      "page_name": "Racement",
+      "source": "GraphQL",
+      "response_index": 30
+    },
+    {
+      "ad_archive_id": "24028227120188577",
+      "page_name": "4910",
+      "source": "GraphQL",
+      "response_index": 30
+    },
+    {
+      "ad_archive_id": "1410666197187868",
+      "page_name": "대한민국 최초 슈즈 멀티샵 슈마커",
+      "source": "GraphQL",
+      "response_index": 31
+    },
+    {
+      "ad_archive_id": "1185664117055669",
+      "page_name": "룩핀",
+      "source": "GraphQL",
+      "response_index": 31
+    },
+    {
+      "ad_archive_id": "1418915002952974",
+      "page_name": "인사이트잡스",
+      "source": "GraphQL",
+      "response_index": 31
+    },
+    {
+      "ad_archive_id": "1389554046249298",
+      "page_name": "Yemomile",
+      "source": "GraphQL",
+      "response_index": 31
+    },
+    {
+      "ad_archive_id": "1889900834960044",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 31
+    },
+    {
+      "ad_archive_id": "1017574826898432",
+      "page_name": "Idol Prank Video Call & Chat",
+      "source": "GraphQL",
+      "response_index": 31
+    },
+    {
+      "ad_archive_id": "1582066936467885",
+      "page_name": "크로켓 : 전세계 커넥팅 쇼핑",
+      "source": "GraphQL",
+      "response_index": 31
+    },
+    {
+      "ad_archive_id": "1219213543381545",
+      "page_name": "Lina",
+      "source": "GraphQL",
+      "response_index": 31
+    },
+    {
+      "ad_archive_id": "1952899982316050",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 31
+    },
+    {
+      "ad_archive_id": "921084257543331",
+      "page_name": "앙꼬tico",
+      "source": "GraphQL",
+      "response_index": 31
+    },
+    {
+      "ad_archive_id": "799414553153278",
+      "page_name": "Dương Tuấn Tú",
+      "source": "GraphQL",
+      "response_index": 32
+    },
+    {
+      "ad_archive_id": "1353271459934806",
+      "page_name": "룩핀",
+      "source": "GraphQL",
+      "response_index": 32
+    },
+    {
+      "ad_archive_id": "839081555832921",
+      "page_name": "Yemomile",
+      "source": "GraphQL",
+      "response_index": 32
+    },
+    {
+      "ad_archive_id": "1491057079042047",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 32
+    },
+    {
+      "ad_archive_id": "4257411111203410",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 32
+    },
+    {
+      "ad_archive_id": "765934955861140",
+      "page_name": "WonderGame - Review Game",
+      "source": "GraphQL",
+      "response_index": 32
+    },
+    {
+      "ad_archive_id": "898890159749500",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 32
+    },
+    {
+      "ad_archive_id": "1494061012282464",
+      "page_name": "draw__vintage",
+      "source": "GraphQL",
+      "response_index": 32
+    },
+    {
+      "ad_archive_id": "2087345478744714",
+      "page_name": "룩핀",
+      "source": "GraphQL",
+      "response_index": 32
+    },
+    {
+      "ad_archive_id": "879225734493420",
+      "page_name": "내일 뭐 신지?",
+      "source": "GraphQL",
+      "response_index": 33
+    },
+    {
+      "ad_archive_id": "1974186913311656",
+      "page_name": "Notefolio l 노트폴리오",
+      "source": "GraphQL",
+      "response_index": 33
+    },
+    {
+      "ad_archive_id": "1950350429104434",
+      "page_name": "PAP KOREA",
+      "source": "GraphQL",
+      "response_index": 33
+    },
+    {
+      "ad_archive_id": "1638650510880672",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 33
+    },
+    {
+      "ad_archive_id": "905130732056818",
+      "page_name": "무신사",
+      "source": "GraphQL",
+      "response_index": 33
+    },
+    {
+      "ad_archive_id": "831615973205625",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 33
+    },
+    {
+      "ad_archive_id": "1456545149146254",
+      "page_name": "Racement",
+      "source": "GraphQL",
+      "response_index": 33
+    },
+    {
+      "ad_archive_id": "4305385479780616",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 33
+    },
+    {
+      "ad_archive_id": "1972801420113717",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 33
+    },
+    {
+      "ad_archive_id": "886121334389521",
+      "page_name": "대한민국 최초 슈즈 멀티샵 슈마커",
+      "source": "GraphQL",
+      "response_index": 33
+    },
+    {
+      "ad_archive_id": "1424437799237961",
+      "page_name": "앙꼬tico",
+      "source": "GraphQL",
+      "response_index": 34
+    },
+    {
+      "ad_archive_id": "1379301110140103",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 34
+    },
+    {
+      "ad_archive_id": "4226101214272277",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 34
+    },
+    {
+      "ad_archive_id": "1663006428021231",
+      "page_name": "인사이트잡스",
+      "source": "GraphQL",
+      "response_index": 34
+    },
+    {
+      "ad_archive_id": "1187110856922753",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 34
+    },
+    {
+      "ad_archive_id": "863935556447407",
+      "page_name": "룩핀",
+      "source": "GraphQL",
+      "response_index": 34
+    },
+    {
+      "ad_archive_id": "1436574114523735",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 34
+    },
+    {
+      "ad_archive_id": "4250629988537255",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 34
+    },
+    {
+      "ad_archive_id": "772324515337873",
+      "page_name": "KREAM",
+      "source": "GraphQL",
+      "response_index": 34
+    },
+    {
+      "ad_archive_id": "1444496667319817",
+      "page_name": "카페 모먼트인 : 당신의 특별한 순간",
+      "source": "GraphQL",
+      "response_index": 34
+    },
+    {
+      "ad_archive_id": "2074693349971692",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 35
+    },
+    {
+      "ad_archive_id": "2376507532762807",
+      "page_name": "에브리유니즈 학생복지스토어",
+      "source": "GraphQL",
+      "response_index": 35
+    },
+    {
+      "ad_archive_id": "25985864227673769",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 35
+    },
+    {
+      "ad_archive_id": "1220916756681793",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 35
+    },
+    {
+      "ad_archive_id": "2325742237910606",
+      "page_name": "collectwithme_",
+      "source": "GraphQL",
+      "response_index": 35
+    },
+    {
+      "ad_archive_id": "5010320629199327",
+      "page_name": "Yemomile",
+      "source": "GraphQL",
+      "response_index": 35
+    },
+    {
+      "ad_archive_id": "569976942827780",
+      "page_name": "snymall11",
+      "source": "GraphQL",
+      "response_index": 35
+    },
+    {
+      "ad_archive_id": "762916626195759",
+      "page_name": "snymall11",
+      "source": "GraphQL",
+      "response_index": 35
+    },
+    {
+      "ad_archive_id": "1186643163115726",
+      "page_name": "Smart Mobile Apps",
+      "source": "GraphQL",
+      "response_index": 35
+    },
+    {
+      "ad_archive_id": "887552310799458",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 36
+    },
+    {
+      "ad_archive_id": "1604894130933812",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 36
+    },
+    {
+      "ad_archive_id": "1216365286802736",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 36
+    },
+    {
+      "ad_archive_id": "668215662982488",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 36
+    },
+    {
+      "ad_archive_id": "1257357229605499",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 36
+    },
+    {
+      "ad_archive_id": "788150204068160",
+      "page_name": "Top Heroes",
+      "source": "GraphQL",
+      "response_index": 36
+    },
+    {
+      "ad_archive_id": "1662174841810074",
+      "page_name": "29CM",
+      "source": "GraphQL",
+      "response_index": 36
+    },
+    {
+      "ad_archive_id": "25350197328009009",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 36
+    },
+    {
+      "ad_archive_id": "1064961332453141",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 36
+    },
+    {
+      "ad_archive_id": "1594695591539629",
+      "page_name": "DRAMA ZIP",
+      "source": "GraphQL",
+      "response_index": 37
+    },
+    {
+      "ad_archive_id": "1470164781067030",
+      "page_name": "슈마커",
+      "source": "GraphQL",
+      "response_index": 37
+    },
+    {
+      "ad_archive_id": "1300675185420397",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 37
+    },
+    {
+      "ad_archive_id": "1258463539478348",
+      "page_name": "댄블 - 3040 남성을 위한 맞춤 스타일, 사이즈 추천",
+      "source": "GraphQL",
+      "response_index": 37
+    },
+    {
+      "ad_archive_id": "1995247091388436",
+      "page_name": "29CM",
+      "source": "GraphQL",
+      "response_index": 37
+    },
+    {
+      "ad_archive_id": "1414827253762403",
+      "page_name": "DramaBox- drama movies99",
+      "source": "GraphQL",
+      "response_index": 37
+    },
+    {
+      "ad_archive_id": "2297875284018466",
+      "page_name": "전·돈·부",
+      "source": "GraphQL",
+      "response_index": 37
+    },
+    {
+      "ad_archive_id": "4364983547113215",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 37
+    },
+    {
+      "ad_archive_id": "25777011041911660",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 37
+    },
+    {
+      "ad_archive_id": "1666127038082369",
+      "page_name": "인사이트잡스",
+      "source": "GraphQL",
+      "response_index": 37
+    },
+    {
+      "ad_archive_id": "738970285734048",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 38
+    },
+    {
+      "ad_archive_id": "1430313934727433",
+      "page_name": "슈마커",
+      "source": "GraphQL",
+      "response_index": 38
+    },
+    {
+      "ad_archive_id": "2515453782273259",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 38
+    },
+    {
+      "ad_archive_id": "885829141037163",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 38
+    },
+    {
+      "ad_archive_id": "1366590528351400",
+      "page_name": "Lina",
+      "source": "GraphQL",
+      "response_index": 38
+    },
+    {
+      "ad_archive_id": "3147172348786129",
+      "page_name": "앙꼬tico",
+      "source": "GraphQL",
+      "response_index": 38
+    },
+    {
+      "ad_archive_id": "1323882699755171",
+      "page_name": "삭스유스",
+      "source": "GraphQL",
+      "response_index": 38
+    },
+    {
+      "ad_archive_id": "2226061324588467",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 38
+    },
+    {
+      "ad_archive_id": "649019897974809",
+      "page_name": "Smart Mobile Apps",
+      "source": "GraphQL",
+      "response_index": 38
+    },
+    {
+      "ad_archive_id": "25725372910454970",
+      "page_name": "Notefolio l 노트폴리오",
+      "source": "GraphQL",
+      "response_index": 39
+    },
+    {
+      "ad_archive_id": "1424748406043000",
+      "page_name": "DramaBox- drama movies99",
+      "source": "GraphQL",
+      "response_index": 39
+    },
+    {
+      "ad_archive_id": "930435612747197",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 39
+    },
+    {
+      "ad_archive_id": "1086038933324901",
+      "page_name": "콜렉티브",
+      "source": "GraphQL",
+      "response_index": 39
+    },
+    {
+      "ad_archive_id": "861395533398920",
+      "page_name": "Bata_vintage",
+      "source": "GraphQL",
+      "response_index": 39
+    },
+    {
+      "ad_archive_id": "879031671759152",
+      "page_name": "Yemomile",
+      "source": "GraphQL",
+      "response_index": 39
+    },
+    {
+      "ad_archive_id": "870658978927187",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 39
+    },
+    {
+      "ad_archive_id": "26417248301193444",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 39
+    },
+    {
+      "ad_archive_id": "3602114326590578",
+      "page_name": "슈마커",
+      "source": "GraphQL",
+      "response_index": 39
+    },
+    {
+      "ad_archive_id": "33985292477728826",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 39
+    },
+    {
+      "ad_archive_id": "1443088650681855",
+      "page_name": "스포티라인",
+      "source": "GraphQL",
+      "response_index": 40
+    },
+    {
+      "ad_archive_id": "1421960906001002",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 40
+    },
+    {
+      "ad_archive_id": "3943129682652041",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 40
+    },
+    {
+      "ad_archive_id": "1196167605380764",
+      "page_name": "LeapAhead-15min summary",
+      "source": "GraphQL",
+      "response_index": 40
+    },
+    {
+      "ad_archive_id": "1454495656192094",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 40
+    },
+    {
+      "ad_archive_id": "1620503489105171",
+      "page_name": "DramaBox- drama movies8",
+      "source": "GraphQL",
+      "response_index": 40
+    },
+    {
+      "ad_archive_id": "2620215845031604",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 40
+    },
+    {
+      "ad_archive_id": "858640980335353",
+      "page_name": "RPG 대작",
+      "source": "GraphQL",
+      "response_index": 40
+    },
+    {
+      "ad_archive_id": "1082803207158663",
+      "page_name": "Lina",
+      "source": "GraphQL",
+      "response_index": 40
+    },
+    {
+      "ad_archive_id": "1413377420279231",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 41
+    },
+    {
+      "ad_archive_id": "917281300873271",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 41
+    },
+    {
+      "ad_archive_id": "797716042627508",
+      "page_name": "Longueira Youngsavage Romano",
+      "source": "GraphQL",
+      "response_index": 41
+    },
+    {
+      "ad_archive_id": "1223955955976834",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 41
+    },
+    {
+      "ad_archive_id": "1545321986809904",
+      "page_name": "Lina",
+      "source": "GraphQL",
+      "response_index": 41
+    },
+    {
+      "ad_archive_id": "1615336242924616",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 41
+    },
+    {
+      "ad_archive_id": "870529969189577",
+      "page_name": "Mottoso",
+      "source": "GraphQL",
+      "response_index": 41
+    },
+    {
+      "ad_archive_id": "896698679749263",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 41
+    },
+    {
+      "ad_archive_id": "709310758786688",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 41
+    },
+    {
+      "ad_archive_id": "2364099497366985",
+      "page_name": "슈마커",
+      "source": "GraphQL",
+      "response_index": 41
+    },
+    {
+      "ad_archive_id": "1608973093881779",
+      "page_name": "FlareFlowwww-i",
+      "source": "GraphQL",
+      "response_index": 42
+    },
+    {
+      "ad_archive_id": "2908882222639519",
+      "page_name": "김도현 뉴미디어 영어",
+      "source": "GraphQL",
+      "response_index": 42
+    },
+    {
+      "ad_archive_id": "1557995728839518",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 42
+    },
+    {
+      "ad_archive_id": "1458065789068395",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 42
+    },
+    {
+      "ad_archive_id": "1534306577817156",
+      "page_name": "Custom94",
+      "source": "GraphQL",
+      "response_index": 42
+    },
+    {
+      "ad_archive_id": "786016930894085",
+      "page_name": "4910",
+      "source": "GraphQL",
+      "response_index": 42
+    },
+    {
+      "ad_archive_id": "1449659230124646",
+      "page_name": "Racement",
+      "source": "GraphQL",
+      "response_index": 42
+    },
+    {
+      "ad_archive_id": "1662033641845416",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 42
+    },
+    {
+      "ad_archive_id": "904358669224769",
+      "page_name": "댄블 - 3040 남성을 위한 맞춤 스타일, 사이즈 추천",
+      "source": "GraphQL",
+      "response_index": 42
+    },
+    {
+      "ad_archive_id": "4228792817342593",
+      "page_name": "인사이트잡스",
+      "source": "GraphQL",
+      "response_index": 42
+    },
+    {
+      "ad_archive_id": "884354567915289",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 43
+    },
+    {
+      "ad_archive_id": "4294444370767127",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 43
+    },
+    {
+      "ad_archive_id": "869970155951204",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 43
+    },
+    {
+      "ad_archive_id": "763642513278426",
+      "page_name": "슈마커",
+      "source": "GraphQL",
+      "response_index": 43
+    },
+    {
+      "ad_archive_id": "4348773378778384",
+      "page_name": "올댓부츠",
+      "source": "GraphQL",
+      "response_index": 43
+    },
+    {
+      "ad_archive_id": "867351409497410",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 43
+    },
+    {
+      "ad_archive_id": "1436663551516064",
+      "page_name": "크로켓 : 전세계 커넥팅 쇼핑",
+      "source": "GraphQL",
+      "response_index": 43
+    },
+    {
+      "ad_archive_id": "1585961689265495",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 43
+    },
+    {
+      "ad_archive_id": "742563068930071",
+      "page_name": "댄블 - 3040 남성을 위한 맞춤 스타일, 사이즈 추천",
+      "source": "GraphQL",
+      "response_index": 43
+    },
+    {
+      "ad_archive_id": "2372600666535075",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 44
+    },
+    {
+      "ad_archive_id": "1627913544864138",
+      "page_name": "FlareFlow-Stream Short Drama3",
+      "source": "GraphQL",
+      "response_index": 44
+    },
+    {
+      "ad_archive_id": "1379777350056266",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 44
+    },
+    {
+      "ad_archive_id": "624854530654882",
+      "page_name": "Lina",
+      "source": "GraphQL",
+      "response_index": 44
+    },
+    {
+      "ad_archive_id": "884586114294918",
+      "page_name": "댄블 - 3040 남성을 위한 맞춤 스타일, 사이즈 추천",
+      "source": "GraphQL",
+      "response_index": 44
+    },
+    {
+      "ad_archive_id": "731523486451866",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 44
+    },
+    {
+      "ad_archive_id": "922951020290043",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 44
+    },
+    {
+      "ad_archive_id": "1198598892254430",
+      "page_name": "댄블 - 3040 남성을 위한 맞춤 스타일, 사이즈 추천",
+      "source": "GraphQL",
+      "response_index": 44
+    },
+    {
+      "ad_archive_id": "2460713144393950",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 44
+    },
+    {
+      "ad_archive_id": "2336619673516341",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 44
+    },
+    {
+      "ad_archive_id": "1065405292433977",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 45
+    },
+    {
+      "ad_archive_id": "897605939532299",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 45
+    },
+    {
+      "ad_archive_id": "1285323430091728",
+      "page_name": "인사이트잡스",
+      "source": "GraphQL",
+      "response_index": 45
+    },
+    {
+      "ad_archive_id": "1241306351249856",
+      "page_name": "Custom94",
+      "source": "GraphQL",
+      "response_index": 45
+    },
+    {
+      "ad_archive_id": "867296182737488",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 45
+    },
+    {
+      "ad_archive_id": "759840540505023",
+      "page_name": "댄블 - 3040 남성을 위한 맞춤 스타일, 사이즈 추천",
+      "source": "GraphQL",
+      "response_index": 45
+    },
+    {
+      "ad_archive_id": "2127161324695737",
+      "page_name": "댄블 - 3040 남성을 위한 맞춤 스타일, 사이즈 추천",
+      "source": "GraphQL",
+      "response_index": 45
+    },
+    {
+      "ad_archive_id": "1395191635693404",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 45
+    },
+    {
+      "ad_archive_id": "2005507996690929",
+      "page_name": "댄블 - 3040 남성을 위한 맞춤 스타일, 사이즈 추천",
+      "source": "GraphQL",
+      "response_index": 45
+    },
+    {
+      "ad_archive_id": "1138508254886216",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 45
+    },
+    {
+      "ad_archive_id": "1608611487009791",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 46
+    },
+    {
+      "ad_archive_id": "877844724993005",
+      "page_name": "댄블 - 3040 남성을 위한 맞춤 스타일, 사이즈 추천",
+      "source": "GraphQL",
+      "response_index": 46
+    },
+    {
+      "ad_archive_id": "1578480856755625",
+      "page_name": "크로켓 : 전세계 커넥팅 쇼핑",
+      "source": "GraphQL",
+      "response_index": 46
+    },
+    {
+      "ad_archive_id": "1330936765742342",
+      "page_name": "크로켓 : 전세계 커넥팅 쇼핑",
+      "source": "GraphQL",
+      "response_index": 46
+    },
+    {
+      "ad_archive_id": "1477313167285925",
+      "page_name": "댄블 - 3040 남성을 위한 맞춤 스타일, 사이즈 추천",
+      "source": "GraphQL",
+      "response_index": 46
+    },
+    {
+      "ad_archive_id": "1581681336289365",
+      "page_name": "29CM",
+      "source": "GraphQL",
+      "response_index": 46
+    },
+    {
+      "ad_archive_id": "2441271999663330",
+      "page_name": "29CM",
+      "source": "GraphQL",
+      "response_index": 46
+    },
+    {
+      "ad_archive_id": "1229000578565377",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 46
+    },
+    {
+      "ad_archive_id": "1965858314139447",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 46
+    },
+    {
+      "ad_archive_id": "1415081536931851",
+      "page_name": "크로켓 : 전세계 커넥팅 쇼핑",
+      "source": "GraphQL",
+      "response_index": 46
+    },
+    {
+      "ad_archive_id": "1204473298068027",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 47
+    },
+    {
+      "ad_archive_id": "1668128570816529",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 47
+    },
+    {
+      "ad_archive_id": "1409071334097611",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 47
+    },
+    {
+      "ad_archive_id": "3887371248062772",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 47
+    },
+    {
+      "ad_archive_id": "912349364578099",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 47
+    },
+    {
+      "ad_archive_id": "1452228036489720",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 47
+    },
+    {
+      "ad_archive_id": "1805112013439682",
+      "page_name": "인사이트잡스",
+      "source": "GraphQL",
+      "response_index": 47
+    },
+    {
+      "ad_archive_id": "3340247812799712",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 47
+    },
+    {
+      "ad_archive_id": "2746040812395239",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 47
+    },
+    {
+      "ad_archive_id": "905351752427525",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 47
+    },
+    {
+      "ad_archive_id": "1006704185238250",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 48
+    },
+    {
+      "ad_archive_id": "1789910888357818",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 48
+    },
+    {
+      "ad_archive_id": "1297503628835781",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 48
+    },
+    {
+      "ad_archive_id": "714547811589913",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 48
+    },
+    {
+      "ad_archive_id": "1723021552436907",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 48
+    },
+    {
+      "ad_archive_id": "769689095612336",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 48
+    },
+    {
+      "ad_archive_id": "1984531405458859",
+      "page_name": "Nike Seoul",
+      "source": "GraphQL",
+      "response_index": 48
+    }
+  ]
+}

@@ -1,0 +1,1518 @@
+{
+  "data": {
+    "ad_library_main": {
+      "search_results_connection": {
+        "edges": [
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "887552310799458",
+                  "collation_count": null,
+                  "collation_id": null,
+                  "page_id": "103164259268905",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "103164259268905",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/nikeseoul/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "Nike Seoul",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625217751_921651947035228_2693046493604833807_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bAV14_jMP7sQ7kNvwERbjpb&_nc_oc=Adn-G3bLjwJYA2JmgpNE_8YTdaZWfR16qsU5yumH-qrQqYEkOJX-56eAm87O9m4idsE&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_AfuO7zFhUwO2furzAzkgKx4E-49-0DV52SKZzpYX5uvwYA&oe=69874FE1",
+                    "event": null,
+                    "caption": "itunes.apple.com",
+                    "cta_text": "지금 구매하기",
+                    "cards": [
+                      {
+                        "body": "쌀쌀한 날씨를 위한 아우터\n✅나이키 앱 첫 구매 시 15% 할인\n✅무료 배송 &무료 반품까지!",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "itunes.apple.com",
+                        "link_description": "Download Nike: Shoes, Apparel, Stories by Nike, Inc on the App Store. See screenshots, ratings and reviews, user tips, and more games like Nike: Shoes, Apparel,…",
+                        "link_url": "https://www.nike.com/kr/t/acg-루나-레이크-패딩-primaloft-남성-써마-핏-adv-루즈-후드-재킷-SyLhDyLk/FV8911-819?utm_source=Facebook&utm_medium=SOC&utm_campaign=365DIGITAL_Facebook_DA_DPA_all_all",
+                        "title": "나이키 ACG '루나 레이크' 패딩 PrimaLoft® 남성 써마 핏 ADV 루즈 후드 재킷",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/626525813_894268929632901_8658205184305622668_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FC_Jn1JrXyYQ7kNvwGD_l_h&_nc_oc=AdmnrOVdbu1rmDNPAvZOENyJzF0NUQk8g_yDDvab5yT_aEiTwMvv0bLNV0J_ZlRgQ6I&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_AfuAILBUSEy3TB9hU-DEjD7wDRSOcDAsjiepaZp05Zqp_A&oe=69875553",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/626525813_894268929632901_8658205184305622668_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FC_Jn1JrXyYQ7kNvwGD_l_h&_nc_oc=AdmnrOVdbu1rmDNPAvZOENyJzF0NUQk8g_yDDvab5yT_aEiTwMvv0bLNV0J_ZlRgQ6I&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_Afu-G3kbMamJ61e0clfOPft6yBA7GJRSlbSysczNiUvvKA&oe=69875553",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "쌀쌀한 날씨를 위한 아우터\n✅나이키 앱 첫 구매 시 15% 할인\n✅무료 배송 &무료 반품까지!",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "itunes.apple.com",
+                        "link_description": "Download Nike: Shoes, Apparel, Stories by Nike, Inc on the App Store. See screenshots, ratings and reviews, user tips, and more games like Nike: Shoes, Apparel,…",
+                        "link_url": "https://www.nike.com/kr/t/조던-플라이트-남성-다운-패딩-재킷-pPojBJPR/HV0536-010?utm_source=Facebook&utm_medium=SOC&utm_campaign=365DIGITAL_Facebook_DA_DPA_all_all",
+                        "title": "조던 플라이트 남성 다운 패딩 재킷",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623791344_1255827953088797_4244741881819444179_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZP151vyJkGcQ7kNvwHnGw5m&_nc_oc=AdlJCo3MuXa7NgJOGtuMRr63i5x3Hz2vMpX4tdlM8myUA4fEu3H2WylS9NXiIwIgTs0&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_Afv8bNiUhcCM3hS8Tm_orTzu9PL0XCKuJ2_uBe8du3jJsw&oe=698753D8",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623791344_1255827953088797_4244741881819444179_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZP151vyJkGcQ7kNvwHnGw5m&_nc_oc=AdlJCo3MuXa7NgJOGtuMRr63i5x3Hz2vMpX4tdlM8myUA4fEu3H2WylS9NXiIwIgTs0&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_AfvS0m-R-k5WxynEI7sVcMIImHzNcSt-1bvSGGX_KExoqA&oe=698753D8",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "쌀쌀한 날씨를 위한 아우터\n✅나이키 앱 첫 구매 시 15% 할인\n✅무료 배송 &무료 반품까지!",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "itunes.apple.com",
+                        "link_description": "Download Nike: Shoes, Apparel, Stories by Nike, Inc on the App Store. See screenshots, ratings and reviews, user tips, and more games like Nike: Shoes, Apparel,…",
+                        "link_url": "https://www.nike.com/kr/t/클럽-남성-경량-퀼팅-써마-핏-충전재-재킷-1njRUtHI/FZ0635-010?utm_source=Facebook&utm_medium=SOC&utm_campaign=365DIGITAL_Facebook_DA_DPA_all_all",
+                        "title": "나이키 클럽 남성 경량 퀼팅 써마 핏 충전재 재킷",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623802282_1662049828503137_8820214903826812374_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jnKcn4gsgaoQ7kNvwGGSEkK&_nc_oc=AdmcMl5gL0h_tAP4hzSQPqM8AwbUWuW5y8nnSsd2y5go1lO17d6VQFn8JHgS4tPX4mw&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_AftWotIVHGYkolo6DG9Rbgg-F19SLc0Yn5Z27aerPbIiAQ&oe=69876555",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623802282_1662049828503137_8820214903826812374_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jnKcn4gsgaoQ7kNvwGGSEkK&_nc_oc=AdmcMl5gL0h_tAP4hzSQPqM8AwbUWuW5y8nnSsd2y5go1lO17d6VQFn8JHgS4tPX4mw&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_AfvsRDEGIpWLRA_b1Ud8o6qT5nNfxVa_TyifFgnAlh3C8g&oe=69876555",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "쌀쌀한 날씨를 위한 아우터\n✅나이키 앱 첫 구매 시 15% 할인\n✅무료 배송 &무료 반품까지!",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "itunes.apple.com",
+                        "link_description": "Download Nike: Shoes, Apparel, Stories by Nike, Inc on the App Store. See screenshots, ratings and reviews, user tips, and more games like Nike: Shoes, Apparel,…",
+                        "link_url": "https://www.nike.com/kr/t/acg-라바-플로우-남성-써마-핏-adv-재킷-wtsYEAhs/HJ3736-819?utm_source=Facebook&utm_medium=SOC&utm_campaign=365DIGITAL_Facebook_DA_DPA_all_all",
+                        "title": "나이키 ACG '라바 플로우' 남성 써마 핏 ADV 재킷",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623800996_1619944542365133_114873153914273743_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_J7GtOVEbjkQ7kNvwEydIvW&_nc_oc=Adlbxi3jwHwatLIKrq-zYBT08lzLcRrpDHdquaoF2GU60_p9RAX_N_1khRV5lRMbuxc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_Aft4PmkV8fWmAbUyOuhY2OTQpmJgJkD99S5yex3_XTEBwA&oe=69875FC7",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623800996_1619944542365133_114873153914273743_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_J7GtOVEbjkQ7kNvwEydIvW&_nc_oc=Adlbxi3jwHwatLIKrq-zYBT08lzLcRrpDHdquaoF2GU60_p9RAX_N_1khRV5lRMbuxc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_AfvtGt_xTNkDGKHvXw4_Km9UJ_Hn92i0ofpy_vRhgq2L5A&oe=69875FC7",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "쌀쌀한 날씨를 위한 아우터\n✅나이키 앱 첫 구매 시 15% 할인\n✅무료 배송 &무료 반품까지!",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "itunes.apple.com",
+                        "link_description": "Download Nike: Shoes, Apparel, Stories by Nike, Inc on the App Store. See screenshots, ratings and reviews, user tips, and more games like Nike: Shoes, Apparel,…",
+                        "link_url": "https://www.nike.com/kr/t/스포츠웨어-클럽-남성-써마-핏-다운-패딩-조끼-CoMzwfJ4/IB2978-010?utm_source=Facebook&utm_medium=SOC&utm_campaign=365DIGITAL_Facebook_DA_DPA_all_all",
+                        "title": "나이키 스포츠웨어 클럽 남성 써마 핏 다운 패딩 조끼",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623719335_950535077302112_3483753577289380740_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ISkSqXx29RYQ7kNvwEwWf64&_nc_oc=AdnYVUzC6arlHvuAkBmLKZ8equmOE-J2b0-smj7TljLNUpj9t0OdaKpyzYv7rcVSziQ&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_Afv5goVKCjlSYTlA7rTpZ2hzTMn33KU3DV0umQ11U6P0Mw&oe=69874FF0",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623719335_950535077302112_3483753577289380740_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ISkSqXx29RYQ7kNvwEwWf64&_nc_oc=AdnYVUzC6arlHvuAkBmLKZ8equmOE-J2b0-smj7TljLNUpj9t0OdaKpyzYv7rcVSziQ&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_Aft7Ush3QPFEGuCHzphiDlltKEtRODcXDPwWnaBNHXfn-g&oe=69874FF0",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "쌀쌀한 날씨를 위한 아우터\n✅나이키 앱 첫 구매 시 15% 할인\n✅무료 배송 &무료 반품까지!",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "itunes.apple.com",
+                        "link_description": "Download Nike: Shoes, Apparel, Stories by Nike, Inc on the App Store. See screenshots, ratings and reviews, user tips, and more games like Nike: Shoes, Apparel,…",
+                        "link_url": "https://www.nike.com/kr/t/클럽-남성-경량-퀼팅-써마-핏-충전재-재킷-1njRUtHI/FZ0635-224?utm_source=Facebook&utm_medium=SOC&utm_campaign=365DIGITAL_Facebook_DA_DPA_all_all",
+                        "title": "나이키 클럽 남성 경량 퀼팅 써마 핏 충전재 재킷",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/627165848_1202322808731309_6901948192325479603_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DQV-TF7f5VQQ7kNvwF8-XMB&_nc_oc=AdmXNxcLJV0Vv45hnpS04PSIyoIuXy9euvnkEFe0edAkJPkH4V06r0NZuYZzUHUHUqw&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_AfusjI851kUhV5FWxZQqP7Qbbx-8nVy-4L2oy3tx_X5yOQ&oe=69875CA8",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/627165848_1202322808731309_6901948192325479603_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DQV-TF7f5VQQ7kNvwF8-XMB&_nc_oc=AdmXNxcLJV0Vv45hnpS04PSIyoIuXy9euvnkEFe0edAkJPkH4V06r0NZuYZzUHUHUqw&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_Afv709nvXLLXUu7vC-DuzbfD5GUmWuROGK2Q3iZSmnimYA&oe=69875CA8",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "쌀쌀한 날씨를 위한 아우터\n✅나이키 앱 첫 구매 시 15% 할인\n✅무료 배송 &무료 반품까지!"
+                    },
+                    "cta_type": "SHOP_NOW",
+                    "display_format": "DPA",
+                    "link_description": null,
+                    "link_url": "http://itunes.apple.com/app/id1095459556",
+                    "images": [],
+                    "page_categories": [
+                      "Brand"
+                    ],
+                    "page_like_count": 26593,
+                    "title": "{{product.name}}",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "Nike Seoul",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "MESSENGER"
+                  ],
+                  "start_date": 1769932800,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "1604894130933812",
+                  "collation_count": null,
+                  "collation_id": null,
+                  "page_id": "103164259268905",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "103164259268905",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/nikeseoul/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "Nike Seoul",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622600544_2392998001142052_4971823039165578149_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pRoBAolnO-IQ7kNvwEOEfrP&_nc_oc=AdlIHMEVZPofSUSpA9B0HbXDHlC1Lktb-zsLwcn5O6LDOiX5mKsw7u9PD5MMqqVMiME&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_AfvwUELM8u0v5DnfvBPEQy8JRw5OEL4mWt0mF2SwcdwGng&oe=6987712A",
+                    "event": null,
+                    "caption": "nike.com",
+                    "cta_text": "지금 구매하기",
+                    "cards": [
+                      {
+                        "body": "나이키 트레이닝 컬렉션\n앱에서 무료 배송 & 반품까지, 나이키 인기 상품을 만나보세요.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com",
+                        "link_description": "Nike delivers innovative products, experiences and services to inspire athletes.",
+                        "link_url": "https://www.nike.com/kr/t/드라이-핏-uv-하이버스-남성-반팔-피트니스-탑-y4cT9Qmb/DV9840-010?utm_source=Facebook&utm_medium=SOC&utm_campaign=365DIGITAL_Facebook_DA_DPA_all_all",
+                        "title": "나이키 드라이 핏 UV 하이버스 남성 반팔 피트니스 탑",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622817797_33412434798400276_1352216596081667585_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=d4ZUQAFbwAUQ7kNvwG-R-B1&_nc_oc=Adl8RcFW-2EYAW8BzzKaOjy3ThPtB_-TnJlRa9XD7_b9HI8G-tarNUIpdj5LafjGd-k&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_AfssQMY_zv678obpBM3TnKSkHFMoEfcxW1ZsoTw-Fo0FXA&oe=698760A2",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622817797_33412434798400276_1352216596081667585_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=d4ZUQAFbwAUQ7kNvwG-R-B1&_nc_oc=Adl8RcFW-2EYAW8BzzKaOjy3ThPtB_-TnJlRa9XD7_b9HI8G-tarNUIpdj5LafjGd-k&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_Afu65egG7V17s4xNkbFEKF70Ih78bi4BnmueBpqk6tLfgA&oe=698760A2",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "나이키 트레이닝 컬렉션\n앱에서 무료 배송 & 반품까지, 나이키 인기 상품을 만나보세요.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com",
+                        "link_description": "Nike delivers innovative products, experiences and services to inspire athletes.",
+                        "link_url": "https://www.nike.com/kr/t/에어-모나크-iv-남성-운동화-n6eVmAeX/415445-102?utm_source=Facebook&utm_medium=SOC&utm_campaign=365DIGITAL_Facebook_DA_DPA_all_all",
+                        "title": "나이키 에어 모나크 IV 남성 운동화",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622523851_1248961177333905_3948172250990301446_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4lnDfCsRuTIQ7kNvwF-s920&_nc_oc=Adn0wfInpIMiPkpHVmvR8_7ILhyajS9rS5oxhHtIrSdcXNkISsO9jHfAL1AxBwJKfcY&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_AfsVomqSw2fSTH4b9soI8OS0w2we4IlALcXxfikfyQ2Chg&oe=69876400",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622523851_1248961177333905_3948172250990301446_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4lnDfCsRuTIQ7kNvwF-s920&_nc_oc=Adn0wfInpIMiPkpHVmvR8_7ILhyajS9rS5oxhHtIrSdcXNkISsO9jHfAL1AxBwJKfcY&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_Afs74Pmg0dFry2x9pCWEmt_7AXye6OXpKwzzAqAevi8efw&oe=69876400",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "나이키 트레이닝 컬렉션\n앱에서 무료 배송 & 반품까지, 나이키 인기 상품을 만나보세요.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com",
+                        "link_description": "Nike delivers innovative products, experiences and services to inspire athletes.",
+                        "link_url": "https://www.nike.com/kr/t/언리미티드-남성-드라이-핏-7인치-언라인드-버서타일-쇼츠-wAHrirwo/DV9341-010?utm_source=Facebook&utm_medium=SOC&utm_campaign=365DIGITAL_Facebook_DA_DPA_all_all",
+                        "title": "나이키 언리미티드 남성 드라이 핏 7인치 언라인드 버서타일 쇼츠",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623391924_1195712079379995_7357243988018871794_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xzWwdo32r88Q7kNvwHuuJl-&_nc_oc=Adl-vuJrBn4mCzFWr4vszs7A8s78jKz-8skA2Y0aEO2VNLfSAbxV_9XRlJQpUyg1dxY&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_AfuE_lRyO4itnKE3TRZIA7AZW0usfUCMDNqCcZ5ygCWzCg&oe=69876C8F",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623391924_1195712079379995_7357243988018871794_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xzWwdo32r88Q7kNvwHuuJl-&_nc_oc=Adl-vuJrBn4mCzFWr4vszs7A8s78jKz-8skA2Y0aEO2VNLfSAbxV_9XRlJQpUyg1dxY&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_AfsbGIQz5ji8WowM18sNvfSyyWeXniwi7XGJIQ2p7bRyeA&oe=69876C8F",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "나이키 트레이닝 컬렉션\n앱에서 무료 배송 & 반품까지, 나이키 인기 상품을 만나보세요.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com",
+                        "link_description": "Nike delivers innovative products, experiences and services to inspire athletes.",
+                        "link_url": "https://www.nike.com/kr/t/에브리데이-라이트웨이트-여성-트레이닝-발목-덧신-양말3켤레-MYe8IrR5/SX4863-101?utm_source=Facebook&utm_medium=SOC&utm_campaign=365DIGITAL_Facebook_DA_DPA_all_all",
+                        "title": "나이키 에브리데이 라이트웨이트 여성 트레이닝 발목/덧신 양말(3켤레)",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/621680317_923911596989461_4703989191267507713_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XzmrLNmZjtcQ7kNvwGTm6BU&_nc_oc=AdkdPMF3qpl1-wGUKq_DDieUbuzX3WlyYozF5IIKmn-mr-_JLMIQJW_cR4WuwhuKXMc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_AfsohV8_y6bDP8iMc8kKl87gGltGKornUyktxzNWYmOsxA&oe=6987797F",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/621680317_923911596989461_4703989191267507713_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XzmrLNmZjtcQ7kNvwGTm6BU&_nc_oc=AdkdPMF3qpl1-wGUKq_DDieUbuzX3WlyYozF5IIKmn-mr-_JLMIQJW_cR4WuwhuKXMc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_Afsv6tnPwLSKgTW3Tn64JMdx7hTvHkJteiNTIUPPlAXp3Q&oe=6987797F",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "나이키 트레이닝 컬렉션\n앱에서 무료 배송 & 반품까지, 나이키 인기 상품을 만나보세요.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com",
+                        "link_description": "Nike delivers innovative products, experiences and services to inspire athletes.",
+                        "link_url": "https://www.nike.com/kr/t/드라이-핏-uv-하이버스-남성-반팔-피트니스-탑-y4cT9Qmb/DV9840-097?utm_source=Facebook&utm_medium=SOC&utm_campaign=365DIGITAL_Facebook_DA_DPA_all_all",
+                        "title": "나이키 드라이 핏 UV 하이버스 남성 반팔 피트니스 탑",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/621711742_1836618750419173_7112316055183047400_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dlJF9zb9BSsQ7kNvwHEnrsT&_nc_oc=AdnUTknVMMtnIpQVu51mZYGB7Wa84rj0SmcvX8Il_NYgrL0c55uN4ylBSE0lhyUXagI&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_AfuEaDaQ46-Qdb2PFetsuKwPeksPX5Mkn1JeRhli765ZYw&oe=69876898",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/621711742_1836618750419173_7112316055183047400_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dlJF9zb9BSsQ7kNvwHEnrsT&_nc_oc=AdnUTknVMMtnIpQVu51mZYGB7Wa84rj0SmcvX8Il_NYgrL0c55uN4ylBSE0lhyUXagI&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_AftmB9K87zwqOnj3MpFbqeSNN8IEui81gAdMQupgYj39zg&oe=69876898",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "나이키 트레이닝 컬렉션\n앱에서 무료 배송 & 반품까지, 나이키 인기 상품을 만나보세요.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com",
+                        "link_description": "Nike delivers innovative products, experiences and services to inspire athletes.",
+                        "link_url": "https://www.nike.com/kr/t/드라이-핏-프라이머리-남성-트레이닝-티셔츠-tSUtAJSq/DV9832-010?utm_source=Facebook&utm_medium=SOC&utm_campaign=365DIGITAL_Facebook_DA_DPA_all_all",
+                        "title": "나이키 드라이 핏 프라이머리 남성 트레이닝 티셔츠",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625051285_1522991402143684_244995487622764518_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Ktol2vOgivkQ7kNvwHBXd3W&_nc_oc=Adms_9b6qmucsCV9QxOPjIFaKST5SgA5Y703uFu-MOALMXYV03er57RaM8AG65CgeUc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_AfukcIXu96-KUoT30VSnYNw-a-sSBMdHa9cbxq-D4Aj5Ag&oe=69875346",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625051285_1522991402143684_244995487622764518_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Ktol2vOgivkQ7kNvwHBXd3W&_nc_oc=Adms_9b6qmucsCV9QxOPjIFaKST5SgA5Y703uFu-MOALMXYV03er57RaM8AG65CgeUc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_AfsSyxWHsnG6FAI7yC8waAGGkMzVtHm0ycwKfXkL759ssA&oe=69875346",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "나이키 트레이닝 컬렉션\n앱에서 무료 배송 & 반품까지, 나이키 인기 상품을 만나보세요."
+                    },
+                    "cta_type": "SHOP_NOW",
+                    "display_format": "DPA",
+                    "link_description": null,
+                    "link_url": "http://www.nike.com/",
+                    "images": [],
+                    "page_categories": [
+                      "Brand"
+                    ],
+                    "page_like_count": 26593,
+                    "title": "{{product.name}}",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "Nike Seoul",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "MESSENGER"
+                  ],
+                  "start_date": 1769760000,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "1216365286802736",
+                  "collation_count": 2,
+                  "collation_id": "909423354994096",
+                  "page_id": "103164259268905",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "103164259268905",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/nikeseoul/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "Nike Seoul",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624357184_1947868612816634_7616119904524723038_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=49551ss5vSYQ7kNvwH1aXzI&_nc_oc=AdnsCjX6Pgu5AB-TfVgUQZAZ5C1EIF5gnJLAtA0PfKB6-XbWHhkYyoUMBl2105LMlT8&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_AfsTsU-woxnaxZIyJgnooz0XUUvarD0WTiTdvllc0XDSrA&oe=6987867F",
+                    "event": null,
+                    "caption": "itunes.apple.com",
+                    "cta_text": "지금 구매하기",
+                    "cards": [
+                      {
+                        "body": "앱 첫 구매 시 15% 할인",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "",
+                        "link_description": null,
+                        "link_url": "http://itunes.apple.com/app/id1095459556",
+                        "title": "나이키 ACG 라바 플로우",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623686943_908758378295750_5910750859090806892_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5MUQb-gxI20Q7kNvwEqygNH&_nc_oc=AdlYV83OYj-AbfKZyfv8kpTj7SJEawpVAh-jaNT38Kz8KniZwtQeDq5uyhlIzK0Pp8M&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_AfvV1MztJHsYwbZWmDcsew-0LHxLphRCvDNM8U3P-b2Fkg&oe=69875045",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624074337_891307700491910_8613005958629900534_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Vak4qAIoSC8Q7kNvwHvDI_N&_nc_oc=AdmoPRKQFDOPUwXIGW_RwYkI55OvMf5q8P61paETN0ea5y2s8_qZeA7a8fy0Goueo9k&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_Afvp_lMUavMLa9hBtEv9kUHR-DT2TmgDiuwH7qIe5pbQxA&oe=6987733F",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "앱 첫 구매 시 15% 할인",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "",
+                        "link_description": null,
+                        "link_url": "http://itunes.apple.com/app/id1095459556",
+                        "title": "나이키 ACG 라바 플로우",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624766313_1387707479329782_6567970335031466879_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ClAN16PtWIcQ7kNvwGJID5H&_nc_oc=AdnMcDVtTfUaVkK3uU1nysQiC7-_1GMZoqac32sc3b2WD65rurFJjoY1d-tFtqxxA-4&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_Aft6T-aB2eokYWaFwbAZbWDGfWp044ydLr7iC1uGRRf5Zg&oe=69877C48",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624079373_1539154423868042_2610720067660365813_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ltct2xIBPkwQ7kNvwHXGJrc&_nc_oc=Adn15yLTtV8_sw2xOKeKezYN1ddK6w7NUNU6oitEsh2HgxQkCS7XgFBjW8TQc8Eu59A&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_AfujGftKFvykPUDbj0i32ztt7r9FujQ85okQp-X4IJTmcA&oe=69875954",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "{{product.brand}}"
+                    },
+                    "cta_type": "SHOP_NOW",
+                    "display_format": "DCO",
+                    "link_description": "{{product.description}}",
+                    "link_url": "http://itunes.apple.com/app/id1095459556",
+                    "images": [],
+                    "page_categories": [
+                      "Brand"
+                    ],
+                    "page_like_count": 26593,
+                    "title": "{{product.name}}",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "Nike Seoul",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "MESSENGER",
+                    "THREADS"
+                  ],
+                  "start_date": 1769760000,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "668215662982488",
+                  "collation_count": 1,
+                  "collation_id": "1484311639897472",
+                  "page_id": "103164259268905",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "103164259268905",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/nikeseoul/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "Nike Seoul",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/621822567_927795456239808_3977626891140926906_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2WfOecMMAp4Q7kNvwFaqBeg&_nc_oc=Adlxce8v1S_SGUZT_B-UIUhsdKRbPW5Shp3pBauK2eist1AjgUfSXtMIf2nN-0a5R4A&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_AftoHFEfK1EiUL0x-YOHfQsHMLq2NbXbb5A-5Pn0bU_caA&oe=69874EC5",
+                    "event": null,
+                    "caption": "play.google.com",
+                    "cta_text": "지금 구매하기",
+                    "cards": [
+                      {
+                        "body": "앱 첫 구매 시 15% 할인",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "",
+                        "link_description": null,
+                        "link_url": "http://play.google.com/store/apps/details?id=com.nike.omega",
+                        "title": "나이키 ACG 라바 플로우",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625767104_1541834213787904_4930083241778818678_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=r4ZG7uz5jzoQ7kNvwHCy876&_nc_oc=AdkPEU5v-ODXq1tOYsmydWzqpeWBWgvahCaq6k8E5jxbAHbEWxOgHBFwhB1ULY8AalQ&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_AfsOHgbmAnVXJXI3PRaExogDQaC5_h-GnYdHljAgqjmH4g&oe=698761F5",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625039683_1416475390030750_8789636622270722662_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Ig-Ewa1pb2MQ7kNvwG4mRMg&_nc_oc=AdmqIeG-H7IWVkxqcPJJWxmTfJpL8T_0uvJ4Jn-7SEcBElcB1jYT8_o7aCDQ2OW34x8&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_AfvMEw_EW6pjPLy9q3dxTW55r3pi7I09WMYnukoM01qn3A&oe=698769D5",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "앱 첫 구매 시 15% 할인",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "",
+                        "link_description": null,
+                        "link_url": "http://play.google.com/store/apps/details?id=com.nike.omega",
+                        "title": "나이키 ACG 라바 플로우",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623452366_1189020740067550_1689492992757928584_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=uPkh1Ge9TS0Q7kNvwHw5qRi&_nc_oc=AdkBtkzfVQuN82BaRWU3_1vy5MpvdRanAuPVccI6rhV2iMxIWbsxnm4SX55FmqctERY&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_AfuPsm8kGbV_gcnHGqIEepRN5amJhKbcBIPNtAIGD8N9iw&oe=6987795A",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622371071_1228582708720087_2782614481727861970_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kglDi1pSOL4Q7kNvwH_CiWz&_nc_oc=AdnGMdQ2WMxt5VXxiwFTpMSgCai04wovy2QxNvylGM2z9GNkw7DtHpNUAzjce84wubE&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_Afu02dFccLkHit_9zCMZIhChb8fEGkAT1O7NPCYtJWt43Q&oe=69875A10",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "{{product.brand}}"
+                    },
+                    "cta_type": "SHOP_NOW",
+                    "display_format": "DCO",
+                    "link_description": "{{product.description}}",
+                    "link_url": "http://play.google.com/store/apps/details?id=com.nike.omega",
+                    "images": [],
+                    "page_categories": [
+                      "Brand"
+                    ],
+                    "page_like_count": 26593,
+                    "title": "{{product.name}}",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "Nike Seoul",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "MESSENGER"
+                  ],
+                  "start_date": 1769760000,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "1257357229605499",
+                  "collation_count": null,
+                  "collation_id": null,
+                  "page_id": "103164259268905",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "103164259268905",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/nikeseoul/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "Nike Seoul",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/621673463_1415926809920104_6380987783686105115_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_GxW_FojTmIQ7kNvwFrrhfL&_nc_oc=AdlOCoSvtX9Dky3pDJElgVJJK-KiWkIEY78m7WGOZchBuj-Dsr1f1IjKOLQhHiKNJyI&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_AfsGOtHkYjLA_8g9SJveLtVEfKMlGfhje7Imx2eIriFIrg&oe=69877AD7",
+                    "event": null,
+                    "caption": "nike.com",
+                    "cta_text": "지금 구매하기",
+                    "cards": [
+                      {
+                        "body": "아웃도어와 라이프스타일까지 이어지는 ACG\n앱에서 무료 배송 & 반품까지, 나이키 인기 상품을 만나보세요.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com",
+                        "link_description": "Nike delivers innovative products, experiences and services to inspire athletes.",
+                        "link_url": "https://www.nike.com/kr/t/acg-데이맥스-백팩25l-XWAu9fcQ/HJ8178-010?utm_source=Facebook&utm_medium=SOC&utm_campaign=365DIGITAL_Facebook_DA_DPA_all_all",
+                        "title": "나이키 ACG '데이맥스' 백팩(25L)",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622866604_889653816805510_1662946249092976633_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eJ1wQldFhggQ7kNvwEfcQj3&_nc_oc=Adk_V3nLEJVlwV7YDuIkvl4j_9PPmc_-xa6dk4sqKeWMYr_c7wBSMovKzPCkjmw2AsY&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_Afs-vEOHLvL30xrJCYXYTpX6auyWLTsxHqu-RK-mDCw6Tg&oe=69876C25",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622866604_889653816805510_1662946249092976633_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eJ1wQldFhggQ7kNvwEfcQj3&_nc_oc=Adk_V3nLEJVlwV7YDuIkvl4j_9PPmc_-xa6dk4sqKeWMYr_c7wBSMovKzPCkjmw2AsY&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_AfuoDdqztsO4-euH8feffv_Wj98YPZFy36PDXsK_z2Uvrw&oe=69876C25",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "아웃도어와 라이프스타일까지 이어지는 ACG\n앱에서 무료 배송 & 반품까지, 나이키 인기 상품을 만나보세요.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com",
+                        "link_description": "Nike delivers innovative products, experiences and services to inspire athletes.",
+                        "link_url": "https://www.nike.com/kr/t/acg-이지-남성-신발-xauiaFd3/FV4317-201?utm_source=Facebook&utm_medium=SOC&utm_campaign=365DIGITAL_Facebook_DA_DPA_all_all",
+                        "title": "나이키 ACG 이지 남성 신발",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/621833368_1458318305916223_3427121068275727926_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CcQN9Ii6IMEQ7kNvwFDE8IZ&_nc_oc=Adk33pSlSyZUzsFZsJlvs8USYOKpVTVjrbQBJJCwZc-LCHyyCguBxgotxMmiDttlqXE&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_Aftv1r_993u7z9aKtxFZRPQD2dZ-3sdolDe9ilLkb_pMlQ&oe=69876645",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/621833368_1458318305916223_3427121068275727926_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CcQN9Ii6IMEQ7kNvwFDE8IZ&_nc_oc=Adk33pSlSyZUzsFZsJlvs8USYOKpVTVjrbQBJJCwZc-LCHyyCguBxgotxMmiDttlqXE&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_AfvY7X6b0P115g7J5zRcW13iGtwNyZu4AQo4gjEBPiRHjA&oe=69876645",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "아웃도어와 라이프스타일까지 이어지는 ACG\n앱에서 무료 배송 & 반품까지, 나이키 인기 상품을 만나보세요.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com",
+                        "link_description": "Nike delivers innovative products, experiences and services to inspire athletes.",
+                        "link_url": "https://www.nike.com/kr/t/acg-라바-루프-남성-드라이-핏-adv-하프-트레일-러닝-타이츠-cjrTvLVG/IO9672-010?utm_source=Facebook&utm_medium=SOC&utm_campaign=365DIGITAL_Facebook_DA_DPA_all_all",
+                        "title": "나이키 ACG '라바 루프' 남성 드라이 핏 ADV 하프 트레일 러닝 타이츠",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624102518_907610955111217_6749061555480745639_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VInnjoH_cRcQ7kNvwExQ380&_nc_oc=AdnbtRGrDZR5AIF172Lvw8VuoG1sJpomBjC1LGgLzj6ueOIJkQ-36XZxErLvNuS0F4M&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_AfsNHBpHqk5iNXPqhSzpccYJJlzqnKmWVnv0bzmbRswAuw&oe=6987811B",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624102518_907610955111217_6749061555480745639_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VInnjoH_cRcQ7kNvwExQ380&_nc_oc=AdnbtRGrDZR5AIF172Lvw8VuoG1sJpomBjC1LGgLzj6ueOIJkQ-36XZxErLvNuS0F4M&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_AftQ-erf3i97CHlFMhKe0RlRN5X-_sMtt64oiU2rN1b-1g&oe=6987811B",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "아웃도어와 라이프스타일까지 이어지는 ACG\n앱에서 무료 배송 & 반품까지, 나이키 인기 상품을 만나보세요.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com",
+                        "link_description": "Nike delivers innovative products, experiences and services to inspire athletes.",
+                        "link_url": "https://www.nike.com/kr/t/acg-여성-반팔-티셔츠-LtB7an6f/DJ3647-122?utm_source=Facebook&utm_medium=SOC&utm_campaign=365DIGITAL_Facebook_DA_DPA_all_all",
+                        "title": "나이키 ACG 여성 반팔 티셔츠",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623055658_835059429570964_5090055929975437676_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kqwLhP1Gz4cQ7kNvwHktTFj&_nc_oc=Adk2TzrzYY5caf7yhOhCyctHf14n-eGoX0dzjf8gg-S9htC_O-jtpJVvVAmHDrPa9x4&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_AfshVYftKh9ShXqWEImMSABzO03iYlf4l3yR1qBHrQf7hA&oe=698770EC",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623055658_835059429570964_5090055929975437676_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kqwLhP1Gz4cQ7kNvwHktTFj&_nc_oc=Adk2TzrzYY5caf7yhOhCyctHf14n-eGoX0dzjf8gg-S9htC_O-jtpJVvVAmHDrPa9x4&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_AfsmxZiBY508n8l3FUoAxm2WMj7f1LtOMPwJNLhHTVhrHg&oe=698770EC",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "아웃도어와 라이프스타일까지 이어지는 ACG\n앱에서 무료 배송 & 반품까지, 나이키 인기 상품을 만나보세요.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com",
+                        "link_description": "Nike delivers innovative products, experiences and services to inspire athletes.",
+                        "link_url": "https://www.nike.com/kr/t/acg-데이맥스-크로스바디-백3l-OL1xUdBG/HJ8180-010?utm_source=Facebook&utm_medium=SOC&utm_campaign=365DIGITAL_Facebook_DA_DPA_all_all",
+                        "title": "나이키 ACG '데이맥스' 크로스바디 백(3L)",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/621975435_1360017002591251_6055739119533015772_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=k1nzBiCZBzUQ7kNvwGxYIK4&_nc_oc=AdnlXExK5veh-b-CY3WdreFimNk6TCHyi8WDx5xDozRV9SO0F-iy6qWCviNED39NNkc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_Afs3LfKI_SoHfZl5Tdw83oo7KVmy7IcMDZ5Wnm9Mok5tDQ&oe=698770ED",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/621975435_1360017002591251_6055739119533015772_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=k1nzBiCZBzUQ7kNvwGxYIK4&_nc_oc=AdnlXExK5veh-b-CY3WdreFimNk6TCHyi8WDx5xDozRV9SO0F-iy6qWCviNED39NNkc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_AfsHOaHkPq_-rQpglL36w_NarQwCcaRhSIx0GDHXM1ZNlw&oe=698770ED",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "아웃도어와 라이프스타일까지 이어지는 ACG\n앱에서 무료 배송 & 반품까지, 나이키 인기 상품을 만나보세요.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com",
+                        "link_description": "Nike delivers innovative products, experiences and services to inspire athletes.",
+                        "link_url": "https://www.nike.com/kr/t/acg-아웃도어-쿠셔닝-크루-삭스1켤레-TSoGZyhh/DV5465-101?utm_source=Facebook&utm_medium=SOC&utm_campaign=365DIGITAL_Facebook_DA_DPA_all_all",
+                        "title": "나이키 ACG 아웃도어 쿠셔닝 크루 삭스(1켤레)",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/621851462_885121857456401_6182808700286199959_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=s0XCegtv8UIQ7kNvwEZQBo5&_nc_oc=Adl4cUEC505il9EfaPdD8p3xAnNV5QhwatmOUXfxkiUWtjTZ37fg3lZm3Zc6P7PyQjo&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_Afs6CYx4-ydqB8dHJLZ_dmM1m8Y7qCBv_t6I09a36jOBMw&oe=69877568",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/621851462_885121857456401_6182808700286199959_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=s0XCegtv8UIQ7kNvwEZQBo5&_nc_oc=Adl4cUEC505il9EfaPdD8p3xAnNV5QhwatmOUXfxkiUWtjTZ37fg3lZm3Zc6P7PyQjo&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_AfswU-Zz8W0ZPRTTrFNo6SZ8twhN9deOKRFnYTPsEuXwvw&oe=69877568",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "아웃도어와 라이프스타일까지 이어지는 ACG\n앱에서 무료 배송 & 반품까지, 나이키 인기 상품을 만나보세요."
+                    },
+                    "cta_type": "SHOP_NOW",
+                    "display_format": "DPA",
+                    "link_description": null,
+                    "link_url": "http://www.nike.com/",
+                    "images": [],
+                    "page_categories": [
+                      "Brand"
+                    ],
+                    "page_like_count": 26593,
+                    "title": "{{product.name}}",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "Nike Seoul",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "MESSENGER"
+                  ],
+                  "start_date": 1769760000,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "788150204068160",
+                  "collation_count": 1,
+                  "collation_id": "1142808844659284",
+                  "page_id": "111651785085396",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "111651785085396",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/100087790984688/",
+                    "root_reshared_post": null,
+                    "byline": "",
+                    "disclaimer_label": null,
+                    "page_name": "Top Heroes",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/559635662_3279189445563399_9086629446520219_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bh9YdfUd2_EQ7kNvwFy4wcJ&_nc_oc=Adl1NNk3UsmqSbRvQnVaXqH-9799mJ7VCp_AudO1QPWRQzP5oHDYd-lCamWEmRiczwk&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_AfvSEGnl5Qv3rVaEbGtXzSTCGNhcaBmlxGcBrtFSVOzmgw&oe=69877F3C",
+                    "event": null,
+                    "caption": "play.google.com",
+                    "cta_text": "게임하기",
+                    "cards": [],
+                    "body": {
+                      "text": "끝없는 무한 전투, 특별한 SSR 영웅 수집"
+                    },
+                    "cta_type": "PLAY_GAME",
+                    "display_format": "VIDEO",
+                    "link_description": "Download Now for SSR hero and Exclusive Once-a-Year Gifts",
+                    "link_url": "https://play.google.com/store/apps/details?id=com.greenmushroom.boomblitz.gp",
+                    "images": [],
+                    "page_categories": [
+                      "Media/news company"
+                    ],
+                    "page_like_count": 274875,
+                    "title": "요즘 출퇴근길에 할만한 갓겜",
+                    "videos": [
+                      {
+                        "video_hd_url": null,
+                        "video_preview_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/558874043_1074572567897559_8502193625355142426_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=u_zrVAoM4_0Q7kNvwEtFuto&_nc_oc=Adkua8O2bTKNwyyVzH8ov0t6yozPxWUKKbk5RGrB5R8XiN9WjGlkJqGMUobLsxQGTdM&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_Afv-6gtYH1s9UpWRVeqYZNTOvQ96jj3DV0l09JMG2WMKpQ&oe=69878644",
+                        "video_sd_url": "https://video-icn2-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQMpOHOz_rsUiqinXvjKk2WbhFxpoi3tc-qgxML0obxeZSAphxqM0IF1H5V2O_5NJT3CSwCYHShjLMqjtto1bXn4OiFnmIHdZlAFB6GUdQ.mp4?_nc_cat=105&_nc_sid=8bf8fe&_nc_ht=video-icn2-1.xx.fbcdn.net&_nc_ohc=1j1mqQBHMQYQ7kNvwFF8mmM&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjI5ODEzNTMxNzI5NjE2NywiYXNzZXRfYWdlX2RheXMiOjEyOCwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjU3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&_nc_zt=28&oh=00_Afty7SpMvAgcwjVWfXgAAQmIhv98ZOKfEJQ99ALDdMDbrQ&oe=6987658D",
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null
+                      }
+                    ],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": false,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "Top Heroes",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": true,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1760166000,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "MESSENGER"
+                  ],
+                  "start_date": 1760079600,
+                  "contains_sensitive_content": false,
+                  "total_active_time": 21480,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "1662174841810074",
+                  "collation_count": 2,
+                  "collation_id": "1224625799096480",
+                  "page_id": "253442794702245",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "253442794702245",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/29centimeter/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "29CM",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624545738_1596152164842690_7145493517763421463_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6mFS6ROnqjsQ7kNvwHPvj0-&_nc_oc=Adkj1ZVRf7_MkD1CWbMDtKtFBZ5HmkItpXCgCkPvV0VUW4uVfffepcQhmehEbBLiMa4&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_AftjM85YvWkAgpkuLshRcs9M87Uq-SYnDQBdX8_dltcmgA&oe=698773C2",
+                    "event": null,
+                    "caption": "29cm.onelink.me",
+                    "cta_text": "지금 구매하기",
+                    "cards": [
+                      {
+                        "body": "설레는 설 준비\n푸마, 반스 등\n인기 브랜드 스니커즈를\n당일 발송, 무료 배송 혜택으로 만나보세요\n\n*일부 상품 쿠폰 적용 불가",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "",
+                        "link_description": null,
+                        "link_url": "https://29cm.onelink.me/1080201211?pid=fbig&c=FT_fb_traffic_rt_all_static&af_adset=FT_fb_rt_event_apppur_static_new&af_ad=VANS_WS_I_bg_NR_FD_Ck_0_0202&af_r=https%3A%2F%2Fwww.29cm.co.kr%2Fcontent%2Fcollection%2F18092&af_dp=app29cm%3A%2F%2Fweb%2Fhttps%253A%252F%252Fwww.29cm.co.kr%252Fcontent%252Fcollection%252F18092&deep_link_value=app29cm%3A%2F%2Fweb%2Fhttps%253A%252F%252Fwww.29cm.co.kr%252Fcontent%252Fcollection%252F18092&af_reengagement_window=7d&af_force_deeplink=true&af_xp=custom&is_retargeting=true&af_click_lookback=1d&utm_source=growth_fbig&utm_medium=display&utm_campaign=FT_fb_traffic_rt_all_static&utm_content=FT_fb_rt_event_apppur_static_new&utm_term=VANS_WS_I_bg_NR_FD_Ck_0_0202",
+                        "title": "푸마, 반스 등 무료배송, 당일발송",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622804275_886832163934660_8468110825809259146_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FC1Eg7W6Jt0Q7kNvwGxSjTV&_nc_oc=Adn93lq-GcBfoQYx9g_DqzRcgnVP14u7DGArYx1o4W4qrP4HY4dhWlFD1JCeyZYKSiM&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_Afv2bIzKuTKGFa4iFlejzekai-RIILgZ-t105JSvh7j8Mg&oe=69877D70",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/627115147_3222855167874147_2939034780678091385_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ewJhl1DkbM0Q7kNvwFws59G&_nc_oc=AdlmIzKZLE3PV-JD6AEYZPJtQhTTgV9d44OM7Pdp73HCNYEorNkXLUrS4uqI1_Ay50s&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_AfuQAD9YaSnO9pj6H7EilQqlJQk0mHnvZmcgpKzC02uVTg&oe=69877D60",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "설레는 설 준비\n푸마, 반스 등\n인기 브랜드 스니커즈를\n당일 발송, 무료 배송 혜택으로 만나보세요\n\n*일부 상품 쿠폰 적용 불가",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "",
+                        "link_description": null,
+                        "link_url": "https://29cm.onelink.me/1080201211?pid=fbig&c=FT_fb_traffic_rt_all_static&af_adset=FT_fb_rt_event_apppur_static_new&af_ad=VANS_WS_I_bg_NR_FD_Ck_0_0202&af_r=https%3A%2F%2Fwww.29cm.co.kr%2Fcontent%2Fcollection%2F18092&af_dp=app29cm%3A%2F%2Fweb%2Fhttps%253A%252F%252Fwww.29cm.co.kr%252Fcontent%252Fcollection%252F18092&deep_link_value=app29cm%3A%2F%2Fweb%2Fhttps%253A%252F%252Fwww.29cm.co.kr%252Fcontent%252Fcollection%252F18092&af_reengagement_window=7d&af_force_deeplink=true&af_xp=custom&is_retargeting=true&af_click_lookback=1d&utm_source=growth_fbig&utm_medium=display&utm_campaign=FT_fb_traffic_rt_all_static&utm_content=FT_fb_rt_event_apppur_static_new&utm_term=VANS_WS_I_bg_NR_FD_Ck_0_0202",
+                        "title": "푸마, 반스 등 무료배송, 당일발송",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624310692_1654872512339423_7814043011763096302_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8_vn5ZJqjZwQ7kNvwEmnOHw&_nc_oc=AdmzeEalvDqsRPfL8owh-C4QqkpSAIhvebEKE9XW7QQPBkAtsvqZqbubS2MCT_Uj9nc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_AfucCe_svE-Mqpcqr2Rb2ri07MxpuBF3Mn0CeBenLBDNGg&oe=69877FEF",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/626886927_887954804203634_580301859098725199_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ytnzwyNL8v8Q7kNvwFKYNoL&_nc_oc=AdkgbnJ9tFkJE_8vremMuOb4FGOuUrLO8cR6q0vCrsiAKnihAlcpNrmaG7KVeTx_r2o&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_AfvOlFW_kXZANi8gZS1-n0h6KrmfmO12ZNHonje1erSbEg&oe=6987657D",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "설레는 설 준비\n푸마, 반스 등\n인기 브랜드 스니커즈를\n당일 발송, 무료 배송 혜택으로 만나보세요\n\n*일부 상품 쿠폰 적용 불가",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "",
+                        "link_description": null,
+                        "link_url": "https://29cm.onelink.me/1080201211?pid=fbig&c=FT_fb_traffic_rt_all_static&af_adset=FT_fb_rt_event_apppur_static_new&af_ad=VANS_WS_I_bg_NR_FD_Ck_0_0202&af_r=https%3A%2F%2Fwww.29cm.co.kr%2Fcontent%2Fcollection%2F18092&af_dp=app29cm%3A%2F%2Fweb%2Fhttps%253A%252F%252Fwww.29cm.co.kr%252Fcontent%252Fcollection%252F18092&deep_link_value=app29cm%3A%2F%2Fweb%2Fhttps%253A%252F%252Fwww.29cm.co.kr%252Fcontent%252Fcollection%252F18092&af_reengagement_window=7d&af_force_deeplink=true&af_xp=custom&is_retargeting=true&af_click_lookback=1d&utm_source=growth_fbig&utm_medium=display&utm_campaign=FT_fb_traffic_rt_all_static&utm_content=FT_fb_rt_event_apppur_static_new&utm_term=VANS_WS_I_bg_NR_FD_Ck_0_0202",
+                        "title": "푸마, 반스 등 무료배송, 당일발송",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624706771_1450544203252042_5113754876061406472_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JtBWBhUwCaIQ7kNvwE0jTE1&_nc_oc=Adk4WO9spCNeGD8KIa3EO8lIfQlpCeYByu0GJK1Djf7ZSxzCzHZ9wgOmM3q8q3o8X9c&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_Afv08y9NEyiFje55L1SLbzktBaRfzudflgN5jXLXBgM-9w&oe=698759F2",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624081565_884919480950202_1737124235427543095_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=POM88DWLBxUQ7kNvwHRiQZm&_nc_oc=AdnIujwBRtiNrnypBolJnilJObRGU83hq9j9FpYV5MR3xCUtRFmK9kffDrYWNj1WMcY&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_AfslWppy_wa1SP8Yyk3w8Mpx0lozMoLVIZKxHacb6zRasw&oe=69874EAB",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "설레는 설 준비\n푸마, 반스 등\n인기 브랜드 스니커즈를\n당일 발송, 무료 배송 혜택으로 만나보세요\n\n*일부 상품 쿠폰 적용 불가",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "",
+                        "link_description": null,
+                        "link_url": "https://29cm.onelink.me/1080201211?pid=fbig&c=FT_fb_traffic_rt_all_static&af_adset=FT_fb_rt_event_apppur_static_new&af_ad=VANS_WS_I_bg_NR_FD_Ck_0_0202&af_r=https%3A%2F%2Fwww.29cm.co.kr%2Fcontent%2Fcollection%2F18092&af_dp=app29cm%3A%2F%2Fweb%2Fhttps%253A%252F%252Fwww.29cm.co.kr%252Fcontent%252Fcollection%252F18092&deep_link_value=app29cm%3A%2F%2Fweb%2Fhttps%253A%252F%252Fwww.29cm.co.kr%252Fcontent%252Fcollection%252F18092&af_reengagement_window=7d&af_force_deeplink=true&af_xp=custom&is_retargeting=true&af_click_lookback=1d&utm_source=growth_fbig&utm_medium=display&utm_campaign=FT_fb_traffic_rt_all_static&utm_content=FT_fb_rt_event_apppur_static_new&utm_term=VANS_WS_I_bg_NR_FD_Ck_0_0202",
+                        "title": "푸마, 반스 등 무료배송, 당일발송",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624310692_1654872512339423_7814043011763096302_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8_vn5ZJqjZwQ7kNvwEmnOHw&_nc_oc=AdmzeEalvDqsRPfL8owh-C4QqkpSAIhvebEKE9XW7QQPBkAtsvqZqbubS2MCT_Uj9nc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_AfucCe_svE-Mqpcqr2Rb2ri07MxpuBF3Mn0CeBenLBDNGg&oe=69877FEF",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/626886927_887954804203634_580301859098725199_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ytnzwyNL8v8Q7kNvwFKYNoL&_nc_oc=AdkgbnJ9tFkJE_8vremMuOb4FGOuUrLO8cR6q0vCrsiAKnihAlcpNrmaG7KVeTx_r2o&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_AfvOlFW_kXZANi8gZS1-n0h6KrmfmO12ZNHonje1erSbEg&oe=6987657D",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "설레는 설 준비\n푸마, 반스 등\n인기 브랜드 스니커즈를\n당일 발송, 무료 배송 혜택으로 만나보세요\n\n*일부 상품 쿠폰 적용 불가",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "",
+                        "link_description": null,
+                        "link_url": "https://29cm.onelink.me/1080201211?pid=fbig&c=FT_fb_traffic_rt_all_static&af_adset=FT_fb_rt_event_apppur_static_new&af_ad=VANS_WS_I_bg_NR_FD_Ck_0_0202&af_r=https%3A%2F%2Fwww.29cm.co.kr%2Fcontent%2Fcollection%2F18092&af_dp=app29cm%3A%2F%2Fweb%2Fhttps%253A%252F%252Fwww.29cm.co.kr%252Fcontent%252Fcollection%252F18092&deep_link_value=app29cm%3A%2F%2Fweb%2Fhttps%253A%252F%252Fwww.29cm.co.kr%252Fcontent%252Fcollection%252F18092&af_reengagement_window=7d&af_force_deeplink=true&af_xp=custom&is_retargeting=true&af_click_lookback=1d&utm_source=growth_fbig&utm_medium=display&utm_campaign=FT_fb_traffic_rt_all_static&utm_content=FT_fb_rt_event_apppur_static_new&utm_term=VANS_WS_I_bg_NR_FD_Ck_0_0202",
+                        "title": "푸마, 반스 등 무료배송, 당일발송",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623823970_1928288601227119_6589801683343265289_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6wSbynIH2yUQ7kNvwGleLXw&_nc_oc=Adnj-_cvl4nRnny1-H9EC0fRKs0jxnbUYLxZl-6eUWvH6wBwn6uiVf8E6nie8xEMLRg&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_Aftt6jqw3BCE7BUv7Yc0PIkRi99G4P7WVx1oeEduB_Kn-g&oe=69877B3B",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625670520_1571178403937063_3624402857447578340_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yQ--0CMYQ_YQ7kNvwGploIH&_nc_oc=Adm5Le9ksiy_RLFTpPoBv3lLzZ3jeJe2jW4qay5TYdSwRQxyUVrR_KVw_N9QCd8vxO8&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_AfsUDiPC7MuoCSJmJQ6YsMeKmsmEHTv2XOwK0tkw4h7piA&oe=69878402",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "설레는 설 준비\n푸마, 반스 등\n인기 브랜드 스니커즈를\n당일 발송, 무료 배송 혜택으로 만나보세요\n\n*일부 상품 쿠폰 적용 불가",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "",
+                        "link_description": null,
+                        "link_url": "https://29cm.onelink.me/1080201211?pid=fbig&c=FT_fb_traffic_rt_all_static&af_adset=FT_fb_rt_event_apppur_static_new&af_ad=VANS_WS_I_bg_NR_FD_Ck_0_0202&af_r=https%3A%2F%2Fwww.29cm.co.kr%2Fcontent%2Fcollection%2F18092&af_dp=app29cm%3A%2F%2Fweb%2Fhttps%253A%252F%252Fwww.29cm.co.kr%252Fcontent%252Fcollection%252F18092&deep_link_value=app29cm%3A%2F%2Fweb%2Fhttps%253A%252F%252Fwww.29cm.co.kr%252Fcontent%252Fcollection%252F18092&af_reengagement_window=7d&af_force_deeplink=true&af_xp=custom&is_retargeting=true&af_click_lookback=1d&utm_source=growth_fbig&utm_medium=display&utm_campaign=FT_fb_traffic_rt_all_static&utm_content=FT_fb_rt_event_apppur_static_new&utm_term=VANS_WS_I_bg_NR_FD_Ck_0_0202",
+                        "title": "푸마, 반스 등 무료배송, 당일발송",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623823970_1928288601227119_6589801683343265289_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6wSbynIH2yUQ7kNvwGleLXw&_nc_oc=Adnj-_cvl4nRnny1-H9EC0fRKs0jxnbUYLxZl-6eUWvH6wBwn6uiVf8E6nie8xEMLRg&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_Aftt6jqw3BCE7BUv7Yc0PIkRi99G4P7WVx1oeEduB_Kn-g&oe=69877B3B",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625670520_1571178403937063_3624402857447578340_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yQ--0CMYQ_YQ7kNvwGploIH&_nc_oc=Adm5Le9ksiy_RLFTpPoBv3lLzZ3jeJe2jW4qay5TYdSwRQxyUVrR_KVw_N9QCd8vxO8&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_AfsUDiPC7MuoCSJmJQ6YsMeKmsmEHTv2XOwK0tkw4h7piA&oe=69878402",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "설레는 설 준비\n푸마, 반스 등\n인기 브랜드 스니커즈를\n당일 발송, 무료 배송 혜택으로 만나보세요\n\n*일부 상품 쿠폰 적용 불가",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "",
+                        "link_description": null,
+                        "link_url": "https://29cm.onelink.me/1080201211?pid=fbig&c=FT_fb_traffic_rt_all_static&af_adset=FT_fb_rt_event_apppur_static_new&af_ad=VANS_WS_I_bg_NR_FD_Ck_0_0202&af_r=https%3A%2F%2Fwww.29cm.co.kr%2Fcontent%2Fcollection%2F18092&af_dp=app29cm%3A%2F%2Fweb%2Fhttps%253A%252F%252Fwww.29cm.co.kr%252Fcontent%252Fcollection%252F18092&deep_link_value=app29cm%3A%2F%2Fweb%2Fhttps%253A%252F%252Fwww.29cm.co.kr%252Fcontent%252Fcollection%252F18092&af_reengagement_window=7d&af_force_deeplink=true&af_xp=custom&is_retargeting=true&af_click_lookback=1d&utm_source=growth_fbig&utm_medium=display&utm_campaign=FT_fb_traffic_rt_all_static&utm_content=FT_fb_rt_event_apppur_static_new&utm_term=VANS_WS_I_bg_NR_FD_Ck_0_0202",
+                        "title": "푸마, 반스 등 무료배송, 당일발송",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625141344_1602700294016139_3484889260379582549_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VRYxPuPCZEEQ7kNvwF0aJ48&_nc_oc=AdkBInB6Xjlc-_0jdgBUPQgm0fseD9Ak7Es3ndimdOIzC2N5ziyTlSDMQVFU6CcQXFg&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_AfvvFS437yRJ9L56Ma394JbrOCveV3KsmTlHfqLOsPFoHg&oe=698753B6",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624647127_2275093059665420_5623995216455932758_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rNoOWCunjN4Q7kNvwEJzDT_&_nc_oc=AdkV2Pa65sspll8z5CCZx1O-L3GjJYea2PCqqBiM5tS6nOHLeMxbFmZVRWIi-JXD5xg&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_AfsxdzcWFXaKt3g7PIsq0zq843aT4x5_o28k9IiKgzycWA&oe=6987747C",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "{{product.brand}}"
+                    },
+                    "cta_type": "SHOP_NOW",
+                    "display_format": "DCO",
+                    "link_description": "{{product.description}}",
+                    "link_url": "https://29cm.onelink.me/1080201211?pid=fbig&c=FT_fb_traffic_rt_all_static&af_adset=FT_fb_rt_event_apppur_static_new&af_ad=VANS_WS_I_bg_NR_FD_Ck_0_0202&af_r=https%3A%2F%2Fwww.29cm.co.kr%2Fcontent%2Fcollection%2F18092&af_dp=app29cm%3A%2F%2Fweb%2Fhttps%253A%252F%252Fwww.29cm.co.kr%252Fcontent%252Fcollection%252F18092&deep_link_value=app29cm%3A%2F%2Fweb%2Fhttps%253A%252F%252Fwww.29cm.co.kr%252Fcontent%252Fcollection%252F18092&af_reengagement_window=7d&af_force_deeplink=true&af_xp=custom&is_retargeting=true&af_click_lookback=1d&utm_source=growth_fbig&utm_medium=display&utm_campaign=FT_fb_traffic_rt_all_static&utm_content=FT_fb_rt_event_apppur_static_new&utm_term=VANS_WS_I_bg_NR_FD_Ck_0_0202",
+                    "images": [],
+                    "page_categories": [
+                      "Retail company"
+                    ],
+                    "page_like_count": 320456,
+                    "title": "{{product.name}}",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "29CM",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "MESSENGER",
+                    "THREADS"
+                  ],
+                  "start_date": 1770019200,
+                  "contains_sensitive_content": false,
+                  "total_active_time": 57822,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "25350197328009009",
+                  "collation_count": 5,
+                  "collation_id": "1372504524267561",
+                  "page_id": "103164259268905",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "103164259268905",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/nikeseoul/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "Nike Seoul",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624258378_1199350025569256_4207688333958565250_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zaw9cCpRXLgQ7kNvwE9-g0w&_nc_oc=Adl5RKMctGK1ToUeinzbw1zVMSwJFXYJITPr553q45KWqLMkAQJ0PBWQkI6gz5TPzdY&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_Aft0WvYxZoTLns5wdcdVhkjyrI0XNAku_P3FTqaW06jK3Q&oe=69876EAE",
+                    "event": null,
+                    "caption": "play.google.com",
+                    "cta_text": "지금 구매하기",
+                    "cards": [
+                      {
+                        "body": "나이키 앱 웰컴 쿠폰 : 15% 할인",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "",
+                        "link_description": null,
+                        "link_url": "http://play.google.com/store/apps/details?id=com.nike.omega",
+                        "title": "포근한 겨울 아이템",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623956485_1934591917467710_7959606174407993876_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tdWJtJG3uKcQ7kNvwHJGtc5&_nc_oc=AdkmpoCBfI-CZWAWmA2KiogQVY61iALYy1NKdMrlF5bITdBfW9B8n5NOI-BuJwLkk2M&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_AfuXqoKVx9FMbxf98bQtCzKCNbA5fECi5LhaL_zEQsxQYw&oe=6987857B",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622992768_4344451859162491_1718100616698388395_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bX80swcih74Q7kNvwF-5NpV&_nc_oc=AdnPBh13GvWAwPXT_bfwEHoTbB2za1QSlHGpfnnpVwuYyJawieeLZ9IY4BWyvGx5ObM&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_Afs9hy2tiHYSSZdO6DFj9OjRGbtPqhsoqqbfTQQF1Vvg2Q&oe=69875B34",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "나이키 앱 웰컴 쿠폰 : 15% 할인",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "",
+                        "link_description": null,
+                        "link_url": "http://play.google.com/store/apps/details?id=com.nike.omega",
+                        "title": "포근한 겨울 아이템",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623124381_1412855690279483_6667553573973889122_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sW_oxm6i9X0Q7kNvwGku0yX&_nc_oc=Adl9YacRN2Yz5jV__vRQLY_BHtrs33IdP_mKQxQIeO650iOFbB25MXmWBZuj5Kl_xz4&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_Afs41WJVAHOgCedPH2QP-ETM89n-_pYgTac6ony3ia6oew&oe=69874FBD",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622316411_866090159519773_7648107938149473272_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TbVl9kRDM6YQ7kNvwF9L_MJ&_nc_oc=AdlNEputp-0Rfwvy58ZnbBGT8277C4vcY-mZJjNTNWE0eiB0-PF7QDdlt4sGIRW18s4&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_Aftm5I9DVjYwhTiuGBz_3L2hKnXUCZkZ41jS3_2Ern3pQA&oe=698771BE",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "나이키 앱 웰컴 쿠폰 : 15% 할인",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "",
+                        "link_description": null,
+                        "link_url": "http://play.google.com/store/apps/details?id=com.nike.omega",
+                        "title": "포근한 겨울 아이템",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623401352_757646590263675_9025569212687559638_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eezp68sD7oMQ7kNvwFZNe8R&_nc_oc=AdmCeQXUBTBdKJHTFmGlwy7aQfvYU6PhKJHlnUz-9-Um54n-YdDOIncSpTyKj_GTPB4&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_AfuUna0D-sxwryJz0-JX4-9KViDDYLnriX7Ca49GcCQRBw&oe=69877C0F",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623012439_1622364012107193_1349774661260310206_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GP2qloEE17EQ7kNvwFJ-3hA&_nc_oc=Adnu8oVbTBQqwMrrTj4zdbB2nih4x4eoAWexMAhLeXEGm0kvg015mX-2BKnSYzGQXwA&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_AftVnJ9uKedU9BKFK-mf-W1Nm-qwh-FIZCaaJFXOT-mhBw&oe=69876519",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "{{product.brand}}"
+                    },
+                    "cta_type": "SHOP_NOW",
+                    "display_format": "DCO",
+                    "link_description": "{{product.description}}",
+                    "link_url": "http://play.google.com/store/apps/details?id=com.nike.omega",
+                    "images": [],
+                    "page_categories": [
+                      "Brand"
+                    ],
+                    "page_like_count": 26593,
+                    "title": "{{product.name}}",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "Nike Seoul",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "MESSENGER"
+                  ],
+                  "start_date": 1769760000,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "1064961332453141",
+                  "collation_count": 5,
+                  "collation_id": "2316436735496330",
+                  "page_id": "103164259268905",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "103164259268905",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/nikeseoul/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "Nike Seoul",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623117824_1095742355986911_3840084461485347989_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jm9IOJ9CfD8Q7kNvwFBO54T&_nc_oc=Adn77QSa9KfEkxdJXNEkDBkwmiKk_FPTnMOsiwNJkLMJs2ASLRR8y6KXjoA8NgQSZ6Y&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_AfsDtYRNtP6YNQGVo8Jnz2ejvY2KWDoN8bMixhkNuYUmjQ&oe=69875392",
+                    "event": null,
+                    "caption": "play.google.com",
+                    "cta_text": "지금 구매하기",
+                    "cards": [
+                      {
+                        "body": "앱 첫 구매 시 15% 할인",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "",
+                        "link_description": null,
+                        "link_url": "http://play.google.com/store/apps/details?id=com.nike.omega",
+                        "title": "나이키 에어맥스 TL 2.5",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622802991_2050508995806006_9064868521472274834_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=C15Vync_ScMQ7kNvwEit0Q-&_nc_oc=AdnSw31DucgSX-6dBJOgejHlsJIDbTsBLCtVc-r4wFfzFBc7Y6IwufWE0h-gmnBxeY8&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_AfukbEwDULHdPwq2VoSetO_EnLd8n0okERqrGBrru07MjA&oe=6987779C",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624333871_4380914135461157_320103204025970441_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=maZg44ae4rAQ7kNvwH1OP6t&_nc_oc=AdlqQsbHHZwKAlSJkfcabszgvX9oXQsruVPAiaX52G-wQiYpJHOEcCisePDuErqe15I&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_AfuvMztGE1d_1UXTk00Gh2OCCUFzCkHHhBa7WSGa-FHQpg&oe=69876612",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "앱 첫 구매 시 15% 할인",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "",
+                        "link_description": null,
+                        "link_url": "http://play.google.com/store/apps/details?id=com.nike.omega",
+                        "title": "나이키 에어맥스 TL 2.5",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625894089_2020313105182575_1322917391534185962_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=fWtejqlcJnEQ7kNvwHB2nze&_nc_oc=AdltWtsWCPg0uRzOBHRIktJNT_MVs_PfV8xZp1l4AsZFQGf7vhQbZKrdxoeKFpKKJPU&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_Aft86yF2jSPZvMjpOxYAIBTtBTp2WnNgpaHgBRxZNbytJg&oe=69874F75",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625087442_851009004429100_9215564147694460339_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2gH3eYdIxcwQ7kNvwFRGuWN&_nc_oc=Adm4exNdZNjzyxdjR5xBZCKPBKjTrRJHOLJBB2xLhF7FqfwXRSUzzBwr95C7ZDJwSVM&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_Afv1uRQldjnPlORCwpvfdBBBSSD84Xy1IGMuN1N6MD46Gw&oe=69876F0A",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "앱 첫 구매 시 15% 할인",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "",
+                        "link_description": null,
+                        "link_url": "http://play.google.com/store/apps/details?id=com.nike.omega",
+                        "title": "나이키 에어맥스 TL 2.5",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624768081_1445860573841043_5317989530590478024_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=A1ukgmFJX54Q7kNvwGS6e8M&_nc_oc=AdloIDjr389gow5ECXnGkaGjeKgqd1HAXCXeNp6H5hj41O9K7VeNlVzmH5IbVxj2_fE&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_Aftpd-QCKctptwprwVD7BxcMRtNipUwxae7h0hhU1vZ3Kg&oe=698770AF",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624578220_781531327629045_6757743734623584010_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dQcePOX5eO8Q7kNvwH5_S7E&_nc_oc=AdmNrO79KXNfmC2MN2I5gLQdP4VnvRU_0qslNNxAgP2c8SexnIsR5xsrhdp4P2YDtLI&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=ZAQFt4PCJmz24SZPgBSeag&oh=00_AfsCZs0uN8I7cyGLutZQXfLALXYQAMGfqFPhjHrZWim8mw&oe=698782A3",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "{{product.brand}}"
+                    },
+                    "cta_type": "SHOP_NOW",
+                    "display_format": "DCO",
+                    "link_description": "{{product.description}}",
+                    "link_url": "http://play.google.com/store/apps/details?id=com.nike.omega",
+                    "images": [],
+                    "page_categories": [
+                      "Brand"
+                    ],
+                    "page_like_count": 26593,
+                    "title": "{{product.name}}",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "Nike Seoul",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "MESSENGER"
+                  ],
+                  "start_date": 1769760000,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          }
+        ],
+        "page_info": {
+          "end_cursor": "AQHSupN70kxZke65rpNtZyn-2d3ya0_NAz6n9yJAjO2NDcRC7xGaKA51XHFIbnS1sF7J2moIoVemW1Ncek7Z1Y18iFvE3mFPw1NaXJSPmSruTVDdJMafpKymacw_knaAlgKdVnZf-1pW9T4cqveHySm_EwNibTKxGyrfZVCykWxJGJ7SKpJ1MDZjoHFFYzQB8FSHin07vjSzJb2g0M7N8aGx0qnlzxOjRtkLn00v4kO-dzQIORDLEu6hK_bc9Ht19DMUacCJ7aK4GPUbW8DiBIygFmatJn_jG2YCP9W2YAI8qXVbtN2NcCiRAZthXvsPFfg_kXvq3PExCnKmAmKHgEu-rqxcz6Bbr45o1bRVGsrSQVPA0YLMys8YqxbT0N9MeyTW87hTmtBRjizBz9EVQ5ceYi_sZIf4ACPdvOQrJ5furQEucUfRAFCSunfs3yqNX3lukWVJSe5Oi163Mk1hUf4Y-TH9eGLqA49ZN9vclsqYU-GIXfIxn0U2C3zGxgyz_Jz87aWRf8dW-l6bjxz3ASMe6uJ5Mp_VZsEI0Exhfqi8EkgtkidCqA_50Fz1iu6EdN5L0fvHQod6JYoI_EHY75Pz6L8NFHi7QcDusHdq70S__e_aScZEkD6-9uDCVLz0d2OIZHfJ0Xx-2LtUaaT8O2uoNd1EZseHW_oi_-sE5G_9w25AR0mC-zfZSdSrf-Sfn8zgNj2H7F7-FrdA2lwoPAYnEtggCCROMy-HNeAE0nMV5KVaNUwnkftCRlrpaD-rYueB5ObQHSAfLIU6FTS57Pfy0iWwRYleUtEgCOkHATmNVDynekIY87-dMu6dkaP_nQoTC3-B6iq438DNghmhYaLdspfr4fVvDGP9GI7-VBdNKEU52Za0UEHQL130XhXPKXJn9426_3j8BmmSXzu7Qbbry-gzBNNIm7iukAwT4XnLJ-2anNZAGMvhoFtMcUR53xZZmhKp0qqZQS-BbqIhIyJ5xyA6KfyMK776J9JQrY8A0CNDJ3XgRtBV0sgM1-U0m7APnMRP6YX6zLlrPYFai4L75t8EweIN3xyVCJqFS_Y9KusuEKLyp9Rhz4zGUXrIFPCzu4HUleRpck4k7B6BzhRBMrC1gOSF3j6RcTy8woSb_nx5ioZXLpY2K5ji9vQ2nxVxzu7MWKtcy7Q5wnRkKg40f-4Ozp1DMSENT7vAVAMfiXzx7Ix8Jg3CItVqPwD9zwaaJwKQjOd-ZQPh3DTkdt-6DLhO_z1xhz9u_CeblP1oi6nuJJiJTpufUQ0zS92EAEHIGkKI2Gu5587mxgMiyCOYhzsN-zyg3AaDOunkl3u2pNAowKSx2Us7g9Bgsela_i4tz7vMYKc7RbGCIzf7T_o3YaGgpFATnZOeTm7ZyyqirejSPx_cbH5aXKLhl-h8M15r0BpNVBOYQ7D3WUImJFgYbp9VcpUwQBNOtYczfzcyO3VTQ55Vis535DjPFBkDXb0CU_qI9JCdzeYLKM-uxEa4UlIPSXpyJFiqO4bVTPKP4NDsGIWLsPhypsENQ7gcvIgK5qrcWNXyOu6XcV0EgnnFRoaoUnr9hbsGIg1sXPtU10MZHjxCbiQM7Y5b6EAIvh33ttQAUYn4Mbg3AXoHMFE41TJQ4OTFHQH2gyWWnH0N0QU7-WwSkhP4_6KqHpZM66aQ50ovfp0PieIfzrovBds7HzBCmPH85dzIdJSlpwmItuc8lZQfRYeTt5P-1poeiI8rus9Pzf_B84FUv2afl9Wm2iBi6cIIUC2AxAqF1wKq3B13lwiVi0XrelETAMGhjyo-lOzdyNDxNvsbRbUhBceD7N0tTylqov1LW-oS3bTKtqLDgIyxt8hL0kT-rlN9C63AYjejH8CaZpgYUJFrSC6CYr3JmKJZ97jHKsxcRrK9vB0kcX8x5LEk0LdLaC7DTNwTc-FyvWHZg_f_jh8A6mMMkh7RQqe_JXqJW1k5mQc_KSnchJEMwdrAcfWF0icbwq0D9RH1TwwPqVKOv7ZE3MyjJSrxI-Tqmrtivsh2wGONS4JYqBJZLlQT2xL9jhCYdxXgSVz9vMqypYbA-NWvA3Fys88iwnNMzQ2bV0dzEoJ7zZG6O7JZkKzB30gaKGk-tpr3TVpoi_40gMGlktvp7O660gYHh3YOk7OuBgXDbE6M0hDzvGIWnmRvm3v-gRUryry7xDNUeArmAnDScWXKELGOYC_qEbQj2B5-GRjs1bCfiPK1DJDpYfo7tdT2CW4JE3tflo2e-hoHOWF8qKuuj-Ryjl4PYO_r5zhjLeAbOHIqmOloK-JZFAezQFV0ZNIaUZ0rkxhGM-dT9futBqaIkUOpyG7_P35aIMk1XfdBWjdOAYT63i-WA9-vzxTwCyIiIFp2yriLTrmAy9evy8lwaoTiF7VXRkx8MOh0g405nE6joySKC_SjbCKEXicUyNin6iv7RkkVJ66FDFBqhn6BYfgFaaJSWodzQ0JRRD8B2nm_hXEzj_a7Qpm_Vq5cgvzGK9fU7aEaWo1dSkslfQZ6_i0Ti8BVZNZN0TcodoptltwZ7zdkDNxNiJMsjD1xlJnOdrUvG7d6WtV3yCrdMf20YD_AF-THy14rSFcaBwT2APzLvbn9KhW4ZG2fS1RJ6Fb3RY77JYVO46-dm6FQlkgoLyBY0yOBW15zQl6pvwsjaag9ofeAym1wkLC70X_UcH1xsc2qKiQu31tMChLmBfa5NcZWWGJs0Mfl4HV1qdouOsOYexRK3Oigo_HPNR2eZwVohTk4khhn7XO72m6M2bM5iQ9qqj0zb0vtadr2VWVeSAvcwq3Y8IEo8HGMZyAcKu3nBP3Nm7sB0l9PENwu2OUp2WmI8CjjA6_8RgvuBsdSxQbamR63oDAHCsS4FyWygEipbouN4_t3-DsysdZeoocadKLoYREDiiUCWwq6zYh_sIH7OQU0_zyugPuD5E17COpEJ2SEXPKq7784M60molgeoyY1QiINAf55c091lDSudUUg8AP_V-iwrP52Ob2nGk5ipxqvRDKOCueHX6LqmczfiKIvulOYS9ydrBZu2G2MPPEsyx1OSduRWc_aOAlLMBD5yYmXFwSppgpiN_oBuHEHj8s_EZJsUGpB2BOvxOZuiLpUqPW-AYJikCrCfyyUxn6zZB_iZf4p6ts7YJ0IWvW7EztylhiDhoJWGeumTkuQJ2MtemmOqwR3uzGlIgfuUbh84MIgvqU-7LPyF-JcRtBSgF4v0PkZORzYWdw323TEC4lesUvBD9jC9kzqEdtDz_whnmMWz7CSIGKUXOq9mBrl6yVG4w",
+          "has_next_page": true
+        }
+      }
+    }
+  },
+  "extensions": {
+    "server_metadata": {
+      "request_start_time_ms": 1770100735427,
+      "time_at_flush_ms": 1770100736278
+    },
+    "is_final": true
+  }
+}

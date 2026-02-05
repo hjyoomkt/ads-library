@@ -1,0 +1,1836 @@
+{
+  "data": {
+    "ad_library_main": {
+      "search_results_connection": {
+        "edges": [
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "1602065494446152",
+                  "collation_count": 1,
+                  "collation_id": "2250272062066432",
+                  "page_id": "466428843228839",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "466428843228839",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/61569996880257/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "빈티지아름",
+                    "page_profile_picture_url": "",
+                    "event": null,
+                    "caption": "instagram.com",
+                    "cta_text": "Instagram 프로필 방문",
+                    "cards": [
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "https://www.instagram.com/_u/areum_vintage",
+                        "title": "아름빈티지 (@areum_vintage) • Instagram photos and videos",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/626311510_1975062226768010_2598923599426780921_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_ocv5JFRBTMQ7kNvwGR-FPu&_nc_oc=AdmsBuUvtJTZo2w5dLpFi9JoZNAb8dla_RJ1Qngrm0VQ9eYNdzXm5iaCPNvvrvi2MG8&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_Afvxuf9R4M1-u1vef1JTw8BesA0ZFlUtN7yrHJklx1Bt-Q&oe=69877690",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/626506275_1252144467104028_3269618599553695500_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_mqa2bJev6MQ7kNvwH9Ys3i&_nc_oc=Adm1dP7GzX05NcNZ34xkN3ZJvoDv01VZOfVTrsdVdJo2NyglBBUi2KfemxEZKpgPJpc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AfvkKWnh98Rofg1bFoBtevuRhyDaswf6Xbgc83YJtE5njA&oe=6987555F",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "https://www.instagram.com/_u/areum_vintage",
+                        "title": "아름빈티지 (@areum_vintage) • Instagram photos and videos",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/626768581_1973088413604282_6145102885986979574_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1URvycfjmRcQ7kNvwFAxGr9&_nc_oc=AdlvQAeDKcv3xr6N2udOZP10gC_9TDVeBeC4Ca-PTD5EHbCTgYbU6FQ_HcKLd-rF9vw&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_Aftl-LXJna-vZPgI0eTPrscJZb-cfoAmPPNH2qRSRSIQEg&oe=698775D0",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623455951_1542553850310385_5840041073523953620_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nCIvS85Q6ucQ7kNvwHMcZ_g&_nc_oc=AdnyshOXl4cUa-J2uNhphtpQH_2tHnaE-2dqzGLPtRPRouJAWhxPtTw4Geop06JPU0s&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AfsrlHEp8PSJdcBvZycoGUFLW-zW22rtd5DV8INfGY03Rg&oe=69875D87",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "https://www.instagram.com/_u/areum_vintage",
+                        "title": "아름빈티지 (@areum_vintage) • Instagram photos and videos",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/626782968_1541177286942457_5025304010727762750_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xj6c_njG94AQ7kNvwFtrb8h&_nc_oc=AdkttZaTm1AHTHtWaJPuWrHiLfYWv4DWe5KLIWFmr7gaGb8lfzfBfK0vhh0v5VFB5bI&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AftmIfycASNtQllADkwK-llTwYGu9Nr9PaPoJECu-jf17Q&oe=698758D5",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/626034884_1446684373683285_5208417019155427754_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=EDLdBgRDfKMQ7kNvwFE1spm&_nc_oc=AdksMruAHWoDkOJ5B9eu3-_sTbXdd6RGcW-DEkw5ItLlIcpxlLRn3VLLetW_fffNUWY&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AfvKkY7XMJd2XUqIwG_L4VDWd3POfmeiwj2WdriW93F3rA&oe=698778B7",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "https://www.instagram.com/_u/areum_vintage",
+                        "title": "아름빈티지 (@areum_vintage) • Instagram photos and videos",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/626941547_1634054367752764_6875133215215334392_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1pI3v6EulfQQ7kNvwErSSzn&_nc_oc=AdmuJN1IhCsxtYUzZOJwivtnrHvMm1uw1PJ-I-jcsCkca-TReJbKo8TNkG9BZgyRgMI&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AfvWwIUYoObhnFWpJ-4R9OvGbWXlAP8EzJOhuxyG3I4o7w&oe=698767F4",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/626612088_1209918390776766_5951287303958585043_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3eN53d4vmRUQ7kNvwFSMnSc&_nc_oc=Adk0FTneOnz8MwGoNPIJ3C_dj5XHrk4VVxNsIcDhL9RJIhD-mcMpYhxot0VCQ6QWl_M&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AftG0Hrl0BlflNPDlZbIg6IOvb8ON6VXjQY2Om3VkGGN0A&oe=69877BF3",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "https://www.instagram.com/_u/areum_vintage",
+                        "title": "아름빈티지 (@areum_vintage) • Instagram photos and videos",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/626399853_1381225576645415_4446453302745685205_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1YndJ5qFaz8Q7kNvwGMgVBp&_nc_oc=AdnjMM0vgP62k3Akzj5Aqjl1d5QZBLdSQwHhKPt9XCcbFPS59csFWGJeZuKLXCezRp8&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_Afus7JjudYrutt4ZtGxMIU5ZDJbIwf8sgJzZXBGOwtU8FA&oe=69874EBA",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623370891_2414656368954288_9179642666829994136_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=p3hbC8vEhE8Q7kNvwGH4zkQ&_nc_oc=AdlTLEuS-UEkvHEFbhsfyey7-oslYkLMxKYKmNKLWPEuCEQ6rpnp_O1PXBlw6DD8gIg&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AftPgtKnUxYFrcA33x_5qTtvZIMKclmMP90W35LVzE9YWw&oe=69878255",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "🤍대대장 아이템들 한가득 모아왔어요🤍\n팔로우하구 업데이트 상품들 구경하구 가세욤!\n\n폴로 / 아베크롬비 / 노스페이스 / 베이프 / 스투시 / 아크테릭스 / 나이키 / 홀리스터 등등 기본템부터 대대장급 아이템까지 보러 와주실꺼죠..?🥺🫶"
+                    },
+                    "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                    "display_format": "CAROUSEL",
+                    "link_description": null,
+                    "link_url": "https://www.instagram.com/_u/areum_vintage",
+                    "images": [],
+                    "page_categories": [
+                      "Vintage"
+                    ],
+                    "page_like_count": 0,
+                    "title": null,
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "빈티지아름",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "INSTAGRAM"
+                  ],
+                  "start_date": 1769932800,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "2015121342768852",
+                  "collation_count": 1,
+                  "collation_id": "1239909328201917",
+                  "page_id": "403269526194583",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "403269526194583",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/61563285595072/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "블랙콕",
+                    "page_profile_picture_url": "",
+                    "event": null,
+                    "caption": "instagram.com",
+                    "cta_text": "Instagram 프로필 방문",
+                    "cards": [
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "http://instagram.com/blackcoke.co.kr",
+                        "title": " ",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/619995458_1225119389553117_476521376981567171_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=V-mkmIE27yIQ7kNvwEJi3cp&_nc_oc=AdlC8PlfnymBf07rIqG391NOARN4VCQBcUOewzCe3pXv4unI4DycsXQNUCbaK4oPOkA&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AfvV-e9gYaFjta5xfii-CJvPGjcVmVrk9iix59QtoPOr6w&oe=69878532",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622624541_4376744702602212_6663304862919011349_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sBLExXMbvvkQ7kNvwF1soEG&_nc_oc=AdkyHnWE0GWwnrQ1oc0dTsmKxFwtSAd8EtNcxy5GLEVImcMfbzJkgs-1tF73I7HbOn0&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_Afsk-SuXImmxTRhVK5BCUhzMwf_SW8I-f_g_djqcSpFFew&oe=69874FB3",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "http://instagram.com/blackcoke.co.kr",
+                        "title": " ",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623396049_1550536895999215_4050991408336283125_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=w_A52IxFaK4Q7kNvwFEfRng&_nc_oc=AdmerW5F23r4f4MNrQkb4PJ1J2j7g6YXTvl3fi8iA97HPaymAj3An78kUeb9wNVwCZ8&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_Aft6DEQiBbx3Bq13t2o6mL3gB8O3Wp4lek9OgjawytOCdg&oe=698761A7",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/619593364_1597682238102104_371557681001371573_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=PgKC6dWjCoIQ7kNvwFKSQPf&_nc_oc=AdnbpA2oHC_mLc-EUhK175WuD2BAbBt9hpbJjmpZv9dSU_SVqhABDGdRHA60vdpZLAc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AfspAUpOLMAMYGuXK2_4ZLc2Vvhtao8B5jaZtMeAV7Rifw&oe=698782EE",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "http://instagram.com/blackcoke.co.kr",
+                        "title": " ",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622414380_785871017136650_1528193031467441905_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pWB4z7CGYgcQ7kNvwEEbLPT&_nc_oc=Adn2rK3832jy77tY5qHMzboAz1cN0MpfvFUwQywI3EIN2SQgAZXVb89wRRcehsoVM6U&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AftllgWIwM9WyLhd81XTQJgYYb2zUJ11AgjAwLrzliEUSw&oe=6987759F",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622670198_1678455976642423_1981027549122575935_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=05Snb0HJMjYQ7kNvwH9Vc2X&_nc_oc=Adlqjox8Q-KCw2a3afjaJSsKwPBpX2I7wQsOr7jN2AuSSA1q17srAQfqH88xuRcB5vc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AfsgutxJKq23SGieiH1HKZgd3Z75Un-1lfN97zL66rw7qg&oe=698772C3",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "http://instagram.com/blackcoke.co.kr",
+                        "title": " ",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624848900_883285617749713_3476433502143202674_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vULnc1jdqMoQ7kNvwFMtQOS&_nc_oc=Adn_MSIKnIu8ZhKy-K7UoCSNOzkA96pEdtfxbZ6lyMPaXFkOiRUbn_M6PHWIxghRUJs&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AftWMI1Dtm5O1T0E3pJzcnbEnBYDwaEPj2GqJdC4EUU7YQ&oe=69875F1F",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623941623_1296370665659309_2058100832378165141_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8roJU25VavIQ7kNvwG0cFT1&_nc_oc=Adl3nVfDFOMi9bKF4ptorMNiaLoyMenXeXa95Ju2rOTgRbUMsJsYryZplDPMUw13z8g&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_Aft_vTg_oIrBxTf13pPodpBbXrAsVSfo1xrg8N6bvResVw&oe=69875A2D",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "http://instagram.com/blackcoke.co.kr",
+                        "title": " ",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623350648_1781421515831360_7960493618374851452_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=y3alWrYrcOwQ7kNvwGa94zM&_nc_oc=AdkEWb5xaWPTvNAb8Q9So3frmo7D4bEIQWwDN9gyB-k1ZAAzuFIbZ2a1g-9ChjsTUd0&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AfskfSEUh-N93mEaMWjgWAq8rNfouvZZ3KlTVPf4XJ3tzg&oe=69875693",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623354116_652982437873285_3898094037744592549_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wn82FEtnNGYQ7kNvwE1RDLK&_nc_oc=AdlNx4oeExknX67FftQwpmxpZMIME9065iSNOmd62p1vmihgBgnTn7rgw5Zj74bDnFc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AfuIkFHOnROs8Ovfs_DoIUEtGrIKAAa-J6yVR569tbECRg&oe=6987734B",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "http://instagram.com/blackcoke.co.kr",
+                        "title": " ",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623254723_1657060908993319_8486486784634761768_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=m5MFSjQqB8MQ7kNvwHm-O7r&_nc_oc=Adnxe8YSBBz26HioHF2K34G2ACm0kkLrHFSKpYdThtOKQPp0tDnXu_bNkS-3ho09NzM&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AfunW2Z7pCQ8QnJzEKjh2n_kg3rODao4Ll_4tjJSuu07ow&oe=698775B1",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622363145_25522790167417096_6048531445118461424_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qcX9TrPt8dkQ7kNvwGNhsly&_nc_oc=Adn5Pa3OLt4mLhORtgLw14nMSxGGJraSGBaVLi-WRr5mkoUZbprAAKRC8ys66R5V5Qs&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AfuvekCS6fUhlLXWR2oZbHFHifjbhZLz4SmdYFgcjvIK5w&oe=698767DC",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "http://instagram.com/blackcoke.co.kr",
+                        "title": " ",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622143968_1338803154928638_2146077663845614704_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dg-JsmL0sXYQ7kNvwHc1tcy&_nc_oc=Adm0MITPiX5a6xP1M2ZNNw81Dbs9L30XNX9IwjgA2q0xRnaOtSQTsqxSD5Mk8k0mAos&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AftpGp8xg95Ev1D8q39XRRfzc13gdNcVCZ_ShHSLRZ6Vjg&oe=69875673",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622239465_25749975567994821_9048351826396050597_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=cJJoe6UPhNMQ7kNvwE51wzT&_nc_oc=Adk5SR4SX2ElzXXZPk33lPDh9s4r6K18f-IZAx5TGVGtxTpSLE8Wk2h7rOQjuYedJFk&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AfvoOeniHbdYxlnME1c7UR200D88r8zEC4LVuCtgV3nIhw&oe=69875551",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "http://instagram.com/blackcoke.co.kr",
+                        "title": " ",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/621808823_4190995117879558_4643571722763977374_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4_8obm7-bV0Q7kNvwFX8aMR&_nc_oc=AdlNgVBmiA1vydk5ifqxHw40wIO1gorQNSD0lE9SjaMvH0t9q0BSPZNfHI231kTCTKs&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_Aft8j1InwYnW14jNDzsGUxudIpMqaYnNu4-Kt-eh9mVKmA&oe=69876715",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/619815066_953491850681286_4452049393924881141_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qhLmigM7a9sQ7kNvwEQGjSA&_nc_oc=Adl16t4JriWAII0G1pT_GI_Mu7o_O3G5YBME4FvBKaJJCMYcJGTT3ye9Ui0t85C2ObU&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_Aft1Olk93gVJeEZ_GbRezrfNydLjVCfQq72JnqS7ZF-qfg&oe=69876186",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "http://instagram.com/blackcoke.co.kr",
+                        "title": " ",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622078851_1420403496399703_9163628180098758891_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4dOOGBPqDwkQ7kNvwFKB0kj&_nc_oc=AdnC_6kzTfCz2aq0_bRA0YbBoH6EghthtCggm-1IVr8GWP1-J4SUrVKHFFLqaQBeiyk&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AfsMwcA7SfizjS2Y8fGQgvt9HM36avCtHxFcG-GXZAZKtw&oe=6987645C",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623533298_1212629150997009_5979733771407547740_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9J6eGF8YToUQ7kNvwEcZu0i&_nc_oc=AdlOWEpqZcDx5sOeZ3oxqI2AjCzf6FLTwD0paCyRn0iblXESfjv17uvZT4v_DGflrr8&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AfvVlgnEvG_Y5K9qoxu-__8eigndzfCrc6Fwb5AV8X9wvg&oe=698784F8",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "http://instagram.com/blackcoke.co.kr",
+                        "title": " ",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/621656064_912950994516736_5683871173553475494_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ABEE5DTL6dMQ7kNvwHUNEVD&_nc_oc=Adm9br_LyVFZhGeVivvWot38mU11gZr7KQSPxtEJ6hYDXEYg3COcseKHMnnhSsmMvZo&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AfuFHAESQFaJG8_fgqA9DlkVVwvx6eYJAxyHK8y_04nfRA&oe=69877DD7",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/619919608_743354392177971_7534943430754811335_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=heyZX3MlHiAQ7kNvwHenDN6&_nc_oc=Adkc6VpKTYw6MlS2FlSfN40Pz0Y8hXJOPLvKeMhxttepVzwFdnnRuaGBeJ4gHCF00fI&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AfvuGXmjddxK7g9vrM5H6YGZEs1n2AzWW2uJfQIBLXBD3A&oe=69875593",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "블랙콕만의 특별한 나이키 아이템⭐️\n모두 정품이구요:)\n문의는 디엠주세요🩷🩷🩷"
+                    },
+                    "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                    "display_format": "CAROUSEL",
+                    "link_description": null,
+                    "link_url": "http://instagram.com/blackcoke.co.kr",
+                    "images": [],
+                    "page_categories": [
+                      "Shopping"
+                    ],
+                    "page_like_count": 0,
+                    "title": "블랙콕",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "블랙콕",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM"
+                  ],
+                  "start_date": 1769846400,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "1625804485076126",
+                  "collation_count": null,
+                  "collation_id": null,
+                  "page_id": "103164259268905",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "103164259268905",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/nikeseoul/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "Nike Seoul",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622779312_922153207014847_4296782232662122025_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gCH7PxdlE3kQ7kNvwEsjf4_&_nc_oc=Admgcl53-Y8cYhE2g2gOthk4XQDVoy3bZvdPNnK6iMq516Edg3l7xBuDISla7_Rvx6o&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AftpbqDu_GldJx--saVBDL1Muy4olzIavIuU3qgZyGWSBA&oe=69877A39",
+                    "event": null,
+                    "caption": "nike.com",
+                    "cta_text": "지금 구매하기",
+                    "cards": [
+                      {
+                        "body": "나이키 베스트셀러\u000b앱에서 무료 배송 & 반품까지, 나이키 인기 상품을 만나보세요.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com",
+                        "link_description": "Nike delivers innovative products, experiences and services to inspire athletes.",
+                        "link_url": "https://www.nike.com/kr/t/에브리데이-라이트웨이트-여성-트레이닝-발목-덧신-양말3켤레-MYe8IrR5/SX4863-101?utm_source=Facebook&utm_medium=SOC&utm_campaign=365DIGITAL_Facebook_DA_DPA_all_all",
+                        "title": "나이키 에브리데이 라이트웨이트 여성 트레이닝 발목/덧신 양말(3켤레)",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622697470_2664949853879857_8051656099510895324_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eSrSFUya2KwQ7kNvwG3sTwu&_nc_oc=AdmtgrMcmEEiqA4MCLlUVwt62BDTsvyxpUI28vyuYTH6e_zclu4fBKvKiYp1MCBAfUM&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AftQe99DNMtnSPNKOwgbKibCpVewl9klN726QXoujQbg0A&oe=6987547A",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622697470_2664949853879857_8051656099510895324_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eSrSFUya2KwQ7kNvwG3sTwu&_nc_oc=AdmtgrMcmEEiqA4MCLlUVwt62BDTsvyxpUI28vyuYTH6e_zclu4fBKvKiYp1MCBAfUM&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AfuA_uiWO75kFXGC1ouDDyTyAJNWhu9H86zXCjUiQIQmQQ&oe=6987547A",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "나이키 베스트셀러\u000b앱에서 무료 배송 & 반품까지, 나이키 인기 상품을 만나보세요.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com",
+                        "link_description": "Nike delivers innovative products, experiences and services to inspire athletes.",
+                        "link_url": "https://www.nike.com/kr/t/드라이-핏-uv-하이버스-남성-반팔-피트니스-탑-y4cT9Qmb/DV9840-010?utm_source=Facebook&utm_medium=SOC&utm_campaign=365DIGITAL_Facebook_DA_DPA_all_all",
+                        "title": "나이키 드라이 핏 UV 하이버스 남성 반팔 피트니스 탑",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/621851452_738625302653617_6630551637961339973_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=AL3sOxjLdqEQ7kNvwH4DLjs&_nc_oc=AdnVOdtMFNCnYMBgyXutKWMXlcLcEwG4gSHAB5gx4H7EOZS8gNvd-UkltTYEt8MbY3g&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_Afs2UuLw3KJCj5C6Rp9Sv3YB2GAF3hKGmD-n39_2GVMcXw&oe=69875124",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/621851452_738625302653617_6630551637961339973_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=AL3sOxjLdqEQ7kNvwH4DLjs&_nc_oc=AdnVOdtMFNCnYMBgyXutKWMXlcLcEwG4gSHAB5gx4H7EOZS8gNvd-UkltTYEt8MbY3g&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_Aft7GpKP8VRc4-vsthc0xz68LED9JE0VltMIGgWKihd3VA&oe=69875124",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "나이키 베스트셀러\u000b앱에서 무료 배송 & 반품까지, 나이키 인기 상품을 만나보세요.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com",
+                        "link_description": "Nike delivers innovative products, experiences and services to inspire athletes.",
+                        "link_url": "https://www.nike.com/kr/t/드라이-핏-프라이머리-남성-트레이닝-티셔츠-tSUtAJSq/DV9832-010?utm_source=Facebook&utm_medium=SOC&utm_campaign=365DIGITAL_Facebook_DA_DPA_all_all",
+                        "title": "나이키 드라이 핏 프라이머리 남성 트레이닝 티셔츠",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622798101_1311443447410437_5067760258779503342_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HTEtBblhxOAQ7kNvwGOPrCF&_nc_oc=AdlJryk6BvPeUb3iVXHbpWl2v8fDPGNFJGTTs1A6jnDxZNva5QKnkVKRCQjvdT5NHk0&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AfvCeMv0DT28EOnSdQS4wYKlJ2pKru3yIMZG6fgApfb79w&oe=69876702",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622798101_1311443447410437_5067760258779503342_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=HTEtBblhxOAQ7kNvwGOPrCF&_nc_oc=AdlJryk6BvPeUb3iVXHbpWl2v8fDPGNFJGTTs1A6jnDxZNva5QKnkVKRCQjvdT5NHk0&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_Afuxv6G-M7Idf0ZhUbfT9BIwMNyzacFAPx9n2Y8aVKCd1A&oe=69876702",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "나이키 베스트셀러\u000b앱에서 무료 배송 & 반품까지, 나이키 인기 상품을 만나보세요.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com",
+                        "link_description": "Nike delivers innovative products, experiences and services to inspire athletes.",
+                        "link_url": "https://www.nike.com/kr/t/에어-모나크-iv-남성-운동화-n6eVmAeX/415445-102?utm_source=Facebook&utm_medium=SOC&utm_campaign=365DIGITAL_Facebook_DA_DPA_all_all",
+                        "title": "나이키 에어 모나크 IV 남성 운동화",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622384969_25406917449004667_1337279904231936472_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-jnpuqR7c8wQ7kNvwHaeiBY&_nc_oc=AdldixMqi0yPPWvT2ervp-eruH6lqC5cm4aEcDbjzUCerk-C1WX8khsjYeXN-T6AY0o&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AfuSAIrSQhg44-TV1xCqGt1vJk2HD0E-wQ_OJJam02XChg&oe=69878379",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622384969_25406917449004667_1337279904231936472_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-jnpuqR7c8wQ7kNvwHaeiBY&_nc_oc=AdldixMqi0yPPWvT2ervp-eruH6lqC5cm4aEcDbjzUCerk-C1WX8khsjYeXN-T6AY0o&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AfvAkLRkrwb_8Cu61IgLlnzXetkMVNgHqIb0HJDo5pUc3Q&oe=69878379",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "나이키 베스트셀러\u000b앱에서 무료 배송 & 반품까지, 나이키 인기 상품을 만나보세요.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com",
+                        "link_description": "Nike delivers innovative products, experiences and services to inspire athletes.",
+                        "link_url": "https://www.nike.com/kr/t/언리미티드-남성-드라이-핏-7인치-언라인드-버서타일-쇼츠-wAHrirwo/DV9341-010?utm_source=Facebook&utm_medium=SOC&utm_campaign=365DIGITAL_Facebook_DA_DPA_all_all",
+                        "title": "나이키 언리미티드 남성 드라이 핏 7인치 언라인드 버서타일 쇼츠",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622580274_1165564045652565_6865075204273698034_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9GkOr2HT3JYQ7kNvwFFm1AU&_nc_oc=AdljMPhjRTppqAixtU4SrnKkIMXAHqrV1V_hisHm3GA59P_TmKtwfOkWI_yGR_mGk24&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AfulHj95oairMRrzEf4yi3GpuDrMUVehpOu-T6X0Fl4NiA&oe=698753A3",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622580274_1165564045652565_6865075204273698034_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9GkOr2HT3JYQ7kNvwFFm1AU&_nc_oc=AdljMPhjRTppqAixtU4SrnKkIMXAHqrV1V_hisHm3GA59P_TmKtwfOkWI_yGR_mGk24&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AftKAJ2mTQg-gpsR3doSOKOAQ98Cs_kw5Yz2NuhqdifltA&oe=698753A3",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "나이키 베스트셀러\u000b앱에서 무료 배송 & 반품까지, 나이키 인기 상품을 만나보세요.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com",
+                        "link_description": "Nike delivers innovative products, experiences and services to inspire athletes.",
+                        "link_url": "https://www.nike.com/kr/t/드라이-핏-uv-하이버스-남성-반팔-피트니스-탑-y4cT9Qmb/DV9840-097?utm_source=Facebook&utm_medium=SOC&utm_campaign=365DIGITAL_Facebook_DA_DPA_all_all",
+                        "title": "나이키 드라이 핏 UV 하이버스 남성 반팔 피트니스 탑",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623305361_1199917238894201_411200736827174474_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ARIAEd4OvYUQ7kNvwGKjUkj&_nc_oc=AdmqKSu3Dte8gqdAvsjWFKdKUgwGYuJnX53HgjdHIbjknC4x-kVSJVyKr-5KHx7pnOk&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_Afu2Q15M_WbJznSef3tw9L2a-IrRlHS2ugmwaxQpCgUdWA&oe=69875B03",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623305361_1199917238894201_411200736827174474_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ARIAEd4OvYUQ7kNvwGKjUkj&_nc_oc=AdmqKSu3Dte8gqdAvsjWFKdKUgwGYuJnX53HgjdHIbjknC4x-kVSJVyKr-5KHx7pnOk&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AfvDLV9GPhVgus8ZBw-4XvN6RvP4NtCCVc1P4ye6HOx3bQ&oe=69875B03",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "나이키 베스트셀러\u000b앱에서 무료 배송 & 반품까지, 나이키 인기 상품을 만나보세요."
+                    },
+                    "cta_type": "SHOP_NOW",
+                    "display_format": "DPA",
+                    "link_description": null,
+                    "link_url": "http://www.nike.com/",
+                    "images": [],
+                    "page_categories": [
+                      "Brand"
+                    ],
+                    "page_like_count": 26593,
+                    "title": "{{product.name}}",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "Nike Seoul",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "MESSENGER",
+                    "THREADS"
+                  ],
+                  "start_date": 1769760000,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "2320418441806366",
+                  "collation_count": 1,
+                  "collation_id": "791771113825163",
+                  "page_id": "876625512197959",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "876625512197959",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/61583903104931/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "Lina",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/588957889_824617286852390_1044464752289621442_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0JajTM54ucUQ7kNvwGMuo-_&_nc_oc=AdmveWMEG2lHyu92Zj1NsmtsRr-7LizlQWtXIcG4pjegQeSGh7r6zJZ0arTM0Iy9HdA&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AfuTh_qc5Non-CwSo7l2OmNUCACtc_OCdk1hWIzOKny3CA&oe=6987570F",
+                    "event": null,
+                    "caption": "wellnessinsight.life",
+                    "cta_text": "더 알아보기",
+                    "cards": [],
+                    "body": {
+                      "text": "이 글을 쓰기까지 거의 1년이 걸렸어요. 누가 자기 집안 치부를 드러내고 싶겠어요? 그런데 지난주 아빠가 그러시더라고요. \"딸아, 우리랑 같은 고생하는 가족들한테 조금이라도 도움이 된다면...\" 그래서 용기내서 써봅니다.\n\n작년 5월, 토요일 아침이었어요. 엄마한테서 카톡 보이스톡이 5분짜리로 왔더라고요.\n\n\"얘야, 나 진짜 네 아빠 때문에 못 살겠다. 벌써 5일째 거실 소파에서 주무셔. 어제는 코골이가 얼마나 심했는지 옆집 김 여사가 새벽 2시에 '혹시 리모델링 하시나요?' 하고 문자 보냈어. 진짜 지진 나는 줄 알았다니까. 나 진짜 이혼 변호사 알아볼까 봐.\"\n\n엄마가 또 오버한다고 생각했죠. 우리 엄마 원래 좀 드라마틱하거든요 – 전라도 분이라서요.\n\n그런데 6월에 부모님 집에서 주말 보내면서 완전히 이해했어요.\n\n진짜 옆방에서 드릴 작업하는 소리였어요. 아니, 더 심해요. 고장난 전기톱에 경운기 소리를 섞어놓은 것 같았어요. 남편이 노이즈 캔슬링 이어폰에 백색소음 최대 볼륨으로 틀고도 못 잤어요.\n\n근데 진짜 최악은 소음이 아니었어요. 갑자기 조용해지는 거예요.\n\n\"드르렁... 컥컥...\" 그리고는, 정적.\n\n세기 시작했어요: 1, 2, 3... 10초쯤 되니까 불안하고, 20초쯤 되니까 \"아빠!\" 하고 소리치고 싶고, 30초 – 한번은 47초까지 센 적 있어요 – 뛰어가서 확인했어요.\n\n그러다 갑자기: \"컥! 후아악!\" 물에 빠졌다가 나온 사람처럼.\n\n우리 아빠는 전형적인 \"강한 남자\" 스타일이었어요. 현대자동차 울산공장에서 32년 근무. \"단 하루도 안 빠졌다\"가 입버릇. 178cm, 전직 축구선수, 60대 조기축구회 아직도 뛰고 계세요. 66세인데 아직도 \"나 아직 젊어\"라고 하시죠.\n\n근데 최근 몇 년 사이...\n\n- 어버이날 외식 중에 잠들어버림 (젓가락 든 채로)\n- 삼촌 장례식장에서 코골기 (스님이 독경 멈추심)\n- 월드컵 한국전 보다가 잠들어버림 (16강전이었는데!)\n- 조카 돌잔치에서 서서 잠들어버림 (축하 노래 부르는 중에)\n\n엄마가 써놓은 메모 발견했어요:\n\"영수 일과: 저녁 6시 퇴근, 7시 저녁, 7시 30분 거실에서 기절, 뭘 해도 안 일어남, 11시에 나 혼자 위층으로\"\n\n7월. 엄마가 폭탄 선언: \"변호사 이미 만났어.\"\n\n병원이라곤 회사 건강검진 말고는 안 가던 아빠가 드디어 서울대병원 수면클리닉 예약.\n\n결과: AHI (무호흡-저호흡 지수) 53.2. 중증 수면무호흡증.\n\n젊은 여자 교수님이 차트 보여주시면서:\n\"환자분, 밤에 산소포화도가 63%까지 떨어집니다. 정상은 95% 이상이에요. 매일 밤 백두산 정상에서 주무시는 거나 마찬가지예요. 심장마비나 뇌졸중 위험이 3.5배 높습니다.\"\n\n아빠 얼굴이 하얘지셨어요.\n\n양압기(CPAP) 치료 시작. 월 15만원 렌탈.\n\n첫날 밤: \"이거 고문이야! 진공청소기로 물고문 당하는 것 같아!\"\n\n적응 도와드리려고 별짓 다 했는데, 2주 후: \"차라리 자다가 죽는 게 낫지, 이 다스베이더 마스크 쓰고는 못 살아!\"\n\n결국 반납. 위약금 140만원.\n\n그 다음은 별의별 시도들:\n\n- 맞춤 구강내 장치: 650만원 (보험 안 됨)\n  → \"턱이 빠질 것 같아!\"\n  \n- 코골이 방지 패치 (쿠팡에서 전 브랜드 구매): 총 45만원\n  → \"미식축구 선수 같아 보여\"\n  \n- 수입 코골이 방지 스프레이: 개당 8만 9천원 (6개 구매)\n  → 효과 제로, 그냥 박하향\n  \n- 옆으로 자는 벨트: 35만원\n  → 허리 디스크 악화\n  \n- \"스마트\" 코골이 방지 베개 (쿠팡): 89만원\n  → 모터 소리가 엄마 불면증 유발\n\n**총 지출: 1500만원 이상. 결과: 빵점.**\n\n8월 15일, 아빠 67번째 생일. 강원도 펜션 대관해서 온 가족 모임 – 16명.\n\n새벽 3시 17분 (절대 못 잊어요): 쿵 소리.\n\n아빠가 침대에서 떨어지셨어요. 정신 못 차리고, 헐떡이면서, 혼란스러워하시면서. \"여기가 어디야? 뭐하는 곳이야?\" 6살 조카가 울면서: \"할아버지 죽어요?\"\n\n119 부를 뻔했어요. 15분쯤 지나서 정신 차리셨는데, 그 눈빛... 두려움, 부끄러움, 패배감... 가슴이 찢어졌어요.\n\n아침에 속삭이시더라고요: \"내가 다들 인생 망치는 것 같아.\"\n\n한 달 뒤, 결혼 40주년 기념으로 독일 여행 보내드렸어요. 하나투어 10일 패키지.\n\n9월, 뮌헨 포시즌스 호텔.\n\n둘째 날 아침, 영상통화 믿을 수 없었어요.\n\n아빠가 빛나고 계셨어요. 프레첼이랑 소시지 드시면서 20대처럼. 눈이 반짝반짝.\n\n\"딸아, 너 안 믿겠지만 9시간을 푹 잤어. 9시간! 한 번도 안 깨고. 천국에 온 줄 알았어.\"\n\n엄마도 확인: \"코 소리 하나도 안 났어. 나 10분마다 숨 쉬나 확인했다니까.\"\n\n시차 때문이겠지 싶었는데.\n\n뮌헨에서 4일 내내 완벽했어요. 아빠가 다시 태어나신 것 같았어요. 셋째 날, 동네 산책도 안 하시던 분이 영국정원에서 3시간 하이킹. 그날 저녁 맥주 드시고, 농담하시고 – 이거 진짜예요 – 레스토랑에서 엄마랑 왈츠 추셨어요.\n\n\"1984년에 만났던 그 남자가 돌아온 것 같아,\" 엄마가 울면서.\n\n체크아웃할 때 프런트 직원한테 물어봤어요, 그레타라는 금발 여자분:\n\n\"아버지가 여기서 정말 잘 주무셨는데, 베개가 특별한가요?\"\n\n미소 지으며: \"아, Dегilа 베개 말씀이시군요. 독일 프리미엄 호텔 표준이에요. 하이델베르크 의사들이 수면 호흡 문제 전문으로 개발했죠. 독일에서는 수면을 아주 진지하게 생각해요. 좋은 베개는 사치품이 아니라 건강 투자죠.\"\n\n한국 돌아와서 바로 검색.\n\n공식 한국 사이트 찾았어요. 개당 8만원.\n\n1500만원 날린 거 생각하면... 껌값이죠. 바로 4개 주문했는데, 한국 독점 사이트 할인으로 개당 6만원에 샀어요!\n\n서울 물류센터에서 3일 만에 도착 (독일에서 수입).\n\n\"또 유럽 사기,\" 아빠가 투덜거리셨죠. \"독일 사람들이 한국 사람보다 잠을 더 잘 안다고?\"\n\n\"닥치고 써보세요!\" – 엄마의 명령.\n\n**첫날 아침, 6시 42분, 엄마 카톡:**\n\n이모티콘 폭탄: 🎉🎊✨😭😍🙏\n\n\"코골이 제로! 제-로! 옆에 사람이 없는 것 같았어!\"\n\n일주일, 한 달, 두 달... 계속 같았어요.\n\n11월 재검사: AHI 6.8로 떨어짐. 중증에서 경증으로. 베개만으로.\n\n서울대병원 교수님 충격: \"무슨 치료 하셨어요?\"\n\"독일 베개요, 교수님.\"\n\"베개? 베개만으로?\"\n\"베개만요.\"\n\n어색한 침묵.\n\n\"뭐... 독일이 수면의학 선진국이긴 하지만... 베개만으로... 놀랍네요. 수치는 거짓말 안 하니까요.\"\n\n이제 온 가족이 써요:\n\n- 남동생 (대전): \"형수가 내 아침 기분도 좋아졌대\"\n- 언니: \"형부가 밤에 팔꿈치 안 찌른대. 알고 보니 내가 코골이였어!\"\n- 남편이랑 나: 수면의 질 비교 불가. 남편 만성 두통 사라짐\n- 엄마: \"3년 만에 안방으로 돌아왔어. 69살, 67살인데 신혼 같아\"\n\n지난달 독일계 회사 다니는 김 과장한테 얘기했더니:\n\n\"당연하죠! 한국 사람들 매트리스에는 수백만 원 쓰면서 베개는 이마트에서 2만원짜리 사잖아요. 독일에서 베개는 의료기기예요. 150만원짜리 아이폰 사면서 하루 8시간 쓰는 거에는 돈 아끼고. 말이 안 되죠!\"\n\n아프지만 맞는 말이네요.\n\n아빠는 이제 매일 5시 30분에 일어나세요. 5km 산책하시고. 콧노래 부르며 아침 드시고. 목공 취미생활 하시고 (정년 후 활동).\n\n보이스톡 보내주셨어요:\n\n\"딸아, 오늘로 아기처럼 잔 지 75일째다. 지난 10년 중 최고의 75일이야. 늙은 아빠 포기 안 해줘서 고마워.\"\n\n이마트에서 펑펑 울었어요.\n\n저는 의사도 아니고, 베개 파는 사람도 아니고, 커미션 받는 것도 아니에요.\n\n근데 이것 때문에 이혼 위기 가는 부부가 수천 쌍은 될 거예요. 얼마나 많은 \"영수 아빠\"들이 좀비처럼 살면서, 생명 위험하면서, 관계 망치고 있을까요?\n\n여기까지 읽으면서 \"헐, 완전 우리 집 얘기네\" 싶으면, 그냥 한번 써보세요.\n\n공식 사이트에서 30일 환불 보장해요. 마음에 안 들면 그냥 반품하면 돼요.\n\n지금 70% 할인 중이래요. 진짜 치킨 두 마리 값이에요.\n\n중요: 짝퉁 조심하세요. 쿠팡에서 \"독일 정형 베개\" 1만 9천원짜리 봤는데, 올케가 샀다가 완전 쓰레기였어요.\n\n한국 공식 Dегilа 사이트 찾으세요. \"30일 보장 또는 환불\" 도장이랑 택배 추적 되는 곳이어야 해요.\n\n아래 \"자세히 보기\" 버튼 보이면 아직 할인가에 재고 있는 거예요. 사촌동생은 망설이다가 지난 세일 놓쳤어요. 6만원이면 (CGV 팝콘 세트 두 개 값), 솔직히 고민할 게 없죠.\n\n추신: 아빠가 어제 그러시더라고요: \"8년을 날렸네. 75인치 TV 값을 쓸데없는 데 쓰고, 정답은 나이키 운동화 값도 안 했는데.\"\n\n우리처럼 하지 마세요. 8년 기다리지 마세요.\n\n추추신: 남편/아빠/오빠가 코 골고 지금 새벽 3시에 코골이 소리 때문에 못 자고 이거 읽고 있다면... 이 글 지금 보내세요. 인생은 불면의 밤을 보내기엔 너무 짧아요. 좋은 결혼생활은 코골이 때문에 끝내기엔 너무 소중하고요."
+                    },
+                    "cta_type": "LEARN_MORE",
+                    "display_format": "IMAGE",
+                    "link_description": "30일 무료 리스크 프리 트라이얼. 코골이 그만. 더 잘 자요.",
+                    "link_url": "https://better-life-designer.xyz/cf/r/6902fae4d94c5200122b2c22?ad_id={{ad.id}}&adset_id={{adset.id}}&campaign_id={{campaign.id}}&ad_name={{ad.name}}&adset_name={{adset.name}}&campaign_name={{campaign.name}}&source={{site_source_name}}&placement={{placement}}",
+                    "images": [
+                      {
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/589069327_1343340643739261_8153041495626579243_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yBuF_1yUPcIQ7kNvwHxUqAY&_nc_oc=AdkXy9wgbNNXB9vQz9GXoG3EGmvI7QJgVRX5H5dwBL6wksvQ5NOXPCcPunrmcJHRtmQ&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AftkdEB5E3GcJtgSNHr_txSVoY2bGMY6XYItppQYvtp9Kg&oe=69875C9B",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/589594757_1379349537153611_7371160674392077852_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_prHGXKm65kQ7kNvwHsodoy&_nc_oc=AdnexhtPtqSWBb8aV5Htch4rq9iC3Eub6hWD4u4y_h5aJN5YUpDFR3Cz2thmhU2mgM0&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AfvGbStdCm5zg-Jp1Z4gpuzaNVoRZeH8aqbMRdCsLg8s8Q&oe=69876726",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "page_categories": [
+                      "Health & Beauty"
+                    ],
+                    "page_like_count": 34,
+                    "title": "30일 무료 리스크 프리 트라이얼. 코골이 그만. 더 잘 자요.",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "Lina",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1769414400,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "MESSENGER"
+                  ],
+                  "start_date": 1764230400,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "1418791659946097",
+                  "collation_count": 1,
+                  "collation_id": "1567188097843888",
+                  "page_id": "896283017137108",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "896283017137108",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/100063761970055/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "빈티지컬렉션",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625099644_3908401392628533_6178894396458271038_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yu1rSZcd0xYQ7kNvwGrg05V&_nc_oc=AdlqcFjz33CcYconv0CSogIuaUiPijQtVxHp5WCKQ2pasmHAM7SeT2n2I-KYgPM5xwE&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AftU9KtNBcjJeSeFbhMhPJ0Px4mOIUZQWkrhpKP7kaWPhw&oe=698785F2",
+                    "event": null,
+                    "caption": "instagram.com",
+                    "cta_text": "Instagram 프로필 방문",
+                    "cards": [
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "https://www.instagram.com/_u/vintage___collection",
+                        "title": "빈티지컬렉션 (빈티지·구제·구제샵) (@vintage___collection) • Instagram photos and videos",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625598694_906479532100856_3127687724534553473_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mC_GqKV6HrkQ7kNvwHpKc96&_nc_oc=AdkpwqQMhnNY4lz5axp6F1z8sRWEGGMFjDQz01_QkHqROmylExzSqCb2SmOKmN5urr0&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AftcXL51IlFXSdpgOSqypLCqGPhsE2dFnTNY6m2CbRPxbg&oe=6987712F",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623301830_1677658350270702_2067210190595964344_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iU_QQSnQ2n8Q7kNvwF34T4d&_nc_oc=AdmS6ZWYDymNNH3CMZ6rXiZNGh6ytMHmeYA_DIn5Z3K3_ZLaiVIMIrIRAurBoKDaOjc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AfvmrLISlvYay3v9mqHtpRhKheheCgRC9mda4NJ98vSuQA&oe=69875FB3",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "https://www.instagram.com/_u/vintage___collection",
+                        "title": "빈티지컬렉션 (빈티지·구제·구제샵) (@vintage___collection) • Instagram photos and videos",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623852677_913193234726004_1361573191345613658_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=h7B1io-Gs6YQ7kNvwEAykQa&_nc_oc=AdmXZEZcm_6pKbybU6si1aGCU_0WtvpoDcL4Bkbc9hDk-hDW3PLMA4IQc4zoA2ogNak&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AfutzBKVcJnQRnZM4Tdz7X9W_KED37nHkhDmiOJCioFvXg&oe=69877C19",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623371360_868094722705147_2499331243602503179_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NAY8E_6fQW4Q7kNvwE7zKiP&_nc_oc=AdkY6I7XVFvcBYSIyLvb93-q9K5Ym1lSlx9jjmGWZliCmpq2NWsEUQqoYOqPZru-EN8&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AfuwTWfIhKJoRyjbzTs7czf6TE2J04E6Ks_LVmIvIWiS0Q&oe=69875DA5",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "https://www.instagram.com/_u/vintage___collection",
+                        "title": "빈티지컬렉션 (빈티지·구제·구제샵) (@vintage___collection) • Instagram photos and videos",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622855874_4385220135058989_3738298184119582507_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=EavmNUInMmEQ7kNvwGLO2ZT&_nc_oc=Adlu6OH0dOi8lro_jCGNVdUYeTUSP-VyUmQrgb0BxYnrSrwCVIu0XlzPMsghdHaZlSA&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_Afv2EtyA7yjvckPYZHzgF3HOdrDSoislsjDgmtwJimZ7IQ&oe=69877522",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623413962_759691547172359_2748878663095644687_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=pN3DtwKILGoQ7kNvwEQv8i1&_nc_oc=AdkAwAq5q5186BUyGfEnz7TdD0StwkTpFylEYyX4uUuT2h8QEjTmxXa9KX2wdZs8n-s&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AfuhiJKz0n_CFMRnjnk5cnn6aRvz_oRyDSeLK9HmDB_-fA&oe=698759B7",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "https://www.instagram.com/_u/vintage___collection",
+                        "title": "빈티지컬렉션 (빈티지·구제·구제샵) (@vintage___collection) • Instagram photos and videos",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624218382_1221986626220443_5496253312967981010_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0kbleJQ2IWsQ7kNvwF6kXXz&_nc_oc=Adne2y_s_wonWEeY3s9IICxvAgcAfgCoFvBe6KREi71BzVUgUOG5Dc5j0Sd8Z6ENNxY&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AftKcLbyc-Uz4jyaywHuNRkfJXPhk-pRAmoPaUwbhgfNpw&oe=69875578",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624259744_768371566313634_6778233085360665162_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=saqpyVYFA74Q7kNvwHp1Brk&_nc_oc=AdnB3LljDsHNbBKBAp2VEqEIh-Byz8KXzxGCovwEbjO55i7JF1htp-J3UO7ZhdwiQ8Y&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AftKyKVNpNgYe1KB3dS-6wdJGZYryCn7ERkLfbL1c8TAvQ&oe=698784EA",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "https://www.instagram.com/_u/vintage___collection",
+                        "title": "빈티지컬렉션 (빈티지·구제·구제샵) (@vintage___collection) • Instagram photos and videos",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624486288_25951614324500972_408033330388528888_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9ZCtQ-8GV5EQ7kNvwGL1u3q&_nc_oc=Adnl7By9qZbiOqnNOtXa0vDaOP-nDPLq-NWQutscHpYhB4mbXW29Fdf6mTqLS-ny_SI&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_Afsfxh8jy0J35dB5Tml8KvM-HsG6bIp_lCnMMYY6A7DrbQ&oe=6987508E",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623803460_879679364909581_7403787278472042146_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VELjvTYxIVYQ7kNvwEEvf5g&_nc_oc=AdmMRlw5lsHTcQg7LvdLRuQJHlKfEv5vgiGtJ09uj9SLVBznAZlwDvj8DG_irNbe-II&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AfsZPoJ0sCiv0miRI1AIHRhw7g2YVIuw4B3YetXPc2_vog&oe=69877EA1",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "https://www.instagram.com/_u/vintage___collection",
+                        "title": "빈티지컬렉션 (빈티지·구제·구제샵) (@vintage___collection) • Instagram photos and videos",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623397214_2087683398692064_6552531342527944900_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vlfXNAdDFoUQ7kNvwH4UQCc&_nc_oc=AdmemgGwVYQJBgYH7RLZXLz3YaX01BNCZxt1TEaPUMfttXSyKhCn5bnrO0g8yvf6zNI&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AfskQuuSf6eD7cd1iRW2V_RxbQDLBjhcqjxojkY3u7oOKw&oe=69875F2E",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625099644_1423715125828747_489295950785814068_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Nt9spyZSbr0Q7kNvwH7xSfo&_nc_oc=AdnJ-Fhd4hmfK4mzkU9SAugMje24hKJyI9IhzWWvnN0-LZ3zCDrbZN2SvvMuJjBwCGE&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AftpKxY5_eMiV0Hjni-sel062TKjCciSZUGmyiUOHvX-mA&oe=698771C6",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "🏷나이키 빅스우시 우븐자켓\n\n🖤남성 - XL\n🖤가격 - 4.5만원 \n\n😃상세사진을 더 보시려면 제 프로필 누르시면 홈페이지 링크 나옵니다. \nwww.vintage-collection.co.kr\n🔍빈티지컬렉션 검색"
+                    },
+                    "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                    "display_format": "CAROUSEL",
+                    "link_description": null,
+                    "link_url": "https://www.instagram.com/_u/vintage___collection",
+                    "images": [],
+                    "page_categories": [
+                      "Clothing (Brand)"
+                    ],
+                    "page_like_count": 403,
+                    "title": null,
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "빈티지컬렉션",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "INSTAGRAM"
+                  ],
+                  "start_date": 1769846400,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "1861718711370680",
+                  "collation_count": 1,
+                  "collation_id": "828455420191295",
+                  "page_id": "118098617894653",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "118098617894653",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/100090742647886/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "훗타운",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/595886810_1226361192749043_504935022434851909_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1R2BbfUrvPMQ7kNvwFnmkaO&_nc_oc=AdnzRYlSQ7ZVXvdU_eqsoCRq9icX_lbJvXrgOCZwksRQLo5pMFh_jouvIVmcGY_AJY8&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_Afu8Bn9-GQHuozesFFXdqSFh920ZS8dowDU8QSZS3IGO-A&oe=698758E4",
+                    "event": null,
+                    "caption": "hoottown.com",
+                    "cta_text": "구매하기",
+                    "cards": [
+                      {
+                        "body": " ",
+                        "cta_type": "PAY_TO_ACCESS",
+                        "caption": "hoottown.com",
+                        "link_description": " ",
+                        "link_url": "https://www.hoottown.com/sellDtl?P2512140000018508&utm_source=meta&utm_medium=display&utm_campaign=mopromo&utm_content=1210_TR",
+                        "title": "HOOTTOWN : 세상의 모든 상품, 훗타운에서!",
+                        "cta_text": "Get Access",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/600185400_1460507168754476_3001276477713089152_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XCAS92DO7ywQ7kNvwEepz5A&_nc_oc=AdlHSnhfr7EPjQznjxv4k0R4KSd0fYzn8LoEeWpo8k0ifM758NnFev_flbTJQZAii0M&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_Afs9pJDa9oeshO1bohI_p4vzQwXcrNCHCaTDVWJPMWa-lg&oe=69874EF0",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/600549856_715203871272447_2120513035377093364_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FwCCwd6SmFkQ7kNvwGHIWCW&_nc_oc=Adn3R3QkyycOQHqdLQqRYn_oq3lChZMaEIAeikLS3XzTypFXSmWfeSBKULOkDxjE_mk&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AfuLd1YV96Em73xB9eUl6xCfwZxfda22s4wg24o8c_9vjw&oe=69877CEB",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "PAY_TO_ACCESS",
+                        "caption": "hoottown.com",
+                        "link_description": " ",
+                        "link_url": "https://www.hoottown.com/sellDtl?P2512140000018508&utm_source=meta&utm_medium=display&utm_campaign=mopromo&utm_content=1210_TR",
+                        "title": "HOOTTOWN : 세상의 모든 상품, 훗타운에서!",
+                        "cta_text": "Get Access",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/598701223_2655234328159881_456709848552009365_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9WsYscmzW3cQ7kNvwFvB48k&_nc_oc=AdnPjmWj2PXQDvX3XMaj_2EsznkMYSfBy0lyj6i-fohLADnuVY4uD_xwKBUtNapfkRo&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_Afv3fdVXL258pJtx3b14PAl4IRom9v4A5qOvKH4Ivcp97w&oe=69876115",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/600324385_2140292293044950_8227800749849732717_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_s9fX_FG4lsQ7kNvwGLp9vr&_nc_oc=Adko0xnh6I1q7SC19ElCehXAS2_r9G-_c286i6N-UXV01Msp7CqbtSKhGcT2GwO5WQc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AfsK6G9kosxLtrVbJH2qangiruoQLY4dRI50keRhB7i1aQ&oe=69877225",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "",
+                        "cta_type": "PAY_TO_ACCESS",
+                        "caption": "hoottown.com",
+                        "link_description": "",
+                        "link_url": "https://www.hoottown.com/sellDtl?P2512140000018508&utm_source=meta&utm_medium=display&utm_campaign=mopromo&utm_content=1210_TR",
+                        "title": "",
+                        "cta_text": "Get Access",
+                        "video_hd_url": "https://video-icn2-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQPXCqx7r484UWU-hWlzkrHce27t3EGrQp9QXczNkwC2no4cT7QzJGR37_kp43-G0v1oAo8A6l7GsT1rSEJffJOaVfKAuEW8TQOn5TtXbg.mp4?_nc_cat=103&_nc_sid=8bf8fe&_nc_ht=video-icn2-1.xx.fbcdn.net&_nc_ohc=Bd1dlFOyHW8Q7kNvwGXCr7n&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNDgwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxMzA4MTc5NjAxMTE0Njk2LCJhc3NldF9hZ2VfZGF5cyI6NTAsInZpX3VzZWNhc2VfaWQiOjEwMTQ2LCJkdXJhdGlvbl9zIjo3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&_nc_zt=28&oh=00_AfvJbq5r2E3ZIYzo5BzlU9rtxY_xDkgSKdM-tPgIRSgJ_w&oe=69876A27",
+                        "video_preview_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/596595051_1746674579260049_1720988595273821559_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ccybWRXQeTwQ7kNvwGUDB6H&_nc_oc=Adn_yDXxQw3ElKoqnjRgp9ign2Ye7Dli-mzUElOnoHWSnBOvzYbWS2vb9a_t-1rtYnA&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AftaqPQB9tliG0b6iDT3FPHAlvb_Ett84YW5V1BeF7MT8Q&oe=69876DB4",
+                        "video_sd_url": "https://video-icn2-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQMSQXI4B-jCVDo2_2q7w-0iTMmgt_y8WsZOPUZnhZXAu_8h49ioNymlaMKNn-XYBpmiRm1xIqN765uO1-v5Bd9HY-XUq6hpzZtJOCnzCQ.mp4?_nc_cat=107&_nc_sid=8bf8fe&_nc_ht=video-icn2-1.xx.fbcdn.net&_nc_ohc=fHxNU9wdmuQQ7kNvwFC-KCM&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl8zNjBwIiwieHB2X2Fzc2V0X2lkIjoxMzA4MTc5NjAxMTE0Njk2LCJhc3NldF9hZ2VfZGF5cyI6NTAsInZpX3VzZWNhc2VfaWQiOjEwMTQ2LCJkdXJhdGlvbl9zIjo3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&_nc_zt=28&oh=00_AfuTBrQVIyyMFO9gCOv-s-9neeefGc6LLNmkHtLfh5-5_Q&oe=69875EDF",
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": null,
+                        "resized_image_url": null,
+                        "watermarked_resized_image_url": null
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "PAY_TO_ACCESS",
+                        "caption": "hoottown.com",
+                        "link_description": " ",
+                        "link_url": "https://www.hoottown.com/sellDtl?P2512140000018508&utm_source=meta&utm_medium=display&utm_campaign=mopromo&utm_content=1210_TR",
+                        "title": "HOOTTOWN : 세상의 모든 상품, 훗타운에서!",
+                        "cta_text": "Get Access",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/596498750_1380490156558185_2113160652741747472_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sqE3TF6SZnEQ7kNvwE2shIF&_nc_oc=Adnz-zxR6lZPVnATaopuVkDOQQBOynnL5d09-TyVBPmFpLVoH9WDeHZ3WU65vuXfb_4&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AfsiTnWZCQl8rXb2JLcByZHQmUIQ2OXSQ2WYNCWXTlFA5g&oe=69876006",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/577060742_2051549108941151_953911974920027030_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FV-wcytHLecQ7kNvwHw99w-&_nc_oc=Adlnaofa73ytd_lRbQ8flDcg31L6y2xYGTMfLNVeZvcqoqjqQWkGVpUCkAqBtGc4wX0&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_Aft7ZWbiz_jq1DFl-oxU4iXkf1c7n7v-i72RvhEC2bN0Iw&oe=69876C1A",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "PAY_TO_ACCESS",
+                        "caption": "hoottown.com",
+                        "link_description": " ",
+                        "link_url": "https://www.hoottown.com/sellDtl?P2512140000018508&utm_source=meta&utm_medium=display&utm_campaign=mopromo&utm_content=1210_TR",
+                        "title": "HOOTTOWN : 세상의 모든 상품, 훗타운에서!",
+                        "cta_text": "Get Access",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/597271186_2735930536749293_4957113530129767952_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GYWe0WycZ60Q7kNvwHMtOAh&_nc_oc=AdlTcdEMW9lTUx9pT43uluo_Chi9_Pz0P2gVHI2zyhGrRMsciHNX8f2E9v32i8dRO1M&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AftubJF-0t_CUZRnv4R8X34o_Dskh_yzR3fhJfKBRqaqHw&oe=69878664",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/596418052_1597729734714268_3581087654186638140_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8Q5MC8Aaop4Q7kNvwFUB9gx&_nc_oc=Adnz1yQLP_W2oLuSzGayP1cB2Pkd2op5aeWpR_dfl6ooZ9vK_kl3nEoxPA6c_NM8vQ8&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_Aft-asbhH7izlM8EHe-lYZavpA2Yjf55_RaInJuk2X22LQ&oe=69874F86",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "PAY_TO_ACCESS",
+                        "caption": "hoottown.com",
+                        "link_description": " ",
+                        "link_url": "https://www.hoottown.com/sellDtl?P2512140000018508&utm_source=meta&utm_medium=display&utm_campaign=mopromo&utm_content=1210_TR",
+                        "title": "HOOTTOWN : 세상의 모든 상품, 훗타운에서!",
+                        "cta_text": "Get Access",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/598302833_2085699368913539_6048130233643017544_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IGKDmlMiVy4Q7kNvwFPinSS&_nc_oc=AdnBqkgQgJqrsKweW7EjKtvPx77A-t88i0LT0OH-VIM0Za_pSBhP8HIWFM2dfx3ZEcg&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AftYKc8AEHxaXb-iQJdN_v9mq_3BzihApCQbUvxX_yjXdQ&oe=69877FE2",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/600898486_4173733809606359_2078342853150861389_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Y04A_hQ8XJgQ7kNvwGB4ceA&_nc_oc=AdkNd0tnuMbkJSoNPVcvxNvDS89ZfsAEmD6-fcnU8nv-IwfzOeXraQ7Zoy8CW7iEdZw&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_Afvwlri3smeh-GNrFwfIvUfxJZnC4FEvDYGoQ9dektwn8A&oe=69875088",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "PAY_TO_ACCESS",
+                        "caption": "hoottown.com",
+                        "link_description": " ",
+                        "link_url": "https://www.hoottown.com/sellDtl?P2512140000018508&utm_source=meta&utm_medium=display&utm_campaign=mopromo&utm_content=1210_TR",
+                        "title": "HOOTTOWN : 세상의 모든 상품, 훗타운에서!",
+                        "cta_text": "Get Access",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/597864900_1870050916967414_197829262658223295_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lnDmypJ_-WUQ7kNvwGknKik&_nc_oc=AdnVVaJ08XJsOtrKijK1N-q0arW9QCIw_iwC_N7XvCs-3WVMEVefUjs_TRAAyOLDRo4&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AfsxN4d9Xi7pG8AL8XBVfsZ5w7gKLBTFwbJZBub_rx_-pQ&oe=698770D4",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/597819394_3341214719377392_7448027024810815683_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vBmWtkHdjxcQ7kNvwHOH8Gb&_nc_oc=Adl-EOzNCTxzi25ENMa-eh8ik89ghK0uXbmaUcc2deFpmL8LMjLR2ewBBOpRIyHf3sg&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AftEdTmGdDGC-fp_k18X3v7_wr_shXXWgxf8B-TpfkSCsw&oe=69876E57",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "PAY_TO_ACCESS",
+                        "caption": "hoottown.com",
+                        "link_description": " ",
+                        "link_url": "https://www.hoottown.com/sellDtl?P2512140000018508&utm_source=meta&utm_medium=display&utm_campaign=mopromo&utm_content=1210_TR",
+                        "title": "HOOTTOWN : 세상의 모든 상품, 훗타운에서!",
+                        "cta_text": "Get Access",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/598023760_753343501126559_6157089346107222714_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9PcgyrkQ2UAQ7kNvwFt4Mh1&_nc_oc=Adl4Nreahc7Gimxq3_5AckSqdGmeftDRf6A34jk7jNEroAKBUkk9UgGwchE9o9M8mYQ&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AfsXmS0Wk1ZcKFukSOuOCjTfuIL9XZpB64qAYExOLo4K6w&oe=69875D61",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/596499726_727191723309567_6893098063569158205_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ydB3vZjS89AQ7kNvwF-ca6K&_nc_oc=AdlnXm7Kte9R3RYOItNsjkIuJw7C2X0QcnWv0bC4iav7EATtZAKBoZ8zadt7-nYGhNw&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_Afs64jGtUC22JjCI51fwaGBKiM9Da66BRat7JorT7ugMcA&oe=698751CB",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "PAY_TO_ACCESS",
+                        "caption": "hoottown.com",
+                        "link_description": " ",
+                        "link_url": "https://www.hoottown.com/sellDtl?P2512140000018508&utm_source=meta&utm_medium=display&utm_campaign=mopromo&utm_content=1210_TR",
+                        "title": "HOOTTOWN : 세상의 모든 상품, 훗타운에서!",
+                        "cta_text": "Get Access",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/598614487_1521010519183679_7882311893749835592_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JTBd-damq7UQ7kNvwHCgffz&_nc_oc=AdlbkSG-Z3cCrTpBRptzVd72PXA8VQiwdHPAXqbkoT9DHxbOeVUHzaW_5NQn0lZuQmE&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AfuaNQDfKh70Au2rBPTDbWBkzVxZMVoyjWtmRa5tI45JYg&oe=69875A14",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/596336816_2026721734769459_8246706910583360240_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nle9NV5BxWUQ7kNvwFgjdbg&_nc_oc=Adn-gENpcX_0lmvtFg-bmnJhqOyQdiJxnw7s4Sv44VU-ppdPryb5lR2re7Yzztg41H0&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AfumeDqI5HSC3ACoS6wGujS2y5M6FJ55_a6b4IXXUmKVzw&oe=69876CB1",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "☔️비 오는 날에도, ☃️눈 오는 날에도\n에어 포스는 에어 포스여야 한다면.\n⠀\n에어 포스 1 GTX 비브람은 클래식한 ’07 실루엣 위에\n고어텍스 멤브레인과 비브람 아웃솔을 더한 모델입니다.\n⠀\n겉보기엔 익숙하지만 방수 성능은 확실히 다르고,\n눈·비 위에서도 안정적인 착화감이 느껴져요.\n⠀\n국내는 이미 품절.\n하지만 해외에는 아직 정가 루트가 남아 있습니다.\n⠀\n리셀 붙기 전, 실사용 기준으로 가장 완성도 높은 에어 포스를 찾는다면 바로 이거예요!\n⠀\n💬 댓글에 “사줘요” 남기면\n해외 정가 직구 링크 바로 안내해드릴게요."
+                    },
+                    "cta_type": "PAY_TO_ACCESS",
+                    "display_format": "CAROUSEL",
+                    "link_description": null,
+                    "link_url": "https://www.hoottown.com/sellDtl?P2512140000018508&utm_source=meta&utm_medium=display&utm_campaign=mopromo&utm_content=1210_TR",
+                    "images": [],
+                    "page_categories": [
+                      "Shopping"
+                    ],
+                    "page_like_count": 42,
+                    "title": "훗타운",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "훗타운",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "MESSENGER"
+                  ],
+                  "start_date": 1765785600,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "1441373540697072",
+                  "collation_count": 1,
+                  "collation_id": "902326792546308",
+                  "page_id": "741113015756401",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "741113015756401",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/61579958701305/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "대한민국 최초 슈즈 멀티샵 슈마커",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623250162_921672193547375_6104174298577545793_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qG0792Kqc1EQ7kNvwG4BkUs&_nc_oc=AdlBWbrtOVr_75A7P7VnP2ZLaXGlHEyZmnkALj8r9VQazHJf4V_v_e6n-X-UMOvdqbM&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_Afs3Jvwhq1OC_704wIvxHTmIBN2d68f_6B45OOrHBmrKEg&oe=69876241",
+                    "event": null,
+                    "caption": "shoemarker.co.kr",
+                    "cta_text": "더 알아보기",
+                    "cards": [],
+                    "body": {
+                      "text": "편안함과 스타일을 모두 잡은 레트로한 실루엣✨️\n뉴발란스 CM878, 슈마커에서 구매하기"
+                    },
+                    "cta_type": "LEARN_MORE",
+                    "display_format": "IMAGE",
+                    "link_description": "즐거움을 신다! 나이키, 아식스, 뉴발란스, 아디다스 등 인기 브랜드 슈즈 멀티샵",
+                    "link_url": "https://www.shoemarker.co.kr/ASP/Product/ProductDetail.asp?ProductCode=31134&utm_source=SNS&utm_medium=DA&utm_campaign=purchase&utm_content=NB_2601",
+                    "images": [
+                      {
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623297153_901719182350556_6865003150739260633_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Tk6BgpSbpfYQ7kNvwEuOAze&_nc_oc=Adk5VqL2NDc8m54ca6Ocv_qlZ6behDUSab0sNjjPaiac3EPvdTAyJwOiM63H7--UvtQ&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_Afs7bvvr5HkbYkRHFK3nPrwwohj5ZI47IwRFD6r8Zv1OLw&oe=69877C37",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622798263_2519780301811224_1870503125538751253_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Bgsm_1GWWREQ7kNvwFFsLpx&_nc_oc=AdkF2XqR_PlbRwOzok0y8Q_iS_4IvTD9nhH_Lv4-xLXaFsLVJ7ZlW7nMahdqi53VVGg&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_Afsx4go_zdn0NvjE3ElXfM0UKGk0Vd2FmLDNoTod1e6xhQ&oe=69875162",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "page_categories": [
+                      "Shoes"
+                    ],
+                    "page_like_count": 12,
+                    "title": "뉴발란스 CM878",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "대한민국 최초 슈즈 멀티샵 슈마커",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "MESSENGER",
+                    "THREADS"
+                  ],
+                  "start_date": 1769673600,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "4031352237133919",
+                  "collation_count": 2,
+                  "collation_id": "1372997953934333",
+                  "page_id": "581597951708006",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "581597951708006",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.instagram.com/_u/cuns.archive",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "cuns.archive",
+                    "page_profile_picture_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/476809035_527068879830005_2280435007201144232_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=108&ccb=7-5&_nc_sid=525117&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42MTYuQzMifQ%3D%3D&_nc_ohc=EeyR0m0Lv68Q7kNvwFpEpC1&_nc_oc=AdlA7_OBT54fKHdawgR85VelImJVBsDNtKLZOFurvfzKoASIgdjcurR1mztgF16Bvpg&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&oh=00_AfuoV9olWsz9Fu4ZvQNymaWi66xzwafT3NORYxBNi-f7lQ&oe=69876ADF",
+                    "event": null,
+                    "caption": "instagram.com",
+                    "cta_text": "Instagram 프로필 방문",
+                    "cards": [
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "http://instagram.com/cuns.archive",
+                        "title": " ",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/513567297_1371618593925342_1343980384435228299_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=M801ULSD0NMQ7kNvwHSmRGm&_nc_oc=Adl7fjboMOuREYVDRggQwhA3NL0bkHA_3HZP56QF4W3gdDY2ad--YkVF58IP6bEiRaM&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_Afvop-9j4xflrxnECsPLGEFzdPPZh5GQZoU3olkmbhrJYg&oe=69876A47",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/514169506_1258190806096126_7024455720826837709_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yjLb0isAp2gQ7kNvwFqWgGJ&_nc_oc=AdkUArOiRp7sLxkZ7OSRo0DZVYgptcArrg22qDv-W2uaB_3Eg1eTmDsfEZgt-IjgB4Q&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_Aft7pCPGfB28DIwnl85zWHuY43Od7ArLol5NBEdRJ1HL7g&oe=6987801E",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "http://instagram.com/cuns.archive",
+                        "title": " ",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/514127660_1011840100967593_4684689053337988215_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-emU3RHeT7EQ7kNvwFr_NTD&_nc_oc=Adn_ukIj8qRB9BdFIhT5wiRw2fGDGzHKKfqh7NKiS6nacuSXOnJqMgRcMXiOGO7a0lc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_Aft6C4D83LryLX-ZtWcqgr_fBRUDHBdTEyxA7egjISVvOg&oe=69878484",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/514594026_731874802674851_6878088164181674586_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6-CmKsP6L0EQ7kNvwEx6ix2&_nc_oc=AdkdI8a7LThyGzwuW3VX3NLv6j5P6bEcMGNVj5wOpEy0blUwaZxe8m_ASJRjfI8bnrU&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AftUWRNfjUXtRRpgrQMINl4PkQDZlCFyGaXh-LHxS3QiiQ&oe=6987624D",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "http://instagram.com/cuns.archive",
+                        "title": " ",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/514747445_1742409726351331_6361909373118655788_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TWL7WGM3p7MQ7kNvwEZqcGT&_nc_oc=AdmNi6eZDhYXcSy5eJt8v2YIDg2w7Bk95Dkbcxy1VOg1Rr9ihxXBefA7xXFGi25rP6c&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AfvuJ12Cg9eYO9dKgv9duT9RlYSJ4jzB81oQKWKwQ03jhQ&oe=6987607E",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/514973396_1247385737044783_8688066206772120597_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=euSzlnFUcOIQ7kNvwEx7wom&_nc_oc=AdlHNNxY9mQdL04OCb8Egex-CGM1WkYZUG0kzQc9d2eMm8I75UhobFQYmFWbPBNZ2fU&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_Afv2ghJNIGViydvDN5MGcJWPZ4BdU5U27tqeEIZmwSxvpA&oe=69878083",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "http://instagram.com/cuns.archive",
+                        "title": " ",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/512679306_1392380711818068_7652818642697001453_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WcNdUdYLopsQ7kNvwFKZkTf&_nc_oc=AdnZ_TXZHCVoPUwiSUWuqlXN9XBujJ6Tr9cWAc_errY1Gmm9LGUf2hh1SNa9UKHd9VE&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AfuIt5OcMfHtUX2EpSesSXT7nkM5Mqrh2QzP1LbYAMWQbw&oe=698760C4",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/513638486_1967632003641210_3663481546290186089_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iVvOQ0POxCIQ7kNvwFZwcFO&_nc_oc=Adkq9yYl-wJpb9l1lycGZcXF9s3xz18SQ1iaU7NlmmZF0FLDcq1nqOCC9zX-IgzQ8I0&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_Aftql1GJKvdw7Ev6bQRf29tg3mSeBHbHGZIWMH2JW5wgtw&oe=698766FF",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "http://instagram.com/cuns.archive",
+                        "title": " ",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/514067494_2247598312322937_4446879069740997087_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=A1V_RFClJNMQ7kNvwFusg9r&_nc_oc=Adn4alTGMA1X9lZmGDpL7CPlYOkiRIdODIQxP1mBnXCplFtCxSIVhkne4Vz-Miy6-4I&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AfstdLlijekwI61ECqQxdZE78mvT3TJ-W6DWmzENbKCHVQ&oe=698756A7",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/512679306_721632933787235_5567899520892814438_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TMxLdCDAqp4Q7kNvwHDjaL3&_nc_oc=AdlRdA6OVryI2A7t1fJdLbhRqIKdvNPnlCj-j6ERVw_oPzA12N1hb4YlbD8M1GHVLNw&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_Afs2Ss-SR1hVC-ycph4BshjTjKHQ3jMla62xlan4Z25XYg&oe=69875995",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "요즘 꽂힌 무드 한가득..\n\n핏부터 소품까지 하나하나 \n간단하게 따라 입을 수 있게 정리해봤어요 📁\n\n귀엽고 시크한 믹스매치 스타일 참고용으로 담아두기!"
+                    },
+                    "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                    "display_format": "CAROUSEL",
+                    "link_description": null,
+                    "link_url": "http://instagram.com/cuns.archive",
+                    "images": [],
+                    "page_categories": [
+                      "Profile"
+                    ],
+                    "page_like_count": 0,
+                    "title": null,
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": false,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "cuns.archive",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": true,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1751526000,
+                  "publisher_platform": [
+                    "INSTAGRAM"
+                  ],
+                  "start_date": 1751266800,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "1404366131267795",
+                  "collation_count": null,
+                  "collation_id": null,
+                  "page_id": "103164259268905",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "103164259268905",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/nikeseoul/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "Nike Seoul",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622095486_1778355090234681_1507811127959033342_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=S-CMT86EM70Q7kNvwE_iGBt&_nc_oc=Adm0Nh_BDVLBK-Qu1jyOxzxnYVG7ZcphFQivIwJ1ECLIiKXqLiI1oGtT409_ty5cPoA&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_Afvi9zv5SKgxotLVlsaNl2SrLnq8nPLXYYACSHvHBl-8rQ&oe=69875994",
+                    "event": null,
+                    "caption": "nike.com",
+                    "cta_text": "지금 구매하기",
+                    "cards": [
+                      {
+                        "body": "아웃도어와 라이프스타일까지 이어지는 ACG\n앱에서 무료 배송 & 반품까지, 나이키 인기 상품을 만나보세요.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com",
+                        "link_description": "Nike delivers innovative products, experiences and services to inspire athletes.",
+                        "link_url": "https://www.nike.com/kr/t/acg-이지-남성-신발-xauiaFd3/FV4317-201?utm_source=Facebook&utm_medium=SOC&utm_campaign=365DIGITAL_Facebook_DA_DPA_all_all",
+                        "title": "나이키 ACG 이지 남성 신발",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623664180_1773808660244706_6481907977427783374_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-gp7mbw7etwQ7kNvwGc5TY2&_nc_oc=AdnIvQLcrF_gfmTTD5BvzEjPCl6JzSxd7FPogwuJ03nDbL7Ko7lxd0Y859D9alRKCT8&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AfuUKVfLDQTqNWVzptXMenpTjM27g6G6tHGsiCAPrX926A&oe=69874F35",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623664180_1773808660244706_6481907977427783374_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-gp7mbw7etwQ7kNvwGc5TY2&_nc_oc=AdnIvQLcrF_gfmTTD5BvzEjPCl6JzSxd7FPogwuJ03nDbL7Ko7lxd0Y859D9alRKCT8&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AfsJHcLaKTpHdrmeA6p2wlx6mlOZeACjCscUeW0cb93OAg&oe=69874F35",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "아웃도어와 라이프스타일까지 이어지는 ACG\n앱에서 무료 배송 & 반품까지, 나이키 인기 상품을 만나보세요.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com",
+                        "link_description": "Nike delivers innovative products, experiences and services to inspire athletes.",
+                        "link_url": "https://www.nike.com/kr/t/acg-아웃도어-쿠셔닝-크루-삭스1켤레-TSoGZyhh/DV5465-101?utm_source=Facebook&utm_medium=SOC&utm_campaign=365DIGITAL_Facebook_DA_DPA_all_all",
+                        "title": "나이키 ACG 아웃도어 쿠셔닝 크루 삭스(1켤레)",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623016351_2027202421462257_2430754405059464954_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tR9US3UzI6sQ7kNvwHKSpJJ&_nc_oc=AdmMbNPPf08naQAXNpbJQkRyYN4E9B3L7ROosSBADNffv9dT1EdjAE0sXOwX7M53_uk&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AfsgITUJwRDgiE7SM_l4XjWTJE_voIkHw0d92gwCnP8I9w&oe=69876DB3",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623016351_2027202421462257_2430754405059464954_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tR9US3UzI6sQ7kNvwHKSpJJ&_nc_oc=AdmMbNPPf08naQAXNpbJQkRyYN4E9B3L7ROosSBADNffv9dT1EdjAE0sXOwX7M53_uk&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AfuU_6tinouZ-xwoBzBTnSE_p0M-HIJPstnbFIpmv75C4g&oe=69876DB3",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "아웃도어와 라이프스타일까지 이어지는 ACG\n앱에서 무료 배송 & 반품까지, 나이키 인기 상품을 만나보세요.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com",
+                        "link_description": "Nike delivers innovative products, experiences and services to inspire athletes.",
+                        "link_url": "https://www.nike.com/kr/t/acg-데이맥스-크로스바디-백3l-OL1xUdBG/HJ8180-010?utm_source=Facebook&utm_medium=SOC&utm_campaign=365DIGITAL_Facebook_DA_DPA_all_all",
+                        "title": "나이키 ACG '데이맥스' 크로스바디 백(3L)",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622127989_877533731845529_2295681539703354060_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FPj8tdL_KCQQ7kNvwEuMduW&_nc_oc=AdklYenHF2BqQzOSHLo0yJZCbxA9cXNhHtUUp1NdtR1x37IL5NqYv6bid4vNCBxG7yk&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AfvWn6nESiNlUUtA4LpCBoYwReJsX8Sw0ooknoEYCalM_Q&oe=69876B87",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622127989_877533731845529_2295681539703354060_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FPj8tdL_KCQQ7kNvwEuMduW&_nc_oc=AdklYenHF2BqQzOSHLo0yJZCbxA9cXNhHtUUp1NdtR1x37IL5NqYv6bid4vNCBxG7yk&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AfuSaTfc7YwhBk0oPSgo8LIGTWK2TusSjvN1KOmcYwV2xw&oe=69876B87",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "아웃도어와 라이프스타일까지 이어지는 ACG\n앱에서 무료 배송 & 반품까지, 나이키 인기 상품을 만나보세요.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com",
+                        "link_description": "Nike delivers innovative products, experiences and services to inspire athletes.",
+                        "link_url": "https://www.nike.com/kr/t/acg-라바-루프-남성-드라이-핏-adv-하프-트레일-러닝-타이츠-cjrTvLVG/IO9672-010?utm_source=Facebook&utm_medium=SOC&utm_campaign=365DIGITAL_Facebook_DA_DPA_all_all",
+                        "title": "나이키 ACG '라바 루프' 남성 드라이 핏 ADV 하프 트레일 러닝 타이츠",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/619276641_2081171879349284_1450937313193774638_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gFeWSD3HhToQ7kNvwEhg1sM&_nc_oc=AdnEzmoOKd2zqYYqI-AYNHtS1RT4E1pp0teCQLW2e0yEOQS6nMYrD3LP-dq5TPUWQP4&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AfstT5RcQVmVBNAF9Tw2XkzI0ZsvQUPi2HRmGqnOQFQpFg&oe=698773FD",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/619276641_2081171879349284_1450937313193774638_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gFeWSD3HhToQ7kNvwEhg1sM&_nc_oc=AdnEzmoOKd2zqYYqI-AYNHtS1RT4E1pp0teCQLW2e0yEOQS6nMYrD3LP-dq5TPUWQP4&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AfuoQdgjDB4VVQYqzNqOuWH3RV54TEiUBb_rACAr8T9Elw&oe=698773FD",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "아웃도어와 라이프스타일까지 이어지는 ACG\n앱에서 무료 배송 & 반품까지, 나이키 인기 상품을 만나보세요.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com",
+                        "link_description": "Nike delivers innovative products, experiences and services to inspire athletes.",
+                        "link_url": "https://www.nike.com/kr/t/acg-데이맥스-백팩25l-XWAu9fcQ/HJ8178-010?utm_source=Facebook&utm_medium=SOC&utm_campaign=365DIGITAL_Facebook_DA_DPA_all_all",
+                        "title": "나이키 ACG '데이맥스' 백팩(25L)",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623858378_1199215505526261_5027789022167487424_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-vMS4M2n3FAQ7kNvwFS6IPN&_nc_oc=AdlY1rM53pR1Auyib3FayC9fqEnWtXPoADiO2eykU3PKXce8IsI8kQ24IDWgzHb9FBw&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AfvYmw2t9QvSDDEIoMA4QnzSEq3FQaCOb9prnXakV13Eaw&oe=69877AA8",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623858378_1199215505526261_5027789022167487424_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-vMS4M2n3FAQ7kNvwFS6IPN&_nc_oc=AdlY1rM53pR1Auyib3FayC9fqEnWtXPoADiO2eykU3PKXce8IsI8kQ24IDWgzHb9FBw&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AftzVYNxBT-u8yC2-aj4h7enHga0sc0Zvcf90-Vh4ejOmg&oe=69877AA8",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "아웃도어와 라이프스타일까지 이어지는 ACG\n앱에서 무료 배송 & 반품까지, 나이키 인기 상품을 만나보세요.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com",
+                        "link_description": "Nike delivers innovative products, experiences and services to inspire athletes.",
+                        "link_url": "https://www.nike.com/kr/t/acg-여성-반팔-티셔츠-LtB7an6f/DJ3647-122?utm_source=Facebook&utm_medium=SOC&utm_campaign=365DIGITAL_Facebook_DA_DPA_all_all",
+                        "title": "나이키 ACG 여성 반팔 티셔츠",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/619993924_2392873604472925_4213767659803988957_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_3fxSy16wj8Q7kNvwFRtxjF&_nc_oc=Adnokc9OKLHb6s5Q4onNF0aQaeB7s4-cdTLu_7ONS3xwN8Pl0eN5RwNCebk_kv7kgvM&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_Afsj4CNSo0moxS0S9dEhpIaHqysPXGu-n7yYv2KU9xdyMA&oe=69877008",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/619993924_2392873604472925_4213767659803988957_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_3fxSy16wj8Q7kNvwFRtxjF&_nc_oc=Adnokc9OKLHb6s5Q4onNF0aQaeB7s4-cdTLu_7ONS3xwN8Pl0eN5RwNCebk_kv7kgvM&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AfsvuMxbTMTJETT7mrlrw3ot34tVzEp5__QvmVbk9WTXng&oe=69877008",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "아웃도어와 라이프스타일까지 이어지는 ACG\n앱에서 무료 배송 & 반품까지, 나이키 인기 상품을 만나보세요."
+                    },
+                    "cta_type": "SHOP_NOW",
+                    "display_format": "DPA",
+                    "link_description": null,
+                    "link_url": "http://www.nike.com/",
+                    "images": [],
+                    "page_categories": [
+                      "Brand"
+                    ],
+                    "page_like_count": 26593,
+                    "title": "{{product.name}}",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "Nike Seoul",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "MESSENGER",
+                    "THREADS"
+                  ],
+                  "start_date": 1769760000,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "939820648706834",
+                  "collation_count": 1,
+                  "collation_id": "1241521074544871",
+                  "page_id": "601463486384380",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "601463486384380",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/61574450144720/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "필름어스",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622364709_989489127577397_960700653326200687_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IQi1ZMDBYJUQ7kNvwEFdPqv&_nc_oc=AdlqegDkw94sbep9QQMmvGk4TnFg-Qp-cLUxlTGWwVlk-d6lV8M76GEarMT5rfbuzUo&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AfuH7yaP4BMPlAsJfDLZr8QLLVecq9B2ksNRdMWBojNpYg&oe=69876541",
+                    "event": null,
+                    "caption": "filmus.site",
+                    "cta_text": "다운로드",
+                    "cards": [],
+                    "body": {
+                      "text": "AI 기반 영상 외주 프로젝트 매칭 플랫폼, 필름어스(FILMUS)"
+                    },
+                    "cta_type": "DOWNLOAD",
+                    "display_format": "IMAGE",
+                    "link_description": "필름어스 브랜드페이지에서 다양한 소식을 가장 빨리 만나보세요!",
+                    "link_url": "https://filmus.site/",
+                    "images": [
+                      {
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/621801378_1228033289432922_9052919446087286699_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gTlEiBfTCaMQ7kNvwEt5ffz&_nc_oc=AdlKrNfLTmg1OWfsfzaaaWQMeGAmk6czAl08dhhay2iD65e4Esb4ay6QgD5Effr1BnM&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AfveBRTv-H5_QbZatal9s9aheNoSRU4FjpZQV5NTXD-eTA&oe=6987712A",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/619296973_1241993377795202_6974676755069143137_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0ORsDROlGDcQ7kNvwHZN3v0&_nc_oc=AdlEcQ7eisQ5HnjPKVrZXj0fzuZF7TtRvE-cE6-LYjQ_iZgOITID-56ps7DTFhAK1A8&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=mGfd5NPA4j6iYaNgox1Vaw&oh=00_AftYR2Wa2nNUd0tskR7G7jJMPk6cpInnYm0hTnTS74XPLA&oe=698768E7",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "page_categories": [
+                      "Business"
+                    ],
+                    "page_like_count": 14,
+                    "title": "필름어스 공식 홈페이지",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "필름어스",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "MESSENGER",
+                    "THREADS"
+                  ],
+                  "start_date": 1769414400,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          }
+        ],
+        "page_info": {
+          "end_cursor": "AQHSDKNM5rxzz1WMA4Zb6098LrXWXwCPr2AWvvzTYcVD0rE9PnjHLt7FlzeoYVwD3OjMHn0U-upCtQg7KPEyoDPnhc2Ku3W8Q1woRUhAjTqxa-rSCWNg2VV2jnrugSdwUr3CTmjxXUv63jPWNe7Uk8Vp1QwPX7Hg8XXYtXJcjNhyvBDu0TmLbLRwbSGa13QRpmd2_q46NHMvRBpMmiJrR_uYtBm3FMHHn41OoxYWaOvPWFBP7c5r3VZyyAcuCibzxaSnuwv5meRnrge8A-Sb3EgPYdpzzBH4Jte8ecQO41vslt1zRWdnIYgf1947mDY6I_y7DBpE871GhIU_TueUOTxwwGxtAF2mYWmgyka8ouyYo0_VQQphyxOJCYKN9Kl7BCZraA5PzMXYupav3o-kY2bGGPqfSvwIMRCKPuGSDnPivvpHELdOpBkUR9gQZ7ta1HmmO25t_f7A6mcCCrRvOycRWRrTjr-uF3qR6Bjbf3wNAFGJ53PqBEbLtx1H1swxdAZXPKxwsbfMcP9EXc8-GifUp06AyrzUz2EPAu0ZVp-L_q5k-kElPeAZQUGUejAv7bcUvMv8U_a3vr8um5vkCr8bueyU_If5BVCRq904tgpwAmo5VAOXgBsR4MxSmEYBh7VvscDXiFd_gbI2ZcRMO45_bk-2xgszOJkSc3HkQJoJfciNr6gOVep0F4AYbAdsbr-22RSdpo6Kkf523AE2ROhlxD_2_WgfXWDR_B2mFaK7Vb6_V_JZ7oxIFzZKfTR9pYXQS8i4ov6WkKjVls1X2TVzd84rznQt2hBy__BFZdkcgYPU6rBu84GyX_IcypiKh9H1QtM7VLGxMzKdWw7zc749w10JW74E-TJot2stuRDR5BWc2qR-kGe_icdUgoaHdNsBDM3gbA7FzvHhMXad7StpmoUTsUlHqES8zXh7a0f8t8s8sfYHASDtWFzbWm-4HnfNyfkXJm0B6PReaH6uFNFOUbySDMADMs1dxCylPzqzVXO-eMsFLH8NaLLRK2lfdYfGRMTDZGjfkI90JEawUoHObgoh1onxPMzJP4LglPKlr9byuG9rkrR8fxKw5IqiV0tYY6mU8XQRYBznfTAemoCarNjaHqB6uXJCJqPIavdeKH4LEEo-EysX3XSutMLO2Trc73GLAzH7yqeWz1bYPuVQSihpqiXws39enNuGxKZuti06ndtKvnc1h1IMbUdGaM8Zvxf4dQWOB5sDGlfz5UFJzhHXPmP6oKQYncaK6Wkx1RL6tgohrdvxDvasgH41ikvaU-5UBB2d2yJNDm3gY8C7q_kPx2l03LF217SvhdVbPAa-DMOY3VxCgoROIp1LFUyzqHvK8DwvneZdEHsl5afa4Y3z4AQ-Au31uDkWO3NCCCLVUNlWQyHBE6I6vbPTS0LObbQ2dwqzYJgRk27uADlQP5KITSKfaaj7w-e5iebaM6sMDhkSyuiJgVhMPtpd6K6X57oj78I2kL2dpylRV0FvWJ9K_X14hw2YYt683an-xy2uHjwagsHLl7hrvtOcYqcL_NvdJqn64scjEXilYZfQBeweTxuR1F2ZTsmxMDtWP3LNmluthWWzvek2Zmc-PUTsRkFE7QipsuDU11bljkuMXR23taUi5vEGYtzuwjOmKzEodgwAnsZ1Zx5yAkw1OfUD4G8uBCs8g2mrRjRU_FvJBAP7yqzqrK1zU6jS5qzmoR41n7klGYYwg6mE4SgGfuRjK39tjQmHU70cuJXvJIChVvmcEzz3uAWs-GSBvkIrDOfAmysMEAGEyr58Eh-utwwDZkqSKl0c0CN2VeoYWdoKp-HbVGyzLY_K3c1d7Sm7bjXmvVa6w6HbKqBXnRMpPy3DLiH9rJSc5zrgtcafEUQwPjNochsNIlRZlRGL5gc9xcaNR0bjuCXtBSnW2csaq_ww6aMb-n1bChlnOwv3dp7yaue5S5bk008r8TRgBxc49PrdYBvJEv5f0GQfEohnqdC9gvpd7yGQcamz1KHIu7z4bbWNUnILBkz4rq_toI0v0R9iL-TkUCeyNBeXr4PTO31PY8EcXdjMHykGSEX4qIAmwMtOkRsbY6Zn28dHKoOKPHve9VktQ6uZViVPg-P80HgrnPzh8EgHRIAcIIcGBSVD9JqTh3UO4cJcAyHWd-3Huqlpc0Gif3z9B_mpS0WnjqQiYlc1bxU_XnurIfHp_P6T8lUycDRC_mcwSj4tynWAE5I",
+          "has_next_page": true
+        }
+      }
+    }
+  },
+  "extensions": {
+    "server_metadata": {
+      "request_start_time_ms": 1770100714420,
+      "time_at_flush_ms": 1770100715878
+    },
+    "is_final": true
+  }
+}

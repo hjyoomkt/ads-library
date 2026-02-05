@@ -1,0 +1,50 @@
+{
+  "data": {
+    "ad_library_main": {
+      "typeahead_suggestions": {
+        "keyword_results": [],
+        "page_results": [
+          {
+            "page_id": "1438049549768683",
+            "category": "전자담배 가게",
+            "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t1.30497-1/453178253_471506465671661_2781666950760530985_n.png?stp=dst-png_s100x100&_nc_cat=1&ccb=1-7&_nc_sid=7565cd&_nc_ohc=tNiY9GgxkcgQ7kNvwHBuAEv&_nc_oc=Adkn_won7aPr3Tjf__pgIgomulbKhQd9XdMe6yZWrfyyVRl7_Mm-FqpzWJzciIEc1b8&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&oh=00_AfvlNwYSlaW2CDGjy8-aZhz_6XycrDEMgB46oucNchRTvg&oe=69A90C7A",
+            "likes": 4796,
+            "verification": "NOT_VERIFIED",
+            "name": "Skdlz Oficial",
+            "country": null,
+            "entity_type": "PERSON_PROFILE",
+            "ig_username": null,
+            "ig_followers": null,
+            "ig_verification": null,
+            "page_alias": "vapemallmaroc",
+            "page_is_deleted": false
+          },
+          {
+            "page_id": "101307882518627",
+            "category": "프로필",
+            "image_uri": "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-19/543817500_18024136133737751_496714881948284049_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=108&ccb=7-5&_nc_sid=525117&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy41MDAuQzMifQ%3D%3D&_nc_ohc=fwR8A4aYDNAQ7kNvwFYz08w&_nc_oc=AdmpUSC6Q5JiGd9A1_si2J4RnYCqi5cJKxA4saVHryxajjAJ6tTEM2nO9czw9Uaj0_E&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_gid=STzaMFseJPXiFT-Gc6biWA&oh=00_Afv_3Wl0iKQc1ZO49iZo4EQFRFsO5VkuNkb1Hd6Ob96J5g&oe=69875AB5",
+            "likes": null,
+            "verification": "NOT_VERIFIED",
+            "name": "notes_by_nike",
+            "country": null,
+            "entity_type": "IG_ADS_IDENTITY",
+            "ig_username": "notes_by_nike",
+            "ig_followers": 66,
+            "ig_verification": false,
+            "page_alias": "",
+            "page_is_deleted": false
+          }
+        ],
+        "location_results": [],
+        "exact_phrase_results": "\"skdlz\""
+      }
+    }
+  },
+  "extensions": {
+    "server_metadata": {
+      "request_start_time_ms": 1770098952611,
+      "time_at_flush_ms": 1770098952901
+    },
+    "is_final": true
+  }
+}

@@ -1,0 +1,1388 @@
+{
+  "data": {
+    "ad_library_main": {
+      "search_results_connection": {
+        "edges": [
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "868761749308601",
+                  "collation_count": 1,
+                  "collation_id": "1447326003416811",
+                  "page_id": "458275074033694",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "458275074033694",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/61567079278420/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "댄블 - 3040 남성을 위한 맞춤 스타일, 사이즈 추천",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/626521374_891345893483455_1050900294299586808_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=R08XpVRtI2gQ7kNvwFXspNM&_nc_oc=Adk664KDd9xmcMn7Q89AZDXDA4YaMqsB-rIJ9k1o677-fI_8ACbkrS-jQw7pEkk89Xw&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=iLU_-9nSG69ghHaKX_uudw&oh=00_AfueapA_3KsvQJ8DKQ0xHUHjscUB0Bstzq40fYuFIxlsOA&oe=69874B53",
+                    "event": null,
+                    "caption": "danble.abr.ge",
+                    "cta_text": "더 알아보기",
+                    "cards": [
+                      {
+                        "body": "[테토남 주목] \"이거 하나면 충분합니다\"\n\n옷장은 꽉 찼는데 입을 게 없다면? 진짜 필요한 것만 모았습니다.\n\n✅ 검증된 스타일: 테토남들이 가장 많이 찾는 베스트 아이템 큐레이션.\n✅ 미친 가성비: 훨씬 합리적인 구성.\n✅ 배송비 0원: 오직 지금만 드리는 무료배송 혜택까지!",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "",
+                        "link_description": null,
+                        "link_url": "https://danble.abr.ge/@danble/facebook.business?ad_creative={{ad.name}}&ad_creative_id={{ad.id}}&ad_group={{adset.name}}&ad_group_id={{adset.id}}&campaign={{campaign.name}}&campaign_id={{campaign.id}}&routing_short_id=g6hg1a&sub_id={{site_source_name}}&sub_id_1={{placement}}&tracking_template_id=e0fb42a27236cb0df172522f69954070&ad_type=click",
+                        "title": null,
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/626444004_2108779373207512_5186266134888009752_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QNdxusvcH74Q7kNvwF2NN_u&_nc_oc=AdkMJU-rp2vDHCMrGEmmdfSwCuQHlsxL317ZK58-aetq68thCzjgql7UVEJRsWHI3RY&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=iLU_-9nSG69ghHaKX_uudw&oh=00_AfvM8mfMQ1oJ-BZGQOWpE46NOZPRkhXzezaxNv4kuJRouw&oe=698750C6",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625056435_1841069156539006_1278324670647773137_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BqGiYSJ-uPkQ7kNvwG_Tx2-&_nc_oc=AdnK7GMOZam_TMGvFCDAFERxpP5eduS3CAtCDTntCQMz9Mjf7LgJmMBz9iWu_8JDW_E&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=iLU_-9nSG69ghHaKX_uudw&oh=00_AfvCDKEX-eetURBoqprZqO4l-A7kEeUdoheCgiwkreSRQg&oe=69875760",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "[테토남 주목] \"이거 하나면 충분합니다\"\n\n옷장은 꽉 찼는데 입을 게 없다면? 진짜 필요한 것만 모았습니다.\n\n✅ 검증된 스타일: 테토남들이 가장 많이 찾는 베스트 아이템 큐레이션.\n✅ 미친 가성비: 훨씬 합리적인 구성.\n✅ 배송비 0원: 오직 지금만 드리는 무료배송 혜택까지!",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "",
+                        "link_description": null,
+                        "link_url": "https://danble.abr.ge/@danble/facebook.business?ad_creative={{ad.name}}&ad_creative_id={{ad.id}}&ad_group={{adset.name}}&ad_group_id={{adset.id}}&campaign={{campaign.name}}&campaign_id={{campaign.id}}&routing_short_id=g6hg1a&sub_id={{site_source_name}}&sub_id_1={{placement}}&tracking_template_id=e0fb42a27236cb0df172522f69954070&ad_type=click",
+                        "title": null,
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625360401_1994626094821806_5884929330209591991_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=B8YXkEY-R-YQ7kNvwFtxPm0&_nc_oc=AdlhqxMIMRk38hHbinohmITDum4hHIExPFx_AgLjDaeUonCe66IDTkgvi9jt52OGOP4&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=iLU_-9nSG69ghHaKX_uudw&oh=00_AftPqAx4gqzHfAhWbTLG0GOmH_kXrDVyYV83jpUMuECjdA&oe=69876809",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624987392_3862482310715641_7093407962498290807_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Q9Pfh9ds8x8Q7kNvwG-sx8R&_nc_oc=Adnr4h5avMw0IbxEfvIuNQZ8HgCPxThpRZM6zn-4bg0WTkP69HQOAyPDUSN47yjzoN8&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=iLU_-9nSG69ghHaKX_uudw&oh=00_AftihJRloZQKWawyAqEyns-ZtgBnrOo1UmkZNzb-aV7VFQ&oe=69877B24",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "{{product.brand}}"
+                    },
+                    "cta_type": "LEARN_MORE",
+                    "display_format": "DCO",
+                    "link_description": "{{product.description}}",
+                    "link_url": "https://danble.abr.ge/@danble/facebook.business?ad_creative={{ad.name}}&ad_creative_id={{ad.id}}&ad_group={{adset.name}}&ad_group_id={{adset.id}}&campaign={{campaign.name}}&campaign_id={{campaign.id}}&routing_short_id=g6hg1a&sub_id={{site_source_name}}&sub_id_1={{placement}}&tracking_template_id=e0fb42a27236cb0df172522f69954070&ad_type=click",
+                    "images": [],
+                    "page_categories": [
+                      "Shopping"
+                    ],
+                    "page_like_count": 235,
+                    "title": "{{product.name}}",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "댄블 - 3040 남성을 위한 맞춤 스타일, 사이즈 추천",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "MESSENGER",
+                    "THREADS"
+                  ],
+                  "start_date": 1770019200,
+                  "contains_sensitive_content": false,
+                  "total_active_time": 80797,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "1209831437719881",
+                  "collation_count": 1,
+                  "collation_id": "4068940820027796",
+                  "page_id": "876625512197959",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "876625512197959",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/61583903104931/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "Lina",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/589259115_1294992329048520_1525361497184961218_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XFpIznM4joIQ7kNvwEFt2nx&_nc_oc=AdmyjH5tX9cwPMt35yiaDOGcMovZq_CQPnc0A-NN-lwCsIu-J1ie9RFmw-5m-PtVvyY&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=iLU_-9nSG69ghHaKX_uudw&oh=00_AfvSSgmeBruGM7PRxgZ1NMcTUtvoF-A2eNKRy-Yj8n9weQ&oe=69877077",
+                    "event": null,
+                    "caption": "wellnessinsight.life",
+                    "cta_text": "더 알아보기",
+                    "cards": [],
+                    "body": {
+                      "text": "이 글을 쓰기까지 거의 1년이 걸렸어요. 누가 자기 집안 치부를 드러내고 싶겠어요? 그런데 지난주 아빠가 그러시더라고요. \"딸아, 우리랑 같은 고생하는 가족들한테 조금이라도 도움이 된다면...\" 그래서 용기내서 써봅니다.\n\n작년 5월, 토요일 아침이었어요. 엄마한테서 카톡 보이스톡이 5분짜리로 왔더라고요.\n\n\"얘야, 나 진짜 네 아빠 때문에 못 살겠다. 벌써 5일째 거실 소파에서 주무셔. 어제는 코골이가 얼마나 심했는지 옆집 김 여사가 새벽 2시에 '혹시 리모델링 하시나요?' 하고 문자 보냈어. 진짜 지진 나는 줄 알았다니까. 나 진짜 이혼 변호사 알아볼까 봐.\"\n\n엄마가 또 오버한다고 생각했죠. 우리 엄마 원래 좀 드라마틱하거든요 – 전라도 분이라서요.\n\n그런데 6월에 부모님 집에서 주말 보내면서 완전히 이해했어요.\n\n진짜 옆방에서 드릴 작업하는 소리였어요. 아니, 더 심해요. 고장난 전기톱에 경운기 소리를 섞어놓은 것 같았어요. 남편이 노이즈 캔슬링 이어폰에 백색소음 최대 볼륨으로 틀고도 못 잤어요.\n\n근데 진짜 최악은 소음이 아니었어요. 갑자기 조용해지는 거예요.\n\n\"드르렁... 컥컥...\" 그리고는, 정적.\n\n세기 시작했어요: 1, 2, 3... 10초쯤 되니까 불안하고, 20초쯤 되니까 \"아빠!\" 하고 소리치고 싶고, 30초 – 한번은 47초까지 센 적 있어요 – 뛰어가서 확인했어요.\n\n그러다 갑자기: \"컥! 후아악!\" 물에 빠졌다가 나온 사람처럼.\n\n우리 아빠는 전형적인 \"강한 남자\" 스타일이었어요. 현대자동차 울산공장에서 32년 근무. \"단 하루도 안 빠졌다\"가 입버릇. 178cm, 전직 축구선수, 60대 조기축구회 아직도 뛰고 계세요. 66세인데 아직도 \"나 아직 젊어\"라고 하시죠.\n\n근데 최근 몇 년 사이...\n\n- 어버이날 외식 중에 잠들어버림 (젓가락 든 채로)\n- 삼촌 장례식장에서 코골기 (스님이 독경 멈추심)\n- 월드컵 한국전 보다가 잠들어버림 (16강전이었는데!)\n- 조카 돌잔치에서 서서 잠들어버림 (축하 노래 부르는 중에)\n\n엄마가 써놓은 메모 발견했어요:\n\"영수 일과: 저녁 6시 퇴근, 7시 저녁, 7시 30분 거실에서 기절, 뭘 해도 안 일어남, 11시에 나 혼자 위층으로\"\n\n7월. 엄마가 폭탄 선언: \"변호사 이미 만났어.\"\n\n병원이라곤 회사 건강검진 말고는 안 가던 아빠가 드디어 서울대병원 수면클리닉 예약.\n\n결과: AHI (무호흡-저호흡 지수) 53.2. 중증 수면무호흡증.\n\n젊은 여자 교수님이 차트 보여주시면서:\n\"환자분, 밤에 산소포화도가 63%까지 떨어집니다. 정상은 95% 이상이에요. 매일 밤 백두산 정상에서 주무시는 거나 마찬가지예요. 심장마비나 뇌졸중 위험이 3.5배 높습니다.\"\n\n아빠 얼굴이 하얘지셨어요.\n\n양압기(CPAP) 치료 시작. 월 15만원 렌탈.\n\n첫날 밤: \"이거 고문이야! 진공청소기로 물고문 당하는 것 같아!\"\n\n적응 도와드리려고 별짓 다 했는데, 2주 후: \"차라리 자다가 죽는 게 낫지, 이 다스베이더 마스크 쓰고는 못 살아!\"\n\n결국 반납. 위약금 140만원.\n\n그 다음은 별의별 시도들:\n\n- 맞춤 구강내 장치: 650만원 (보험 안 됨)\n  → \"턱이 빠질 것 같아!\"\n  \n- 코골이 방지 패치 (쿠팡에서 전 브랜드 구매): 총 45만원\n  → \"미식축구 선수 같아 보여\"\n  \n- 수입 코골이 방지 스프레이: 개당 8만 9천원 (6개 구매)\n  → 효과 제로, 그냥 박하향\n  \n- 옆으로 자는 벨트: 35만원\n  → 허리 디스크 악화\n  \n- \"스마트\" 코골이 방지 베개 (쿠팡): 89만원\n  → 모터 소리가 엄마 불면증 유발\n\n**총 지출: 1500만원 이상. 결과: 빵점.**\n\n8월 15일, 아빠 67번째 생일. 강원도 펜션 대관해서 온 가족 모임 – 16명.\n\n새벽 3시 17분 (절대 못 잊어요): 쿵 소리.\n\n아빠가 침대에서 떨어지셨어요. 정신 못 차리고, 헐떡이면서, 혼란스러워하시면서. \"여기가 어디야? 뭐하는 곳이야?\" 6살 조카가 울면서: \"할아버지 죽어요?\"\n\n119 부를 뻔했어요. 15분쯤 지나서 정신 차리셨는데, 그 눈빛... 두려움, 부끄러움, 패배감... 가슴이 찢어졌어요.\n\n아침에 속삭이시더라고요: \"내가 다들 인생 망치는 것 같아.\"\n\n한 달 뒤, 결혼 40주년 기념으로 독일 여행 보내드렸어요. 하나투어 10일 패키지.\n\n9월, 뮌헨 포시즌스 호텔.\n\n둘째 날 아침, 영상통화 믿을 수 없었어요.\n\n아빠가 빛나고 계셨어요. 프레첼이랑 소시지 드시면서 20대처럼. 눈이 반짝반짝.\n\n\"딸아, 너 안 믿겠지만 9시간을 푹 잤어. 9시간! 한 번도 안 깨고. 천국에 온 줄 알았어.\"\n\n엄마도 확인: \"코 소리 하나도 안 났어. 나 10분마다 숨 쉬나 확인했다니까.\"\n\n시차 때문이겠지 싶었는데.\n\n뮌헨에서 4일 내내 완벽했어요. 아빠가 다시 태어나신 것 같았어요. 셋째 날, 동네 산책도 안 하시던 분이 영국정원에서 3시간 하이킹. 그날 저녁 맥주 드시고, 농담하시고 – 이거 진짜예요 – 레스토랑에서 엄마랑 왈츠 추셨어요.\n\n\"1984년에 만났던 그 남자가 돌아온 것 같아,\" 엄마가 울면서.\n\n체크아웃할 때 프런트 직원한테 물어봤어요, 그레타라는 금발 여자분:\n\n\"아버지가 여기서 정말 잘 주무셨는데, 베개가 특별한가요?\"\n\n미소 지으며: \"아, Dегilа 베개 말씀이시군요. 독일 프리미엄 호텔 표준이에요. 하이델베르크 의사들이 수면 호흡 문제 전문으로 개발했죠. 독일에서는 수면을 아주 진지하게 생각해요. 좋은 베개는 사치품이 아니라 건강 투자죠.\"\n\n한국 돌아와서 바로 검색.\n\n공식 한국 사이트 찾았어요. 개당 8만원.\n\n1500만원 날린 거 생각하면... 껌값이죠. 바로 4개 주문했는데, 한국 독점 사이트 할인으로 개당 6만원에 샀어요!\n\n서울 물류센터에서 3일 만에 도착 (독일에서 수입).\n\n\"또 유럽 사기,\" 아빠가 투덜거리셨죠. \"독일 사람들이 한국 사람보다 잠을 더 잘 안다고?\"\n\n\"닥치고 써보세요!\" – 엄마의 명령.\n\n**첫날 아침, 6시 42분, 엄마 카톡:**\n\n이모티콘 폭탄: 🎉🎊✨😭😍🙏\n\n\"코골이 제로! 제-로! 옆에 사람이 없는 것 같았어!\"\n\n일주일, 한 달, 두 달... 계속 같았어요.\n\n11월 재검사: AHI 6.8로 떨어짐. 중증에서 경증으로. 베개만으로.\n\n서울대병원 교수님 충격: \"무슨 치료 하셨어요?\"\n\"독일 베개요, 교수님.\"\n\"베개? 베개만으로?\"\n\"베개만요.\"\n\n어색한 침묵.\n\n\"뭐... 독일이 수면의학 선진국이긴 하지만... 베개만으로... 놀랍네요. 수치는 거짓말 안 하니까요.\"\n\n이제 온 가족이 써요:\n\n- 남동생 (대전): \"형수가 내 아침 기분도 좋아졌대\"\n- 언니: \"형부가 밤에 팔꿈치 안 찌른대. 알고 보니 내가 코골이였어!\"\n- 남편이랑 나: 수면의 질 비교 불가. 남편 만성 두통 사라짐\n- 엄마: \"3년 만에 안방으로 돌아왔어. 69살, 67살인데 신혼 같아\"\n\n지난달 독일계 회사 다니는 김 과장한테 얘기했더니:\n\n\"당연하죠! 한국 사람들 매트리스에는 수백만 원 쓰면서 베개는 이마트에서 2만원짜리 사잖아요. 독일에서 베개는 의료기기예요. 150만원짜리 아이폰 사면서 하루 8시간 쓰는 거에는 돈 아끼고. 말이 안 되죠!\"\n\n아프지만 맞는 말이네요.\n\n아빠는 이제 매일 5시 30분에 일어나세요. 5km 산책하시고. 콧노래 부르며 아침 드시고. 목공 취미생활 하시고 (정년 후 활동).\n\n보이스톡 보내주셨어요:\n\n\"딸아, 오늘로 아기처럼 잔 지 75일째다. 지난 10년 중 최고의 75일이야. 늙은 아빠 포기 안 해줘서 고마워.\"\n\n이마트에서 펑펑 울었어요.\n\n저는 의사도 아니고, 베개 파는 사람도 아니고, 커미션 받는 것도 아니에요.\n\n근데 이것 때문에 이혼 위기 가는 부부가 수천 쌍은 될 거예요. 얼마나 많은 \"영수 아빠\"들이 좀비처럼 살면서, 생명 위험하면서, 관계 망치고 있을까요?\n\n여기까지 읽으면서 \"헐, 완전 우리 집 얘기네\" 싶으면, 그냥 한번 써보세요.\n\n공식 사이트에서 30일 환불 보장해요. 마음에 안 들면 그냥 반품하면 돼요.\n\n지금 70% 할인 중이래요. 진짜 치킨 두 마리 값이에요.\n\n중요: 짝퉁 조심하세요. 쿠팡에서 \"독일 정형 베개\" 1만 9천원짜리 봤는데, 올케가 샀다가 완전 쓰레기였어요.\n\n한국 공식 Dегilа 사이트 찾으세요. \"30일 보장 또는 환불\" 도장이랑 택배 추적 되는 곳이어야 해요.\n\n아래 \"자세히 보기\" 버튼 보이면 아직 할인가에 재고 있는 거예요. 사촌동생은 망설이다가 지난 세일 놓쳤어요. 6만원이면 (CGV 팝콘 세트 두 개 값), 솔직히 고민할 게 없죠.\n\n추신: 아빠가 어제 그러시더라고요: \"8년을 날렸네. 75인치 TV 값을 쓸데없는 데 쓰고, 정답은 나이키 운동화 값도 안 했는데.\"\n\n우리처럼 하지 마세요. 8년 기다리지 마세요.\n\n추추신: 남편/아빠/오빠가 코 골고 지금 새벽 3시에 코골이 소리 때문에 못 자고 이거 읽고 있다면... 이 글 지금 보내세요. 인생은 불면의 밤을 보내기엔 너무 짧아요. 좋은 결혼생활은 코골이 때문에 끝내기엔 너무 소중하고요."
+                    },
+                    "cta_type": "LEARN_MORE",
+                    "display_format": "IMAGE",
+                    "link_description": "30일 무료 리스크 프리 트라이얼. 코골이 그만. 더 잘 자요.",
+                    "link_url": "https://better-life-designer.xyz/cf/r/6902fae4d94c5200122b2c22?ad_id={{ad.id}}&adset_id={{adset.id}}&campaign_id={{campaign.id}}&ad_name={{ad.name}}&adset_name={{adset.name}}&campaign_name={{campaign.name}}&source={{site_source_name}}&placement={{placement}}",
+                    "images": [
+                      {
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/589732722_1845839712702610_7730060937979775165_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9agZQpwzwK8Q7kNvwF24P8V&_nc_oc=Adl5SKXu1NrzGJvGXm_qdvjvnsXTK7hqxPbEBBsU39dIEw_FyYxnElrFrsUuxKWbk1A&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=iLU_-9nSG69ghHaKX_uudw&oh=00_Afs7kaaKUD3WIKd23QTJuxMWsOH0mnj2k6r8xuKxQl8MHQ&oe=6987833A",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/588464712_1816025189052084_3677371904720389291_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GsvMMj2yQ_sQ7kNvwEKwdVr&_nc_oc=AdnqWlzLJs8rs4J-o39ulm3dMHZSwzFunqMwjfZANE-Rjt_TXAcYNQ2TxeyOANU9ou8&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=iLU_-9nSG69ghHaKX_uudw&oh=00_Afu2oijtkixjxYDKL5Lzw7t7wg0pui5XL6TjT5Py3nQJMA&oe=69877B22",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "page_categories": [
+                      "Health & Beauty"
+                    ],
+                    "page_like_count": 34,
+                    "title": "30일 무료 리스크 프리 트라이얼. 코골이 그만. 더 잘 자요.",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "Lina",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "MESSENGER"
+                  ],
+                  "start_date": 1764230400,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "715530124685383",
+                  "collation_count": 1,
+                  "collation_id": "878849141528480",
+                  "page_id": "505956095945375",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "505956095945375",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/61572976356592/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "Hwatamin",
+                    "page_profile_picture_url": "",
+                    "event": null,
+                    "caption": "instagram.com",
+                    "cta_text": "Instagram 프로필 방문",
+                    "cards": [],
+                    "body": {
+                      "text": "#광고\nLook at my new obsession ! \n블랙에 레드 조합이라 그런지 연말 느낌도 나는것 같구🎄\n심지어 폭이 좁은 디자인이지만 발볼 넓은 제가 신어도 정말 착화감 좋았어요! 하루종일 신고 다녀도 만족했다궁,,!! NEW 운동화 고민중이라면 힙한데 데일리한 요거 추천💕\n\n📌 코디정보\n상의 - @apparelarchive.shop \n하의 - @shop.torte \n가방 - @valluat_official \n신발 - @nike @nikeseoul SHOX Z\n\n-\n#화타민_데일리룩 #nikeshox #나이키 #샥스 #나이키샥스 #겨울코디추천"
+                    },
+                    "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                    "display_format": "VIDEO",
+                    "link_description": null,
+                    "link_url": "http://instagram.com/hwatamin",
+                    "images": [],
+                    "page_categories": [
+                      "Personal blog"
+                    ],
+                    "page_like_count": 1,
+                    "title": null,
+                    "videos": [
+                      {
+                        "video_hd_url": "https://video-icn2-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQPNqxyTEAOySeiwpFUam-zRe21i13_7JSF5eZSQ5xZoPgPdDYNi1RqtOFPCYALlMyimC2YGJLtIXJgS6rX3dGkZVsWRRAGzwEzaMjOTcg.mp4?_nc_cat=108&_nc_sid=8bf8fe&_nc_ht=video-icn2-1.xx.fbcdn.net&_nc_ohc=ARiAwx3spOUQ7kNvwF7enPM&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxNzkwNjY2ODc0MDI5NTg2NSwiYXNzZXRfYWdlX2RheXMiOjQ2LCJ2aV91c2VjYXNlX2lkIjoxMDgyNywiZHVyYXRpb25fcyI6MTcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=iLU_-9nSG69ghHaKX_uudw&_nc_zt=28&oh=00_Afs-TlTV2Q9jN5ei_3dMD7A02trSF-YY_KRGgnH2Mc5NAw&oe=698756FA",
+                        "video_preview_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/606901365_885979437451922_3010846339926507473_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=O9RwK_mlixcQ7kNvwHA1Pg8&_nc_oc=AdkSYPJqNPsiL6arEqPzUiaZg_wJLV3wiRdlWqJMoohLKGSh0KscIiwyAsvXvvPEgZg&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=iLU_-9nSG69ghHaKX_uudw&oh=00_AfsCYEeEqPqxdAn8dT-zJuUqmWCMbT2YB2B0IY2b_LmKrg&oe=69875B74",
+                        "video_sd_url": "https://video-icn2-1.xx.fbcdn.net/o1/v/t2/f2/m367/AQNElQ-IGznxgC521hZ7uQuxMTD6Nxis7YA8OgLRzGKb3HkQ__UI8nplv7BRuERROq2UvRpAXyyyfonlvmFyv8nhf0AXTRRgptqf0rkqUQ.mp4?_nc_cat=101&_nc_sid=8bf8fe&_nc_ht=video-icn2-1.xx.fbcdn.net&_nc_ohc=yFuaWBPMhi4Q7kNvwEvts5-&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl8zNjBwIiwieHB2X2Fzc2V0X2lkIjoxNzkwNjY2ODc0MDI5NTg2NSwiYXNzZXRfYWdlX2RheXMiOjQ2LCJ2aV91c2VjYXNlX2lkIjoxMDgyNywiZHVyYXRpb25fcyI6MTcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=iLU_-9nSG69ghHaKX_uudw&_nc_zt=28&oh=00_AfuJriOuEvaOXeTEGxpJZ-NoCpPmRrsuNI9OGTpp9Njv5w&oe=69875D85",
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null
+                      }
+                    ],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": false,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "Hwatamin",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": true,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1767859200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM"
+                  ],
+                  "start_date": 1767340800,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "1954707355462778",
+                  "collation_count": 1,
+                  "collation_id": "817817774627676",
+                  "page_id": "632688229919119",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "632688229919119",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/61574912810364/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "시그니처라이브러리",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/608983460_1804090946961025_9013319894951216620_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=foUIpVR2VFQQ7kNvwEczs6T&_nc_oc=AdmBBlQ7NEuePR_yixTq0Tp0NTYLgx35LRHx15xuDTKvnz4-Zgfdi8ts_QinZmGvmkE&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=iLU_-9nSG69ghHaKX_uudw&oh=00_AfsCegf6xlkkVyUvAoNdX63jIOT-gHNjSnfMxRA6yI56gQ&oe=6987721C",
+                    "event": null,
+                    "caption": "signature-library.co.kr",
+                    "cta_text": "더 알아보기",
+                    "cards": [
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "abr.ge",
+                        "link_description": " ",
+                        "link_url": "https://abr.ge/@hwgeneralins/facebook.business?ad_creative={{ad.name}}&ad_creative_id={{ad.id}}&ad_group=traffic_int&ad_group_id={{adset.id}}&campaign=da&campaign_id={{campaign.id}}&content=art_12_collection_wealth_1&routing_short_id=expwot&sub_id={{site_source_name}}&sub_id_1={{placement}}&tracking_template_id=05b24efb2c8549d24aab7bf27d7325ca&ad_type=click",
+                        "title": "불황 속에 태어난 새로운 소비 트렌드, 요노(YONO)를 아시나요?",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/608557893_1654559119288880_7095759632109865212_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1wXux397jwMQ7kNvwE95gC8&_nc_oc=AdlGBmqZpYQqnFTNPYuXEXfosJq2Lz-SnhNdIwvDv10rRIJAn4g84PSmq2Fpz_hZfi8&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=iLU_-9nSG69ghHaKX_uudw&oh=00_AfswLFpXYeljJmmjIqlUZvWznBAZpBZFQy9sO8GYm0qFFQ&oe=69875DB3",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/607739026_1859449511327743_9098743271519567505_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Og5869i1G6AQ7kNvwFMWVFo&_nc_oc=Adn8b6ecia3ZxGT6I02Aq9EDbqy429MeVoOcAsZQnYhf5f_Gjtg2cva_r9I54Z1_idA&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=iLU_-9nSG69ghHaKX_uudw&oh=00_Afty_XURNG20owlLDgLfpchQFHnEmXRzTN5zUr_qpoN5OQ&oe=69878248",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "abr.ge",
+                        "link_description": " ",
+                        "link_url": "https://abr.ge/@hwgeneralins/facebook.business?ad_creative={{ad.name}}&ad_creative_id={{ad.id}}&ad_group=traffic_int&ad_group_id={{adset.id}}&campaign=da&campaign_id={{campaign.id}}&content=art_12_collection_wealth_2&routing_short_id=1kxi60&sub_id={{site_source_name}}&sub_id_1={{placement}}&tracking_template_id=a9dd707490ee49617a9560929bb7fb2b&ad_type=click",
+                        "title": "\"당신은 월급의 몇 %를 저축하나요?\" 2030 직장인이 답했습니다!",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/605830291_871303729205298_5477196686944444304_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8eJeCfttRM8Q7kNvwHlLxtY&_nc_oc=AdkU-gTUiLJOde9gyMHwFdWy2CMuwoHCukdQcxws9OR5G_Xv6RwgJuACzWKkPYhjTgI&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=iLU_-9nSG69ghHaKX_uudw&oh=00_AfviAaF8RJ5T2h_f5B1Vt1_3sy2SCC7llRVb17IAGwrYtg&oe=69875A2F",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/608545538_1533027757774059_7889292192568232052_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZZfQa-mwJTAQ7kNvwExZ7bb&_nc_oc=AdmuIXEqMqV2Rb00oh8uujtnNQ8Xh-ImqwmGHK6PkSDlFNFUZyF4GrAc8Us2kKKVn_Q&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=iLU_-9nSG69ghHaKX_uudw&oh=00_AftphwPzC9_FwP9dRJGKwtSdnNk_CPxKnP-ZSzONCRdWgw&oe=6987628D",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "abr.ge",
+                        "link_description": " ",
+                        "link_url": "https://abr.ge/@hwgeneralins/facebook.business?ad_creative={{ad.name}}&ad_creative_id={{ad.id}}&ad_group=traffic_int&ad_group_id={{adset.id}}&campaign=da&campaign_id={{campaign.id}}&content=art_12_collection_wealth_3&routing_short_id=aem32rs&sub_id={{site_source_name}}&sub_id_1={{placement}}&tracking_template_id=9be19a6577189fd91a69f820edf9c930&ad_type=click",
+                        "title": "크리스마스 시즌, SNS로 내년 경기를 예측한다고요?!",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/609035261_1408992167557956_7843887197937925624_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6KToWn0plmoQ7kNvwFQgrpf&_nc_oc=Adk5igABVg7TsExEtgc4Z8OypBz-pc-UdMZWvIdvMetcR8MT57fMf6Tptc3gqvzlicA&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=iLU_-9nSG69ghHaKX_uudw&oh=00_AfvZH8nnHkZC12f9htD0jBZs43XAYw2msX_9C9vkNR_qPg&oe=6987534B",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/606884953_2204822396593957_6657455491588946324_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ymNMQjdjEO4Q7kNvwE3790t&_nc_oc=Adnga84eN_b9cO53yhVAYy-y2uuMwzUEuOQIDk9PdkFHxRnXVPnffiZKahRKDV6iDSU&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=iLU_-9nSG69ghHaKX_uudw&oh=00_Afu7A67Nj6guuU9MhHp1cbqojvJ9f5mQqeNpLlDU6HATPg&oe=6987701D",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "abr.ge",
+                        "link_description": " ",
+                        "link_url": "https://abr.ge/@hwgeneralins/facebook.business?ad_creative={{ad.name}}&ad_creative_id={{ad.id}}&ad_group=traffic_int&ad_group_id={{adset.id}}&campaign=da&campaign_id={{campaign.id}}&content=art_12_collection_wealth_4&routing_short_id=sclols&sub_id={{site_source_name}}&sub_id_1={{placement}}&tracking_template_id=af2867d01f6499727c3c5f75efff2357&ad_type=click",
+                        "title": "사람들이 줄 서는 팝업 스토어는 뭐가 다를까? ‘텔레포트’ 김종화 대표",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/606011719_1400415318458773_7818362208564571156_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ok6GppocGS4Q7kNvwFpzzWc&_nc_oc=AdkNPfPBSuDNhZeHha2pRtvIyq76b_pIwguG1M-PopWpFpxhSw-Az1sVOjPyYhwyyp0&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=iLU_-9nSG69ghHaKX_uudw&oh=00_AfvYCO4rkalRt0HENUNG1fddvo1UPRkxKkrAkXAsymwDvw&oe=69876EFF",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/608853407_1862892070995880_1426437974276736363_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=afn3tlW9-iIQ7kNvwEWX4OI&_nc_oc=Adn3m9iv3nqb2QRIlsQrCOUegsZMmK9ZdXuHuhtkyzOw0vOrHmPNGszeu9nJGwmjkSI&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=iLU_-9nSG69ghHaKX_uudw&oh=00_AfvmYOLEg1aZwLWPj02uyhg47dfFzJoeizfdopLmjpxGxw&oe=69875F20",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "abr.ge",
+                        "link_description": " ",
+                        "link_url": "https://abr.ge/@hwgeneralins/facebook.business?ad_creative={{ad.name}}&ad_creative_id={{ad.id}}&ad_group=traffic_int&ad_group_id={{adset.id}}&campaign=da&campaign_id={{campaign.id}}&content=art_12_collection_wealth_5&routing_short_id=ra08iq&sub_id={{site_source_name}}&sub_id_1={{placement}}&tracking_template_id=bbcf196f49af4d6ac77b4dd32e09eb20&ad_type=click",
+                        "title": "2026년, 2040 세대가 주목해야 할 소비 트렌드 키워드 5",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/607956900_1547325622983291_8970106972729644611_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JOdzGaNGWtEQ7kNvwHhhO1w&_nc_oc=Adk1iV9hJSNbOs1kT3yNwQ5z04PQ3ArN-wl3NvtoLTP3bTMM9MXE56thkFS0_ddgalQ&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=iLU_-9nSG69ghHaKX_uudw&oh=00_AftW2KrcMi9f_oDKgIc-adPKD9BsoZJu0RGwLfD0rdtXMg&oe=69875DDA",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/606014795_1391997439387758_3118890454519149474_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Hhls-U52KKkQ7kNvwGHgXha&_nc_oc=Adk9IX0Q0ceGDlYSVdy8v9JsHY1xosSG7fad7C6r4wJh1V9xdmHbvlH3bPnvazBanRQ&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=iLU_-9nSG69ghHaKX_uudw&oh=00_AfsMFbe6QV0m45k2hDbpA_ecYiXxI28LFY8PfjdBPBQ6Vw&oe=698763C1",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "아티클 전문 무료 읽기"
+                    },
+                    "cta_type": "LEARN_MORE",
+                    "display_format": "CAROUSEL",
+                    "link_description": null,
+                    "link_url": "https://abr.ge/@hwgeneralins/facebook.business?ad_creative={{ad.name}}&ad_creative_id={{ad.id}}&ad_group=traffic_int&ad_group_id={{adset.id}}&campaign=da&campaign_id={{campaign.id}}&content=art_12_collection_wealth_list&routing_short_id=lu760g&sub_id={{site_source_name}}&sub_id_1={{placement}}&tracking_template_id=db1f02fd394ed3688447a5f4fd757273&ad_type=click",
+                    "images": [],
+                    "page_categories": [
+                      "Health & wellness website"
+                    ],
+                    "page_like_count": 78,
+                    "title": "시그니처라이브러리",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "시그니처라이브러리",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "THREADS"
+                  ],
+                  "start_date": 1769068800,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "26160750780186854",
+                  "collation_count": 1,
+                  "collation_id": "2022125378645102",
+                  "page_id": "253442794702245",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "253442794702245",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/29centimeter/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "29CM",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625471871_1226646322762898_8285623143900387043_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=e0tx1KQQRbEQ7kNvwGpPttB&_nc_oc=AdlDk0oSbfyA3fRiniTaQ775Xs9R_1JiUOdxTgJvpGBH7ppZe1h33UVHLDA4nMV1VcY&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=iLU_-9nSG69ghHaKX_uudw&oh=00_AfvXQlk9scxhT4WEA8kjqVQIz_HNIYqUK2Ehozt2xjn-wA&oe=6987518D",
+                    "event": null,
+                    "caption": "29cm.onelink.me",
+                    "cta_text": "지금 구매하기",
+                    "cards": [
+                      {
+                        "body": "신규 컬러로 완성하는 아웃도어룩\n살로몬 XT-위스퍼\n\n무료 배송 혜택으로 만나보세요.\n*일부 상품 쿠폰 적용 제외",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "",
+                        "link_description": null,
+                        "link_url": "https://29cm.onelink.me/1080201211?pid=fbig&c=FT_fb_traffic_rt_all_static&af_adset=FT_fb_rt_og_apppur_2559_static&af_ad=SALOMON_WS_I_bg_EVT_SALE_Cb_1_0202&af_r=https%3A%2F%2Fwww.29cm.co.kr%2Fbrand-news%2F60189&af_dp=app29cm%3A%2F%2Fweb%2Fhttps%253A%252F%252Fwww.29cm.co.kr%252Fbrand-news%252F60189&deep_link_value=app29cm%3A%2F%2Fweb%2Fhttps%253A%252F%252Fwww.29cm.co.kr%252Fbrand-news%252F60189&af_reengagement_window=7d&af_force_deeplink=true&af_xp=custom&is_retargeting=true&af_click_lookback=1d&utm_source=growth_fbig&utm_medium=display&utm_campaign=FT_fb_traffic_rt_all_static&utm_content=FT_fb_rt_og_apppur_2559_static&utm_term=SALOMON_WS_I_bg_EVT_SALE_Cb_1_0202",
+                        "title": "살로몬 XT-위스퍼 무료배송으로 받기",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625362402_1192977163001967_2827129311724543736_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IZeigDRvCSkQ7kNvwH5N1Cz&_nc_oc=AdnhnCCClpXHui7Lu4u6i0MVi0f4PVTCaYrC6Bs_4rzQJy66vKG2KdN58ZEiRLEHqjY&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=iLU_-9nSG69ghHaKX_uudw&oh=00_AfvdAXG6TxQ3sREB4vzWLh8d45_lKdKx808xPRiGAPtBkA&oe=69876EDF",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625395410_4255765524642067_4334170939319480255_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=mSLitbduXagQ7kNvwGjRehq&_nc_oc=AdkZQ4ggNrJt7O7rMyuo6POkkB9DmfSvqCp-IbMfzF9_pjpP9NRGwbAANk_9GTK8AMg&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=iLU_-9nSG69ghHaKX_uudw&oh=00_AfsQ9JCKXPBLF08P10PdIlaPsRq8_6ntXpYAtCw91H4Enw&oe=698769A4",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "신규 컬러로 완성하는 아웃도어룩\n살로몬 XT-위스퍼\n\n무료 배송 혜택으로 만나보세요.\n*일부 상품 쿠폰 적용 제외",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "",
+                        "link_description": null,
+                        "link_url": "https://29cm.onelink.me/1080201211?pid=fbig&c=FT_fb_traffic_rt_all_static&af_adset=FT_fb_rt_og_apppur_2559_static&af_ad=SALOMON_WS_I_bg_EVT_SALE_Cb_1_0202&af_r=https%3A%2F%2Fwww.29cm.co.kr%2Fbrand-news%2F60189&af_dp=app29cm%3A%2F%2Fweb%2Fhttps%253A%252F%252Fwww.29cm.co.kr%252Fbrand-news%252F60189&deep_link_value=app29cm%3A%2F%2Fweb%2Fhttps%253A%252F%252Fwww.29cm.co.kr%252Fbrand-news%252F60189&af_reengagement_window=7d&af_force_deeplink=true&af_xp=custom&is_retargeting=true&af_click_lookback=1d&utm_source=growth_fbig&utm_medium=display&utm_campaign=FT_fb_traffic_rt_all_static&utm_content=FT_fb_rt_og_apppur_2559_static&utm_term=SALOMON_WS_I_bg_EVT_SALE_Cb_1_0202",
+                        "title": "살로몬 XT-위스퍼 무료배송으로 받기",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625406340_1337013801565286_2330416027037700280_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FVKA4_O3NM0Q7kNvwFVc0Js&_nc_oc=Adkgu4qgPVIkxDlXcMZUIqoy8zla4-g2bdIRi64KYKr59f6BHwNoos78cD83Qe7i3Tw&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=iLU_-9nSG69ghHaKX_uudw&oh=00_AfvYRYTGdmk3ee6cG-RDiNbDqNru9OSchZ70gZQLbg19FQ&oe=69876E66",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625674700_2162031791259067_2609539732256059565_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=L1Of7FIEwNAQ7kNvwH7Ov4F&_nc_oc=AdnRWdx_iq1QoR6EucnkbGlZnAAIcSl6HNQi23aem0T7Jrra7t_EiGqYGUr_PPDkZs0&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=iLU_-9nSG69ghHaKX_uudw&oh=00_AfsGeCsIxaK38ptj0VdPti3VuWoms9S89QXZmAIvm5a5SQ&oe=69877DD3",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "신규 컬러로 완성하는 아웃도어룩\n살로몬 XT-위스퍼\n\n무료 배송 혜택으로 만나보세요.\n*일부 상품 쿠폰 적용 제외",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "",
+                        "link_description": null,
+                        "link_url": "https://29cm.onelink.me/1080201211?pid=fbig&c=FT_fb_traffic_rt_all_static&af_adset=FT_fb_rt_og_apppur_2559_static&af_ad=SALOMON_WS_I_bg_EVT_SALE_Cb_1_0202&af_r=https%3A%2F%2Fwww.29cm.co.kr%2Fbrand-news%2F60189&af_dp=app29cm%3A%2F%2Fweb%2Fhttps%253A%252F%252Fwww.29cm.co.kr%252Fbrand-news%252F60189&deep_link_value=app29cm%3A%2F%2Fweb%2Fhttps%253A%252F%252Fwww.29cm.co.kr%252Fbrand-news%252F60189&af_reengagement_window=7d&af_force_deeplink=true&af_xp=custom&is_retargeting=true&af_click_lookback=1d&utm_source=growth_fbig&utm_medium=display&utm_campaign=FT_fb_traffic_rt_all_static&utm_content=FT_fb_rt_og_apppur_2559_static&utm_term=SALOMON_WS_I_bg_EVT_SALE_Cb_1_0202",
+                        "title": "살로몬 XT-위스퍼 무료배송으로 받기",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625398501_1472770364439324_7439904005905018638_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JEN0ybtk0rcQ7kNvwFY8Mgw&_nc_oc=AdnkrwO5ukpQtfk7esF0fsjHS312aQj2CA1hHpwqz6lwTX52A2YE01rMHxczwKw_sMw&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=iLU_-9nSG69ghHaKX_uudw&oh=00_AfsmAzXBdH4XwOe2IsoJ7YEz6MvyII0jEcSre3QI7NRb5g&oe=698767D0",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625546703_1567467474520002_2567529739130481377_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nYDARDGeqMQQ7kNvwE0mpLp&_nc_oc=AdkqOn3IeAxzKtIW1cKgopvEVIowWxihAKi8QmGJIiBymVixmArRPdQFt1YGKp8IcWk&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=iLU_-9nSG69ghHaKX_uudw&oh=00_AfvmusOyNz6an6LOlKkPQCTIDjj4EORVFCeylrlH5PN2Aw&oe=69876BC9",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "신규 컬러로 완성하는 아웃도어룩\n살로몬 XT-위스퍼\n\n무료 배송 혜택으로 만나보세요.\n*일부 상품 쿠폰 적용 제외",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "",
+                        "link_description": null,
+                        "link_url": "https://29cm.onelink.me/1080201211?pid=fbig&c=FT_fb_traffic_rt_all_static&af_adset=FT_fb_rt_og_apppur_2559_static&af_ad=SALOMON_WS_I_bg_EVT_SALE_Cb_1_0202&af_r=https%3A%2F%2Fwww.29cm.co.kr%2Fbrand-news%2F60189&af_dp=app29cm%3A%2F%2Fweb%2Fhttps%253A%252F%252Fwww.29cm.co.kr%252Fbrand-news%252F60189&deep_link_value=app29cm%3A%2F%2Fweb%2Fhttps%253A%252F%252Fwww.29cm.co.kr%252Fbrand-news%252F60189&af_reengagement_window=7d&af_force_deeplink=true&af_xp=custom&is_retargeting=true&af_click_lookback=1d&utm_source=growth_fbig&utm_medium=display&utm_campaign=FT_fb_traffic_rt_all_static&utm_content=FT_fb_rt_og_apppur_2559_static&utm_term=SALOMON_WS_I_bg_EVT_SALE_Cb_1_0202",
+                        "title": "살로몬 XT-위스퍼 무료배송으로 받기",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625406340_1337013801565286_2330416027037700280_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FVKA4_O3NM0Q7kNvwFVc0Js&_nc_oc=Adkgu4qgPVIkxDlXcMZUIqoy8zla4-g2bdIRi64KYKr59f6BHwNoos78cD83Qe7i3Tw&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=iLU_-9nSG69ghHaKX_uudw&oh=00_AfvYRYTGdmk3ee6cG-RDiNbDqNru9OSchZ70gZQLbg19FQ&oe=69876E66",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625674700_2162031791259067_2609539732256059565_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=L1Of7FIEwNAQ7kNvwH7Ov4F&_nc_oc=AdnRWdx_iq1QoR6EucnkbGlZnAAIcSl6HNQi23aem0T7Jrra7t_EiGqYGUr_PPDkZs0&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=iLU_-9nSG69ghHaKX_uudw&oh=00_AfsGeCsIxaK38ptj0VdPti3VuWoms9S89QXZmAIvm5a5SQ&oe=69877DD3",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "신규 컬러로 완성하는 아웃도어룩\n살로몬 XT-위스퍼\n\n무료 배송 혜택으로 만나보세요.\n*일부 상품 쿠폰 적용 제외",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "",
+                        "link_description": null,
+                        "link_url": "https://29cm.onelink.me/1080201211?pid=fbig&c=FT_fb_traffic_rt_all_static&af_adset=FT_fb_rt_og_apppur_2559_static&af_ad=SALOMON_WS_I_bg_EVT_SALE_Cb_1_0202&af_r=https%3A%2F%2Fwww.29cm.co.kr%2Fbrand-news%2F60189&af_dp=app29cm%3A%2F%2Fweb%2Fhttps%253A%252F%252Fwww.29cm.co.kr%252Fbrand-news%252F60189&deep_link_value=app29cm%3A%2F%2Fweb%2Fhttps%253A%252F%252Fwww.29cm.co.kr%252Fbrand-news%252F60189&af_reengagement_window=7d&af_force_deeplink=true&af_xp=custom&is_retargeting=true&af_click_lookback=1d&utm_source=growth_fbig&utm_medium=display&utm_campaign=FT_fb_traffic_rt_all_static&utm_content=FT_fb_rt_og_apppur_2559_static&utm_term=SALOMON_WS_I_bg_EVT_SALE_Cb_1_0202",
+                        "title": "살로몬 XT-위스퍼 무료배송으로 받기",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625496772_1216425073404361_6699221309236010569_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wQgrj7q0y6YQ7kNvwEcLMpb&_nc_oc=Adl1quj4xl2jBBul7JnC22K7mh0SLHu2_3l6oCcNnFwGIi-OvEWQ4x18H1q4vTqaY2A&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=iLU_-9nSG69ghHaKX_uudw&oh=00_Afut2yc_u-pxq3TUpHR8dlnBgNhnWMapwnP3GkOkcpVU_A&oe=69877E84",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625503594_4315150752049676_4143428325155476818_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=aVGUwXhnmZsQ7kNvwGoEcim&_nc_oc=AdmAcwOlnLqViOiPT38Kub3EMXAAveXK_hNd2e_51WNoMEKvWcuhcvWLZ7IM9zn6ng8&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=iLU_-9nSG69ghHaKX_uudw&oh=00_AfueGxTSqPqQmhS1n26C4a9UMNH4n0X509LZDxIqZflqhw&oe=69874FD4",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "신규 컬러로 완성하는 아웃도어룩\n살로몬 XT-위스퍼\n\n무료 배송 혜택으로 만나보세요.\n*일부 상품 쿠폰 적용 제외",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "",
+                        "link_description": null,
+                        "link_url": "https://29cm.onelink.me/1080201211?pid=fbig&c=FT_fb_traffic_rt_all_static&af_adset=FT_fb_rt_og_apppur_2559_static&af_ad=SALOMON_WS_I_bg_EVT_SALE_Cb_1_0202&af_r=https%3A%2F%2Fwww.29cm.co.kr%2Fbrand-news%2F60189&af_dp=app29cm%3A%2F%2Fweb%2Fhttps%253A%252F%252Fwww.29cm.co.kr%252Fbrand-news%252F60189&deep_link_value=app29cm%3A%2F%2Fweb%2Fhttps%253A%252F%252Fwww.29cm.co.kr%252Fbrand-news%252F60189&af_reengagement_window=7d&af_force_deeplink=true&af_xp=custom&is_retargeting=true&af_click_lookback=1d&utm_source=growth_fbig&utm_medium=display&utm_campaign=FT_fb_traffic_rt_all_static&utm_content=FT_fb_rt_og_apppur_2559_static&utm_term=SALOMON_WS_I_bg_EVT_SALE_Cb_1_0202",
+                        "title": "살로몬 XT-위스퍼 무료배송으로 받기",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625496772_1216425073404361_6699221309236010569_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wQgrj7q0y6YQ7kNvwEcLMpb&_nc_oc=Adl1quj4xl2jBBul7JnC22K7mh0SLHu2_3l6oCcNnFwGIi-OvEWQ4x18H1q4vTqaY2A&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=iLU_-9nSG69ghHaKX_uudw&oh=00_Afut2yc_u-pxq3TUpHR8dlnBgNhnWMapwnP3GkOkcpVU_A&oe=69877E84",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625503594_4315150752049676_4143428325155476818_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=aVGUwXhnmZsQ7kNvwGoEcim&_nc_oc=AdmAcwOlnLqViOiPT38Kub3EMXAAveXK_hNd2e_51WNoMEKvWcuhcvWLZ7IM9zn6ng8&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=iLU_-9nSG69ghHaKX_uudw&oh=00_AfueGxTSqPqQmhS1n26C4a9UMNH4n0X509LZDxIqZflqhw&oe=69874FD4",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "신규 컬러로 완성하는 아웃도어룩\n살로몬 XT-위스퍼\n\n무료 배송 혜택으로 만나보세요.\n*일부 상품 쿠폰 적용 제외",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "",
+                        "link_description": null,
+                        "link_url": "https://29cm.onelink.me/1080201211?pid=fbig&c=FT_fb_traffic_rt_all_static&af_adset=FT_fb_rt_og_apppur_2559_static&af_ad=SALOMON_WS_I_bg_EVT_SALE_Cb_1_0202&af_r=https%3A%2F%2Fwww.29cm.co.kr%2Fbrand-news%2F60189&af_dp=app29cm%3A%2F%2Fweb%2Fhttps%253A%252F%252Fwww.29cm.co.kr%252Fbrand-news%252F60189&deep_link_value=app29cm%3A%2F%2Fweb%2Fhttps%253A%252F%252Fwww.29cm.co.kr%252Fbrand-news%252F60189&af_reengagement_window=7d&af_force_deeplink=true&af_xp=custom&is_retargeting=true&af_click_lookback=1d&utm_source=growth_fbig&utm_medium=display&utm_campaign=FT_fb_traffic_rt_all_static&utm_content=FT_fb_rt_og_apppur_2559_static&utm_term=SALOMON_WS_I_bg_EVT_SALE_Cb_1_0202",
+                        "title": "살로몬 XT-위스퍼 무료배송으로 받기",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625437763_2050324348845309_5070829218320263785_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=e-tJlOL8gUoQ7kNvwHO05uN&_nc_oc=AdnGO_DCZIzkXGBvvkWo6PcGqpraey5iq-JnczNMTQg7JlWvJxsbRJ8fVGiNwY4ygXs&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=iLU_-9nSG69ghHaKX_uudw&oh=00_Afs4dBvIBpgrcq9fQxu7pVACY_d5TDQqfFBcb-HtT98h1w&oe=69877878",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625494575_1586373655643939_1470989295037628928_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9dil-fAdp5MQ7kNvwF0my_T&_nc_oc=AdkG89tfF2e7QO4aGrcTCHAJhaFYCiC2lwekSEAQWLcVc5rYEqVZLq6RRGHeaOyX-wU&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=iLU_-9nSG69ghHaKX_uudw&oh=00_AftZl035nUhGvAsZG2E8V_HUiNi6aZTcYLCFayThbQSe8g&oe=69876E43",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "{{product.brand}}"
+                    },
+                    "cta_type": "SHOP_NOW",
+                    "display_format": "DCO",
+                    "link_description": "{{product.description}}",
+                    "link_url": "https://29cm.onelink.me/1080201211?pid=fbig&c=FT_fb_traffic_rt_all_static&af_adset=FT_fb_rt_og_apppur_2559_static&af_ad=SALOMON_WS_I_bg_EVT_SALE_Cb_1_0202&af_r=https%3A%2F%2Fwww.29cm.co.kr%2Fbrand-news%2F60189&af_dp=app29cm%3A%2F%2Fweb%2Fhttps%253A%252F%252Fwww.29cm.co.kr%252Fbrand-news%252F60189&deep_link_value=app29cm%3A%2F%2Fweb%2Fhttps%253A%252F%252Fwww.29cm.co.kr%252Fbrand-news%252F60189&af_reengagement_window=7d&af_force_deeplink=true&af_xp=custom&is_retargeting=true&af_click_lookback=1d&utm_source=growth_fbig&utm_medium=display&utm_campaign=FT_fb_traffic_rt_all_static&utm_content=FT_fb_rt_og_apppur_2559_static&utm_term=SALOMON_WS_I_bg_EVT_SALE_Cb_1_0202",
+                    "images": [],
+                    "page_categories": [
+                      "Retail company"
+                    ],
+                    "page_like_count": 320456,
+                    "title": "{{product.name}}",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "29CM",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "MESSENGER",
+                    "THREADS"
+                  ],
+                  "start_date": 1770019200,
+                  "contains_sensitive_content": false,
+                  "total_active_time": 62844,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "1336390984089223",
+                  "collation_count": 1,
+                  "collation_id": "1115120664005634",
+                  "page_id": "110172374982619",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "110172374982619",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/100080700788644/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "서영",
+                    "page_profile_picture_url": "",
+                    "event": null,
+                    "caption": "instagram.com",
+                    "cta_text": "Instagram 프로필 방문",
+                    "cards": [],
+                    "body": {
+                      "text": "지금 안 가면 후회하는 최대 80%할인 하는 폐점 매장⁉️ (#광고)\n📍 벽제 고양 패션 아울렛\n\n여러분!! 지금 여기 안 가면 진짜 후회합니다…🔥\n이곳은 아디다스 폐점 정리로 최대 80%까지 할인하는 곳인데 진짜 대박이에요🥹\n\n여기는 아디다스 제품뿐만 아니라 스투시, 아미, 오프화이트, 나이키, 폴로 제품들도 있는데 예쁜게 많더라구요⁉️\n\n그리고 티셔츠부터 긴 바지, 반바지, 아우터, 신발, 양말, 모자들도 있으며\n크로커다일 운동화와 린 골프화는 39,000원!!\n당장 가야겠죠…?🧡\n\n저도 가서 쇼핑 왕했으니까 여러분들도 여기 가서 득템 많이 해보세요!✨\n\n📍 벽제 고양 패션 아울렛\n🏡 경기 고양시 덕양구 호국로 1710\n⏰ 10:00 - 21:00"
+                    },
+                    "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                    "display_format": "VIDEO",
+                    "link_description": null,
+                    "link_url": "http://instagram.com/j_o_o_sy",
+                    "images": [],
+                    "page_categories": [
+                      "Clothing (Brand)"
+                    ],
+                    "page_like_count": 528,
+                    "title": null,
+                    "videos": [
+                      {
+                        "video_hd_url": "https://video-icn2-1.xx.fbcdn.net/v/t42.1790-2/506038934_1336391010755887_4698444522397444443_n.?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7g1doOxdzK8Q7kNvwE16ptR&_nc_oc=AdkgdBOu7UPcOMH9fwhyZOL0RYjEG4Aoo6HAwd6DXyZA0BRWcQdws8ojAqdTRPJziZc&_nc_zt=28&_nc_ht=video-icn2-1.xx&_nc_gid=iLU_-9nSG69ghHaKX_uudw&oh=00_AfunI9zcIkQX95k3lqEjaAEHUi54fBwyGflk52chvJS9ow&oe=69876E89",
+                        "video_preview_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/505898205_572860192239811_4345304288346617293_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xZjTu0yxKCwQ7kNvwFliEMg&_nc_oc=AdkV5CFn9LwUBkXuwsL5858qXwTD4kfKuuzIqTa-CNAwV1nKHh_Eben0lDZFilO-enU&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=iLU_-9nSG69ghHaKX_uudw&oh=00_AfuVGpYc68JcJQXdiR_ufh7Mhc-lRRP5YBY4e2AAQza4qw&oe=6987509B",
+                        "video_sd_url": "https://video-icn2-1.xx.fbcdn.net/v/t42.1790-2/503368926_1349911436080849_8970612406517240310_n.mp4?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=T0vra2bWiFQQ7kNvwEt8zHl&_nc_oc=Adl59kcxeTt4XwTqZrktdX-LALt8kG57jSpZ6t7AlTgvFBNMnFE_uVOGeQzCiAqfWpI&_nc_zt=28&_nc_ht=video-icn2-1.xx&_nc_gid=iLU_-9nSG69ghHaKX_uudw&oh=00_AftDdNUEGAfre3rEULc9EyMQBmoJwdtb0LzHoBDadmW8SA&oe=69877FDA",
+                        "watermarked_video_hd_url": "",
+                        "watermarked_video_sd_url": ""
+                      }
+                    ],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": false,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "서영",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": true,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1749625200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM"
+                  ],
+                  "start_date": 1749538800,
+                  "contains_sensitive_content": false,
+                  "total_active_time": 38096,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "1222776152764367",
+                  "collation_count": 1,
+                  "collation_id": "2112871659253613",
+                  "page_id": "253442794702245",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "253442794702245",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/29centimeter/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "29CM",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623361404_4366582283623953_8131280863756881457_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QCYVyag0-nYQ7kNvwHbyhIG&_nc_oc=Adn6MnNtwEKA0sSyPcm7bG7rYwhbJTCPn_Z-dgpQvr2TO0k55o_kAqqTcAPqt0AcS1I&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=iLU_-9nSG69ghHaKX_uudw&oh=00_AfvctHPOWEMZ9l2W4S_0nJj1k7rJMlDJy_FvviDw2gsLCg&oe=69875588",
+                    "event": null,
+                    "caption": "29cm.onelink.me",
+                    "cta_text": "지금 구매하기",
+                    "cards": [
+                      {
+                        "body": "29CM에서 만나는 감도 높은 아이템\n멤버십 ~15% 쿠폰 할인까지!\n\n취향까지 29CM\n*일부 상품 쿠폰 적용 제외",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "",
+                        "link_description": null,
+                        "link_url": "https://29cm.onelink.me/1080201211?pid=fbig&c=FT_fb_traffic_rt_all_static&af_adset=FT_fb_rt_event_apppur_2559_static&af_ad=NIKE_WS_I_bg_EVT_SC_SC_1_0202&af_r=https%3A%2F%2Fcontent.29cm.co.kr%2Fshowcase%2F4301&af_dp=app29cm%3A%2F%2Fweb%2Fhttps%253A%252F%252Fcontent.29cm.co.kr%252Fshowcase%252F4301&deep_link_value=app29cm%3A%2F%2Fweb%2Fhttps%253A%252F%252Fcontent.29cm.co.kr%252Fshowcase%252F4301&af_reengagement_window=7d&af_force_deeplink=true&af_xp=custom&is_retargeting=true&af_click_lookback=1d&utm_source=growth_fbig&utm_medium=display&utm_campaign=FT_fb_traffic_rt_all_static&utm_content=FT_fb_rt_event_apppur_2559_static&utm_term=NIKE_WS_I_bg_EVT_SC_SC_1_0202",
+                        "title": "[나이키] 에어리프트 브리드 발매",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625121616_907806118301134_558725045715257106_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RYZkWM6oP4IQ7kNvwFdi-Zp&_nc_oc=Adm_ZIx8pv27U5XKQtTOxSloRR_oxO45hZfkr2ZevplSvKQJJAFslbqDF6t-v6bjG4Q&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=iLU_-9nSG69ghHaKX_uudw&oh=00_AfsKWCq-wT-ovs9-FraRL4exaZ9zbZz2U_A1YFAMjBtpAw&oe=69875C9D",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625761828_1413194753679775_7918907708840582090_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xpG5UJnBSbkQ7kNvwGVH0kX&_nc_oc=AdmfXozfnTUvEq6KTez5XFQYvp83iBJrPmYQDTkSr-lx7LpdAfeDJcV3wr5IP-pqOWc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=iLU_-9nSG69ghHaKX_uudw&oh=00_Afsh84bA-3rq4xrpGvI6KFR9dN_2KEOoRG1zn15e2pU2mA&oe=69876CA2",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "29CM에서 만나는 감도 높은 아이템\n멤버십 ~15% 쿠폰 할인까지!\n\n취향까지 29CM\n*일부 상품 쿠폰 적용 제외",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "",
+                        "link_description": null,
+                        "link_url": "https://29cm.onelink.me/1080201211?pid=fbig&c=FT_fb_traffic_rt_all_static&af_adset=FT_fb_rt_event_apppur_2559_static&af_ad=NIKE_WS_I_bg_EVT_SC_SC_1_0202&af_r=https%3A%2F%2Fcontent.29cm.co.kr%2Fshowcase%2F4301&af_dp=app29cm%3A%2F%2Fweb%2Fhttps%253A%252F%252Fcontent.29cm.co.kr%252Fshowcase%252F4301&deep_link_value=app29cm%3A%2F%2Fweb%2Fhttps%253A%252F%252Fcontent.29cm.co.kr%252Fshowcase%252F4301&af_reengagement_window=7d&af_force_deeplink=true&af_xp=custom&is_retargeting=true&af_click_lookback=1d&utm_source=growth_fbig&utm_medium=display&utm_campaign=FT_fb_traffic_rt_all_static&utm_content=FT_fb_rt_event_apppur_2559_static&utm_term=NIKE_WS_I_bg_EVT_SC_SC_1_0202",
+                        "title": "[나이키] 에어리프트 브리드 발매",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623326948_2178000762954579_5153385255237245875_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-3VYn6rusNUQ7kNvwERnUVj&_nc_oc=AdkTxUtCq9DnPX_BoxnftPsRbc8Aj_IWJR1AxhKedjQ3pvuwbN7seIWTFeG7yzMTQ0k&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=iLU_-9nSG69ghHaKX_uudw&oh=00_AfvrrjWvFmChHpEO3TIHy9NLWnSmz7fcpbX1mWoXJCAP5A&oe=69877786",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/621822567_1235061815390540_5242220286584904622_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=buRbcZm93YQQ7kNvwFcO2g_&_nc_oc=AdlfTD1RQ7RCbBZiqxv2NLxdYvn3xPPEORkTbljAY2YRrry0ABPFEqxsAjJkWSE0RoY&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=iLU_-9nSG69ghHaKX_uudw&oh=00_AftkpNVLIiQp3YNVLWQzQHDKXnA-MrARuJAlGgsLd8Ahsg&oe=698780E6",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "29CM에서 만나는 감도 높은 아이템\n멤버십 ~15% 쿠폰 할인까지!\n\n취향까지 29CM\n*일부 상품 쿠폰 적용 제외",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "",
+                        "link_description": null,
+                        "link_url": "https://29cm.onelink.me/1080201211?pid=fbig&c=FT_fb_traffic_rt_all_static&af_adset=FT_fb_rt_event_apppur_2559_static&af_ad=NIKE_WS_I_bg_EVT_SC_SC_1_0202&af_r=https%3A%2F%2Fcontent.29cm.co.kr%2Fshowcase%2F4301&af_dp=app29cm%3A%2F%2Fweb%2Fhttps%253A%252F%252Fcontent.29cm.co.kr%252Fshowcase%252F4301&deep_link_value=app29cm%3A%2F%2Fweb%2Fhttps%253A%252F%252Fcontent.29cm.co.kr%252Fshowcase%252F4301&af_reengagement_window=7d&af_force_deeplink=true&af_xp=custom&is_retargeting=true&af_click_lookback=1d&utm_source=growth_fbig&utm_medium=display&utm_campaign=FT_fb_traffic_rt_all_static&utm_content=FT_fb_rt_event_apppur_2559_static&utm_term=NIKE_WS_I_bg_EVT_SC_SC_1_0202",
+                        "title": "[나이키] 에어리프트 브리드 발매",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623092324_856832190553228_3502084802851489239_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gbO27O60Y8oQ7kNvwHrXcV_&_nc_oc=AdmV-FD4LHfMoQo4f7orbi2KivqgbPylkQ9OfYk8eeaH_yzgSVFETS-Mdxv77s-BcvI&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=iLU_-9nSG69ghHaKX_uudw&oh=00_AfstAmqm3n7c21BaqAlXYxZMoIvZHSUfWAMEUltk7urYKw&oe=6987717C",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624129849_1453976889676255_3894616193955996485_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YY0DoLpE0UoQ7kNvwEG9SeI&_nc_oc=AdmrIgYLEtcBqzg3LgOprxUIB8BxstFLUauLKgekcNnuM_EU78VezzzScrsFLB8NbDc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=iLU_-9nSG69ghHaKX_uudw&oh=00_AfucD7XHZ8NijtYirp8ItBJ4zpoGk3J3cEMMU9UOQuaysA&oe=69875573",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "29CM에서 만나는 감도 높은 아이템\n멤버십 ~15% 쿠폰 할인까지!\n\n취향까지 29CM\n*일부 상품 쿠폰 적용 제외",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "",
+                        "link_description": null,
+                        "link_url": "https://29cm.onelink.me/1080201211?pid=fbig&c=FT_fb_traffic_rt_all_static&af_adset=FT_fb_rt_event_apppur_2559_static&af_ad=NIKE_WS_I_bg_EVT_SC_SC_1_0202&af_r=https%3A%2F%2Fcontent.29cm.co.kr%2Fshowcase%2F4301&af_dp=app29cm%3A%2F%2Fweb%2Fhttps%253A%252F%252Fcontent.29cm.co.kr%252Fshowcase%252F4301&deep_link_value=app29cm%3A%2F%2Fweb%2Fhttps%253A%252F%252Fcontent.29cm.co.kr%252Fshowcase%252F4301&af_reengagement_window=7d&af_force_deeplink=true&af_xp=custom&is_retargeting=true&af_click_lookback=1d&utm_source=growth_fbig&utm_medium=display&utm_campaign=FT_fb_traffic_rt_all_static&utm_content=FT_fb_rt_event_apppur_2559_static&utm_term=NIKE_WS_I_bg_EVT_SC_SC_1_0202",
+                        "title": "[나이키] 에어리프트 브리드 발매",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623326948_2178000762954579_5153385255237245875_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-3VYn6rusNUQ7kNvwERnUVj&_nc_oc=AdkTxUtCq9DnPX_BoxnftPsRbc8Aj_IWJR1AxhKedjQ3pvuwbN7seIWTFeG7yzMTQ0k&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=iLU_-9nSG69ghHaKX_uudw&oh=00_AfvrrjWvFmChHpEO3TIHy9NLWnSmz7fcpbX1mWoXJCAP5A&oe=69877786",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/621822567_1235061815390540_5242220286584904622_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=buRbcZm93YQQ7kNvwFcO2g_&_nc_oc=AdlfTD1RQ7RCbBZiqxv2NLxdYvn3xPPEORkTbljAY2YRrry0ABPFEqxsAjJkWSE0RoY&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=iLU_-9nSG69ghHaKX_uudw&oh=00_AftkpNVLIiQp3YNVLWQzQHDKXnA-MrARuJAlGgsLd8Ahsg&oe=698780E6",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "29CM에서 만나는 감도 높은 아이템\n멤버십 ~15% 쿠폰 할인까지!\n\n취향까지 29CM\n*일부 상품 쿠폰 적용 제외",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "",
+                        "link_description": null,
+                        "link_url": "https://29cm.onelink.me/1080201211?pid=fbig&c=FT_fb_traffic_rt_all_static&af_adset=FT_fb_rt_event_apppur_2559_static&af_ad=NIKE_WS_I_bg_EVT_SC_SC_1_0202&af_r=https%3A%2F%2Fcontent.29cm.co.kr%2Fshowcase%2F4301&af_dp=app29cm%3A%2F%2Fweb%2Fhttps%253A%252F%252Fcontent.29cm.co.kr%252Fshowcase%252F4301&deep_link_value=app29cm%3A%2F%2Fweb%2Fhttps%253A%252F%252Fcontent.29cm.co.kr%252Fshowcase%252F4301&af_reengagement_window=7d&af_force_deeplink=true&af_xp=custom&is_retargeting=true&af_click_lookback=1d&utm_source=growth_fbig&utm_medium=display&utm_campaign=FT_fb_traffic_rt_all_static&utm_content=FT_fb_rt_event_apppur_2559_static&utm_term=NIKE_WS_I_bg_EVT_SC_SC_1_0202",
+                        "title": "[나이키] 에어리프트 브리드 발매",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622581013_1394778319014737_8629239612626091190_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=AUrAaLJeBfEQ7kNvwFe2WHO&_nc_oc=Adnn_WjmtKW8dxKKqqmN0H7l5GLkhS84RHoO7uWh3HUQJruqh_QDM6nPVyhvrg6keJ4&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=iLU_-9nSG69ghHaKX_uudw&oh=00_Afs635hsLpxMixlM_bZi8yhfkVPsE7L7WG5289EzTmpGQA&oe=698756B0",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622716545_773804349095047_8826705557544315903_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YvUV9WeGX6QQ7kNvwHGgSBB&_nc_oc=AdlVDOydBg_XZZP0rly0tD2NJVPUmvt4ou2-E0p7iIp_o9_JVqvobHC5TQBzHe3uZ20&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=iLU_-9nSG69ghHaKX_uudw&oh=00_Afvv6t0MBBcCZRAfJrdo0WX3A5Wsj4C60spJdSdfQ90C-Q&oe=698770F7",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "29CM에서 만나는 감도 높은 아이템\n멤버십 ~15% 쿠폰 할인까지!\n\n취향까지 29CM\n*일부 상품 쿠폰 적용 제외",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "",
+                        "link_description": null,
+                        "link_url": "https://29cm.onelink.me/1080201211?pid=fbig&c=FT_fb_traffic_rt_all_static&af_adset=FT_fb_rt_event_apppur_2559_static&af_ad=NIKE_WS_I_bg_EVT_SC_SC_1_0202&af_r=https%3A%2F%2Fcontent.29cm.co.kr%2Fshowcase%2F4301&af_dp=app29cm%3A%2F%2Fweb%2Fhttps%253A%252F%252Fcontent.29cm.co.kr%252Fshowcase%252F4301&deep_link_value=app29cm%3A%2F%2Fweb%2Fhttps%253A%252F%252Fcontent.29cm.co.kr%252Fshowcase%252F4301&af_reengagement_window=7d&af_force_deeplink=true&af_xp=custom&is_retargeting=true&af_click_lookback=1d&utm_source=growth_fbig&utm_medium=display&utm_campaign=FT_fb_traffic_rt_all_static&utm_content=FT_fb_rt_event_apppur_2559_static&utm_term=NIKE_WS_I_bg_EVT_SC_SC_1_0202",
+                        "title": "[나이키] 에어리프트 브리드 발매",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622581013_1394778319014737_8629239612626091190_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=AUrAaLJeBfEQ7kNvwFe2WHO&_nc_oc=Adnn_WjmtKW8dxKKqqmN0H7l5GLkhS84RHoO7uWh3HUQJruqh_QDM6nPVyhvrg6keJ4&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=iLU_-9nSG69ghHaKX_uudw&oh=00_Afs635hsLpxMixlM_bZi8yhfkVPsE7L7WG5289EzTmpGQA&oe=698756B0",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622716545_773804349095047_8826705557544315903_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YvUV9WeGX6QQ7kNvwHGgSBB&_nc_oc=AdlVDOydBg_XZZP0rly0tD2NJVPUmvt4ou2-E0p7iIp_o9_JVqvobHC5TQBzHe3uZ20&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=iLU_-9nSG69ghHaKX_uudw&oh=00_Afvv6t0MBBcCZRAfJrdo0WX3A5Wsj4C60spJdSdfQ90C-Q&oe=698770F7",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "29CM에서 만나는 감도 높은 아이템\n멤버십 ~15% 쿠폰 할인까지!\n\n취향까지 29CM\n*일부 상품 쿠폰 적용 제외",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "",
+                        "link_description": null,
+                        "link_url": "https://29cm.onelink.me/1080201211?pid=fbig&c=FT_fb_traffic_rt_all_static&af_adset=FT_fb_rt_event_apppur_2559_static&af_ad=NIKE_WS_I_bg_EVT_SC_SC_1_0202&af_r=https%3A%2F%2Fcontent.29cm.co.kr%2Fshowcase%2F4301&af_dp=app29cm%3A%2F%2Fweb%2Fhttps%253A%252F%252Fcontent.29cm.co.kr%252Fshowcase%252F4301&deep_link_value=app29cm%3A%2F%2Fweb%2Fhttps%253A%252F%252Fcontent.29cm.co.kr%252Fshowcase%252F4301&af_reengagement_window=7d&af_force_deeplink=true&af_xp=custom&is_retargeting=true&af_click_lookback=1d&utm_source=growth_fbig&utm_medium=display&utm_campaign=FT_fb_traffic_rt_all_static&utm_content=FT_fb_rt_event_apppur_2559_static&utm_term=NIKE_WS_I_bg_EVT_SC_SC_1_0202",
+                        "title": "[나이키] 에어리프트 브리드 발매",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622716544_26480491824881542_6228560660208269201_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-Umg329L9rsQ7kNvwFQvO2g&_nc_oc=Adm6TiNtc3uhmhIEEWqxoxfDP7ZZxtWBm7FqrED9fEkog3JoFUPmmA9eZWIW7LKJtp0&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=iLU_-9nSG69ghHaKX_uudw&oh=00_Aft9ADM5JR1IIJbAi_fIrVCLWIcQOtxXyfK-gmpcn6pDrQ&oe=69877FDE",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625184772_880985464669731_1829035518328254552_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RoCmvuFFjPAQ7kNvwFbnTVk&_nc_oc=AdnHX-BHI0ExTaiFEd0kmxYyVUdZ8AEoW_5zxcnu-ZjEDf82ZEczJ63tRD5W4NW14K4&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=iLU_-9nSG69ghHaKX_uudw&oh=00_AfvRgTkzKEtn4w9U1M-mOcF0yzbWsBt3kXLayFd5IpcOlw&oe=6987674F",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "{{product.brand}}"
+                    },
+                    "cta_type": "SHOP_NOW",
+                    "display_format": "DCO",
+                    "link_description": "{{product.description}}",
+                    "link_url": "https://29cm.onelink.me/1080201211?pid=fbig&c=FT_fb_traffic_rt_all_static&af_adset=FT_fb_rt_event_apppur_2559_static&af_ad=NIKE_WS_I_bg_EVT_SC_SC_1_0202&af_r=https%3A%2F%2Fcontent.29cm.co.kr%2Fshowcase%2F4301&af_dp=app29cm%3A%2F%2Fweb%2Fhttps%253A%252F%252Fcontent.29cm.co.kr%252Fshowcase%252F4301&deep_link_value=app29cm%3A%2F%2Fweb%2Fhttps%253A%252F%252Fcontent.29cm.co.kr%252Fshowcase%252F4301&af_reengagement_window=7d&af_force_deeplink=true&af_xp=custom&is_retargeting=true&af_click_lookback=1d&utm_source=growth_fbig&utm_medium=display&utm_campaign=FT_fb_traffic_rt_all_static&utm_content=FT_fb_rt_event_apppur_2559_static&utm_term=NIKE_WS_I_bg_EVT_SC_SC_1_0202",
+                    "images": [],
+                    "page_categories": [
+                      "Retail company"
+                    ],
+                    "page_like_count": 320456,
+                    "title": "{{product.name}}",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "29CM",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "MESSENGER",
+                    "THREADS"
+                  ],
+                  "start_date": 1769932800,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "1549980636152174",
+                  "collation_count": 1,
+                  "collation_id": "827746480091777",
+                  "page_id": "110172374982619",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "110172374982619",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/100080700788644/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "서영",
+                    "page_profile_picture_url": "",
+                    "event": null,
+                    "caption": "instagram.com",
+                    "cta_text": "Instagram 프로필 방문",
+                    "cards": [],
+                    "body": {
+                      "text": "정품 UGG 특가✨ 역대급 전제품 최대 80% 세일 시작‼️ (#광고)\n\n여러분!! 현재 평택에는\n천안 물류창고 화재로 인해 전품목 최대 80%\n할인하는 곳인데 진짜 대박이에요…🩷\n\n심지어 미국산 정품 UGG를 89,000원으로\n판매하는데 눈 돌아가더라구요👀\n그리고 브랜드마다 수입 필증 다 있어서 인증 제대로 해주시더라구요!👍\n\n스투시부터 나이키, 아미, 네셔넬지오그래픽, 파타고니아 등 예쁜 제품이 진짜 많더라구요…🩵\n(신발도 완전 예쁩니다!!)\n골프웨어도 있고 이불도 전부 만원에 판매하고\n어머니들이 좋아하실만한 옷들도 짱 많으니까\n놓치지 말고 쇼핑하러 꼭 가보세요!!!☺️\n\n🎀 뻔한 데이트 말고 이색적인 데이트를 알고 싶은 분들\n🐰주말에 뭐 할지 고민이신 분들\n🌼예쁘고 분위기 좋은 곳을 알고 싶으신 분들 팔로우!\n@j_o_o_sy      @j_o_o_sy \n@j_o_o_sy      @j_o_o_sy \n\n📍 화재보상 물류창고 (평택점)\n🏡 경기 평택시 청북읍 안청로4길 54"
+                    },
+                    "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                    "display_format": "VIDEO",
+                    "link_description": null,
+                    "link_url": "http://instagram.com/j_o_o_sy",
+                    "images": [],
+                    "page_categories": [
+                      "Clothing (Brand)"
+                    ],
+                    "page_like_count": 528,
+                    "title": null,
+                    "videos": [
+                      {
+                        "video_hd_url": null,
+                        "video_preview_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/597151578_868851105676496_8949199901810849396_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gl5-4J2CYqwQ7kNvwEuVX0W&_nc_oc=Adm3deHVzRCiIyP0R95nTE8lL_0tYtKswiNfoponKR_orr1VxDEKBwIJaK9TkgV0MUo&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=iLU_-9nSG69ghHaKX_uudw&oh=00_AfsZDFv2sen-5vfqMG-O6BDXaLchc63-SysUv2qZqOA0rw&oe=698769F9",
+                        "video_sd_url": "https://video-icn2-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQP-xbCCxue_t2AI-5X4W27oL0MVGqBBCcoX7rDcpjV7aJ1OAT3pYuV44egHTVAnKz5oUalmZ24YpoOVJiZ9wUrb08kNfoXeK9xdHqVLmA.mp4?_nc_cat=108&_nc_sid=8bf8fe&_nc_ht=video-icn2-1.xx.fbcdn.net&_nc_ohc=Bs9eJyir1mUQ7kNvwEcbyG7&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6Nzg5NzUzOTQ0MDc5NjgyLCJhc3NldF9hZ2VfZGF5cyI6NTMsInZpX3VzZWNhc2VfaWQiOjEwMTIyLCJkdXJhdGlvbl9zIjoyMiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=iLU_-9nSG69ghHaKX_uudw&_nc_zt=28&oh=00_AfsFIqaN6F7dsU9dEaA0woMuc5viyTHajjG1Ix2Tl_v_RA&oe=69877636",
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null
+                      }
+                    ],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": false,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "서영",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1765699200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM"
+                  ],
+                  "start_date": 1765440000,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "2640848199649884",
+                  "collation_count": null,
+                  "collation_id": null,
+                  "page_id": "181693921701690",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "181693921701690",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/61555003423031/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "fruitsfamily.co",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/615785903_860331583437101_6196793256721076265_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=GEK_iD7PdhsQ7kNvwEzsAjv&_nc_oc=AdloW5clUPKy835gUli42O8r3AX6mRN2LWnmGzO7ZhHz9X3edhA7g--FF2Mu2yK_ZqM&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=iLU_-9nSG69ghHaKX_uudw&oh=00_AfvqeBFUj0CBklRikaHYs2Vt9kIgR6LsyHZzZ0vdkh8B9w&oe=698778A3",
+                    "event": null,
+                    "caption": "apps.apple.com",
+                    "cta_text": "지금 설치",
+                    "cards": [],
+                    "body": null,
+                    "cta_type": "INSTALL_MOBILE_APP",
+                    "display_format": "IMAGE",
+                    "link_description": null,
+                    "link_url": "http://itunes.apple.com/app/id1466193804",
+                    "images": [
+                      {
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/616850776_874574465168973_3640012932927889251_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0C2F9jiQPrIQ7kNvwF3b1ZY&_nc_oc=Adnpe7rH-jQe7xYGksmghTT-8-2KKnbckuQB-lO04NP2WDfelf2d_Hc9Qiptw9MJ8pM&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=iLU_-9nSG69ghHaKX_uudw&oh=00_AfucAtTs5ybx4tvmS9kE5KkbIWjLcbJ-Y9bSP0-Eh1ALfg&oe=698760E7",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/616803562_1172925967942879_689436186742205604_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sSbXPEUuDzkQ7kNvwFqN1sw&_nc_oc=AdnHlO-ca1QaEbCKTzpQr_gDfCOtHbNJLxuwkNILbBNMvltkXWjffV-mwP4IvrLVADI&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=iLU_-9nSG69ghHaKX_uudw&oh=00_AfuDXvH84FW3n7gShkUZJeMj0dEHgHyJHI4LGcQZQla86Q&oe=6987576D",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "page_categories": [
+                      "Product/service"
+                    ],
+                    "page_like_count": 5,
+                    "title": null,
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "fruitsfamily.co",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "INSTAGRAM"
+                  ],
+                  "start_date": 1768723200,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "1446899119887365",
+                  "collation_count": null,
+                  "collation_id": null,
+                  "page_id": "536035950646488",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "536035950646488",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/100067609347200/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "슈마커",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/525315081_1115360053883748_9117959771139198170_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nCP_bSRSR1cQ7kNvwFbcz-b&_nc_oc=AdnaDoYU3Ih1IoL5-q_UrW9tRTLlLH8j88YeFtMVIa43SQKXV9b__eKJzaio-ThbH5s&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=iLU_-9nSG69ghHaKX_uudw&oh=00_AftLLJngS6zJY1h_DlLkSn32xZvsc1EbtSrx2nGYpRcHAg&oe=698771A9",
+                    "event": null,
+                    "caption": "shoemarker.co.kr",
+                    "cta_text": "더 알아보기",
+                    "cards": [],
+                    "body": {
+                      "text": "👟 스포티한 감성에 데일리 무드 한 스푼\n꾸안꾸 여친룩엔 이거지 💁‍♀️"
+                    },
+                    "cta_type": "LEARN_MORE",
+                    "display_format": "IMAGE",
+                    "link_description": "즐거움을 신다! 나이키, 아식스, 아디다스 등 인기 브랜드 슈즈 멀티샵",
+                    "link_url": "https://www.shoemarker.co.kr/ASP/Product/ProductDetail.asp?ProductCode=47986&utm_source=SNS&utm_medium=DA&utm_campaign=purchase&utm_content=NIKE_2508",
+                    "images": [
+                      {
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/526327763_1148893730396766_5927115031482686319_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-kervAIwkYQQ7kNvwEW-F7v&_nc_oc=AdkCFgc3VDVTCJeow0AGjZRxHCTxpXIe32ZXN5OxWa0naD-huER34PgZiyK5qDOlWH4&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=iLU_-9nSG69ghHaKX_uudw&oh=00_AfvoE47uE89j10rU6gg9-OdOKKysD1uChBYTXFpOCZJKNA&oe=698763ED",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/514248538_1250633413033342_8524538082906674100_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6Fwtq64qrlwQ7kNvwFKIKI3&_nc_oc=Adng_zYrhFxV3_mvzIMRepzRuuTJwC9uF4yZlS05rOhJZySnyUjbQLXlCWYHozVRIIc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=iLU_-9nSG69ghHaKX_uudw&oh=00_Aft9jDykDXJ4R0IpEQhnM0Id-KP8S2E0_O3R1E2_HJ-HXw&oe=69877946",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "page_categories": [
+                      "Retail company"
+                    ],
+                    "page_like_count": 68,
+                    "title": "나이키 코트 버로우 로우 리크래프트",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "슈마커",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1754895600,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "MESSENGER",
+                    "THREADS"
+                  ],
+                  "start_date": 1753945200,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          }
+        ],
+        "page_info": {
+          "end_cursor": "AQHSgOV_ArSq_BAPQaGyIOb-_qWv4ZYYw6lF753QnLJPkOwJwis6PpjYAuE3A9Z9K_kuzLcY-L3Cd_s3_3g3oAHB14WwoiA87KnLsQVHA65hRhkpCdZgTtxhn_-aQTwiDmluCe7q5sletOEjJaYCaRPLwcY63Q1x809vFRt3KzaicYiS72Rx782tcgnGz_6BafPeBrhjGf4eSwHTMc8tAO17ouCQi3xP7nZKuQs4Qoag9Gu62vy4MlDs726UkxqWYzk2XIznwC9F43-VS5IFIhXVxSOAY2VDjfQHp-bma3QUweR8nwl3DtxxpdBm_nem1W84lybu3QSfFxDXLdMMgYPv6zmRH8MmzM4812KdpbkCfsI0Nz63sr3hsSA3S_JiJwtiez_MSCDynkM2LLkKtI3S-Zgj1G11lL_4tq8Rpxh8VcfmLX02KRVrR8aX8x_7eTNHehoMEWHZkytzsLwtZsmW_IY4Xvnep1G5mDjffi7SaDT23cgSv_9hYmj9u5txncb-_aY1AG6_93T4aPl407pRWm5gromTjo77qN_I4Z3Gk75JfUZF5qROEYG80Cs7eInY6yYTbvHP3T1Hl7u3fM5m-UV5ka7GKdufGxKkD1e1OzZ4Yc1RrIZkfYp7I_r3QMpdK3Yr1cd6hG-fftA18GqoE3rlyfYZ4276JdlmqqWIEMh4l3jm2KuhP4INtI84yf_HUMxuVTeM-_YqZtpr2emwkzy_pOSXalJgIWeI06pMCTPTThG90qrEq16f5BeUB7bqlq9kv6unLBqz9u0iXQl5wZChS5hvmVrJbeBFKFblOrzqdtzC7z6KE1eiC1NlzHFvNmQk_gghCgQr-6yCsv1Ts1CLVxGWJzK5g_hckmFfx-xX5V2CxH1_gmQ8QMSNIfDMVMUjvj1FdDvZwkwdLmHP9wG57hDAJ3ZEwGyQnoQf5Q6Xp9teP-TicKjwYRJR0Us-Cum8PJEOHRGfUcO7SZ_lP64Bl-GApS13HGPBvp0uTA6lhHttoO46KI3AQLrRRerjwNOyZZuOfefjoCaqWfHB_IhJlEe60hvo-eRtiOsXgOM49lsgQR0rdMOlFs3VbMeeQyvF4aod540bVteecnStflAnHYRLWWNBM8wY7EcREfBSWndl8z3ePZz3jW6NhGg_",
+          "has_next_page": true
+        }
+      }
+    }
+  },
+  "extensions": {
+    "server_metadata": {
+      "request_start_time_ms": 1770099879769,
+      "time_at_flush_ms": 1770099880805
+    },
+    "is_final": true
+  }
+}

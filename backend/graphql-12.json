@@ -1,0 +1,1405 @@
+{
+  "data": {
+    "ad_library_main": {
+      "search_results_connection": {
+        "edges": [
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "808360025554651",
+                  "collation_count": 1,
+                  "collation_id": "2019174495318038",
+                  "page_id": "110144887573788",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "110144887573788",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/100063571478863/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "홀리스패션",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623462633_1449761216872407_2842822797441974158_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=x_Hkq4SW3ZEQ7kNvwFLHvB-&_nc_oc=AdlnCzwgQDpqG4K2mrrImhSURwQds4gZTjT2_-lrAk77Rv5D_Qzfey4QOq41Hd1ePDo&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_Afvt1JHnYLjPwEiYSb0OLJlkAxqbezU0n8FgqGNi-9lcMg&oe=6987612B",
+                    "event": null,
+                    "caption": "smartstore.naver.com",
+                    "cta_text": "더 알아보기",
+                    "cards": [
+                      {
+                        "body": "블랙엔 블루, 그레이엔 레드! 컬러 조합 미쳤다.. 🔥\n\n나이키에서 가장 예쁜 컬러들만 쏙쏙 뽑아 만든 JDI 프렌치 테리 후드티입니다. \n단순한 로고가 아니라, 룩의 중심을 확실히 잡아주는 볼드한 그래픽이 포인트예요.🖤\n\n📍 Check Point\n\n-시선강탈: 전면 빅 로고 하나로 코디 고민 끝\n-디테일: 소매 끝에 숨겨진 퓨츄라 자수 로고가 고급스러움을 더해줘요\n-소재: 쾌적하고 탄탄한 프리미엄 프렌치 테리\n\n무채색 코디에 활력을 불어넣어 줄 아이템! \n연인과 하나씩 맞춰 입으면 트윈룩으로도 완벽합니다 👟\n\n✅ 100% 나이키 코리아 정품 해외 병행 수입 제품이 아닌 나이키 코리아 정품으로, \n전국 나이키 매장에서 A/S 접수가 가능한 믿고 구매하실 수 있는 상품입니다.\n\n지금 바로 홀리스패션에서 만나보세요. 😊",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "",
+                        "link_description": null,
+                        "link_url": "https://smartstore.naver.com/hollisfashion/products/13026769488",
+                        "title": null,
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622801988_827071013514057_4041661287069896933_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hCccuTfMd4gQ7kNvwGu6zUN&_nc_oc=AdkqI-OcmGl5NaUR9WbZYrbPlWxHlIdRopqDi0jSdMIHugY6caOC7o63qaLw75Awde8&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_Aft1etwvikJfABCCzZGlXc-VcmYLjcGwwrcaya51dI2Dvg&oe=69876072",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622896007_1668769511158648_8396801907397318963_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=9Z4qnQlwD6wQ7kNvwHtabh7&_nc_oc=AdkpDlV3jmsQIHWNhpFQN8LFP5a6EFitB0kJDnaasGcr1Wd5-jQHxjDbaBweEpfo8ag&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_AftNIjgCuB2SDic75ZAm1UDkd9QeAVXmACvMLZ-Udneeow&oe=69874E96",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "블랙엔 블루, 그레이엔 레드! 컬러 조합 미쳤다.. 🔥\n\n나이키에서 가장 예쁜 컬러들만 쏙쏙 뽑아 만든 JDI 프렌치 테리 후드티입니다. \n단순한 로고가 아니라, 룩의 중심을 확실히 잡아주는 볼드한 그래픽이 포인트예요.🖤\n\n📍 Check Point\n\n-시선강탈: 전면 빅 로고 하나로 코디 고민 끝\n-디테일: 소매 끝에 숨겨진 퓨츄라 자수 로고가 고급스러움을 더해줘요\n-소재: 쾌적하고 탄탄한 프리미엄 프렌치 테리\n\n무채색 코디에 활력을 불어넣어 줄 아이템! \n연인과 하나씩 맞춰 입으면 트윈룩으로도 완벽합니다 👟\n\n✅ 100% 나이키 코리아 정품 해외 병행 수입 제품이 아닌 나이키 코리아 정품으로, \n전국 나이키 매장에서 A/S 접수가 가능한 믿고 구매하실 수 있는 상품입니다.\n\n지금 바로 홀리스패션에서 만나보세요. 😊",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "",
+                        "link_description": null,
+                        "link_url": "https://smartstore.naver.com/hollisfashion/products/13026769488",
+                        "title": null,
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623369202_4470398089872412_1254920375809304338_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6tsbNRyB7oIQ7kNvwFE0eEB&_nc_oc=AdlcBBF6j1Kl6lrpMfTdSq7YZ_ypHmlgBf09sRhZI7AsQ79si-Jv2VSEf9pCnKTWGIg&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_AfvJ71EYYf6-7Q5FxRPJjSOL52lU9igf7AXokQfMeI4Gnw&oe=69877BD5",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623386739_1401885784260788_264765346522394400_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VygnmegNhlEQ7kNvwHOFAEQ&_nc_oc=AdmQ7cu24lXSPjTDKNeVGqTKNK0yjmbGRn69OHhU_EOJtUv25MlZheyDqTh1j3rATKQ&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_AftT04Uc-fWgTFJu8_mQpivWoT0wPK6TuwWE5uw-gtcjSg&oe=698783E6",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "블랙엔 블루, 그레이엔 레드! 컬러 조합 미쳤다.. 🔥\n\n나이키에서 가장 예쁜 컬러들만 쏙쏙 뽑아 만든 JDI 프렌치 테리 후드티입니다. \n단순한 로고가 아니라, 룩의 중심을 확실히 잡아주는 볼드한 그래픽이 포인트예요.🖤\n\n📍 Check Point\n\n-시선강탈: 전면 빅 로고 하나로 코디 고민 끝\n-디테일: 소매 끝에 숨겨진 퓨츄라 자수 로고가 고급스러움을 더해줘요\n-소재: 쾌적하고 탄탄한 프리미엄 프렌치 테리\n\n무채색 코디에 활력을 불어넣어 줄 아이템! \n연인과 하나씩 맞춰 입으면 트윈룩으로도 완벽합니다 👟\n\n✅ 100% 나이키 코리아 정품 해외 병행 수입 제품이 아닌 나이키 코리아 정품으로, \n전국 나이키 매장에서 A/S 접수가 가능한 믿고 구매하실 수 있는 상품입니다.\n\n지금 바로 홀리스패션에서 만나보세요. 😊",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "",
+                        "link_description": null,
+                        "link_url": "https://smartstore.naver.com/hollisfashion/products/13026769488",
+                        "title": null,
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622903020_1605967133913092_4203491326024030769_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2nZMBKHSeTsQ7kNvwEVcECk&_nc_oc=AdmUgxg9VrdQgec5h24lYdKOw3bMVwhjV0fhH8CmDTDLLVDgDmTjEKMNK0N0CfozzgM&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_AfurYpnhBZHU5md7TAP6G8pBklJ3kTsw2TZ59dKcTkYJmg&oe=6987696B",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622791198_1550442916162882_2299825963365426212_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=E_EfEavJSBwQ7kNvwFtNqlS&_nc_oc=AdnUqf6Koym4Gg3GOuqZwl7z4xoUOnQNYCWicH_xowUL4Zy37XVH51IeCBHO7CgwBJ4&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_AfvABmy8T0R771z2n69-yoenMYHKLry-_yOkoMM0QCt3Sg&oe=698764CC",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "{{product.brand}}"
+                    },
+                    "cta_type": "LEARN_MORE",
+                    "display_format": "DCO",
+                    "link_description": null,
+                    "link_url": "https://smartstore.naver.com/hollisfashion/products/13026769488",
+                    "images": [],
+                    "page_categories": [
+                      "Website"
+                    ],
+                    "page_like_count": 73,
+                    "title": null,
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "홀리스패션",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "INSTAGRAM"
+                  ],
+                  "start_date": 1769500800,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "885608424430463",
+                  "collation_count": null,
+                  "collation_id": null,
+                  "page_id": "103164259268905",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "103164259268905",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/nikeseoul/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "Nike Seoul",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622064998_2054194725365597_8472704399884092585_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RgQAA16iGtEQ7kNvwG6P2aK&_nc_oc=AdnIh7L0fQ9KMcvKnIdDPkxtK__Vl_AGtLH651tNyyFhyWaN1rrm2kwoPREW4dalvZE&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_AfvLxL1o27f30hWXeTJflbFij6XOMz2O07UIrngrXjHi-A&oe=69877B74",
+                    "event": null,
+                    "caption": "nike.com",
+                    "cta_text": "지금 구매하기",
+                    "cards": [
+                      {
+                        "body": "나이키 트레이닝 컬렉션\n앱에서 무료 배송 & 반품까지, 나이키 인기 상품을 만나보세요.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com",
+                        "link_description": "Nike delivers innovative products, experiences and services to inspire athletes.",
+                        "link_url": "https://www.nike.com/kr/t/언리미티드-남성-드라이-핏-7인치-언라인드-버서타일-쇼츠-wAHrirwo/DV9341-010?utm_source=Facebook&utm_medium=SOC&utm_campaign=365DIGITAL_Facebook_DA_DPA_all_all",
+                        "title": "나이키 언리미티드 남성 드라이 핏 7인치 언라인드 버서타일 쇼츠",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622493944_1502087100890301_3694252401995649786_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wb8T0cG7778Q7kNvwGEy-uZ&_nc_oc=Adk1HoJ-y1fFlMuF510TyENw1y9EejLE_FAIu6SWiqoBTfsW25a9UfVogXu-Z4yGwyQ&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_AfvDBROh7BcVQJkQ9UW9GffqCUOGrFG4vRR0UcLKhMSeBA&oe=69878186",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622493944_1502087100890301_3694252401995649786_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wb8T0cG7778Q7kNvwGEy-uZ&_nc_oc=Adk1HoJ-y1fFlMuF510TyENw1y9EejLE_FAIu6SWiqoBTfsW25a9UfVogXu-Z4yGwyQ&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_AfvyTzUIleszQ2e-CyoNxtTyYZPTNqK5qiUcrKtgtIppyQ&oe=69878186",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "나이키 트레이닝 컬렉션\n앱에서 무료 배송 & 반품까지, 나이키 인기 상품을 만나보세요.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com",
+                        "link_description": "Nike delivers innovative products, experiences and services to inspire athletes.",
+                        "link_url": "https://www.nike.com/kr/t/드라이-핏-uv-하이버스-남성-반팔-피트니스-탑-y4cT9Qmb/DV9840-097?utm_source=Facebook&utm_medium=SOC&utm_campaign=365DIGITAL_Facebook_DA_DPA_all_all",
+                        "title": "나이키 드라이 핏 UV 하이버스 남성 반팔 피트니스 탑",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623370745_1253281880195718_5428651794098042405_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=51o0TjzB_IIQ7kNvwF-Gz2b&_nc_oc=AdkhtMyVV6MlTD3C0cmBXwkuOK-Ut5mdFyYNz_9ya061yly8hQOiv5tkoD_ESulVz0Y&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_AfvDIlmbULLnKdczBSlmb2fcIYU8IsmLfRm3KkApkhi38A&oe=698781FA",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623370745_1253281880195718_5428651794098042405_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=51o0TjzB_IIQ7kNvwF-Gz2b&_nc_oc=AdkhtMyVV6MlTD3C0cmBXwkuOK-Ut5mdFyYNz_9ya061yly8hQOiv5tkoD_ESulVz0Y&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_Afv_FPxR4x9Nm0VCmail9sO-Dp2hO60NLmhj0eiv9Io3sQ&oe=698781FA",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "나이키 트레이닝 컬렉션\n앱에서 무료 배송 & 반품까지, 나이키 인기 상품을 만나보세요.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com",
+                        "link_description": "Nike delivers innovative products, experiences and services to inspire athletes.",
+                        "link_url": "https://www.nike.com/kr/t/에브리데이-라이트웨이트-여성-트레이닝-발목-덧신-양말3켤레-MYe8IrR5/SX4863-101?utm_source=Facebook&utm_medium=SOC&utm_campaign=365DIGITAL_Facebook_DA_DPA_all_all",
+                        "title": "나이키 에브리데이 라이트웨이트 여성 트레이닝 발목/덧신 양말(3켤레)",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623817331_25781834028115310_5617668027832001168_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gmRCGErimlYQ7kNvwEpPR7j&_nc_oc=AdlfQHgPUvSamOpOl6BRFqiLxiSDTR9c-qAu7pUqiCMsom-2A_MNjPPTLGM1aCjBmQc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_AftC4Bxgdk92YsdVAMq5gsHs8tEKw3xwtNdJJq59pX5NNA&oe=698775E9",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623817331_25781834028115310_5617668027832001168_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=gmRCGErimlYQ7kNvwEpPR7j&_nc_oc=AdlfQHgPUvSamOpOl6BRFqiLxiSDTR9c-qAu7pUqiCMsom-2A_MNjPPTLGM1aCjBmQc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_AfuR3Qt5gGZ5onBjSGlxghigefysShgti3mN4f5geeS_qw&oe=698775E9",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "나이키 트레이닝 컬렉션\n앱에서 무료 배송 & 반품까지, 나이키 인기 상품을 만나보세요.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com",
+                        "link_description": "Nike delivers innovative products, experiences and services to inspire athletes.",
+                        "link_url": "https://www.nike.com/kr/t/드라이-핏-프라이머리-남성-트레이닝-티셔츠-tSUtAJSq/DV9832-010?utm_source=Facebook&utm_medium=SOC&utm_campaign=365DIGITAL_Facebook_DA_DPA_all_all",
+                        "title": "나이키 드라이 핏 프라이머리 남성 트레이닝 티셔츠",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624622576_1209018244165674_7595039625087416693_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YPKmAYrxDVQQ7kNvwELkY0Q&_nc_oc=AdmUOlIVAyb4_ASleDYjHCeRhRLpQZZ6_jTRQMSbCsyanOaU5dQvuxjwzi539JJQ9Ho&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_Aft6pcpGZUIrHZUvwy14tk0qCHNPzSn4r_BX3ok99rgJTA&oe=698780B9",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624622576_1209018244165674_7595039625087416693_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YPKmAYrxDVQQ7kNvwELkY0Q&_nc_oc=AdmUOlIVAyb4_ASleDYjHCeRhRLpQZZ6_jTRQMSbCsyanOaU5dQvuxjwzi539JJQ9Ho&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_AfvjjiA6fACy1vWEVLbJSoLe1oXrPFijDHg4V51EAKfFww&oe=698780B9",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "나이키 트레이닝 컬렉션\n앱에서 무료 배송 & 반품까지, 나이키 인기 상품을 만나보세요.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com",
+                        "link_description": "Nike delivers innovative products, experiences and services to inspire athletes.",
+                        "link_url": "https://www.nike.com/kr/t/에어-모나크-iv-남성-운동화-n6eVmAeX/415445-102?utm_source=Facebook&utm_medium=SOC&utm_campaign=365DIGITAL_Facebook_DA_DPA_all_all",
+                        "title": "나이키 에어 모나크 IV 남성 운동화",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622107126_4272692799669797_4031786893319727763_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KHAhLY7Ykd0Q7kNvwHd0THo&_nc_oc=AdmqtfM42iTDjijLsWgvJEYWahoXkWm_vA-P5yHHdCwFbTFbuLcd4GlnH-KRchbfNA4&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_Aftp8vcXeUbkK4MKjxbyHqf7zFcTfzBdJAKtHUAUtcaBEA&oe=69878429",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622107126_4272692799669797_4031786893319727763_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KHAhLY7Ykd0Q7kNvwHd0THo&_nc_oc=AdmqtfM42iTDjijLsWgvJEYWahoXkWm_vA-P5yHHdCwFbTFbuLcd4GlnH-KRchbfNA4&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_AfvVAVh6JgOIPyC1LjTGXqI3auUswA6n00jyjh_suj3TVA&oe=69878429",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "나이키 트레이닝 컬렉션\n앱에서 무료 배송 & 반품까지, 나이키 인기 상품을 만나보세요.",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "nike.com",
+                        "link_description": "Nike delivers innovative products, experiences and services to inspire athletes.",
+                        "link_url": "https://www.nike.com/kr/t/드라이-핏-uv-하이버스-남성-반팔-피트니스-탑-y4cT9Qmb/DV9840-010?utm_source=Facebook&utm_medium=SOC&utm_campaign=365DIGITAL_Facebook_DA_DPA_all_all",
+                        "title": "나이키 드라이 핏 UV 하이버스 남성 반팔 피트니스 탑",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625167007_766842575920589_5123378029903445470_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Yyz5poy10UMQ7kNvwFtv8RD&_nc_oc=AdkcX_Bf3bRJgiFcJL5zI2-Gp3DK3N9OWmOvjFy0S5imrotWVdShb30tOND7PjxB4AE&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_AfslUkbfj-2xPSyQu6WaOLJHZIVp-klCMXYC6EA5wyWi6A&oe=69875323",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/625167007_766842575920589_5123378029903445470_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Yyz5poy10UMQ7kNvwFtv8RD&_nc_oc=AdkcX_Bf3bRJgiFcJL5zI2-Gp3DK3N9OWmOvjFy0S5imrotWVdShb30tOND7PjxB4AE&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_AfsYyILIesA3COYIlFAHBCASBCU_ae9fcOCP0Vh0yeSu9g&oe=69875323",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "나이키 트레이닝 컬렉션\n앱에서 무료 배송 & 반품까지, 나이키 인기 상품을 만나보세요."
+                    },
+                    "cta_type": "SHOP_NOW",
+                    "display_format": "DPA",
+                    "link_description": null,
+                    "link_url": "http://www.nike.com/",
+                    "images": [],
+                    "page_categories": [
+                      "Brand"
+                    ],
+                    "page_like_count": 26593,
+                    "title": "{{product.name}}",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "Nike Seoul",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "MESSENGER",
+                    "THREADS"
+                  ],
+                  "start_date": 1769760000,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "718106071118928",
+                  "collation_count": 1,
+                  "collation_id": "2316988058770297",
+                  "page_id": "606139075919599",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "606139075919599",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/61575358045986/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "Jewelzz Fashion Market",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/611187094_2121375208268409_1498106359829076071_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5Pl2VbdfB10Q7kNvwGILE-r&_nc_oc=AdnSiSSmZcGcxZjlE0zVOnBy2EseZnjSI4qqEysSuLGJ32Kbi_UJC70NGYa43HcDwac&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_Afv-ecL3cIqEywCWKGDdKpwDV3FjruNnlmUi3VCowzDHEw&oe=69875C12",
+                    "event": null,
+                    "caption": "coyun.co.kr",
+                    "cta_text": "더 알아보기",
+                    "cards": [
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "coyun.co.kr",
+                        "link_description": " ",
+                        "link_url": "https://coyun.co.kr/",
+                        "title": "Coyun.co.kr- 믿을 수 있는 쇼핑 플랫폼",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/612609892_1389944162854821_6441244215951422194_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0znVzMBdfucQ7kNvwGOeZH5&_nc_oc=Adm7zB5Q71PA4dnCaB3qCKFJP8ji56gnWJoZkrja6bpr9RU_iYGbpO4JVoNTJZKJ7VA&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_AfuJcBOHkkvgNRbJcDhpSd_5yKvwsKEFUWJyHcuTO8567g&oe=69876F66",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/611812852_1539546510644756_8197653291943440983_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ShD27-GJOycQ7kNvwGiJmrV&_nc_oc=AdlCNRw7Ctgz1-jgfQJ9JIW9WO48giIPWKCG9xQoYkSgLOBY2J2XcfEfUM0unS4KD1E&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_Aft4iUecoQw4MzzYdL0p0LhPCvXI798TigzOwYSRgSMkgw&oe=69875353",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "coyun.co.kr",
+                        "link_description": " ",
+                        "link_url": "https://coyun.co.kr/",
+                        "title": "Coyun.co.kr- 믿을 수 있는 쇼핑 플랫폼",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/612171810_1573183687331235_3061590742774433232_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TMn1_vmcbUIQ7kNvwFCuP9P&_nc_oc=Adk8PqGCHXYfPt5H1b6-6BxIQ1Wg3SL0ionteKncN9rWO54UTInQhOO4MOju2cQ78uE&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_AfuD8Ss09OBaNn0dwLqHoS8I2_v2ciB6yHOCIbmjTsyrNg&oe=69878398",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/612504476_1214613403453232_4940598116736673916_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0CkUxozeZ8MQ7kNvwGzXANV&_nc_oc=AdmzPlxfuYm304hYKS14YshSBE8N_fzVeX5YU9VfpeK5JRQfoc081FQkRiYgx258WkY&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_Afs5bYrekCydQvOGeGMjtVpI-x3Ku5I8ChyAoSXmxZtfRw&oe=69876A8F",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "coyun.co.kr",
+                        "link_description": " ",
+                        "link_url": "https://coyun.co.kr/",
+                        "title": "Coyun.co.kr- 믿을 수 있는 쇼핑 플랫폼",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/613577547_868045559295222_7485975021490896353_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lzp9VB3B9t0Q7kNvwH7QyaM&_nc_oc=Adl447Y878vC4Sn4bS2sYlAqhZjJpDaNOaA5Mhd6Jmkwp0T5j-EyOa4J-xPljLiyyLw&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_AfuI6KJh5XigHtGFUrDD8Aa2ZqltuNaT_-QQ_rfXvI_OXg&oe=6987734A",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/612915004_1223617986372025_1387813597206950510_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=YMXdxl6CwmMQ7kNvwEsdyOm&_nc_oc=AdnbArZf7_9fUrqKyU4b88TidhtmReTNEY9hMBlfCpDq9iL6Do7ZvwWYYRChBNQ-754&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_AftTLQw6WKuUOllLXtOIoY6hZ7bJlobR-PFwjaMV0Bcc-g&oe=698757BE",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "coyun.co.kr",
+                        "link_description": " ",
+                        "link_url": "https://coyun.co.kr/",
+                        "title": "Coyun.co.kr- 믿을 수 있는 쇼핑 플랫폼",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/612006663_1253266909978069_8452622899424853193_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7DTAeGudVHMQ7kNvwG50UAh&_nc_oc=AdnH0W8kZ0QC0uoRF6-Qq9r0jzahyOMTOtWOJWd-NZlViKboq4D-BlzSVgdmug0BLMI&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_AfunNV0mwaeZSPd_hjaw6JG0o0XeuRZUuyJjjWwI43Gz2w&oe=698772F2",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/612260579_1413567960321516_8954686152307401479_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-rOb8fBjMXAQ7kNvwE8VntH&_nc_oc=AdlGswWaq_1D9DdhVLcnYd3YTi02FLQQSVr5_wXOoUoV-zq44DUqsdyKMn66WIHGyQw&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_AfsfHksdJBoxuXeYn3c7UMcf1oQJEjHxi502aPsUbwovYQ&oe=69877B09",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "coyun.co.kr",
+                        "link_description": " ",
+                        "link_url": "https://coyun.co.kr/",
+                        "title": "Coyun.co.kr- 믿을 수 있는 쇼핑 플랫폼",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/611771159_1229471332416254_775272751077915317_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TP3iyDN2kqIQ7kNvwEl2_9h&_nc_oc=Adm2nUx80Y_4OawxWFvRqAJV-YqjT5avO-D5HFUtLrP64tpD-5liRNZFxJNlavIGKB0&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_AftwjwCFlYNO7kEvJjGdiQbqjbbanqmbSVsDmm0NoAnljQ&oe=69875936",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/612854727_25674700408886274_3509521157492262565_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-gTBnNMZuhwQ7kNvwGLDP2M&_nc_oc=AdnergHGd_XcNACHwOaXkqkFlf-unxhmW5OhfAmhudMriWPKUFshdWPTYHhRUtVeDyo&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_AfslTyWpNcDdVft_amACZ-dkG39Yg7lsRZkrHkkLb2d96A&oe=69877C07",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "coyun.co.kr",
+                        "link_description": " ",
+                        "link_url": "https://coyun.co.kr/",
+                        "title": "Coyun.co.kr- 믿을 수 있는 쇼핑 플랫폼",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/613383645_1156677129609546_3214016585776104259_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=6XmKfeWzQQEQ7kNvwGkJTSh&_nc_oc=AdmBKLeyzd8QVJGc07ibkRuEL1OOch5jvyJKOoX4xIg1_mcUa2vzCOeKBg7MR1zUQKc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_AfsuezoHSOgIMXDgdJqaDXs-IBxZJFqmi7AqL8UjnR-QqQ&oe=698781D4",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/611812859_808047082288366_6886840289724675102_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nSlxIXLrr1EQ7kNvwFtC1aN&_nc_oc=Adl227vdxQGH7zasRoDg6fzQN8MC2FQeZ2vZGONkZ-eh_fbu_PnNa68deHvT7uRQe1A&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_Afs67YFSQxHcg2-MWoyHqE4ze-0bQLCmKaq96OoWoLE9uQ&oe=6987566D",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "coyun.co.kr",
+                        "link_description": " ",
+                        "link_url": "https://coyun.co.kr/",
+                        "title": "Coyun.co.kr- 믿을 수 있는 쇼핑 플랫폼",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/612338170_1401748538058668_2497118019178907205_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=483rDD7QatQQ7kNvwH-B4Sx&_nc_oc=Adn_kHUbuwzfsQ6-e1qdmMVjOZW046Fs1jp6jPFseIantjTmmlqn5rV8Cd8J2QOM9Vc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_AfuGy7jbxP9dlbvcvs55kAKLuDt1lB5BKNSJr6cMQax4Nw&oe=69877EF3",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/612012330_1548936156258469_8897647646913029216_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=X31RU-9p-dUQ7kNvwH7cNuT&_nc_oc=AdnPVS8ff06UL1QOJksVvy9QR4qYGRudbwE1EqELlYDjhcEzVHq-mOpyeu4VWIihXgg&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_AfsbMB3tkKqP33qbRVXlZ8TFCGmgjQu6HeRWm8_6yGDwOA&oe=698768B9",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "coyun.co.kr",
+                        "link_description": " ",
+                        "link_url": "https://coyun.co.kr/",
+                        "title": "Coyun.co.kr- 믿을 수 있는 쇼핑 플랫폼",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/611938046_1405835707919166_8262230455462657684_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7kR8_8YGIKUQ7kNvwHt820T&_nc_oc=Adka-VdDPj8a_TgJS39RNoqqeB-RNvOWHWJDI488ZW9m9kRLXo_HMzIkaeRkyFSi-t8&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_Afub953ClmnEP4UUOoHsBfCCXPXJGucMnvhKG32xvKx2Sw&oe=6987534B",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/612020875_1411732787061694_7892920071224013529_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=E4c6Xi7A-nsQ7kNvwEg91Kw&_nc_oc=AdlgEqaU8q07rRgSTYJqabXv-wl4Oj0CiHmz6alQlWNB7lZfUEmSssE83cF3Ld96a0A&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_AfuTRBCirsQLtdqgoPd07F2KXBkk_VArtIuiRTusaSzcug&oe=69876C95",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "www.coyun.co.kr\n\n⏰ 한정 시간 할인\n🏆 2026년 한국 판매 랭킹 2위\n💳 카드 결제 가능 / 무통장 입금 가능\n🔄 간편한 교환·반품 서비스\n🔥 초특가 59,800원\n\n나이키 · 뉴발란스 · 아디다스 · 아식스 등\n다양한 브랜드의 운동화\n남성 / 여성 전용, 다양한 디자인 · 다양한 사이즈\n\n📢 [특가 안내]\n\n뉴발란스 530 스틸그레이 / 블루블랙\n\n나이키 Zoom Vomero 5 코블스톤 · 바스터 그레이 블랙 · 오트밀 · 버건디 · 더스트 & 메탈릭 실버\n\n아디다스 아디제로 EVO SL 남성용 로드 러닝화\n\n단 59,800원으로 일상을 업그레이드하세요! ✨\n\n👉 사이트: www.coyun.co.kr"
+                    },
+                    "cta_type": "LEARN_MORE",
+                    "display_format": "CAROUSEL",
+                    "link_description": null,
+                    "link_url": "https://coyun.co.kr/",
+                    "images": [],
+                    "page_categories": [
+                      "Shopping"
+                    ],
+                    "page_like_count": 185,
+                    "title": "Jewelzz Fashion Market",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "Jewelzz Fashion Market",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM"
+                  ],
+                  "start_date": 1767772800,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "1412099660521557",
+                  "collation_count": 1,
+                  "collation_id": "1858999908135589",
+                  "page_id": "110144887573788",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "110144887573788",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/100063571478863/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "홀리스패션",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/619512531_3147951798746755_6754607769804375260_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=7QjVRtczcKoQ7kNvwHpcPVJ&_nc_oc=AdkKN_HGRvF9EUK817CzXyPb0BFZ5TCOnbnjYYmwaPwP2L2o5JKiFUvWmJ0Ie3SFSMg&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_AfvgOqD7lMUIMRSUOOis63SCZtLptRMYI_TKVNUNp4fQtA&oe=698758AB",
+                    "event": null,
+                    "caption": "smartstore.naver.com",
+                    "cta_text": "더 알아보기",
+                    "cards": [
+                      {
+                        "body": "오늘 내 핏은 내가 정한다! 😎 \n벌룬핏 VS 루즈핏 ! 내마음대로 !\n\n나이키에서 작정하고 만든 스트링 시리즈입니다. 그날의 하의에 맞춰, 기분에 맞춰 밑단 스트링으로 핏을 조절해보세요.\n\n📍 Check Point\n\n- 미니멀한 센터 퓨츄라 자수 로고\n- 탄탄하고 부드러운 프렌치 테리 소재\n- 체형 보정 확실한 루즈한 실루엣\n\n한 번 입어보면 다른 후드는 손이 안 가실 거예요. 👌\n\n나이키 코리아 상품으로 매장 AS 까지 가능한건 안비밀 !😍\n지금 바로 프로필 링크로 구경 오세요! 🙌",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "",
+                        "link_description": null,
+                        "link_url": "https://smartstore.naver.com/hollisfashion/products/13026769753",
+                        "title": null,
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622437452_2036173440510112_8488629734475901814_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=uqwbSbJrwvsQ7kNvwGydCp9&_nc_oc=AdlC3kCOFty33Qb_M25brVNQMeC_xFT6kbXWHGW7SZL1ulDapU2mIV1_x0TM2uiO60M&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_Afu2kgQAcwQz8hcV2n5CikER9v-Pgm9jiPvpmO4YErX9Yw&oe=69875F8C",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/619273006_1622936295541976_7080572613789734614_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LCxoAC-fM1MQ7kNvwFMrvip&_nc_oc=AdkuSxzF02RNDn0eik8JUQMRt8Khm_1bmcIYTln9ofig7fI9V4HdhrmQGDYmrDf7chA&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_AftBt4Byl8t_VJp1k_X6JY6uNFMH8a-lHAUPnetoHOS1AQ&oe=69878273",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "오늘 내 핏은 내가 정한다! 😎 \n벌룬핏 VS 루즈핏 ! 내마음대로 !\n\n나이키에서 작정하고 만든 스트링 시리즈입니다. 그날의 하의에 맞춰, 기분에 맞춰 밑단 스트링으로 핏을 조절해보세요.\n\n📍 Check Point\n\n- 미니멀한 센터 퓨츄라 자수 로고\n- 탄탄하고 부드러운 프렌치 테리 소재\n- 체형 보정 확실한 루즈한 실루엣\n\n한 번 입어보면 다른 후드는 손이 안 가실 거예요. 👌\n\n나이키 코리아 상품으로 매장 AS 까지 가능한건 안비밀 !😍\n지금 바로 프로필 링크로 구경 오세요! 🙌",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "",
+                        "link_description": null,
+                        "link_url": "https://smartstore.naver.com/hollisfashion/products/13026769753",
+                        "title": null,
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/618818358_1801482617164589_6353515459944905260_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DS7rUFG6ccsQ7kNvwGDB8Bi&_nc_oc=AdnkP8H-1mXC9F58QMQuAyBS24X1lSrBz4TRY0LEpY5c1YMHKU_lseHHGavBHRJSEdk&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_AfuUuV5MbEnDrvn_rPhMyPxbAuOrQqNiyJrL_JeU5s5-Qg&oe=69875483",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622374555_3290042317822328_747723233581538272_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=La1TxKQqeCYQ7kNvwGTDDBj&_nc_oc=Admi9PODji8gadvfLpjXXLhwJWkwVD6HQ6I-HIyq06etoxGubrFwV_Y-9yfKJ3Xsu3U&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_AfvbQqPd0iq399acxmJwjxJMXrla-4Ky4MiU0wTXN03GCw&oe=6987645E",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "{{product.brand}}"
+                    },
+                    "cta_type": "LEARN_MORE",
+                    "display_format": "DCO",
+                    "link_description": null,
+                    "link_url": "https://smartstore.naver.com/hollisfashion/products/13026769753",
+                    "images": [],
+                    "page_categories": [
+                      "Website"
+                    ],
+                    "page_like_count": 73,
+                    "title": null,
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "홀리스패션",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "INSTAGRAM"
+                  ],
+                  "start_date": 1769500800,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "1599365178176601",
+                  "collation_count": 1,
+                  "collation_id": "750624094745992",
+                  "page_id": "443326508874191",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "443326508874191",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/61570801131456/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "투슬로스",
+                    "page_profile_picture_url": "",
+                    "event": null,
+                    "caption": "mkt.shopping.naver.com",
+                    "cta_text": "더 알아보기",
+                    "cards": [
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "mkt.shopping.naver.com",
+                        "link_description": " ",
+                        "link_url": "https://mkt.shopping.naver.com/link/695b83b28f77f1648d326066",
+                        "title": "나이키 트레일 써마핏 프리마로프트 겨울 러닝 자켓 아우터 FZ0004-716 : 투슬로스",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/611615151_1659536392164963_4576446834833838867_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZTS79Lu_pnoQ7kNvwHLF_33&_nc_oc=Adl83Vt_DdIjEPoFgxiPARoGC1jRH6iPjdkew4ykstTEWOq8DwUqf6OVF12s-1qgWPY&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_AfuiYeZBVtT7AIOI8mjySlT9fvR2jps4yxicVepTuDazfw&oe=698785A6",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/611934948_861073033486009_6036387758306347944_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=nJcUoV6Q6DcQ7kNvwHRKcxO&_nc_oc=Adm_jAnzIgoapAe3BsygzGC3s7iP7hQm9pkh_CGpNulu45e0gQKSW5m5iduH_vET0JU&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_AftPCwLdy5lhy6DnFVpkGlcyyElAIkpaEtNzz6Db3LPrAg&oe=69875CFD",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "mkt.shopping.naver.com",
+                        "link_description": " ",
+                        "link_url": "https://mkt.shopping.naver.com/link/695b83b28f77f1648d326066",
+                        "title": "나이키 트레일 써마핏 프리마로프트 겨울 러닝 자켓 아우터 FZ0004-716 : 투슬로스",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/611322291_1400461721806300_6219987241475737000_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=U26K-ReDDeoQ7kNvwGfYJbE&_nc_oc=Admdrdrf6V__oKdR9PROqYlk9ShGfgDztWo7gMj9pmWcbDSqVGztHVX61WFz_9p6INk&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_AfvWsiDytRPj3XcMHi5ncf-ap4RE1bd4_N-zuF_l0c2EMw&oe=69874F8B",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/612350687_1628337271866352_6043609369733533488_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qniXyAmbLMUQ7kNvwEUipx9&_nc_oc=Admh7HVaIaJSMV58rvt9a-j2DS6gGSr7kUMcy_fMHswmxWfjDUKHckdKg6lkL1PMofM&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_AfuvGwkjnlFkLn9HxukIJo5qE5mcOtBn2FjgPQpvVlDUkw&oe=6987795B",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "mkt.shopping.naver.com",
+                        "link_description": " ",
+                        "link_url": "https://mkt.shopping.naver.com/link/695b83b28f77f1648d326066",
+                        "title": "나이키 트레일 써마핏 프리마로프트 겨울 러닝 자켓 아우터 FZ0004-716 : 투슬로스",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/611400663_712689728345181_5607628340635398744_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=C0OelABHzzAQ7kNvwGWVWLJ&_nc_oc=AdkbodolEWZ30gJU0Q0LJMU86Imkb5EkmgpoRqXfV2h8ijSaWz5d3FP1VoH4BhNTZL4&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_Afu_NtaRXrCy78HtwgUMYwLwV2r8UzzVr9f4p0qHmgIHnQ&oe=69876F10",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/612466374_809340845464704_5959860327889871018_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QXzDvPVAgVAQ7kNvwHpP89c&_nc_oc=AdnPJvyvIGprguIN-yuYW6NeaTmfBgdegP6Lcpeg8BN_xcn6GubBA1naYifIUy0jAUw&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_AftWKENkvb2EU6ZvwgiOG5E3YwRSTiX4FaVUxqXIGz43xA&oe=698779C0",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "mkt.shopping.naver.com",
+                        "link_description": " ",
+                        "link_url": "https://mkt.shopping.naver.com/link/695b83b28f77f1648d326066",
+                        "title": "나이키 트레일 써마핏 프리마로프트 겨울 러닝 자켓 아우터 FZ0004-716 : 투슬로스",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/611330228_1202560304768716_4313939504564246059_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=--n2OA-3wzAQ7kNvwE94cof&_nc_oc=Admm-WmwoMUyaWiwO9TzfY1h9PG_-c79_0B-H882Lrdz3ZBQvnBcSxvlI58-nmta5r8&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_AftnZhGMr5VJpzg04dgD1m1sACyXzlCh1extfM9yqz0diA&oe=6987693A",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/611694780_1434036408136938_4838235752755036858_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LomJfgYy-kQQ7kNvwF8R-Z9&_nc_oc=Adn7h56WjlUoI0bu4g8fY0P6qyl-gS9Lxn2_dsM5lFiEEH6nu2W62GV4bds6fy-AQzc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_Afssmh2LXSxQAAhq3m-X0ztWq9Nkgwjeg4B35SQ3-DcXzg&oe=69877D78",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "mkt.shopping.naver.com",
+                        "link_description": " ",
+                        "link_url": "https://mkt.shopping.naver.com/link/695b83b28f77f1648d326066",
+                        "title": "나이키 트레일 써마핏 프리마로프트 겨울 러닝 자켓 아우터 FZ0004-716 : 투슬로스",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/611346883_2068427733959332_7049424013396576900_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QUM-G6PBsL8Q7kNvwE7HJ9s&_nc_oc=AdlU9nxXgmu8xqxIPnSnGidMUfu97SlUqcUaEeyDeiIvw6Y0Z1-9dgci3ltwaX_K8xY&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_AfuSC042cwcChQ-kQzctw8s9DHIr0H1zfQYzqUp4lCtEPQ&oe=69876280",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/611756705_2962374584152606_7939003645875232904_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SnYIiV-AA7cQ7kNvwFDJjyU&_nc_oc=Adk3LZBEnJJhglUI1uFlsI-54x3YWL2wgAIKKNElZ6BzPK1JzARqeY_lgKrRR-Zh0kA&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_AftkI-Ipyy79l7M06eDRUlFG5AGxiwUybiwfEjdSP6LpSQ&oe=69875D69",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "mkt.shopping.naver.com",
+                        "link_description": " ",
+                        "link_url": "https://mkt.shopping.naver.com/link/695b83b28f77f1648d326066",
+                        "title": "나이키 트레일 써마핏 프리마로프트 겨울 러닝 자켓 아우터 FZ0004-716 : 투슬로스",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/611356292_25568725509450338_2240252456889454328_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3bN4l_Zy3fgQ7kNvwGmlbTB&_nc_oc=AdmEN7JGNEp8P4W4nq7rUnIXR_2gfgLH-8XNdAa9ImSEHcJ_8f9WrDbe6oJy2kQ07yg&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_AfvjxZwCE7bxXHec8eqp9x5NCtpKQ7JgvoMxlF9v80jEaA&oe=69877A6F",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/611787958_2906326479766423_7471252249222081043_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=O5apvBZoZTQQ7kNvwGHtGSp&_nc_oc=Adl5PWRDHrcwOVYp38TkoBaoRXcqSwRKnrqgY09IZjtZVv7_h9xidS3O0F2Op2ZnueI&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_AftJM8PEZVgWaDUOrK5T_s7zGptBZMyBw-9vwOtdYVjLBQ&oe=6987603A",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "mkt.shopping.naver.com",
+                        "link_description": " ",
+                        "link_url": "https://mkt.shopping.naver.com/link/695b83b28f77f1648d326066",
+                        "title": "나이키 트레일 써마핏 프리마로프트 겨울 러닝 자켓 아우터 FZ0004-716 : 투슬로스",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/611580390_866718269665186_5056028171829773620_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sZRJNCYIth4Q7kNvwEBD2OU&_nc_oc=Admwivv2e5uc36hu5Ci7Bc3l9jlOt_Fmw7jkYhDxts_QXFt7XY-MHtMmIoJaGmJrXgs&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_AfsO4XQxSN5gOCvr_qgDmW4fZaQO20iWaZp0KIM3hJnp0g&oe=69874FFC",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/612657609_1595599094772225_7144995254126873092_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=suzb5RDr6nwQ7kNvwFEJaf3&_nc_oc=Adl2FhgyoczHvceK35RRb6Y2lCwnyJ5lIMkfeYgrG6j25uFXOR0_NzscKC4Iw2NiPGs&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_AfsQyiQ3Ou-qtEpBqNp25Zq_1jMO8wDb68XBaMDBw0DbCA&oe=698780AD",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "mkt.shopping.naver.com",
+                        "link_description": " ",
+                        "link_url": "https://mkt.shopping.naver.com/link/695b83b28f77f1648d326066",
+                        "title": "나이키 트레일 써마핏 프리마로프트 겨울 러닝 자켓 아우터 FZ0004-716 : 투슬로스",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/611274050_777357782035859_8399594275336425340_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=S8-CYsNLixAQ7kNvwEH1iKR&_nc_oc=AdlLvv5YCU3yfMl8NxYhu0KYYFzOH09hFvPz5jN8u4NKHXy3bdAEk7OVcLj3Lp94WZc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_AfsXys80EbZt2mLjh0kkHE0KGaWwPC4xvqdvLWRntf70Pg&oe=69875C4A",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/612256206_1234914058687825_4109760375735572537_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=y296-As40EQQ7kNvwFZ8fPY&_nc_oc=Adl0aMRLM2YO8nrEPct_j44lvnLhIauQdd-lFh0GmwqA8gWpvSdG3rPQpERCUqgbjts&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_AfvgJNn8gzZ7kkg3FhuGQLwl2aiZe6q46YBQxsjBRBfzdg&oe=6987718C",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "mkt.shopping.naver.com",
+                        "link_description": " ",
+                        "link_url": "https://mkt.shopping.naver.com/link/695b83b28f77f1648d326066",
+                        "title": "나이키 트레일 써마핏 프리마로프트 겨울 러닝 자켓 아우터 FZ0004-716 : 투슬로스",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/611854587_894299146590705_2173034592785006055_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=uo9BWCuI-JMQ7kNvwH9w1fn&_nc_oc=Adn7oJfgjBzLaErOQh2QTx4Z6vKZJ3gFv0B45s-pkwV5wEKWatw43ZB2jHMdWpYPxV0&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_AftpPu4waKY4k5sfelqJjRDdXMgQ3p6kcxLW3L18OrpC6Q&oe=6987693B",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/612436609_1429902001902571_1579186867870767907_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oxghJhwwkjQQ7kNvwGkyXEI&_nc_oc=AdlTzBqZ-4K_O69MbRPCDfbc-jNXns-_T5E4cTf4_reJkIFkjpDRKT-RO-rq9AHUQW8&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_AfsfYBRd6k4wc9Ylpsol3658vH6G7SSp1lFchgO4gK-Lcw&oe=698770E1",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "mkt.shopping.naver.com",
+                        "link_description": " ",
+                        "link_url": "https://mkt.shopping.naver.com/link/695b83b28f77f1648d326066",
+                        "title": "나이키 트레일 써마핏 프리마로프트 겨울 러닝 자켓 아우터 FZ0004-716 : 투슬로스",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/612076689_1426974938945969_4209812402536371226_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-7CGbumTtUwQ7kNvwEoN1_W&_nc_oc=AdmPn-h_B1lxfhib7enomV28NRoj_nMpdEUd24_TEFAfGOCLQa2sAroTJztFaD3eSWQ&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_Afv6B98anUwemfotYuZkM0ctME9lfI_uAoSee5LWE1srOg&oe=69875F0C",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/612080359_2272363013245395_1553042654448279016_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TBO6eCGhpOEQ7kNvwESFClh&_nc_oc=Adn9I2RqOpTNjH7-UF4fz1VljiGZMcO4l9dY7tlomOQwoKwQXHhpVtYmqs3fme8gGdQ&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_AfvzMvcLjWbip87WnmmiK0entj1kTyn-cPphS-DHmoDhkw&oe=69876431",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "추운 겨울날 아웃도어 활동 시 체온을 따뜻하게 유지시켜줄 나이키 트레일 써마핏 PrimaLoft 자켓이 스토어에 입고되었습니다🏃🏼💨"
+                    },
+                    "cta_type": "LEARN_MORE",
+                    "display_format": "CAROUSEL",
+                    "link_description": null,
+                    "link_url": "https://mkt.shopping.naver.com/link/695b83b28f77f1648d326066",
+                    "images": [],
+                    "page_categories": [
+                      "Shopping"
+                    ],
+                    "page_like_count": 3,
+                    "title": "투슬로스",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "투슬로스",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM"
+                  ],
+                  "start_date": 1767600000,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "1026081606166998",
+                  "collation_count": 2,
+                  "collation_id": "1424881105598276",
+                  "page_id": "330828533449885",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "330828533449885",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/61560050904192/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "Korea by sayuri",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/495994832_4076594909276278_1766075769746443390_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Q-vsgpsrKvwQ7kNvwGpK4Jd&_nc_oc=AdmQs9IdF942u_C7jizghj5rPEdoq2AF7Oe0kCgHBMGIvtw-_80m7Q9zrAgHBa-r6Cc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_AfvVssnrJKEwLhV-IQ-OZwlkqdGWDtRbbjAH8gkR4_2mVA&oe=69878396",
+                    "event": null,
+                    "caption": "instagram.com",
+                    "cta_text": "Instagram 프로필 방문",
+                    "cards": [],
+                    "body": {
+                      "text": "#협찬 🧡 Doota Mall, located right in front of (DDP),\nis a must visit shopping spot in Seoul.\nWith multiple floors of global brands and local designers,\nit's perfect for fashion lovers. One of its highlights is\nthe Nike By You Studio, where you can design your\nown T-shirts and sneakers with custom logos and colors.\n\nThe mall also features trendy accessories, cosmetics,\nand a diverse food court, making it easy to spend\nan entire day exploring its vibrant atmosphere.\nA true shopping gem in the heart of Dongdaemun!\n\n🎊DOOTA MEMBERSHIP WEEK🎊 @doota_official\n\n✨️BENEFITS: \n👟 Shoes trifecta - Instant discount random coupon\n🛍 5 types Category Coupon\n⚾️ Doota × Bears - Admission Ticket & Goods Application\n📸 Four-cut photo - free gift\n🎀 Instagram - couplet event\n🍀 Presentation of fresh flower card - four leaf clover\n\n📅 Event Period: 4.28 - 5.18\n\n🌍 https://www.doota-mall.com/m/main/main.do\n\n📍DOOTA MALL (Dongdaemun)\n275 Jangchungdan-ro, Jung District, Seoul\n\n⏰️OPENING HOURS:\nFROM 10:30 AM TO 12AM \n\n.\n.\n.\n.\n.\n#두타몰 #dootamall #동대문쇼핑 #야간쇼핑 #나이키 #동대문쇼핑 #이벤트 #멤버십위크 #할인#쇼 #봄운동화 #쿠폰 #단독할인 #오니츠카타이거 #아식스 #휠라 #동대문 #dongdaemun #shopping #kshop #fashion #korea\n#패션 #ootdkorea #ootd #韓國 #韓国 #корея"
+                    },
+                    "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                    "display_format": "VIDEO",
+                    "link_description": null,
+                    "link_url": "http://instagram.com/sayuri.korea",
+                    "images": [],
+                    "page_categories": [
+                      "Digital Creator"
+                    ],
+                    "page_like_count": 0,
+                    "title": null,
+                    "videos": [
+                      {
+                        "video_hd_url": "https://video-icn2-1.xx.fbcdn.net/v/t42.1790-2/496224273_1026081629500329_8185735949754109476_n.?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-LhBRsYX1VYQ7kNvwEjeOIN&_nc_oc=AdmAv95aFdO1IWEZsWiQ6UfS-L6517xTULFCfEWwlURCM_9Q7NIcwlZXkmvERMXRTi4&_nc_zt=28&_nc_ht=video-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_AfskJ2H7lRWqNGfMbf3K64HjCrww7f4Sk1HZOovaOSn0uQ&oe=69876630",
+                        "video_preview_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/496014999_1211093903829425_4758980630122819867_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ikvqIcTlkhcQ7kNvwE2d7NZ&_nc_oc=AdlmJLFuC0cn0jF6EKwlMc_G9EEuhu-rYrDoEMci0xuxqn3gKYKVFnepxX67eR0Sedc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_Afud7jkQc6WGKDaoAaJxjz-04aWwBOB6XR2bQew8iBnRhA&oe=69875DEB",
+                        "video_sd_url": "https://video-icn2-1.xx.fbcdn.net/v/t42.1790-2/496337830_1026081632833662_2724641010791353075_n.?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jfuNoWaeYcwQ7kNvwHpQ21-&_nc_oc=AdljIHrIcHpAPj4BonWhIUvaFqYmee_MAvgVDEqheYjbFeVUDJuMf-OGwyInlHvki6o&_nc_zt=28&_nc_ht=video-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_AfuCqHH2-CjavIIlcsG0ewh0-E46XBhE32b0oXKrtVYBoA&oe=698769CE",
+                        "watermarked_video_hd_url": "",
+                        "watermarked_video_sd_url": ""
+                      }
+                    ],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": false,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "Korea by sayuri",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": true,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1747033200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM"
+                  ],
+                  "start_date": 1746946800,
+                  "contains_sensitive_content": false,
+                  "total_active_time": 86170,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                },
+                {
+                  "ad_archive_id": "1191972269380610",
+                  "collation_count": null,
+                  "collation_id": "1424881105598276",
+                  "page_id": "330828533449885",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "330828533449885",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/61560050904192/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "Korea by sayuri",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/495447611_1222553469515035_3257170974635988622_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=vRN2kVUNglsQ7kNvwF8ulls&_nc_oc=AdmYSywbIgA9_4ga7T2MhHJX2u16FG5T_tbj4e1RYpu0m65UXpwF_cm3n0rOvvZSebs&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_AfsP7Jz6Im_nbdOLSfhqZTYcRQCU8L1Bo864kEnJzjFLfw&oe=6987699E",
+                    "event": null,
+                    "caption": "instagram.com",
+                    "cta_text": "Instagram 프로필 방문",
+                    "cards": [],
+                    "body": {
+                      "text": "#협찬 🧡 Doota Mall, located right in front of (DDP),\nis a must visit shopping spot in Seoul.\nWith multiple floors of global brands and local designers,\nit's perfect for fashion lovers. One of its highlights is\nthe Nike By You Studio, where you can design your\nown T-shirts and sneakers with custom logos and colors.\n\nThe mall also features trendy accessories, cosmetics,\nand a diverse food court, making it easy to spend\nan entire day exploring its vibrant atmosphere.\nA true shopping gem in the heart of Dongdaemun!\n\n🎊DOOTA MEMBERSHIP WEEK🎊 @doota_official\n\n✨️BENEFITS: \n👟 Shoes trifecta - Instant discount random coupon\n🛍 5 types Category Coupon\n⚾️ Doota × Bears - Admission Ticket & Goods Application\n📸 Four-cut photo - free gift\n🎀 Instagram - couplet event\n🍀 Presentation of fresh flower card - four leaf clover\n\n📅 Event Period: 4.28 - 5.18\n\n🌍 https://www.doota-mall.com/m/main/main.do\n\n📍DOOTA MALL (Dongdaemun)\n275 Jangchungdan-ro, Jung District, Seoul\n\n⏰️OPENING HOURS:\nFROM 10:30 AM TO 12AM \n\n.\n.\n.\n.\n.\n#두타몰 #dootamall #동대문쇼핑 #야간쇼핑 #나이키 #동대문쇼핑 #이벤트 #멤버십위크 #할인#쇼 #봄운동화 #쿠폰 #단독할인 #오니츠카타이거 #아식스 #휠라 #동대문 #dongdaemun #shopping #kshop #fashion #korea\n#패션 #ootdkorea #ootd #韓國 #韓国 #корея"
+                    },
+                    "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                    "display_format": "VIDEO",
+                    "link_description": null,
+                    "link_url": "http://instagram.com/sayuri.korea",
+                    "images": [],
+                    "page_categories": [
+                      "Digital Creator"
+                    ],
+                    "page_like_count": 0,
+                    "title": null,
+                    "videos": [
+                      {
+                        "video_hd_url": "https://video-icn2-1.xx.fbcdn.net/v/t42.1790-2/495534325_1191972286047275_1172296717751272569_n.?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VVl73uQCbhIQ7kNvwFIRMR-&_nc_oc=AdlAiao76RhSeOB-2prw4BHKg75g2ldBZmBFGugajH9b_8HIqecy3aTQB4N7lilTv6M&_nc_zt=28&_nc_ht=video-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_Afud3l7ITrEG964TY3ZAVqA9Hsm9xknY2O5BAtvWpFTZOw&oe=69875A34",
+                        "video_preview_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/495570406_1027417789340143_4392450487540244602_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BujwXZk0WRgQ7kNvwGw54e5&_nc_oc=Adm3uUwlWKi8y9d9e-r54pm7jIS89frXgIXlDhca9NPbTgdalp0yF8xOO_kJmBZgc3M&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_AftHBS481l6FJU3gKa8Sr_XBGG6Hla69Kluitr7u3kHENg&oe=69875871",
+                        "video_sd_url": "https://video-icn2-1.xx.fbcdn.net/v/t42.1790-2/495992607_1191972292713941_1766743485668027976_n.?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_elTB-PrM5wQ7kNvwEDkXIH&_nc_oc=AdlWHCUNwMGx0BbvfYyLQV8-GkFxV-UoVeipY17IfnktQFKde1Zk3ljYuxJxF3dPiTQ&_nc_zt=28&_nc_ht=video-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_AfsCbIPQB7ZJrR9u2MGZeI_nxxqNHgZTgPsYWGXbbXY_Pw&oe=6987543A",
+                        "watermarked_video_hd_url": "",
+                        "watermarked_video_sd_url": ""
+                      }
+                    ],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": false,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "Korea by sayuri",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": true,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1746946800,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM"
+                  ],
+                  "start_date": 1746860400,
+                  "contains_sensitive_content": false,
+                  "total_active_time": 85753,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "729776456809642",
+                  "collation_count": 1,
+                  "collation_id": "1349512416364516",
+                  "page_id": "876625512197959",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "876625512197959",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/61583903104931/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "Lina",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/588634507_857582300161283_3901115271987028939_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=agkrX9OPt9kQ7kNvwHq3H60&_nc_oc=AdmPBWtOIeZJd2EF0b1QwNL7wA0uVOD7lNvput6_NwncVAOWqflb-EX3XEVtAVp4bOs&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_AfsQZcltmmbXfhMbKYKf6algOa2dwP8-LM1GGeCFaig45g&oe=69877C38",
+                    "event": null,
+                    "caption": "wellnessinsight.life",
+                    "cta_text": "더 알아보기",
+                    "cards": [],
+                    "body": {
+                      "text": "이 글을 쓰기까지 거의 1년이 걸렸어요. 누가 자기 집안 치부를 드러내고 싶겠어요? 그런데 지난주 아빠가 그러시더라고요. \"딸아, 우리랑 같은 고생하는 가족들한테 조금이라도 도움이 된다면...\" 그래서 용기내서 써봅니다.\n\n작년 5월, 토요일 아침이었어요. 엄마한테서 카톡 보이스톡이 5분짜리로 왔더라고요.\n\n\"얘야, 나 진짜 네 아빠 때문에 못 살겠다. 벌써 5일째 거실 소파에서 주무셔. 어제는 코골이가 얼마나 심했는지 옆집 김 여사가 새벽 2시에 '혹시 리모델링 하시나요?' 하고 문자 보냈어. 진짜 지진 나는 줄 알았다니까. 나 진짜 이혼 변호사 알아볼까 봐.\"\n\n엄마가 또 오버한다고 생각했죠. 우리 엄마 원래 좀 드라마틱하거든요 – 전라도 분이라서요.\n\n그런데 6월에 부모님 집에서 주말 보내면서 완전히 이해했어요.\n\n진짜 옆방에서 드릴 작업하는 소리였어요. 아니, 더 심해요. 고장난 전기톱에 경운기 소리를 섞어놓은 것 같았어요. 남편이 노이즈 캔슬링 이어폰에 백색소음 최대 볼륨으로 틀고도 못 잤어요.\n\n근데 진짜 최악은 소음이 아니었어요. 갑자기 조용해지는 거예요.\n\n\"드르렁... 컥컥...\" 그리고는, 정적.\n\n세기 시작했어요: 1, 2, 3... 10초쯤 되니까 불안하고, 20초쯤 되니까 \"아빠!\" 하고 소리치고 싶고, 30초 – 한번은 47초까지 센 적 있어요 – 뛰어가서 확인했어요.\n\n그러다 갑자기: \"컥! 후아악!\" 물에 빠졌다가 나온 사람처럼.\n\n우리 아빠는 전형적인 \"강한 남자\" 스타일이었어요. 현대자동차 울산공장에서 32년 근무. \"단 하루도 안 빠졌다\"가 입버릇. 178cm, 전직 축구선수, 60대 조기축구회 아직도 뛰고 계세요. 66세인데 아직도 \"나 아직 젊어\"라고 하시죠.\n\n근데 최근 몇 년 사이...\n\n- 어버이날 외식 중에 잠들어버림 (젓가락 든 채로)\n- 삼촌 장례식장에서 코골기 (스님이 독경 멈추심)\n- 월드컵 한국전 보다가 잠들어버림 (16강전이었는데!)\n- 조카 돌잔치에서 서서 잠들어버림 (축하 노래 부르는 중에)\n\n엄마가 써놓은 메모 발견했어요:\n\"영수 일과: 저녁 6시 퇴근, 7시 저녁, 7시 30분 거실에서 기절, 뭘 해도 안 일어남, 11시에 나 혼자 위층으로\"\n\n7월. 엄마가 폭탄 선언: \"변호사 이미 만났어.\"\n\n병원이라곤 회사 건강검진 말고는 안 가던 아빠가 드디어 서울대병원 수면클리닉 예약.\n\n결과: AHI (무호흡-저호흡 지수) 53.2. 중증 수면무호흡증.\n\n젊은 여자 교수님이 차트 보여주시면서:\n\"환자분, 밤에 산소포화도가 63%까지 떨어집니다. 정상은 95% 이상이에요. 매일 밤 백두산 정상에서 주무시는 거나 마찬가지예요. 심장마비나 뇌졸중 위험이 3.5배 높습니다.\"\n\n아빠 얼굴이 하얘지셨어요.\n\n양압기(CPAP) 치료 시작. 월 15만원 렌탈.\n\n첫날 밤: \"이거 고문이야! 진공청소기로 물고문 당하는 것 같아!\"\n\n적응 도와드리려고 별짓 다 했는데, 2주 후: \"차라리 자다가 죽는 게 낫지, 이 다스베이더 마스크 쓰고는 못 살아!\"\n\n결국 반납. 위약금 140만원.\n\n그 다음은 별의별 시도들:\n\n- 맞춤 구강내 장치: 650만원 (보험 안 됨)\n  → \"턱이 빠질 것 같아!\"\n  \n- 코골이 방지 패치 (쿠팡에서 전 브랜드 구매): 총 45만원\n  → \"미식축구 선수 같아 보여\"\n  \n- 수입 코골이 방지 스프레이: 개당 8만 9천원 (6개 구매)\n  → 효과 제로, 그냥 박하향\n  \n- 옆으로 자는 벨트: 35만원\n  → 허리 디스크 악화\n  \n- \"스마트\" 코골이 방지 베개 (쿠팡): 89만원\n  → 모터 소리가 엄마 불면증 유발\n\n**총 지출: 1500만원 이상. 결과: 빵점.**\n\n8월 15일, 아빠 67번째 생일. 강원도 펜션 대관해서 온 가족 모임 – 16명.\n\n새벽 3시 17분 (절대 못 잊어요): 쿵 소리.\n\n아빠가 침대에서 떨어지셨어요. 정신 못 차리고, 헐떡이면서, 혼란스러워하시면서. \"여기가 어디야? 뭐하는 곳이야?\" 6살 조카가 울면서: \"할아버지 죽어요?\"\n\n119 부를 뻔했어요. 15분쯤 지나서 정신 차리셨는데, 그 눈빛... 두려움, 부끄러움, 패배감... 가슴이 찢어졌어요.\n\n아침에 속삭이시더라고요: \"내가 다들 인생 망치는 것 같아.\"\n\n한 달 뒤, 결혼 40주년 기념으로 독일 여행 보내드렸어요. 하나투어 10일 패키지.\n\n9월, 뮌헨 포시즌스 호텔.\n\n둘째 날 아침, 영상통화 믿을 수 없었어요.\n\n아빠가 빛나고 계셨어요. 프레첼이랑 소시지 드시면서 20대처럼. 눈이 반짝반짝.\n\n\"딸아, 너 안 믿겠지만 9시간을 푹 잤어. 9시간! 한 번도 안 깨고. 천국에 온 줄 알았어.\"\n\n엄마도 확인: \"코 소리 하나도 안 났어. 나 10분마다 숨 쉬나 확인했다니까.\"\n\n시차 때문이겠지 싶었는데.\n\n뮌헨에서 4일 내내 완벽했어요. 아빠가 다시 태어나신 것 같았어요. 셋째 날, 동네 산책도 안 하시던 분이 영국정원에서 3시간 하이킹. 그날 저녁 맥주 드시고, 농담하시고 – 이거 진짜예요 – 레스토랑에서 엄마랑 왈츠 추셨어요.\n\n\"1984년에 만났던 그 남자가 돌아온 것 같아,\" 엄마가 울면서.\n\n체크아웃할 때 프런트 직원한테 물어봤어요, 그레타라는 금발 여자분:\n\n\"아버지가 여기서 정말 잘 주무셨는데, 베개가 특별한가요?\"\n\n미소 지으며: \"아, Dегilа 베개 말씀이시군요. 독일 프리미엄 호텔 표준이에요. 하이델베르크 의사들이 수면 호흡 문제 전문으로 개발했죠. 독일에서는 수면을 아주 진지하게 생각해요. 좋은 베개는 사치품이 아니라 건강 투자죠.\"\n\n한국 돌아와서 바로 검색.\n\n공식 한국 사이트 찾았어요. 개당 8만원.\n\n1500만원 날린 거 생각하면... 껌값이죠. 바로 4개 주문했는데, 한국 독점 사이트 할인으로 개당 6만원에 샀어요!\n\n서울 물류센터에서 3일 만에 도착 (독일에서 수입).\n\n\"또 유럽 사기,\" 아빠가 투덜거리셨죠. \"독일 사람들이 한국 사람보다 잠을 더 잘 안다고?\"\n\n\"닥치고 써보세요!\" – 엄마의 명령.\n\n**첫날 아침, 6시 42분, 엄마 카톡:**\n\n이모티콘 폭탄: 🎉🎊✨😭😍🙏\n\n\"코골이 제로! 제-로! 옆에 사람이 없는 것 같았어!\"\n\n일주일, 한 달, 두 달... 계속 같았어요.\n\n11월 재검사: AHI 6.8로 떨어짐. 중증에서 경증으로. 베개만으로.\n\n서울대병원 교수님 충격: \"무슨 치료 하셨어요?\"\n\"독일 베개요, 교수님.\"\n\"베개? 베개만으로?\"\n\"베개만요.\"\n\n어색한 침묵.\n\n\"뭐... 독일이 수면의학 선진국이긴 하지만... 베개만으로... 놀랍네요. 수치는 거짓말 안 하니까요.\"\n\n이제 온 가족이 써요:\n\n- 남동생 (대전): \"형수가 내 아침 기분도 좋아졌대\"\n- 언니: \"형부가 밤에 팔꿈치 안 찌른대. 알고 보니 내가 코골이였어!\"\n- 남편이랑 나: 수면의 질 비교 불가. 남편 만성 두통 사라짐\n- 엄마: \"3년 만에 안방으로 돌아왔어. 69살, 67살인데 신혼 같아\"\n\n지난달 독일계 회사 다니는 김 과장한테 얘기했더니:\n\n\"당연하죠! 한국 사람들 매트리스에는 수백만 원 쓰면서 베개는 이마트에서 2만원짜리 사잖아요. 독일에서 베개는 의료기기예요. 150만원짜리 아이폰 사면서 하루 8시간 쓰는 거에는 돈 아끼고. 말이 안 되죠!\"\n\n아프지만 맞는 말이네요.\n\n아빠는 이제 매일 5시 30분에 일어나세요. 5km 산책하시고. 콧노래 부르며 아침 드시고. 목공 취미생활 하시고 (정년 후 활동).\n\n보이스톡 보내주셨어요:\n\n\"딸아, 오늘로 아기처럼 잔 지 75일째다. 지난 10년 중 최고의 75일이야. 늙은 아빠 포기 안 해줘서 고마워.\"\n\n이마트에서 펑펑 울었어요.\n\n저는 의사도 아니고, 베개 파는 사람도 아니고, 커미션 받는 것도 아니에요.\n\n근데 이것 때문에 이혼 위기 가는 부부가 수천 쌍은 될 거예요. 얼마나 많은 \"영수 아빠\"들이 좀비처럼 살면서, 생명 위험하면서, 관계 망치고 있을까요?\n\n여기까지 읽으면서 \"헐, 완전 우리 집 얘기네\" 싶으면, 그냥 한번 써보세요.\n\n공식 사이트에서 30일 환불 보장해요. 마음에 안 들면 그냥 반품하면 돼요.\n\n지금 70% 할인 중이래요. 진짜 치킨 두 마리 값이에요.\n\n중요: 짝퉁 조심하세요. 쿠팡에서 \"독일 정형 베개\" 1만 9천원짜리 봤는데, 올케가 샀다가 완전 쓰레기였어요.\n\n한국 공식 Dегilа 사이트 찾으세요. \"30일 보장 또는 환불\" 도장이랑 택배 추적 되는 곳이어야 해요.\n\n아래 \"자세히 보기\" 버튼 보이면 아직 할인가에 재고 있는 거예요. 사촌동생은 망설이다가 지난 세일 놓쳤어요. 6만원이면 (CGV 팝콘 세트 두 개 값), 솔직히 고민할 게 없죠.\n\n추신: 아빠가 어제 그러시더라고요: \"8년을 날렸네. 75인치 TV 값을 쓸데없는 데 쓰고, 정답은 나이키 운동화 값도 안 했는데.\"\n\n우리처럼 하지 마세요. 8년 기다리지 마세요.\n\n추추신: 남편/아빠/오빠가 코 골고 지금 새벽 3시에 코골이 소리 때문에 못 자고 이거 읽고 있다면... 이 글 지금 보내세요. 인생은 불면의 밤을 보내기엔 너무 짧아요. 좋은 결혼생활은 코골이 때문에 끝내기엔 너무 소중하고요."
+                    },
+                    "cta_type": "LEARN_MORE",
+                    "display_format": "IMAGE",
+                    "link_description": "30일 무료 리스크 프리 트라이얼. 코골이 그만. 더 잘 자요.",
+                    "link_url": "https://better-life-designer.xyz/cf/r/6902fae4d94c5200122b2c22?ad_id={{ad.id}}&adset_id={{adset.id}}&campaign_id={{campaign.id}}&ad_name={{ad.name}}&adset_name={{adset.name}}&campaign_name={{campaign.name}}&source={{site_source_name}}&placement={{placement}}",
+                    "images": [
+                      {
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/588587253_1602963511120844_175776481253224102_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ZHBSIORFGIsQ7kNvwFahhYY&_nc_oc=AdmYExew7pNTixYmjRJPtEtUGnQyrlwcqu-v1y9fttosiP0avNi6wFKRph16QR16Y10&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_AftdLUGsDS-qa1TKxuFFeC9FxubzRw9ZfEaBGfQkoX_MMA&oe=69876A88",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/590711818_885506317375318_3048638750031117239_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=c4OJopYUp7cQ7kNvwG5UTZn&_nc_oc=AdlT8L6FH2QJR2A9N1X_J-0G6VzyFtwtW5OjZkN_gGH5FmjxiaoS_RoWM5gw7cFLGjE&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_Aft6KRTPAv6tTxDTHB_hWeLrE-kXlXajnAjqt-4PdtItcw&oe=69876070",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "page_categories": [
+                      "Health & Beauty"
+                    ],
+                    "page_like_count": 34,
+                    "title": "30일 무료 리스크 프리 트라이얼. 코골이 그만. 더 잘 자요.",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "Lina",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "MESSENGER"
+                  ],
+                  "start_date": 1764230400,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "1215985633750122",
+                  "collation_count": null,
+                  "collation_id": null,
+                  "page_id": "181693921701690",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "181693921701690",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/61555003423031/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "fruitsfamily.co",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/594964297_1416866256451563_7544542917242121256_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=zC0OVkGf5sUQ7kNvwHOawa7&_nc_oc=AdlMEKx9J_s0enjDbTc-bXbjRaspS2VqKdveFynzNK3C_91MAcFLTQoBVt7PuBenDog&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_AftOL0m3aL_vMwPSnYnW3Pd0T-_EiGYz5bt-RxqbRcBZpA&oe=69875DF5",
+                    "event": null,
+                    "caption": "play.google.com",
+                    "cta_text": "지금 설치",
+                    "cards": [],
+                    "body": null,
+                    "cta_type": "INSTALL_MOBILE_APP",
+                    "display_format": "IMAGE",
+                    "link_description": null,
+                    "link_url": "http://play.google.com/store/apps/details?id=com.fruitsfamily",
+                    "images": [
+                      {
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/596479796_2114456672709799_4440097492978454994_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ir4XONmmxEYQ7kNvwHzw-FM&_nc_oc=AdnWaZdunG-YZ79TUGuL5UlZYCR8e-tgOQiFbpmGtwSY0_cjyZH-dzpM-BbLz5Z8osg&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_AfutoRsnBOQHRkNBlFPgc_DgPdQRfXhwCphTPogouVWHWQ&oe=6987848D",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/594078370_1179852544251904_1003479994505956431_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=CfbxzdAIukUQ7kNvwFjFcJs&_nc_oc=AdkWQrr2PuCwMdw_U5cp5vQ2AuxCZwPfbO7DgEapsgq45SiXj9BtGPyRRdpTS0-TcMs&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=gCTv12uLHhf-qI2kKMQ26w&oh=00_AfuhsrxOiMSm9Ea5j-d4ybFOsoe6WHQuiiwWrY0MaD2CkQ&oe=69876658",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "page_categories": [
+                      "Product/service"
+                    ],
+                    "page_like_count": 5,
+                    "title": null,
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "fruitsfamily.co",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "INSTAGRAM"
+                  ],
+                  "start_date": 1765094400,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          }
+        ],
+        "page_info": {
+          "end_cursor": "AQHSbU3KJDdv1mH_mv_4xT2XEtvcNRx2Y0dss8fNY8cZPbwOLEba29R33HSNJArETXKxCVxUdfHe52sz3YGu0cUytI0eqbqUTGQfbgrMX6L0zUnJygfFuDjAZ9NXH4xsm4V8Lyq38idMVeFQW2QbhC3ExpbLRq5g3OTewD19evnawd59gu8Co4tRzauFR8JXqJ5y8o7XNU295SGTAC_Wpbp9cOG1Pn3JWYrUOWpwIRMB3Gq4nUwRjqGAWfvO5YTbFAmlAUYwJ6hmRSUV8yQRktXDuZysDP4UaOake5Mgf4NPSXqcQqvB-jYP4Z19pNZg69jVjTvedMSW6X_UBcMoxZELdO0iCIZ7O7I8LJ4vQqtX0yKW_f2f7Ut4mb30mbkU2juBxeyIAdU6RSVRPz0DSM5gXVzhqj7dWpQbXso_FtWKtus0onXRuwpcdcJsfD1fI_bfaMBEdrZ6BI3IHNvfZrk3mVYkumi4DkE6TapeISx610wBL8i2nrNw0Q1xs4WCP49_TK76Rsv0vRV8qJDkvegB1NCQEsoVptgQ8QSXPdbCCFX-yVkBz8_pjvKlkkisTvzS7er8bIevauFJiCmsJVKNuQO-L3w9o-oV75PTswP4NX5MJgxgEpgJronh_5l--76SewsZodmJVHjNiKOxJ995bMfEuT71MENgvwk16HpKaCKFzrUi8ss7N4iPm6ixUAheyHkfmY0ZIDg3YSf9jO8OxZrLNSZanISI39mJoH0VIHI45K35sbHE0rnQ1IGIciTQh7Xus4VISHbWEznmHnsew8X6Ho72CQt3vrfpF0BkoL-iE0WCd8l-U3fKPaPumJOK0BpOMUqUw80NT0YEeyTwdPC54hMD9jtprexxlFuzzRFo57lXjzqFjiS1VfuXFPH9Zcw46ksAtAwlRY74sDWQ5-sniJI5wEK1xiXwtfn_U30BgAl-2-T5SozAs2pMLmTQ5o6TcGcr3c-dx_aAf4DVuN0MYNSP2UmcVb1_tzhOdEqtwDjsyBNo3dqUtpE8v9yEAVnq-OXCR6HWANTLXCtSCghfnc6dejNsvMyrUbwLq2HFdo4KH2jNOh0wlFe_Kp8DXI6KdcWsCY05HXZJtQ64lSMyTRIWC9pubSIqs6EecXfvV71amCIuGPghQcBfVWo5",
+          "has_next_page": true
+        }
+      }
+    }
+  },
+  "extensions": {
+    "server_metadata": {
+      "request_start_time_ms": 1770100687152,
+      "time_at_flush_ms": 1770100688139
+    },
+    "is_final": true
+  }
+}

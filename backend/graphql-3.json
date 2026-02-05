@@ -1,0 +1,1888 @@
+{
+  "data": {
+    "ad_library_main": {
+      "search_results_connection": {
+        "edges": [
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "744342321343150",
+                  "collation_count": 1,
+                  "collation_id": "1125810466045585",
+                  "page_id": "731470633377148",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "731470633377148",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.instagram.com/_u/coyun.co.kr",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "coyun.co.kr",
+                    "page_profile_picture_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-19/517408063_17845637916523438_2502578285642786470_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=104&ccb=7-5&_nc_sid=525117&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTAuQzMifQ%3D%3D&_nc_ohc=ICrULSG0QjQQ7kNvwEgKeWu&_nc_oc=AdlGFdXYPp5Jiv5UTXVvWkBauPi_of7e3kJMBclv1AoMFFo0PDdy_f-l8_-_7HVBteU&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AftHJZKA39y4taQZ5UBKpIBrGv3g5hFR3QNyH-9N7PfeYw&oe=69875273",
+                    "event": null,
+                    "caption": "jewelzz.shop",
+                    "cta_text": "더 알아보기",
+                    "cards": [
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "jewelzz.shop",
+                        "link_description": " ",
+                        "link_url": "https://www.jewelzz.shop/",
+                        "title": "Jewelzz.shop-10년 연속 NAVER 인증! 믿을 수 있는 국내 로컬 판매자",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/517577116_1881099129348708_3265090238601421483_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=NfPpX_jU6OwQ7kNvwEC19tb&_nc_oc=AdmSegzuBBkiColJx70XLAgYqQ59WI2Ncam6wxXG1tjlaPKrvx-h6n_ep0dQm2KWruA&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AfvMfU-AdqUnINbmXN5iFHoVx7yKHFK_MHp-7llsg13wbA&oe=698775BA",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/518348509_728728659874549_944151416437089945_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0KCeEAzT8xsQ7kNvwEd7jmW&_nc_oc=Adm9AUrJWNADmGyR2OCmkOFZCd87luFDQJXUIOkuHFc6pCHrURw6RZXF4XuDy4v4fig&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_Aft_vqbHXP0pErKYaloYPy-NRP836OiT2tgPwszBmg9NuQ&oe=69877C81",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "jewelzz.shop",
+                        "link_description": " ",
+                        "link_url": "https://www.jewelzz.shop/",
+                        "title": "Jewelzz.shop-10년 연속 NAVER 인증! 믿을 수 있는 국내 로컬 판매자",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/518355004_1073348470942335_765343022918318672_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=yWM7fIZeOc0Q7kNvwGtGihT&_nc_oc=AdluJ0cyEinQmwNU0bg0EixxVzI8lksv8-LQNxqYVsD1JQpw8k7qkC_CwWuceuy6qT8&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AfsPJYikzdRjYHtbZfV5UUNbWQuqnX81PQjB8rlEugexDA&oe=69875BCA",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/518071759_1418449829486538_6704536252474832291_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hj1Nd7K3FEAQ7kNvwGYhn4D&_nc_oc=Adk2czZD9JaqyHBOGD_6x3uvL_1-yFAtXz-XI4AoaTPizkVRc46SQg1st4ruYlBZDpk&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_Afvrqi7j1eOYXklrvs2Lhdp1ZmrJl0Huj5Q3649I7meRyg&oe=69875A70",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "jewelzz.shop",
+                        "link_description": " ",
+                        "link_url": "https://www.jewelzz.shop/",
+                        "title": "Jewelzz.shop-10년 연속 NAVER 인증! 믿을 수 있는 국내 로컬 판매자",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/517935926_1169204131934302_3418233866634846064_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=TVnJS0VCFIoQ7kNvwFMCh21&_nc_oc=AdnNX4zUe0ymMrDW7x9ODAolSRSJNoTJXCQqhCsU3lgY9HhRQDm8249_K4iSE9Cyp-A&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AfvQPkjqgYY9zLapt-gG6hn6U1Q4dT6PmEbUoKMTMfp4Lg&oe=69877983",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/517345965_639740541768056_2163510315524296750_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Jk9zqSfpj5oQ7kNvwHAs9kI&_nc_oc=AdmxjCU9rWI2rY1FBSZG7TcNawcGlGw1rD_IMKChjwtPURZsGFdeaiXGRb2YDII0nGc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AftUb3mfV8YHNdHK5iWpItEzkfoyxxy97ISkOFqPew709Q&oe=69877656",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "jewelzz.shop",
+                        "link_description": " ",
+                        "link_url": "https://www.jewelzz.shop/",
+                        "title": "Jewelzz.shop-10년 연속 NAVER 인증! 믿을 수 있는 국내 로컬 판매자",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/517935926_1263727555249961_3726076289557134180_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Fp4o3NpMD9YQ7kNvwEVlxMV&_nc_oc=Adka_fwVH6YybeIIdUSyKftIXiSCXBMVYrjuIPJYJMO-9iaqyC-gZpW8hXBxW_Yk2Pw&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_Afsw-B4eXJVeY5q5v8dZEz6bG8VpvNwabgZ6hMGfXaksZA&oe=69875D7E",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/517338659_2627772660890800_940766961145667611_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qwAnEtyzkPwQ7kNvwHWjZnd&_nc_oc=Adksa1M3ddhO35uk6fGZd7jDU0ULJ0FFydYr57EXYUaJcAmSsnQuE2s4I5GfZpGLtOs&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AfumBn_0JlcdqBThketENe4r1_aTJQFEXuaKe3L4tqKTPg&oe=698760BB",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "jewelzz.shop",
+                        "link_description": " ",
+                        "link_url": "https://www.jewelzz.shop/",
+                        "title": "Jewelzz.shop-10년 연속 NAVER 인증! 믿을 수 있는 국내 로컬 판매자",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/517400636_1235398365048972_7684296893344906826_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KFj5c9zsUl4Q7kNvwGAzDle&_nc_oc=AdkWkkweZyeOfKL-1qmRZi2v88oROCN5T3PvwjpfNX41-1QAmNOnU_xmlpezLz8ZCQ8&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AftNecodFRL6mpYDa4Tsle9WVb51vOXU9RTFKrf_6oJhEw&oe=6987661B",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/518295761_1185657916933885_7937971074915889475_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BER1G8IhYVwQ7kNvwH9MfMb&_nc_oc=AdkIkpFiz4YHarO7-fZL3B983Hzf-LSgbHohkIgCEV6v4iczYtAB1oGXDAVz8CN2nZQ&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AfvLB9c4vIgJF9NMqNjLC_KwOS50Oh4PNTCCqIapGLZg_w&oe=698759E7",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "jewelzz.shop",
+                        "link_description": " ",
+                        "link_url": "https://www.jewelzz.shop/",
+                        "title": "Jewelzz.shop-10년 연속 NAVER 인증! 믿을 수 있는 국내 로컬 판매자",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/517038638_1475628756926640_2703627550107817761_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DVm6BKYg0EcQ7kNvwEz1Of5&_nc_oc=AdkE80L7Nv2FyjnRpnFjVnRJ2yIgaeMMeytdbFKnj2DoeiCNL7GaxH8eynhXXInk1Uk&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AfvuhKQf3piEROsLaUeuY4DfKccKWobUlIkA8-7FeQ4klQ&oe=69876B03",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/516526169_759012386564871_3662002237688662408_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QndlU0B4YdoQ7kNvwElVxwm&_nc_oc=AdlvFmt7_-X0lO4_YyKq6PXnvg2DqEfEKwegmS2nhAw_bvF6CPLNP2CgMF2VC2MaLTA&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AfuLQcFpYB_Kex8pIeaEwF3-eHjLwgcbG8IO_4Z5wIO9og&oe=698774B9",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "jewelzz.shop",
+                        "link_description": " ",
+                        "link_url": "https://www.jewelzz.shop/",
+                        "title": "Jewelzz.shop-10년 연속 NAVER 인증! 믿을 수 있는 국내 로컬 판매자",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/518459415_1451092346310306_7419008349400876031_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=kzGcGhLFPtcQ7kNvwFUMruN&_nc_oc=AdmjKrMlFGCg7E6J1GpJlekfeLyzLF2Ck9hdfTWN1_6-oFXzsG2O0MXrqR6-Z_teaRI&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_Afu9PYe1GDA5SiowbfewiNf21JSSyoEpBBzUKpJmrooHzg&oe=69876387",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/518716708_4322048084748078_2420217497482272069_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=-GEdlY6DBqsQ7kNvwGjPw29&_nc_oc=AdmUVoE_DG6ZiOLZnDd65sFl7C1YoBLpv1ChKzHzmCGlZIEyf_QGqklrmMW9eywWdzs&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AfvOiCSfPbWOo2vdvCKIdZuMAFtiAc06nKkiD_r4LW4H9A&oe=6987784A",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "jewelzz.shop",
+                        "link_description": " ",
+                        "link_url": "https://www.jewelzz.shop/",
+                        "title": "Jewelzz.shop-10년 연속 NAVER 인증! 믿을 수 있는 국내 로컬 판매자",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/517911517_4223149781249326_4756637727587214133_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=r-9d7mmdEDMQ7kNvwEvgdqC&_nc_oc=Adm3v6kt60BbdiLNTMBqQvGo1B5ZqR8XgB37aEPRSmY_mqKlCypR2f7EWj4_nsQOQSA&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AfsJkuXD6xB_h8CoRID0MhldjRQu_ZjTo5DK5Io3kk3Wyg&oe=6987688A",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/517079451_775375968481225_3153803388691727432_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=DtlA1vQP-yIQ7kNvwFXeTVp&_nc_oc=AdkE-kVGeUxgiTCdAicfurSMIDeXxwzoOw7UDxeatb2ksNYB4-RzNUK7kjOFOBFB4KM&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_Afs0FKa4k5qguxu4LM6-GSxtdskTsec6cRnrgPoWDELmwA&oe=69875210",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "jewelzz.shop",
+                        "link_description": " ",
+                        "link_url": "https://www.jewelzz.shop/",
+                        "title": "Jewelzz.shop-10년 연속 NAVER 인증! 믿을 수 있는 국내 로컬 판매자",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/517399291_2000698827128670_1539999520079522147_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=g3DkBnFc7IsQ7kNvwENtMbz&_nc_oc=AdkbHfiGaLoqmqA7KrWJeapoLCO3aS0P2q8sQLZFeBtckx807fy6Nq8HevY4_uLxBJs&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_Afs7F0j5IcCGXsinY_d4oCKGiCTYu02wFcJsrog8npM9aQ&oe=69877564",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/516793303_1086384256705143_3227642281110608450_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=n1mieQGv0PUQ7kNvwE3-EO0&_nc_oc=Adl6dk5qA6T_XuGwB9gijMQHxE6IGyftZ9HhP0jqSPA8Ut42mO3CihHKQNafM6QglY4&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AftomJgRbyyUE1fFhW6nisOz1BQSm7gZuVAkXwmvQE9jQQ&oe=69877792",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "jewelzz.shop",
+                        "link_description": " ",
+                        "link_url": "https://www.jewelzz.shop/",
+                        "title": "Jewelzz.shop-10년 연속 NAVER 인증! 믿을 수 있는 국내 로컬 판매자",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/517603064_1732007167675478_4597240278648601944_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1Dc45Paev9YQ7kNvwHFGpBE&_nc_oc=AdnC8lQEhpIl_jYosK3gd5LEcpzjzaxWXT79AotF6qj94R7o62SBooFktq9xRFJScTo&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_Afv5-0eX61BkPpPpHcpGqlGAD2wwrrZJLhOgs37k9Htf9Q&oe=69877D58",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/517404866_761388506351687_6541105142952541829_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oBUl2Jwqrz4Q7kNvwF9Ihh2&_nc_oc=AdkQl87a2LcqByUXI_5TkVN10Jm5huiXis7Hg8HAqEuq07Z94fNyCM5P7O88IjrytRg&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AfvdoBgUH7PR_4zE0hixDyGXOuyRK2HNbEQr1owX8wSF7A&oe=698779BC",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "사이트: www.jewelzz.shop\n\"한정 타임 세일\"\n\"10년 한국 판매 경험\"\n\"카드 결제 가능\"\n\"편리한 반품/교환 서비스\"\n\"초특가 59800원\"\n\n다양한 브랜드 운동화 (나이키, 뉴발란스, 아디다스, 아식스)\n남성/여성 신발, 다양한 스타일, 다양한 사이즈 보유\n\n[특가 알림] 뉴발란스 530 스틸 그레이 블루 블랙,\n[특가 알림]나이키 줌 보메로 5 코블스톤 바스트 그레이 블랙 오트밀 포톤 더스트 앤 메탈릭 실버\n오직 59,800원으로 당신의 일상을 업그레이드하세요!\n\n사이트: www.jewelzz.shop"
+                    },
+                    "cta_type": "LEARN_MORE",
+                    "display_format": "CAROUSEL",
+                    "link_description": null,
+                    "link_url": "https://www.jewelzz.shop/",
+                    "images": [],
+                    "page_categories": [
+                      "Profile"
+                    ],
+                    "page_like_count": 0,
+                    "title": null,
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "coyun.co.kr",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "INSTAGRAM"
+                  ],
+                  "start_date": 1752217200,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "1335329087928937",
+                  "collation_count": 1,
+                  "collation_id": "1052193923783622",
+                  "page_id": "731470633377148",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "731470633377148",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.instagram.com/_u/coyun.co.kr",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "coyun.co.kr",
+                    "page_profile_picture_url": "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-19/517408063_17845637916523438_2502578285642786470_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=104&ccb=7-5&_nc_sid=525117&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy42OTAuQzMifQ%3D%3D&_nc_ohc=ICrULSG0QjQQ7kNvwEgKeWu&_nc_oc=AdlGFdXYPp5Jiv5UTXVvWkBauPi_of7e3kJMBclv1AoMFFo0PDdy_f-l8_-_7HVBteU&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AftHJZKA39y4taQZ5UBKpIBrGv3g5hFR3QNyH-9N7PfeYw&oe=69875273",
+                    "event": null,
+                    "caption": "jewelzz.shop",
+                    "cta_text": "더 알아보기",
+                    "cards": [
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "jewelzz.shop",
+                        "link_description": " ",
+                        "link_url": "https://www.jewelzz.shop/",
+                        "title": "Jewelzz.shop-10년 연속 NAVER 인증! 믿을 수 있는 국내 로컬 판매자",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/521873306_742226128669642_299038227801104597_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=m8-o02n0qSgQ7kNvwEYjmyy&_nc_oc=AdlugbqR8nmJXMMh8R2IDuvpDcwIIhoEjJG92ZJGEWoRM6lWCCFVH_B18nV2PVzhSsc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AfsUOcX4qwxXAha5PU6HzT4u3MMHyyA24MhfvAZsPHGE4A&oe=69876D4D",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/520144231_1243302290266746_3178678602564293912_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1pIe97nOxoAQ7kNvwHNa_PV&_nc_oc=AdnlH-AdO22E3gisn6lOXm_LohhgWq8G9oFtinDvUVNnEX9lvN0yCEyOAxBVW4XqIR4&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AfsxbIiJNpNahvgjndaIQRyV-os_ZmrCnltbuZbCLP4DfQ&oe=69876817",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "jewelzz.shop",
+                        "link_description": " ",
+                        "link_url": "https://www.jewelzz.shop/",
+                        "title": "Jewelzz.shop-10년 연속 NAVER 인증! 믿을 수 있는 국내 로컬 판매자",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/519977331_753805857604390_6756057039804682868_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=WNEw-KAxSXEQ7kNvwGv3ChF&_nc_oc=AdlXpQ53MfBIdmv-7Khi9UDL_LS3q3eQLZiv__5VEb85RHlx2N5tPLm3cSS0fWhqxHk&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_Afu6HyKTHLF2YxjnyRyME_M_m-UbOXMkh_GbxYD65PHXVA&oe=69877472",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/518794682_4063694837277849_1960454255005137296_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=K2TO42lvZsQQ7kNvwEfvUKx&_nc_oc=Adl7Nbgh63rOSQbOWTBy7o9oAA7_e8cwJkWbd0-HB1LNF3cEuXuPNIClzMC-_C0oXak&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AfuG9Ft_w9dio8YMiRh_ydKTBU0LNUjktWqvefl720eS3g&oe=69875775",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "jewelzz.shop",
+                        "link_description": " ",
+                        "link_url": "https://www.jewelzz.shop/",
+                        "title": "Jewelzz.shop-10년 연속 NAVER 인증! 믿을 수 있는 국내 로컬 판매자",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/519673517_1291073819286368_49897195549948327_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Amiein039SMQ7kNvwEHP6_V&_nc_oc=AdkvjrjqwCPeheeem0pg-WaxmmvjTLWBsx0fC9nNULGW6641fS1ztVDQUhh_DFxUtEc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AfsfEgk84lv-S8LDSb94YnuUxuu2TuFSaTGQ6PxOFPCQQw&oe=698778C3",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/518379032_1263563171831645_9149800864788014790_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=W0LNy2TKay4Q7kNvwEmtuwB&_nc_oc=AdlH3uV4o-Ck2ewnOR6pgcETO6Bx7iJoESQ9Pqpdz6lWVOHbCHsEX_NYg3jSgiQV0yI&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AfukbwSB90Oq-eQjmdrujjDCbWTp0X9qXrYEuAFWGzIoog&oe=69876317",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "jewelzz.shop",
+                        "link_description": " ",
+                        "link_url": "https://www.jewelzz.shop/",
+                        "title": "Jewelzz.shop-10년 연속 NAVER 인증! 믿을 수 있는 국내 로컬 판매자",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/520245146_1079446853678093_1703063222770775630_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=iGFT_uQyHKAQ7kNvwGAkHHT&_nc_oc=Adkhb3GMDavPRDUfvVoEhuVGwJ-1PDcrIw2Q3378akPn-LNb25myk4b_A9wnpJndN10&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AfvO14bi98Yh_VzFWZzyBuOezUbD-e1apO-VfNKn9vIJYg&oe=698750DE",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/518298607_1081250870818583_8700140914032201398_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=oFH0qlvo2XQQ7kNvwGIirYw&_nc_oc=Adl5QwwnY7mHDCksEOefD6RHVcov_0y9iAfW4XNdXhr-lnERhdG6OhKq6gREEb3nWSc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AftfZNNVhr8OgKXS_noOUwQJkjD8EE_kGGAML-5RadrADQ&oe=69875445",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "jewelzz.shop",
+                        "link_description": " ",
+                        "link_url": "https://www.jewelzz.shop/",
+                        "title": "Jewelzz.shop-10년 연속 NAVER 인증! 믿을 수 있는 국내 로컬 판매자",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/518965268_1277881887390627_3611663412055658936_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=KigzurQ9p-IQ7kNvwEsanRg&_nc_oc=Adnam02NcuNq7e_5TTE2S08LzHTfRqEe_fZRrggoAxLbJe7dVnWyGxNCHSI1imivNSc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AfsoltRuUuVZnyQkZw51n0Myt2uAUvs_yeYbO-xmykr4dQ&oe=69877A9A",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/519035429_1463966441403105_5334380390655084833_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=LazTNNhFG3gQ7kNvwEdc2-f&_nc_oc=AdlM6W8s-GslxekiYqwenlNC-DgM2nwAFPFKVt0ovJxqn7KoALAvghmkHxuCpsFlz8w&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AfsWQQsKYKconcBBNWDSL1x8dn7H9mDvSyTky6M4H_rmmw&oe=6987746F",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "jewelzz.shop",
+                        "link_description": " ",
+                        "link_url": "https://www.jewelzz.shop/",
+                        "title": "Jewelzz.shop-10년 연속 NAVER 인증! 믿을 수 있는 국내 로컬 판매자",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/519465558_1282544490134347_8398351707932505089_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=q56vfDNTJx4Q7kNvwGDFhvP&_nc_oc=AdnC_RmBrVQvguOx5Kpz2mWZbAp3rXWNG0Dc9Vq7Bifzz0EEf864Nw82pYzPpw4eXVA&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_Afv5bt99Q7f7ue3EYapWPycfCn6qo_VThlaYEDXPGmVwHg&oe=69876288",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/519025171_24064809043205949_4248272764127785199_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=rLqu1FbsLqEQ7kNvwGKIUnU&_nc_oc=AdnHrUrYiB9Nnqop4EKHp27Z7BnUjpP2_V6ZLJ4XkkM190ykKYtqFNrd-dDtlj65SBk&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_Aft0xogQ8fPkgwMF-ptbpBWlzfMtRMKt9puEZ4t5siRSaw&oe=6987639D",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "jewelzz.shop",
+                        "link_description": " ",
+                        "link_url": "https://www.jewelzz.shop/",
+                        "title": "Jewelzz.shop-10년 연속 NAVER 인증! 믿을 수 있는 국내 로컬 판매자",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/520301939_1017402136925048_2319749850804942947_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=OaCb9kVDfygQ7kNvwFLCCTN&_nc_oc=Adnb7vlPh7-XZmbsrMTnwaQrjbKDHW-dCMePQ7oyb1GbzT4p8YfqyNx2P04nayMEQRU&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AftUvgzmA1NRgl1dvnHGPlLKeyd-cjh9UqV-Hk5IR10tLg&oe=698759AC",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/519004799_2480266062344057_2937494293179568062_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=aVIGAzeb5YUQ7kNvwF5i30K&_nc_oc=AdnCBqNFfUPrfZgAFkTzHJtx-nR4eI1gH4mtB05W8U3JaeYdxBTZI-czFnsTrTfQ7w0&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AfuK6pTXQhbSeYDVdCxw6Gs2cneTDYJzKSwTag_Eoz5XuA&oe=69875D6A",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "jewelzz.shop",
+                        "link_description": " ",
+                        "link_url": "https://www.jewelzz.shop/",
+                        "title": "Jewelzz.shop-10년 연속 NAVER 인증! 믿을 수 있는 국내 로컬 판매자",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/520260536_1074675297479218_7374390396164734882_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tP-zja3SCccQ7kNvwFm0MpF&_nc_oc=AdkYdDAnA_YJb5Hu4aQPtoirWMrJBKOdk1q4t5gEyNmFxrYg9NouXhDFMK7ZQwj87ak&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AfvJ7avEByfsoChb5uu0bDiRmafIS4yCHCNtSmYEv290eg&oe=698777A5",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/519421765_1439119373790750_4709056703644587220_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jnppeRI6bAgQ7kNvwHaPAI-&_nc_oc=Adkb592eTot2YKGhUC2SpH6CSVd72_PB_lsExQ4bHMvBMzpcecpAl8f00qBa4cH4iDU&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AftbIZbnWwHOryd5H_KBcJfGTLl0ivOi2OVTtDSxJtga4g&oe=698771D1",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "jewelzz.shop",
+                        "link_description": " ",
+                        "link_url": "https://www.jewelzz.shop/",
+                        "title": "Jewelzz.shop-10년 연속 NAVER 인증! 믿을 수 있는 국내 로컬 판매자",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/520907554_1337138904292546_4667679541694807302_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_VCpEJ49laEQ7kNvwEg6LYp&_nc_oc=AdkCl2lVMhF6ECQERh_269PaoMu-Omk2mscnwAimqRFALDbhRmjREF69BgiZBL7kD_g&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_Afu51htDwJFeHZbHC-XTMeWCXShEAIa0FleIdn-FkXMT-g&oe=69875F82",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/520062043_1619535598722719_8548277731407335423_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ADVVpE5MjhIQ7kNvwHrsbpz&_nc_oc=AdkDx0hCnYe39sgRMK8_LGaf43YgPODLjWMfkrPXGCzEVY3rCyZo2Pe8Gw9k-zP1kgg&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AfuGUcxnvFh71xKCQmrjLeEWsh09rQCi-p7GnY8zrZcnDQ&oe=6987579E",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "jewelzz.shop",
+                        "link_description": " ",
+                        "link_url": "https://www.jewelzz.shop/",
+                        "title": "Jewelzz.shop-10년 연속 NAVER 인증! 믿을 수 있는 국내 로컬 판매자",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/518888322_1266100548250087_1964417427330842602_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=FevI78xWfdkQ7kNvwE-9F4t&_nc_oc=AdlLGydEZRlSSLcVjsgHSk1caG_3kVwg3N2tfRGw78pBbKTURTHBCdncbVimNu7Y66I&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_Afu8vCglg9avyDsSEr9XZwuzRTgHjJXBz9Jels5DHlhZGw&oe=69875859",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/520361040_1941104996705239_1698390097878106646_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=J2zmGIlmefsQ7kNvwFz7M0k&_nc_oc=AdkRuiQpzS2SGWlrvy7DFcDyRvqgidJZLghURh-Ssh832Jiyesyzei6VE6sy2HWNR6g&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AfvyY5rpddEpAN0DDQpIJGebGAsHNFBM_GAk3mCx8YBXwg&oe=69877CD6",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "사이트: www.jewelzz.shop\n\"한정 타임 세일\"\n\"10년 한국 판매 경험\"\n\"카드 결제 가능\"\n\"편리한 반품/교환 서비스\"\n\"초특가 59800원\"\n\n다양한 브랜드 운동화 (나이키, 뉴발란스, 아디다스, 아식스)\n남성/여성 신발, 다양한 스타일, 다양한 사이즈 보유\n\n[특가 알림] 뉴발란스 530 스틸 그레이 블루 블랙,\n[특가 알림]나이키 줌 보메로 5 코블스톤 바스트 그레이 블랙 오트밀 포톤 더스트 앤 메탈릭 실버\n[특가 알림]뉴발란스 1906R 남녀공용 데일리슈즈 스니커즈\n오직 59,800원으로 당신의 일상을 업그레이드하세요!\n\n사이트: www.jewelzz.shop"
+                    },
+                    "cta_type": "LEARN_MORE",
+                    "display_format": "CAROUSEL",
+                    "link_description": null,
+                    "link_url": "https://www.jewelzz.shop/",
+                    "images": [],
+                    "page_categories": [
+                      "Profile"
+                    ],
+                    "page_like_count": 0,
+                    "title": null,
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "coyun.co.kr",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "INSTAGRAM"
+                  ],
+                  "start_date": 1752735600,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "2421460124938301",
+                  "collation_count": 1,
+                  "collation_id": "1855930072008293",
+                  "page_id": "109487722183830",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "109487722183830",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/4910.official/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "4910",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/542092856_666476672548585_5756680801653677100_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=xaG3ekOkBTgQ7kNvwHE3mES&_nc_oc=AdlEZv5E-aYfzwaydvFVHcV1YfFv-Phk4tBtxPrXmrseUDxC892aKhtn1s2UjhQVUqc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AfuIkje38fFZ7v1gb2PXDQFQGh6EzGrmGd3Dfb6bgUvoUg&oe=6987564F",
+                    "event": null,
+                    "caption": "4910.kr",
+                    "cta_text": "지금 구매하기",
+                    "cards": [
+                      {
+                        "body": "폴로, 리바이스, 나이키 등\n아는 사람들만 계속해서 싸게 샀던 이유는 따로 있어요!\n빈티지 아이템 특별전🚚",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "4910.kr",
+                        "link_description": "무료 배송 중",
+                        "link_url": "https://4910.kr/?tab=vintage",
+                        "title": "빈티지도 이제는 4910에서!",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/544674714_2528160597547169_3807985464940965652_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=8dqBb4lvoBEQ7kNvwESdnM2&_nc_oc=AdlyEK6wAF5jNG9LGIroror7YQdy27KrbHpJwegSEEOlrqNUthRCnWqSxhmqLIrPjkI&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_Afs40jp13Dx_R0P4bD1bwca0aalsgHNuTOceVYNFptCSWA&oe=69875CB3",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/542754053_1285188932795337_4609187678882177289_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=a0UcdXSeAWgQ7kNvwHzTY07&_nc_oc=AdmD3ysy2kZfbWyLORqlsp13ZjvFiAEJbtUoqiNNwKf8XWMRVqy4acABX7RWhYT0xHI&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AftItn4Qu1vGddUS6SbNxdsvg3OKi9opMaUp3xESuBh41Q&oe=698753FB",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "폴로, 리바이스, 나이키 등\n아는 사람들만 계속해서 싸게 샀던 이유는 따로 있어요!\n빈티지 아이템 특별전🚚",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "4910.kr",
+                        "link_description": "무료 배송 중",
+                        "link_url": "https://4910.kr/?tab=vintage",
+                        "title": "빈티지도 이제는 4910에서!",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/542757173_798000026077374_700861512857871075_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Lg1g_FWIuqYQ7kNvwEwneGr&_nc_oc=Adn4Olvpr9vbqyy3Do1V_z7wMY8vDcUSQDmsBLaGsWHrRriauUXGCQer7ck7agE5ZpQ&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AfvYB_9ZLn5YFUuKdkx_az6aReH-StM7IrSzux4IL--20g&oe=6987772F",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/544609425_1327316318735166_5933978901025530336_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=k3I7jBf89i0Q7kNvwGq09hZ&_nc_oc=AdkHDvRLloZxwTsF1EvfutNzwN8O-DNh_dUm4_oRYUceuAq8pzmTAK4IzzF-ybMxleE&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AfuzPHfB-DUhavA_rrzIH3cezeu17C559vnhzRvZ87idFg&oe=69876447",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "폴로, 리바이스, 나이키 등\n아는 사람들만 계속해서 싸게 샀던 이유는 따로 있어요!\n빈티지 아이템 특별전🚚",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "4910.kr",
+                        "link_description": "무료 배송 중",
+                        "link_url": "https://4910.kr/?tab=vintage",
+                        "title": "빈티지도 이제는 4910에서!",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/543411809_1917937822113254_6304423749229179300_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=H17ql54Mdt4Q7kNvwFxR5lN&_nc_oc=AdmNTB1GA-hE2zfFk5xUm3C9ATEWcIOyhczBh6OfxLt0sF8kte1-uKqFq7iZif1LUpI&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_Afvm2xQrIELAjlI54StnuSCxJA5iI35Ox_t5Cow1mDJF9g&oe=69875785",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/542756530_2373080013088841_5279334303797019548_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XHH46uHRWjcQ7kNvwG8sA5o&_nc_oc=AdmgxkKg11pBXxorHBJJdNPlTwSuR8yKfqp2tsK5fztpama4grURRakY0-zuMctTQPs&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_Afv-shiY7kX-wh7Z93SWKmdgRR7DE17YXm3dU0_ud9V6pg&oe=69876352",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "{{product.brand}}"
+                    },
+                    "cta_type": "SHOP_NOW",
+                    "display_format": "DCO",
+                    "link_description": "{{product.description}}",
+                    "link_url": "https://4910.kr/?tab=vintage",
+                    "images": [],
+                    "page_categories": [
+                      "Shopping"
+                    ],
+                    "page_like_count": 507,
+                    "title": "{{product.name}}",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "4910",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "MESSENGER",
+                    "THREADS"
+                  ],
+                  "start_date": 1761548400,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "4000598670251007",
+                  "collation_count": 1,
+                  "collation_id": "1393097735111732",
+                  "page_id": "606139075919599",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "606139075919599",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/61575358045986/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "Jewelzz Fashion Market",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/530272603_1702985857057765_5317582474917657994_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4O-a_2OgUVwQ7kNvwH1vLy1&_nc_oc=AdkhrwhBy46edC8zn5_msSPD0J0eujCNunqUd02W6pUrhvUkdlZK168pk58DdqOOBsg&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_Afs6ddzDXItABNlCOI7I4TJn02wPG9yrvXljVzXacZqwEA&oe=69877A1F",
+                    "event": null,
+                    "caption": "jewelzz.shop",
+                    "cta_text": "더 알아보기",
+                    "cards": [
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "jewelzz.shop",
+                        "link_description": " ",
+                        "link_url": "https://www.jewelzz.shop/",
+                        "title": "Jewelzz.shop-10년 연속 NAVER 인증! 믿을 수 있는 국내 로컬 판매자",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/530939429_1425470735375620_7701436372021594985_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=BcYgYS4lbtwQ7kNvwHNWtyz&_nc_oc=AdmDjuS71GUK6eZe2pO2GJD6LVcebdm-YsX6GF4byKxxoQOLvk8GKADXQyT-PfsNVBw&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_Aft232-qn02GwxONuMWC4eEtxA_-SOcAAIbXZJy-ERxKXQ&oe=69875D55",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/530652342_729495986514414_6616364142807779148_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1isohvbZ3i8Q7kNvwEILkkr&_nc_oc=Admn_PoekLXBmvPS1aqc2a2eynB-xfY5BigEg9C5KMDtF5AltlVGkUmVE3PmYdRr_q4&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AfuwNKaDaE27kkelw1RUoqWmeAMzPQh1kA_JdXCqoq6_fA&oe=69878021",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "jewelzz.shop",
+                        "link_description": " ",
+                        "link_url": "https://www.jewelzz.shop/",
+                        "title": "Jewelzz.shop-10년 연속 NAVER 인증! 믿을 수 있는 국내 로컬 판매자",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/530536849_749072931195748_105587349512223865_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=dvwIcFWCM20Q7kNvwG9whtb&_nc_oc=AdlW6CZJ-rpSXk4-jqiZ9xI3Ueb320Zv7wTpbSfN8gu1txJAN1phmhB_Br62jz22GI0&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_Afv34yW2bbo92mijwg2wFYOamwNiSdW8_1KWKney99gsWg&oe=6987770B",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/531336891_1095288982702167_2441340127433333927_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Zy14LOFWPesQ7kNvwHs8wDf&_nc_oc=Adm_9QvKsHhEC7t09AqIC6oeiO5JtVGuHjmwZh3nq3HTOu-bfiJGbXANanRlL0g5bHw&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_Afu5DPeWiJ2mOoHBQxn0NSZTuqd4kj4D961rc1EGmTtEbA&oe=698781CC",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "jewelzz.shop",
+                        "link_description": " ",
+                        "link_url": "https://www.jewelzz.shop/",
+                        "title": "Jewelzz.shop-10년 연속 NAVER 인증! 믿을 수 있는 국내 로컬 판매자",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/531346243_1818748552398665_3448623217767351770_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Aw4VAeOWNZoQ7kNvwF1c-cz&_nc_oc=Adnrdf-OMnzQGKYI1Cus7W9TzLmIhTP9Udjb-KMHAOuAJ5P4tHZj_zTrDUIJgqn5KGY&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_Aftr5wy7mE2ikzVXwV3oFCWyUshbj4ZXWt-rleuYRgfSvw&oe=698752F4",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/530939094_774836655059699_5836210165798781837_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=4JnJJcSHDFUQ7kNvwGagi9u&_nc_oc=Adm5YtHQaLwcBlPijYHqoFkGIbFV0iv6mUiuk3ng6j0Y0yq-WfPODz80ZNDmzulssqw&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AfuO8T7hTLy7ml07QaQfgkA_uyxs88imYfFn2Kryk7vwDA&oe=69876623",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "jewelzz.shop",
+                        "link_description": " ",
+                        "link_url": "https://www.jewelzz.shop/",
+                        "title": "Jewelzz.shop-10년 연속 NAVER 인증! 믿을 수 있는 국내 로컬 판매자",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/530400765_654176873743757_1021453545148261149_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=XlBQ2cAaHycQ7kNvwFPtjm0&_nc_oc=Adllf67ptuLq_bCJXQEERZgWoPhEOqppuzcStnkSc_OnMAF7FqlAvQOYES9jMJ4eocM&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AfvLk1lQqav1BXe10Hm2q7dP3vVnRImJ_ISBKTApml27MQ&oe=698753D9",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/530854112_757718063518465_6159968788881671806_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1bIyU8uTJjsQ7kNvwHVKYez&_nc_oc=AdndPbPAg49Ct1J1jeiGdVH6Wo-pYJAX8Bh9N-Tucmj33gxOydy8SR0UYQoR_iGNz5E&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_Aftp8XJdvsrY6dUiKG9QWrW7UyOHQ1rrb76C7KNF5NvYlA&oe=69875238",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "jewelzz.shop",
+                        "link_description": " ",
+                        "link_url": "https://www.jewelzz.shop/",
+                        "title": "Jewelzz.shop-10년 연속 NAVER 인증! 믿을 수 있는 국내 로컬 판매자",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/530828606_757862106978097_790893341774488690_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Eltbko8IDg8Q7kNvwHlll1Y&_nc_oc=AdmKmbLbRXB8yuuUzqVEtkdlyG6oPmJAdo2Vm_iJwCbSE_tV-Tq8Q3oQQJD7DMa_64k&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_Afvrnp1T8cigWbWGuOgPWZe3Gt7YLMSN1vFniZopxbV1tw&oe=6987762A",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/532269732_1457791769008322_548756708711694616_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=5zxjwsExgbAQ7kNvwFIAybR&_nc_oc=Adlw-7vhgn5G0a8FbJx5esFkKigkJ8IRU165FTSAOfzVBz3s2Q0nE_cArn_ckKaxJTc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AftoBDX-C3HWnTJYTTklmpodkE9VllgBCO50_d8pZpu8GA&oe=698763AC",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "jewelzz.shop",
+                        "link_description": " ",
+                        "link_url": "https://www.jewelzz.shop/",
+                        "title": "Jewelzz.shop-10년 연속 NAVER 인증! 믿을 수 있는 국내 로컬 판매자",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/531587131_1741552283139269_3093854878020485441_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UAXIfUesjEAQ7kNvwFiF52H&_nc_oc=AdlSIae4Bpdq8OH1enihJwMWl4YjSd8u_JKmhEtoovGvNBcY7F-aTp2NR_xCcszmsT0&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AfvbPZLzj8iPys9rIUo0ccVBDs23sOcRoJ-zGqHIjHkDtA&oe=6987839A",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/530375620_1288773549634490_7368702146283887803_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jv7pxiIC3tQQ7kNvwHc5G30&_nc_oc=AdkCnrpDdlwb_DDOpkeoG2RXQeeKRQFa9jT04QCNoI9x1GOILTwpb6901CDpAOlS-OE&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AftE3yJXMmU_XIcHuQRxfFcOh-ary7OquXyQ_fLroTTAnA&oe=69877060",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "jewelzz.shop",
+                        "link_description": " ",
+                        "link_url": "https://www.jewelzz.shop/",
+                        "title": "Jewelzz.shop-10년 연속 NAVER 인증! 믿을 수 있는 국내 로컬 판매자",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/530360768_1438377107286057_4093550690135425367_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=sW-v7C40Q6UQ7kNvwGjOiEM&_nc_oc=Adm2YgoyMLKkPhe5l3gd6uvNGWqxJGnL5fZk0CdAopnjQjX6isnZwbxI3fKhiL5pXUE&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_Afs5b2dEowmKccxNvbGAbO04mEVgEoz4MFVapKoTR83CLQ&oe=698772E6",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/531024796_1100249042034667_6613931841688806050_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Fi-o-5MWth4Q7kNvwH7bkHk&_nc_oc=AdnNXFfJ-JHt0vT8IFlme8APZDT3c-nittcCy-MQJsoF2Zo7D2vCXQj4HLsZiZkzCns&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_Afu0SqEPhcjA0YGlNh6FzcsBfvu1an-nIaEvdOwrLvgP3g&oe=69876242",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "jewelzz.shop",
+                        "link_description": " ",
+                        "link_url": "https://www.jewelzz.shop/",
+                        "title": "Jewelzz.shop-10년 연속 NAVER 인증! 믿을 수 있는 국내 로컬 판매자",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/530676581_1297050138440293_1727408410557966527_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=aeLr-SxQmHYQ7kNvwEe-uh4&_nc_oc=Admogi_t8U5uqEI1e6KvboNQJ_59euoCvOqt8I1D0rnwVa3x7QsATVhgauM5HjHobzQ&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_Afs7ieAgHARZOVdr7zeilMEzG4YoG0wn7PsdpXygdmagOA&oe=69877EFB",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/530447850_4174187176128462_3830585406796004716_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=VJVN_2zmjIsQ7kNvwGq_Ckg&_nc_oc=AdmVs0rjS6e5_lMwAHzJ1Bi8SMtqSJ3h---9PYyNe8Wj4e2N4mAxGnrlA3JT0Onfax4&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_Afu7TTtcCMnU9yRokSXYDTSvNqYLrTi7L4V-LXJ0lE2YuQ&oe=698773C9",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "jewelzz.shop",
+                        "link_description": " ",
+                        "link_url": "https://www.jewelzz.shop/",
+                        "title": "Jewelzz.shop-10년 연속 NAVER 인증! 믿을 수 있는 국내 로컬 판매자",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/531444602_1806575896606172_2754827802678389380_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=t0pBcegN5ykQ7kNvwFh4Iy0&_nc_oc=AdnceMX8xs0NIj75bu95gSUz3tKiE-31ObcN06yOTHUKAy3NlrkvFXBop8zvG3G2-_M&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AfvLXKN5-JuEYaBBDofnO31wDpxMBJ_67M4ADSvWbOtO7g&oe=6987732B",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/530357636_1255184236091456_9106509704913249997_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=62KFkAiiGDIQ7kNvwGqcwsK&_nc_oc=Adln3q9oljy0eDA6iv0st9OwSmrcjnrkLb3JRGdtP1yHX4i6anzvEMRNv8DTw4Gm3aU&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_Afu5hKhApJnMUjDfN5g091xRedUSZPYdyOeubDbdS-sO7g&oe=69877519",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "jewelzz.shop",
+                        "link_description": " ",
+                        "link_url": "https://www.jewelzz.shop/",
+                        "title": "Jewelzz.shop-10년 연속 NAVER 인증! 믿을 수 있는 국내 로컬 판매자",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/531181652_1406854287279102_3518452952974472089_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1ber4cz0UccQ7kNvwEDJUXU&_nc_oc=Adme_wsw9Ry6k_p4HlqqWFeo2LpUBkVPl7Fli5gqVFNRoSoJYh4FgJDZkHc4eoFAvY8&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_Afts3m2k7mWPDdYGAQWjrXVnxT3TuRsxcFDXmP0aiJ_Nsg&oe=69876C85",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/530238792_1457703235419221_6640141182686052753_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Qeh1UQBK_RAQ7kNvwEoSFVu&_nc_oc=AdnUVcgWOw60MX4Lp_ETR3medAbmc7VjfUE6KEM8wyMVwfFs8GgsJRNrNT5BeD3GkrU&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_Afsg4UtVJkPR__9ffdAAMU2hGgYfXqQG_8KpwJqN1qEf_Q&oe=69876D0A",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "사이트: www.jewelzz.shop\n\"한정 타임 세일\"\n\"10년 한국 판매 경험\"\n\"카드 결제 가능\"\n\"편리한 반품/교환 서비스\"\n\"초특가 59800원\"\n\n다양한 브랜드 운동화 (나이키, 뉴발란스, 아디다스, 아식스)\n남성/여성 신발, 다양한 스타일, 다양한 사이즈 보유\n\n[특가 알림] 뉴발란스 530 스틸 그레이 블루 블랙,\n[특가 알림]나이키 줌 보메로 5 코블스톤 바스트 그레이 블랙 오트밀 포톤 더스트 앤 메탈릭 실버\n[특가 알림]나이키 덩크 로우 범고래 스모크 그레이 포그 네이비 블랙 그린\n오직 59,800원으로 당신의 일상을 업그레이드하세요!\n\n사이트: www.jewelzz.shop"
+                    },
+                    "cta_type": "LEARN_MORE",
+                    "display_format": "CAROUSEL",
+                    "link_description": null,
+                    "link_url": "https://www.jewelzz.shop/",
+                    "images": [],
+                    "page_categories": [
+                      "Shopping"
+                    ],
+                    "page_like_count": 185,
+                    "title": "Jewelzz Fashion Market",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "Jewelzz Fashion Market",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM"
+                  ],
+                  "start_date": 1754895600,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "1457441568803917",
+                  "collation_count": 3,
+                  "collation_id": "660143096847630",
+                  "page_id": "102149482957662",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "102149482957662",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/100094731158575/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "삭스유스",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/558873614_1355531172955692_284554492800820628_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=3udA2yGmmVsQ7kNvwGSGshy&_nc_oc=AdmfiC_6jAefg_kRnNpKEQ6_-Y4-S-rJp71TqoIhtq5TOYQhSh3zowiggS3WGEFVlew&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_Afv12yaqcoR2m56gS8vZdzTV2JoS8gTSNyY3AE2D9kIAgA&oe=69876ACB",
+                    "event": null,
+                    "caption": "socksyouth.kr",
+                    "cta_text": "더 알아보기",
+                    "cards": [],
+                    "body": {
+                      "text": "“제가 신을 수 있는 양말을 짜면 돼요. 그게 바로 좋은 양말이에요.”\n\n이우석 대표. “오너가 되고 싶다”라는 \n간절한 마음으로 시작한 길은 어느새 27년.\n잠을 줄이며 공장 기계 앞에서 보낸 시간들이 \n오늘날 국내 대표 수출 양말 장인으로 만들었다.\n싸구려 실로 만든 양말 대신, \n내가 직접 신을 수 있는 양말만 만든다는 원칙은 \n27년이 지난 지금도 변함없다.\n공장에서, 모임 자리에서, 심지어는 식당에서도 \n늘 사람들의 양말을 살펴본다는 이우석 대표.\n20년 지하 공장을 거쳐 지금의 공간까지 오기까지, \n인생은 양말로 쓰여진 이야기라 해도 과언이 아닙니다.\n\n<Make Your Fit>은 그가 살아온 기록을 통해 묻습니다.\n\n“당신에게 편안함은 무엇인가요?”\n\nMake Your Fit 1. 양말을 대하는 방식\n\nQ. 초창기에는 양말 때문에 곤란했던 적도 있었다고요? \n\nA. 초창기에는 오해도 있었습니다. \n와이프와 동창 모임에서 양말이 특이하다고 하길래\n“양말 좀 보여줄 수 있냐“라고 했는데, \n그게 성추행처럼 들려서 곤란했던 적이 있죠. \n사실, 저는 어디를 가든 사람들의 양말을 유심히 봅니다. \n“저분은 이런 양말을 신었구나” 하고 \n자연스레 눈이 가거든요.\n\nQ. 양말을 보는 시선이 특별하네요. \n좋은 양말은 어떤 양말인가요? \n\nA. 제가 신을 수 있는 양말을 짜면 됩니다. \n그게 바로 좋은 양말이에요. \n값만 낮추려고 나쁜 실로 만든 양말은 \n처음엔 괜찮아 보여도, 빨래 두세 번 하면 \n신기 어렵습니다. \n\n반대로 천 원짜리와 오천 원짜리의 차이는 \n발이 직접 느껴요. 땀 흡수력이나 \n착용감이 확연히 다르죠.\n\nQ. 상황에 따라 양말도 달라져야 한다는 말씀인가요? \n\nA. 맞아요. 회사원이 구두를 신으면\n정장 양말을, 운동을 하면 스포츠 양말을,\n운동화를 신으면 캐주얼 양말을 신어야 합니다. \n\n신발과 양말이 맞아야 발이 편안해집니다. \n오늘 운동을 하는지, 회사를 가는지에 따라\n양말을 따로 선택하는 것이 정답이죠.\n\nMake Your Fit 2. 편안함을 대하는 방식\n\nQ. 하루에 편안함을 위해서 자주 찾는 브랜드가 있나요?\n\nA. 보통은 나이키 같은 쿠션 있는 신발만 신습니다. \n열두 시간씩 서 있어야 하니까요. \n그런데 오늘은 뉴발란스를 신고 있어요. \n딸이 사준 거거든요. 딸이 사준 건 무조건 신어야죠. \n사실, 딸 앞에서는 항상 긴장됩니다. (웃음)\n\nQ. 하루 대부분을 공장에서 보내는데, \n언제가 가장 편안한 순간인가요?\n\nA. 공장에 있는 게 제일 편안합니다. \n기계를 끄고 가만히 있을 때, 그 순간이 가장 편안하죠. \n일주일에 네댓 시간 정도밖에 안 되지만요."
+                    },
+                    "cta_type": "LEARN_MORE",
+                    "display_format": "VIDEO",
+                    "link_description": null,
+                    "link_url": "https://socksyouth.kr/product/%EC%BB%B4%ED%8F%AC%ED%8A%B8-%EC%9D%B4%EC%A4%91%EC%BF%A0%EC%85%98-%ED%91%B9%EC%8B%A0%ED%95%9C-%EC%A4%91%EB%AA%A9-%EC%96%91%EB%A7%90-6%EC%BC%A4%EB%A0%88/34/category/1/display/2/?icid=MAIN.product_listmain_1",
+                    "images": [],
+                    "page_categories": [
+                      "Clothing (Brand)"
+                    ],
+                    "page_like_count": 17,
+                    "title": null,
+                    "videos": [
+                      {
+                        "video_hd_url": "https://video-icn2-1.xx.fbcdn.net/o1/v/t2/f2/m69/AQO5Q0rImZzyhssGH627FVn8J4E-HsZd6XR_Ub_r3St4ZeH0El9Fksmtbo0rGwxmZpqMh2n4tX77Ye4rn9VAzOz6.mp4?strext=1&_nc_cat=105&_nc_sid=8bf8fe&_nc_ht=video-icn2-1.xx.fbcdn.net&_nc_ohc=DkD6avWpFVgQ7kNvwGGFbl7&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjo2NDk1ODgwNTEyNTcwMzUsImFzc2V0X2FnZV9kYXlzIjoxMjksInZpX3VzZWNhc2VfaWQiOjEwODI3LCJkdXJhdGlvbl9zIjoxMjYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&_nc_zt=28&oh=00_Aft6p60qrMDlujpBz8YPf1rtmY0rK55pJruZwp7wvm2fnQ&oe=698778B5",
+                        "video_preview_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/559816747_1533146968041083_7782193160277651219_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=442mE7wLDZEQ7kNvwGIKOrF&_nc_oc=AdnIQlgt1H5DEmAuNWlMuPmPuKrjec7j32JR8YAoc-YpvdpwVqlkJf4DfaNjzSwZO18&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_Afszlxh4bP_jiHG1F62mUFedTfi5Wz79a9EAlrFkVMcmsQ&oe=69877D72",
+                        "video_sd_url": "https://video-icn2-1.xx.fbcdn.net/o1/v/t2/f2/m69/AQNYc15WETQJf71ua_9FtNmwCAoiKTGrdAtpKz8jEps07euKwB-IT8L8e1pBv11BhxZu5v_KfuUVq7XJbx0QjJYl.mp4?strext=1&_nc_cat=102&_nc_sid=8bf8fe&_nc_ht=video-icn2-1.xx.fbcdn.net&_nc_ohc=xJTYiKmM7fgQ7kNvwGjL2LI&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl8zNjBwIiwieHB2X2Fzc2V0X2lkIjo2NDk1ODgwNTEyNTcwMzUsImFzc2V0X2FnZV9kYXlzIjoxMjksInZpX3VzZWNhc2VfaWQiOjEwODI3LCJkdXJhdGlvbl9zIjoxMjYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&_nc_zt=28&oh=00_Afua48XwjdQz3shVKZvLl6V04K5RXBkMQPMtRkgEF13PaA&oe=698765D4",
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null
+                      }
+                    ],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "삭스유스",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "MESSENGER",
+                    "THREADS"
+                  ],
+                  "start_date": 1760079600,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "3066487906867519",
+                  "collation_count": 2,
+                  "collation_id": "1498988768201849",
+                  "page_id": "771127719407642",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "771127719407642",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/61578042280028/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "My fashion blog Coyun",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/536251090_800904429038780_6195786634068054984_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ps9SFXm5ddcQ7kNvwHlUMAp&_nc_oc=AdlgtY1jsNlXsfSpRoeJQuem34jOEFHMVC5GqNEkKOaMrVVopir2L1wqv_EKarlOh2s&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_Afsy9bKk3rMhmE0pm9HBJfYQHcUpPsivdojGVvp9-EiYTg&oe=69875799",
+                    "event": null,
+                    "caption": "zyf001.cafe24.com",
+                    "cta_text": "더 알아보기",
+                    "cards": [
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "zyf001.cafe24.com",
+                        "link_description": " ",
+                        "link_url": "https://zyf001.cafe24.com/",
+                        "title": "Jewelzz.shop-10년 연속 NAVER 인증! 믿을 수 있는 국내 로컬 판매자",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/534979906_1506249930405210_1805183137540536708_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=wKPs8nuSi0UQ7kNvwHFildg&_nc_oc=AdnXlJr1989iTlccGH3fOo3FdVAHUp33rOjOFbmlbS-dxaRo5k1LTmXIf4fWJgf6DbY&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_Afs3FqjsRRgt2EJ78J8g5Ep-XBCINZnpjNeShsJTiXYLpg&oe=698756E9",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/535193134_565460693223213_553371357014648319_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=tLNOHxf-WbcQ7kNvwGN-Wuc&_nc_oc=AdkC3VZjx5alxrKCfkSOc6h8O2087AA5a7YZ1inrqJfVvMoJM2TRakHjNGpP3PP-aVA&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AfsvkV4pRat0GJA1IJ-g8Jijl-Ok7gZ3ne_e0z-iiJaE_Q&oe=69877311",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "zyf001.cafe24.com",
+                        "link_description": " ",
+                        "link_url": "https://zyf001.cafe24.com/",
+                        "title": "Jewelzz.shop-10년 연속 NAVER 인증! 믿을 수 있는 국내 로컬 판매자",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/536497454_1095620705466228_4162625417124632687_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=2_8TlVwvEW4Q7kNvwFNhKgx&_nc_oc=AdnF21cJd3QxW3WDNMF5EkXKZNlzXoMla5tVgj0-cmrF0WUeu5iz4Ase7LI7qbwh29I&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AfsAYprWjcmcV_wwbsUiZdgg895czIM2-jk81qtxt7mjRg&oe=698766AC",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/535586578_4111416692508667_7181095734779750761_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Xp3PMsqKGqgQ7kNvwHq93jd&_nc_oc=AdlXJ8LK1So3pogPzxbnC5mmHW-vnsocHDWPc-q-LONnTvj5CnvNswJ5stMLJ7_CXAs&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AfviNJuZfGtofNm6Xpj2A_CincATHg3vml22oQLFPjLM8g&oe=698770A9",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "zyf001.cafe24.com",
+                        "link_description": " ",
+                        "link_url": "https://zyf001.cafe24.com/",
+                        "title": "Jewelzz.shop-10년 연속 NAVER 인증! 믿을 수 있는 국내 로컬 판매자",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/535418671_754978287388152_7276622756148834052_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=jN9DDcghGx4Q7kNvwFvo55A&_nc_oc=Adnxu15NjqHr5h1qzGbqYLz9X_0MvwIts-GypiVKjzxzX-ZmVHmr6kNnMY1QiaTvlTk&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AftN5Mr46p6cAM6zn8RnMMQa5711g4yeYfEuNCRbWPij2g&oe=698770BF",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/536754596_748909514592552_367246657833282921_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eIgrE17-R0IQ7kNvwG9L1df&_nc_oc=Adlu6511Z4LX__TdlL4O5DIj_yA_uFdUX-D0yWVZ6Va5kZGcp4OfnNjMg-h1O3VONs4&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AftbjVaKb8zGAIvymh9NcoSW-0E3IKl6kNjjNoTxa8EPqg&oe=6987763F",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "zyf001.cafe24.com",
+                        "link_description": " ",
+                        "link_url": "https://zyf001.cafe24.com/",
+                        "title": "Jewelzz.shop-10년 연속 NAVER 인증! 믿을 수 있는 국내 로컬 판매자",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/534717083_777390064825347_3409384657693336381_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UDh4ZpIQDBcQ7kNvwHZWVu8&_nc_oc=AdlbzSZfWnXNqLRDeNqgQgASPKPWbqFx0aLOgvmMakrUSJAGQHU3zuTsX-ANvpbkVuM&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AftbFbAlJixArgZflUFYueLUcx1Mz5mDHedEu0sYr_1Nxw&oe=698756A3",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/535562340_756331043649413_1761623899885140314_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=H6HHJOBms4QQ7kNvwGaNuLt&_nc_oc=AdmcFKTQM8MN8WUGX_cC9v8jiv3F5hTOAI7rEv6liXjls1foCFwk-QBCxyOXB8Oz7GM&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AfsJzljGWrOn0TgxKPjJ7KVWpwvhJe9B5IPkE_rvNlXfTw&oe=698758F4",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "zyf001.cafe24.com",
+                        "link_description": " ",
+                        "link_url": "https://zyf001.cafe24.com/",
+                        "title": "Jewelzz.shop-10년 연속 NAVER 인증! 믿을 수 있는 국내 로컬 판매자",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/534915960_550439668092299_7701262362748034377_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=1oOOZJ_Dg_8Q7kNvwFC8DRF&_nc_oc=AdkDnWDjNCbExqM3XDtHLmzL6GcTvyHPuI2n1NK3j8vyo6y09Eq13judsNqNUergU20&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_Aft6y_OOf4G_fdxCZ5GqVGTviwcbR2mnlUJ1RVM69ci7HA&oe=69877D0D",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/536492580_1074074818267145_3658355224081545692_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=UIlDHhDZCHMQ7kNvwHuvdSR&_nc_oc=AdnKlP8NXAz-xDoa5KnVkPiupuzy96JWqKjUlQ5aesePwutFCD_1Wv4CskcgaGWNB0w&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_Afs1V2YuTbvBTv8Iz33lDAempv8HuUhS2S5zB6qM1DjqAg&oe=698754E7",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "zyf001.cafe24.com",
+                        "link_description": " ",
+                        "link_url": "https://zyf001.cafe24.com/",
+                        "title": "Jewelzz.shop-10년 연속 NAVER 인증! 믿을 수 있는 국내 로컬 판매자",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/535018371_611404342047081_8257415631395875957_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JV4gjfalRMQQ7kNvwFO3JUP&_nc_oc=AdlCdu5ogI8TIW0wU_Rqs0LFTyNsFS7XSMwu8WxKpSudluKLXhyxCdMRw6VlwW13Wg0&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AfvtxN23FkeB6ROWLyO_2pm1fOlo5fobTBoeqiId-pGQTQ&oe=698764CB",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/535516354_642320082219600_3310164333193362697_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=IJ41rfLZiF0Q7kNvwEX_hhy&_nc_oc=AdnLW21yIHUw5QxXeaFoUPQQVApCSRbEqZ0jF1QVyGVatLXUVQRiunXhX95yUNBDNvU&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_Afvzkzmn6VP0-j_BPOZqmyo5XphkB2sdw-iD8bkr2nM-oQ&oe=698770CD",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "zyf001.cafe24.com",
+                        "link_description": " ",
+                        "link_url": "https://zyf001.cafe24.com/",
+                        "title": "Jewelzz.shop-10년 연속 NAVER 인증! 믿을 수 있는 국내 로컬 판매자",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/534820224_1518063815873388_1521622559790764246_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0WhpoFNHIYQQ7kNvwG7hocL&_nc_oc=AdkVl4SYZ2IiY2Av642VLLApbpokBdNPXPdke53Ox0EjFFtfjb23L3TIfSJnmiYHk-E&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AfuhLPLJg2igSjxPaq99PIPJ9ZLRKmwR5W51Ydp6GdsgyA&oe=698780E2",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/536836416_1108643374697504_3607969902637471017_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=i3dAHIIg9tsQ7kNvwEgNR9E&_nc_oc=AdmGLntkysjqRMJnyp8Cje8ZqbnQMSTVlatudGpjRHiHFacKCVB_rj835Mm8ZzyCluQ&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AftOAXev3wZiHRCcZCiU69d6eXS1ZLiLS2xCYySPvjIIlA&oe=69877BBF",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "zyf001.cafe24.com",
+                        "link_description": " ",
+                        "link_url": "https://zyf001.cafe24.com/",
+                        "title": "Jewelzz.shop-10년 연속 NAVER 인증! 믿을 수 있는 국내 로컬 판매자",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/534523509_739269665744235_3762739581114741972_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Fir4t0_C_S8Q7kNvwGN7N_f&_nc_oc=AdnxusyU9P0E8LRAZRJTrs2qCz8_525zEOmL6BPj6aphBc6m_yem6SKG0wlYT3zhoyw&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AfttGlG-zhiTXds-NwnDBdBCA9BhHDisxt9yrvQEqkqx7Q&oe=698764DF",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/535885036_682566871506671_8171560673099188246_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=75h9niP04bgQ7kNvwHFGn6K&_nc_oc=AdnJa1aUmciOZhbEUX5zpZ2BCdajIEdhw6JIU6ZvQ5tHNOuR35GLUfRbtsUOOQsV9QI&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_Afux5Fv1Qb2Rgj0mhXEtFRhVASSlL5tot64cpXimGrDNkg&oe=698768E3",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "zyf001.cafe24.com",
+                        "link_description": " ",
+                        "link_url": "https://zyf001.cafe24.com/",
+                        "title": "Jewelzz.shop-10년 연속 NAVER 인증! 믿을 수 있는 국내 로컬 판매자",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/536395659_1135800191937471_3763824371612718445_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=R9ouwY_WyrAQ7kNvwHfzgwb&_nc_oc=AdmRkRZ-NUvKFq442tLsnVFRpmEEvYtEZUfu-873JRopIkowwbMIxGl5raaiDEfnGJQ&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_Aftqa9gz2aAEVO-uL4ks5mVR9_ha2sfiVs7WlkrK90WG1Q&oe=698770F9",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/536227265_1794771497803489_8828980463278654755_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=RbQvIBKoJwQQ7kNvwFALH83&_nc_oc=Adk8-aqoUXZawiHO_kCUNM2XezYXSfO-eTblcNx4MVPtNthak5BT4vqWdggI9qkbO8s&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_Aftu6xaJDVsCtwy8ID3_q2BYFvBynmaK18HrsTrFDoq0Eg&oe=698778B3",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "LEARN_MORE",
+                        "caption": "zyf001.cafe24.com",
+                        "link_description": " ",
+                        "link_url": "https://zyf001.cafe24.com/",
+                        "title": "Jewelzz.shop-10년 연속 NAVER 인증! 믿을 수 있는 국내 로컬 판매자",
+                        "cta_text": "Learn More",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/535478572_1233859985436248_5284969070766421248_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=lKJ3gXPpur0Q7kNvwE03RTP&_nc_oc=AdnXFXNtxV1sQ-fyMzGVXuQznQCgZwhGdZ3iQHyBj2nbDF61G9L_SiMhZiEfdb3b4tY&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_Afu8AR8HfksrZFufB_2EVLgojolTT1nyq073TOt1yMX6-A&oe=698785A8",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/534862121_1173571128150088_1172916210516141703_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=chknf_4Y4g8Q7kNvwENSUNP&_nc_oc=AdnF4XNDkJY_PzYKcf8swl_da-rRglvpBPK8klqBencz8obf6vAZANnOJNcxiWXawHI&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AfsEFjZ-LW6mXH_9KvU4h7EqotoF1qO7nG1xBgVdDuH-AQ&oe=69877801",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "사이트: www.jewelzz.shop\n\"한정 타임 세일\"\n\"10년 한국 판매 경험\"\n\"카드 결제 가능\"\n\"편리한 반품/교환 서비스\"\n\"초특가 59800원\"\n\n다양한 브랜드 운동화 (나이키, 뉴발란스, 아디다스, 아식스)\n남성/여성 신발, 다양한 스타일, 다양한 사이즈 보유\n\n[특가 알림] 뉴발란스 530 스틸 그레이 블루 블랙,\n[특가 알림]나이키 줌 보메로 5 코블스톤 바스트 그레이 블랙 오트밀 포톤 더스트 앤 메탈릭 실버\n오직 59,800원으로 당신의 일상을 업그레이드하세요!\n\n사이트: www.jewelzz.shop"
+                    },
+                    "cta_type": "LEARN_MORE",
+                    "display_format": "CAROUSEL",
+                    "link_description": null,
+                    "link_url": "https://zyf001.cafe24.com/",
+                    "images": [],
+                    "page_categories": [
+                      "Shopping"
+                    ],
+                    "page_like_count": 16,
+                    "title": "My fashion blog Coyun",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "My fashion blog Coyun",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM"
+                  ],
+                  "start_date": 1755586800,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "938665762157917",
+                  "collation_count": 1,
+                  "collation_id": "25341005515581669",
+                  "page_id": "102528782844727",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "102528782844727",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/100092448701724/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "Hang.vintage",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623263865_1256963273000135_1833610042120001444_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_aid=0&_nc_ohc=k7HXKCW9QUkQ7kNvwFOgIxT&_nc_oc=AdmzdBXIZhIm6ebh73CVMRlAONed9ctYUIL6IZQ1bTmNbnqc5n2MvJiQqm30yF22yro&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AfujYyHtwx-Jc2N44UMjNioxor2BbJCz2aB2ynZIMXy9dw&oe=69876735",
+                    "event": null,
+                    "caption": "instagram.com",
+                    "cta_text": "Instagram 프로필 방문",
+                    "cards": [
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "http://instagram.com/hang.vintage",
+                        "title": " ",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624268414_1609734903485407_1681304312823274619_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=ArGm-_VHwLcQ7kNvwHFL1TV&_nc_oc=AdnQXEE24I-JBgQfW63Dg-E2USgZHsp-jwNv4Ps7IEoorju-rses9jKfIaMGl9WNDF0&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AfuQ_p5oRZD9bABrOYya4jzsZrGn1IXfAfatyepikxo7Sw&oe=69876CE9",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622510877_851434014562046_1904369496590390512_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=eLEcJ0SCdpIQ7kNvwE_ztkQ&_nc_oc=AdmlIq2HFXZhFRfMTvvCxZryoSv8FgTy0llF4-J-Y50TgtevPZiRe1Tk_kfrgzyxqBQ&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_Afum8ybhECrd1kGuTAjg_t9WYmN0YepGa3oIBcEYcRcM5Q&oe=69876BA0",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "http://instagram.com/hang.vintage",
+                        "title": " ",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623369778_1418771939616953_7820460056270291727_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=bUyQTQE-OzwQ7kNvwFobAEc&_nc_oc=Admfrv8HxrvxrT0UR70KdicGTOnmoMD7KmG7cV-sRgcaKsRpRGXz3vcwOzvxI3sIa24&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AfsZ2Bo9EG6UsVNsL-N43XyAIGuYE0fQ5idpVXAuBwEuwQ&oe=698777A0",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622665881_1384258750049563_1124943255499457637_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=111&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=j8U4hWbqaRgQ7kNvwFdoalW&_nc_oc=AdlCbdbqQwy96v9bta4bnsAJSzAUhvl3_rjuJmvrmoBmmJHVa_eJv7IrC9lWkb_ofTs&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AftbuToSVMBfEq4e55NlNx79iiNR2rNa7HDYhWCwbjA5Og&oe=69876673",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "http://instagram.com/hang.vintage",
+                        "title": " ",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622790765_1347641117169166_920818637356257897_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=SOQph2u66nkQ7kNvwHy6qlt&_nc_oc=AdkuLBPUIBk1WIyfMs_DCCU8MlDTp5_8b8drxuVcrLgvhiMi6TcOtRr_kTBCFFLmdlc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AftSTnwfQzeR0NKqJ2x16wn_5q6KgCmWB4qPKdWZSF9PbA&oe=69878454",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622736360_4344003082502823_7782668386887278907_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_dd26tYEwr0Q7kNvwFuYZ2R&_nc_oc=AdkqT1V0lnJ1hc_7a5MUf4e9PGeTt5NsN5r1L36vowW5u0n3pS8qvsrS64capnC6lZ0&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_Afu1gsktcPeoV_MkWCMXaSVCAawX_PgbKshv5ftwW2MPTg&oe=69877615",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "http://instagram.com/hang.vintage",
+                        "title": " ",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/624899598_925039276545928_5116234976929109260_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=0YZae3wYxMMQ7kNvwESg35g&_nc_oc=AdmmUZaeADY3ql6C1o1j4LHiieQSBonBj7MilCsdYXYZs8B7go2DZYZkEZFTlB2JDF8&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AftOq4T08ECxTj-GEpCLoqcxEMbf5-5xmZJVZPBRl3Z-VA&oe=69877A16",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/623299321_1998052831057280_8515611320135234451_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Ge3rbq2L2hgQ7kNvwFIDF0j&_nc_oc=AdmrrKqgxTTeoCrZuBqtSgUx1lBktkgUVz7aerKjNyWsaBX9SxKMyy6hJOXiSDof-bw&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AfuvKyUMOmdDW0oRayIhp7YwibRESSMP-cTCGQxi69ibLg&oe=69877DE8",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": " ",
+                        "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                        "caption": "instagram.com",
+                        "link_description": " ",
+                        "link_url": "http://instagram.com/hang.vintage",
+                        "title": " ",
+                        "cta_text": "Visit Instagram Profile",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/622982040_1146653850724120_4674353326221484119_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=q1CeO_N3DCAQ7kNvwFvl831&_nc_oc=AdmuuZ4HE0TjvnEDnaELR7mqlZFma5uqlEhEA2FVO1CRz36VK0A1LR60XYUCBFGExO4&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AftME_Zo6T8_JvP0Htg1B_562pOCBKHtvDEWzbM0meEftg&oe=69875DD0",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/618222768_1203623581955593_1172306063431716796_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=107&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JSvh71kNGkcQ7kNvwH4OFb8&_nc_oc=AdmJXI587KiMyPKovsj3ovXkbTFc03iWsM3rR52PpajkhnwFDfWQKI33PfTgU2iLrYs&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AfvtHsNetDJ1c3S3t8MsDXjQRw5ta0NsV5agITirZkjTbg&oe=69878638",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "👕행빈티지 NEW 신상🔥\n👕가격 : 80,000원\n👕사이즈 : 100~110 추천\n👕단면기준 : 어깨 60 가슴 70 소매 60 총장 72 (단위CM)\n👕나이키 스우시 자수 나일론 바람막이 ( 차콜 color )\n👕최상급 컨디션으로 케어 후 발송!\n사이즈가 궁금하시면 DM주세요! \n모든 제품은 고온스팀 및 보풀케어 \n드라이 세탁 후 발송됩니다😆\n\n#빈티지샵 #빈티지샵추천 #빈티지룩 #빈티지패션 #구제 #구제옷 #구제쇼핑몰 #구제샵 #구제의류 #구제샵추천 #구제패션"
+                    },
+                    "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                    "display_format": "CAROUSEL",
+                    "link_description": null,
+                    "link_url": "http://instagram.com/hang.vintage",
+                    "images": [],
+                    "page_categories": [
+                      "Clothing (Brand)"
+                    ],
+                    "page_like_count": 101,
+                    "title": "Hang.vintage",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "Hang.vintage",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM"
+                  ],
+                  "start_date": 1769673600,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "820572970645893",
+                  "collation_count": 1,
+                  "collation_id": "572213999310785",
+                  "page_id": "106400464337895",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "106400464337895",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/yemomile.official/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "Yemomile",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/544593796_1972689523585049_162170979509456596_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=105&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=b2tAjxGFTjcQ7kNvwHz1JYH&_nc_oc=AdniYMRehDZFxdTqDCb4mdeLHVeMd4il9Ic6bdKixpfZmU5oYk0firhJCOabaLEKNjc&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_Aft15R9wWOg6dO3cLsGbNdtjzuO8Y2kvboSc2RATnQiU6g&oe=69876621",
+                    "event": null,
+                    "caption": "instagram.com",
+                    "cta_text": "Instagram 프로필 방문",
+                    "cards": [],
+                    "body": {
+                      "text": "늦어서 미안🖐🏻 오늘 주인공은 나야🕶\n\n🕶 LOOK 1 🕶\n▪ 셔츠 - 브렉 스트라이프 슬림 셔츠\n▪ 스커트 - 슈리 플레어 미니 스커트\n▪ 모자 - 후크 팔각 빵모자\n▪ 가방 - 토리 아일렛 숄더 백\n▪ 양말 - 이터널 시스루 니 삭스\n▪ 신발 - 앨런 스트랩 롱 워커\n\n🕶 LOOK 2 🕶\n▪ 조끼 - 케빈 크롭 패딩 조끼\n▪ 티셔츠 - 앨리스 나염 슬림 티셔츠\n▪ 팬츠 - [YEPA0001] 와이드 벌룬 스트링 팬츠 (2 SIZE/unisex)\n▪ 목걸이 - [YENE0006] 실버 물방울 롱 목걸이\n▪ 모자 - 로딩 에스 큐빅 볼캡\n▪ 가방 - 콘 스웨이드 스트링 백팩\n▪ 신발 - 나이키 에어포스 1 '07 WB\n\n🕶 LOOK 3 🕶\n▪ 탑 - 파피 모찌 튜브 탑\n▪ 집업 - 헤이디 벨벳 크롭 후드 집업\n▪ 팬츠 - 헤이디 벨벳 밴딩 숏 팬츠\n▪ 목걸이 - [YENE0001] 언발 링 하트 롱 목걸이\n▪ 모자 - 아메리칸 빈티지 볼캡\n▪ 가방 - 트레비 스트링 포켓 백팩\n▪ 양말 - 아이피 골지 니삭스\n▪ 신발 - 하이츠 더블 메쉬 샌들 운동화\n\n🕶 LOOK 4 🕶\n▪ 조끼 - 파피 모찌 튜브 탑\n▪ 티셔츠 - 카일리 밀리터리 크롭 자켓\n▪ 팬츠 - 카일리 밀리터리 스트링 카고 팬츠\n▪ 목걸이 - [YENE0002] 사각 미들 목걸이\n▪ 모자 - 모노 빈티지 볼캡\n▪ 가방 - 네로 빈티지 리본 미니 숄더 백\n▪ 신발 - 킬릭 쿠션 운동화\n\n🕶 LOOK 5 🕶\n▪ 셔츠 - 미엘 크롭 셔츠\n▪ 자켓 - 로던 오버핏 레더 자켓 (unisex)\n▪ 치마바지 - 안티 플리츠 치마바지\n▪ 벨트 - 모리스 포인트 레더 벨트\n▪ 모자 - 후크 팔각 빵모자\n▪ 가방 - 네로 빈티지 리본 미니 숄더 백\n▪ 워머 - 비글 레그 골지 워머\n▪ 신발 - 럼블 통굽 숏 어그부츠\n\n#예모마일 #데일리룩 #코디추천 #ootd #outfit"
+                    },
+                    "cta_type": "VIEW_INSTAGRAM_PROFILE",
+                    "display_format": "VIDEO",
+                    "link_description": null,
+                    "link_url": "http://instagram.com/yemomile.official",
+                    "images": [],
+                    "page_categories": [
+                      "쇼핑몰"
+                    ],
+                    "page_like_count": 26,
+                    "title": null,
+                    "videos": [
+                      {
+                        "video_hd_url": null,
+                        "video_preview_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/545076110_2574987329518965_6228894952455729900_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=qG3bM6rI5C0Q7kNvwEqr5i6&_nc_oc=AdkSMz1PfvNXvEzf_Vyg3U6pPp801oGT6tweMj1GiN3zBv8WEQpXP-AdPcHeXuD5UXY&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AfuAQevpy5tqfWUWtGw-7-TrFD4prk19mgezyHMZQ4kn1Q&oe=698778DF",
+                        "video_sd_url": "https://video-icn2-1.xx.fbcdn.net/o1/v/t2/f2/m69/AQMhog02UalY7DvLwQ17kN0IndTnasexGKHOs2K8u_ltvxyWQZAC0uS_5N3dQXT2KQy2LBLuSGTuuSYcGZ78IZ_q.mp4?strext=1&_nc_cat=108&_nc_sid=8bf8fe&_nc_ht=video-icn2-1.xx.fbcdn.net&_nc_ohc=u-gNli6tsKsQ7kNvwF12nis&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTExODMyODY5MzA1OTAxNCwiYXNzZXRfYWdlX2RheXMiOjQ2OSwidmlfdXNlY2FzZV9pZCI6MTAxMDEsImR1cmF0aW9uX3MiOjIxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&_nc_zt=28&oh=00_Aft1qo83K1ZIz34IiPc3m34QRfQ2-sVoTVcViBr5urc6lw&oe=6987829A",
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": ""
+                      }
+                    ],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "Yemomile",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM"
+                  ],
+                  "start_date": 1757142000,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "1214391570105093",
+                  "collation_count": 2,
+                  "collation_id": "1452027929809162",
+                  "page_id": "112650196940811",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "112650196940811",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/KREAM.co.kr/",
+                    "root_reshared_post": null,
+                    "byline": null,
+                    "disclaimer_label": null,
+                    "page_name": "KREAM",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/618154323_885524300733323_7400096654314778667_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=100&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=hw9Tb54s_JMQ7kNvwFNp-yZ&_nc_oc=AdkYSH6vgB7iBZCart-PVCLtztCb0HBjT22pfW687acPLvQbW-j1k4we1Fmku1GE00Y&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AfskyUlktVTB5hmh33RVGHRV0eE2HFrle0GYJo3K1f8Fkw&oe=69877363",
+                    "event": null,
+                    "caption": "abr.ge",
+                    "cta_text": "지금 구매하기",
+                    "cards": [
+                      {
+                        "body": "",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "",
+                        "link_description": null,
+                        "link_url": "https://abr.ge/@kream/fbig?&campaign=Echo_Meta_BAU_Purchase_All_2508_V30d.NP90d&ad_group=RT.V30d.NP90d_ALL_ALL_ALL_2&ad_creative=mind001.new_ST_echo_Shoes_nike_I_0122_x&is_reengagement=1&deeplink_url=kreamapp://search?keyword=%EB%82%98%EC%9D%B4%ED%82%A4+%EB%A7%88%EC%9D%B8%EB%93%9C+001&tab=products&pid=fbig&af_click_lookback=7d&is_retargeting=true&af_reengagement_window=7d&af_force_deeplink=true&advertising_id={adid}&idfa={idfa}&c=Echo_Meta_BAU_Purchase_All_2508_V30d.NP90d&af_adset=RT.V30d.NP90d_ALL_ALL_ALL_2&af_ad=mind001.new_ST_echo_Shoes_nike_I_0122_x",
+                        "title": "눈치 싸움 시작된 나이키 마인드 001 📈",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/616401087_1277263127784339_3687448238150185936_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=03Dx3No4JwQQ7kNvwHa7BLe&_nc_oc=AdkGTU8fk-41wsOiaeXpGz3ixFpJtA6jPUkVRxk4PvT_RyY7vhag_aSrDSsLpKmGpeM&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AftGl7nsjtYZv3-q05-X0JHtnUFX-RINEX-PWJmpEpL0qQ&oe=69875046",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/616603235_2099016337541596_9050391685482434235_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=JCbxz85UoNwQ7kNvwGMUrOl&_nc_oc=Adk2KVlQ5iGOtmYd_jrPWBfBqeMMdySfXNTifF4RI05Sk5O685KElH8YjTNbg0qopC4&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AftsxrVLJ84PHisgeOlVkB6fvsKA1cmflR-IzkKSPe9kQA&oe=69875656",
+                        "watermarked_resized_image_url": ""
+                      },
+                      {
+                        "body": "",
+                        "cta_type": "SHOP_NOW",
+                        "caption": "",
+                        "link_description": null,
+                        "link_url": "https://abr.ge/@kream/fbig?&campaign=Echo_Meta_BAU_Purchase_All_2508_V30d.NP90d&ad_group=RT.V30d.NP90d_ALL_ALL_ALL_2&ad_creative=mind001.new_ST_echo_Shoes_nike_I_0122_x&is_reengagement=1&deeplink_url=kreamapp://search?keyword=%EB%82%98%EC%9D%B4%ED%82%A4+%EB%A7%88%EC%9D%B8%EB%93%9C+001&tab=products&pid=fbig&af_click_lookback=7d&is_retargeting=true&af_reengagement_window=7d&af_force_deeplink=true&advertising_id={adid}&idfa={idfa}&c=Echo_Meta_BAU_Purchase_All_2508_V30d.NP90d&af_adset=RT.V30d.NP90d_ALL_ALL_ALL_2&af_ad=mind001.new_ST_echo_Shoes_nike_I_0122_x",
+                        "title": "눈치 싸움 시작된 나이키 마인드 001 📈",
+                        "cta_text": "Shop Now",
+                        "video_hd_url": null,
+                        "video_preview_image_url": null,
+                        "video_sd_url": null,
+                        "watermarked_video_hd_url": null,
+                        "watermarked_video_sd_url": null,
+                        "image_crops": [],
+                        "original_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/616707336_1309377927616346_1338413038243438050_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=Qz35CtMgiB0Q7kNvwETQJfz&_nc_oc=AdnB2V6vn7re8d0FWkBrlRx2WTLo47rEC5ytqJoMAmfUPqkEGi7k0imAjJq-VmDygBw&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_Afsy7-FyoRCRXi7Bu9lR0etsyIBr_y_FbHPk3XeSaLKIpg&oe=69875860",
+                        "resized_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/616080556_1218856789606809_3020191253153955377_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=_atoRtJtW-AQ7kNvwHtKQV7&_nc_oc=AdnR7wUmamObLkJTevNjOXJEPBTR0M9PnnR_qVoQdib-6qZDCHIge0llZNqglipuIeg&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AftoAQ2i-mdkCUHbjZdWpL1LKGwgjPVp4S4GONH9oVXLnA&oe=69876241",
+                        "watermarked_resized_image_url": ""
+                      }
+                    ],
+                    "body": {
+                      "text": "{{product.brand}}"
+                    },
+                    "cta_type": "SHOP_NOW",
+                    "display_format": "DCO",
+                    "link_description": "{{product.description}}",
+                    "link_url": "https://abr.ge/@kream/fbig?&campaign=Echo_Meta_BAU_Purchase_All_2508_V30d.NP90d&ad_group=RT.V30d.NP90d_ALL_ALL_ALL_2&ad_creative=mind001.new_ST_echo_Shoes_nike_I_0122_x&is_reengagement=1&deeplink_url=kreamapp://search?keyword=%EB%82%98%EC%9D%B4%ED%82%A4+%EB%A7%88%EC%9D%B8%EB%93%9C+001&tab=products&pid=fbig&af_click_lookback=7d&is_retargeting=true&af_reengagement_window=7d&af_force_deeplink=true&advertising_id={adid}&idfa={idfa}&c=Echo_Meta_BAU_Purchase_All_2508_V30d.NP90d&af_adset=RT.V30d.NP90d_ALL_ALL_ALL_2&af_ad=mind001.new_ST_echo_Shoes_nike_I_0122_x",
+                    "images": [],
+                    "page_categories": [
+                      "App page"
+                    ],
+                    "page_like_count": 12321,
+                    "title": "{{product.name}}",
+                    "videos": [],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": true,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "KREAM",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": false,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1770019200,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "MESSENGER",
+                    "THREADS"
+                  ],
+                  "start_date": 1769068800,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          },
+          {
+            "node": {
+              "collated_results": [
+                {
+                  "ad_archive_id": "683523504597270",
+                  "collation_count": 1,
+                  "collation_id": "1416160959409687",
+                  "page_id": "679733835228513",
+                  "snapshot": {
+                    "branded_content": null,
+                    "page_id": "679733835228513",
+                    "page_is_deleted": false,
+                    "page_profile_uri": "https://www.facebook.com/61576355263726/",
+                    "root_reshared_post": null,
+                    "byline": "",
+                    "disclaimer_label": null,
+                    "page_name": "Idol Prank Video Call & Chat",
+                    "page_profile_picture_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/503836446_1268219958055008_5674811058895934425_n.jpg?stp=dst-jpg_s60x60_tt6&_nc_cat=101&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=APlBTYQiCx4Q7kNvwHe6Ymv&_nc_oc=AdkDhobLooUMDezOCFrvmTgZRK6KemvBddP5RD29XKSu3XUA6tvqBAwxCiqAwP2Mgq8&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AfugmRKaXglAS10KQUBzLqnCODcBEcXADtbEwqci6hvxdQ&oe=698755AE",
+                    "event": null,
+                    "caption": "play.google.com",
+                    "cta_text": "지금 설치",
+                    "cards": [],
+                    "body": null,
+                    "cta_type": "INSTALL_MOBILE_APP",
+                    "display_format": "VIDEO",
+                    "link_description": null,
+                    "link_url": "http://play.google.com/store/apps/details?id=com.fakecall.idol.prank.video.call.chat",
+                    "images": [],
+                    "page_categories": [
+                      "Công ty truyền thông/tin tức"
+                    ],
+                    "page_like_count": 48,
+                    "title": null,
+                    "videos": [
+                      {
+                        "video_hd_url": null,
+                        "video_preview_image_url": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.35426-6/504133401_1121211360039982_8782697620069913877_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c53f8f&_nc_ohc=QQyofJVcIZMQ7kNvwG4EBEn&_nc_oc=AdnRsLr7jewWiukfsc_5ymMjnc8WLA4UJX1hBMi6m5sOMdCksUWNaZNySYX7-WT8ViQ&_nc_zt=14&_nc_ht=scontent-icn2-1.xx&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&oh=00_AfuMmA9IUeqbio8Z4njmoKA5lhOYyh947R6gBfstkHAtMQ&oe=6987654A",
+                        "video_sd_url": "https://video-icn2-1.xx.fbcdn.net/o1/v/t2/f2/m69/AQN6zSZfl3yIb-o_Uq4ADySkKAhmk1u57oW9ZQhFFSC5JtZX6tuqAIVfFnVrnf01Jjt8s4t6hMmS_alHspq2eVoq.mp4?strext=1&_nc_cat=102&_nc_sid=8bf8fe&_nc_ht=video-icn2-1.xx.fbcdn.net&_nc_ohc=QZsY9FZ8jQwQ7kNvwFbiORA&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MzMwNDEyMjc3MzA1ODQ4NywiYXNzZXRfYWdlX2RheXMiOjM0MSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjIwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=RbVt4XJazZLfwCVcXXcp-A&_nc_zt=28&oh=00_AfuMMZz5kmDdpUpayndHKRFSYsmfEm6a6fAhddYl9SbxeA&oe=69878454",
+                        "watermarked_video_hd_url": "",
+                        "watermarked_video_sd_url": ""
+                      }
+                    ],
+                    "is_reshared": false,
+                    "extra_links": [],
+                    "extra_texts": [],
+                    "extra_images": [],
+                    "extra_videos": [],
+                    "country_iso_code": null,
+                    "brazil_tax_id": null,
+                    "additional_info": null,
+                    "ec_certificates": []
+                  },
+                  "is_active": false,
+                  "has_user_reported": false,
+                  "report_count": null,
+                  "menu_items": [],
+                  "state_media_run_label": null,
+                  "page_is_deleted": false,
+                  "page_name": "Idol Prank Video Call & Chat",
+                  "impressions_with_index": {
+                    "impressions_text": null,
+                    "impressions_index": -1
+                  },
+                  "gated_type": "ELIGIBLE",
+                  "categories": [
+                    "UNKNOWN"
+                  ],
+                  "is_aaa_eligible": true,
+                  "contains_digital_created_media": false,
+                  "reach_estimate": null,
+                  "currency": "",
+                  "spend": null,
+                  "end_date": 1754463600,
+                  "publisher_platform": [
+                    "FACEBOOK",
+                    "INSTAGRAM",
+                    "AUDIENCE_NETWORK",
+                    "MESSENGER"
+                  ],
+                  "start_date": 1749193200,
+                  "contains_sensitive_content": false,
+                  "total_active_time": null,
+                  "regional_regulation_data": {
+                    "finserv": {
+                      "is_deemed_finserv": false,
+                      "is_limited_delivery": false
+                    },
+                    "tw_anti_scam": {
+                      "is_limited_delivery": false
+                    }
+                  },
+                  "hide_data_status": "NONE",
+                  "fev_info": null,
+                  "ad_id": null,
+                  "targeted_or_reached_countries": []
+                }
+              ],
+              "__typename": "CollatedSearchResults"
+            },
+            "cursor": null
+          }
+        ],
+        "page_info": {
+          "end_cursor": "AQHS-kN8eUNjnPZ8ZL8zG7J4ExVh71dNZo0Nsd2sWAaZwpYjuJn7rUNhNhRYSFTmFMXL",
+          "has_next_page": true
+        }
+      }
+    }
+  },
+  "extensions": {
+    "server_metadata": {
+      "request_start_time_ms": 1770100669053,
+      "time_at_flush_ms": 1770100669936
+    },
+    "is_final": true
+  }
+}

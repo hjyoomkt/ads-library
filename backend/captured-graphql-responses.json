@@ -1,0 +1,2043 @@
+[
+  {
+    "friendlyName": "useAdLibraryTypeaheadSuggestionDataSourceQuery",
+    "data": {
+      "data": {
+        "ad_library_main": {
+          "typeahead_suggestions": {
+            "keyword_results": [],
+            "page_results": [],
+            "location_results": [],
+            "exact_phrase_results": "\"d\""
+          }
+        }
+      },
+      "extensions": {
+        "server_metadata": {
+          "request_start_time_ms": 1770055902146,
+          "time_at_flush_ms": 1770055902302
+        },
+        "is_final": true
+      }
+    }
+  },
+  {
+    "friendlyName": "useAdLibraryTypeaheadSuggestionDataSourceQuery",
+    "data": {
+      "data": {
+        "ad_library_main": {
+          "typeahead_suggestions": {
+            "keyword_results": [],
+            "page_results": [
+              {
+                "page_id": "1414322598788951",
+                "category": "여행사",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/266330400_3998374843717034_8853124093038273236_n.png?stp=dst-png_s100x100&_nc_cat=109&ccb=1-7&_nc_sid=418b77&_nc_ohc=J1XFggUfunkQ7kNvwHYPnOR&_nc_oc=AdmDdoVpfl2K3yldhkPsTCTk1wej47KKEv_N5a72kepDquH0rhDPjrGtmi5CTI5yjeg&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=T-Gg0ZaXJlR1aymad3XEpQ&oh=00_AfsB1z4SdYy8cgW0tW8BKUr9MtPLpjnYpkDTQ7Ke6HNPjQ&oe=6986BA61",
+                "likes": 762083,
+                "verification": "NOT_VERIFIED",
+                "name": "DLTViaggi",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": "dltviaggi",
+                "ig_followers": 159460,
+                "ig_verification": false,
+                "page_alias": "DLTViaggi",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "426784938154184",
+                "category": "비영리 단체",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/611160627_1179854947650522_4600156404680800935_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=107&ccb=1-7&_nc_sid=418b77&_nc_ohc=H3z3dzxGafEQ7kNvwGJ_G7Y&_nc_oc=AdnpRV8thFxMirkCBGSk-lgJJcTFhjsGpM2BNiJzdlPLphcVRI-xhmqTkXn7uwfDN6s&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=T-Gg0ZaXJlR1aymad3XEpQ&oh=00_AfubWIUq_ffFxE61L2AxqDSpwnWqb1-WsuJoFHx1zYOOVQ&oe=6986A8C8",
+                "likes": 243635,
+                "verification": "NOT_VERIFIED",
+                "name": "Fundacja Dom dla Kundelka",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": "domdlakundelka",
+                "ig_followers": 4638,
+                "ig_verification": false,
+                "page_alias": "fundacjadomdlakundelka",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "35632844593",
+                "category": "의류 회사",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/399353861_726932672799854_7692908267966795695_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=104&ccb=1-7&_nc_sid=418b77&_nc_ohc=xSTB2-2-6rMQ7kNvwHJkjk_&_nc_oc=Adlw_M-XaH9Of00T2xIkk2KO2MQuzYXDI7vu7qqH9Ey5f_sh8DgWWd6vLpsQOcvanPE&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=T-Gg0ZaXJlR1aymad3XEpQ&oh=00_AfuwMqmIak55IQOTU1CaZhWQccnydf3LfeskHb-lY1-nsA&oe=6986BF14",
+                "likes": 159868,
+                "verification": "NOT_VERIFIED",
+                "name": "DLYNR",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": "dlynrmilano",
+                "ig_followers": 218572,
+                "ig_verification": true,
+                "page_alias": "dlynr.page",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "131102940279319",
+                "category": "주유소",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/517766913_1219686680189863_9091010469846261172_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=1&ccb=1-7&_nc_sid=418b77&_nc_ohc=qdsbSgHb2ekQ7kNvwHLYTjU&_nc_oc=AdmwqjCH31QB_kggAO1vZ0Vo_y4mxkawLRJReifcGCb8vfHCvSt-ceVF4CvwEdP9ORM&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=T-Gg0ZaXJlR1aymad3XEpQ&oh=00_Afv7nt0jMvn6hYQkDEiUXnrQGS10OGkBo-eMVLHbpBkPaQ&oe=6986CB9F",
+                "likes": 480627,
+                "verification": "NOT_VERIFIED",
+                "name": "ORLEN dla Ciebie",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": "orlendlaciebie",
+                "ig_followers": 15522,
+                "ig_verification": false,
+                "page_alias": "orlendlaciebie",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "100750620016548",
+                "category": "의료 회사",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/453731912_915879540572860_8902098700544501429_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=105&ccb=1-7&_nc_sid=418b77&_nc_ohc=21RPtiJ69LkQ7kNvwEnezz5&_nc_oc=Admokts0I3zFLR6-3U1_L0bue6to_bWcVvrlYcsA_Km6zC4WnUsQI3tpDWYkvpQb2qg&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=T-Gg0ZaXJlR1aymad3XEpQ&oh=00_AftSvQeeB5pyJLcT1gfRjFVEOoI2KHb2KhRe2jHPlzxicQ&oe=6986C74A",
+                "likes": 118077,
+                "verification": "NOT_VERIFIED",
+                "name": "Diagnostyka - więcej dla zdrowia",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": "diagnostyka.laboratoria",
+                "ig_followers": 6704,
+                "ig_verification": false,
+                "page_alias": "diagnostyka.laboratoria",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "91346559231",
+                "category": "정치 단체",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/271992568_308005158023183_8793983288744018409_n.png?stp=dst-png_s100x100&_nc_cat=110&ccb=1-7&_nc_sid=418b77&_nc_ohc=ZFO8EOIXwRMQ7kNvwEU8ykT&_nc_oc=AdlXJfDtUDUSyHo5UnnBdoKm1cP3pkGyO8Jmc7RtkggU-C2yOCjn4sadm0XaDTXyow8&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=T-Gg0ZaXJlR1aymad3XEpQ&oh=00_AfsNjUkVZBSEZyIoiXYCU4LeDEmMeeEwBZURiwEwkz-I-Q&oe=6986D165",
+                "likes": 94739,
+                "verification": "NOT_VERIFIED",
+                "name": "Democratic Legislative Campaign Committee - DLCC",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": "dlcc",
+                "ig_followers": 21959,
+                "ig_verification": true,
+                "page_alias": "theDLCC",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "209172145787733",
+                "category": "제품/서비스",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/356020114_641496081348934_2229891736564038879_n.png?stp=dst-png_s100x100&_nc_cat=101&ccb=1-7&_nc_sid=418b77&_nc_ohc=SaSQqwZLXokQ7kNvwF7FzZs&_nc_oc=AdmnzdqiwZDPRzwvJwQaakIO7q0HxQJys8hWRqYvg539x9IHqyiktQqBiqFK91eJiWk&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=T-Gg0ZaXJlR1aymad3XEpQ&oh=00_AftKBlTyZSIN2Y8G_Ytt0C5OHNE_73OsWerc2Wqq-Fcqpg&oe=6986B445",
+                "likes": 71917,
+                "verification": "NOT_VERIFIED",
+                "name": "Remington dla Kobiet",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": "remingtonstyle",
+                "ig_followers": 21155,
+                "ig_verification": false,
+                "page_alias": "RemingtonPolska",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "662014927247346",
+                "category": "블로거",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/420089362_955972416092043_1791489552354186102_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=105&ccb=1-7&_nc_sid=418b77&_nc_ohc=4oBFx_BMxQ4Q7kNvwHuu5NE&_nc_oc=AdlnVByqjeqXqdda5f3xpx-INkVIompK6f5gI9bXiIDz8GZ8Y6Nl6CrtQQhLwl2M8W8&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=T-Gg0ZaXJlR1aymad3XEpQ&oh=00_Aft4XE5DM-2F8bA6HCxiPQ0MJpc8Sjf2PAzTWoxIknO3ZA&oe=6986B005",
+                "likes": 63884,
+                "verification": "NOT_VERIFIED",
+                "name": "Godzina dla siebie",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": "godzinadlasiebie",
+                "ig_followers": 133921,
+                "ig_verification": false,
+                "page_alias": "szukamterapeuty",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "102577806464800",
+                "category": "랭귀지 스쿨",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/326536469_729657431889210_8532677174729090536_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=105&ccb=1-7&_nc_sid=418b77&_nc_ohc=vhDl1-ZgWmIQ7kNvwG-KGRz&_nc_oc=AdlMQ6abAx7V0n9zX3GItB142qufs3tCwcLCm7xDFPfr2-8mdhdxwctBKrFKKOYKt_A&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=T-Gg0ZaXJlR1aymad3XEpQ&oh=00_AfuYWJO-mbJogkem2TSJA03WtXzWLxy-3hCuhvcLN9Zdnw&oe=6986BB0F",
+                "likes": 41145,
+                "verification": "NOT_VERIFIED",
+                "name": "Early Stage angielski dla dzieci i młodzieży",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": "early_stage",
+                "ig_followers": 8989,
+                "ig_verification": false,
+                "page_alias": "earlystage",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "100958279167471",
+                "category": "도서",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/272200102_100960069167292_4865585670235509242_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=102&ccb=1-7&_nc_sid=418b77&_nc_ohc=SmyBl2oSEBgQ7kNvwEaQey4&_nc_oc=AdmNRQPipndYEe_dDNOO0q74E26t54viFCCZI3WSiEH2wY8pkowU0KEGJkBkJ8n7gwU&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=T-Gg0ZaXJlR1aymad3XEpQ&oh=00_Afv6GjwqyDfB7ScCA9iD-t32CNo1zAqWuPDm8XkT_jXylQ&oe=6986C354",
+                "likes": 9778,
+                "verification": "NOT_VERIFIED",
+                "name": "Dreame for DL3",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": null,
+                "ig_followers": null,
+                "ig_verification": null,
+                "page_alias": "",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "434225653303734",
+                "category": "공공 및 정부 기관",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/360091931_679056384262144_5195836251300142070_n.jpg?stp=dst-jpg_p100x100_tt6&_nc_cat=107&ccb=1-7&_nc_sid=418b77&_nc_ohc=MX8dU52wsToQ7kNvwHK3dPb&_nc_oc=AdmW41kr9VhAVRgr4SFwvYeV9zTKngx7w73a3xm-6YRgMKQyJoZqWswCvRdhesZjKD4&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=T-Gg0ZaXJlR1aymad3XEpQ&oh=00_Aft7ms_wUGw2U8Tpn6AC4hJrQ89O48Z9p631snKlDlH41Q&oe=6986AAAC",
+                "likes": 26764,
+                "verification": "NOT_VERIFIED",
+                "name": "Fundusze Europejskie dla Mazowsza",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": "fundusze_ue_dla_mazowsza",
+                "ig_followers": 3169,
+                "ig_verification": false,
+                "page_alias": "MJWPU",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "104393209098391",
+                "category": "일반 치과 의사",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/459214325_493870133490210_5311640628775687331_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=104&ccb=1-7&_nc_sid=418b77&_nc_ohc=IZheMASQVZoQ7kNvwEkxufs&_nc_oc=AdkoJZj5uy_k1U18mla2A041HlF_TmJpa0roN1cR0tlaym0zG7ZlAAKnAXJr_b98brY&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=T-Gg0ZaXJlR1aymad3XEpQ&oh=00_AfthC1bLc6lgCBTfTFi6r71vVVnZwuQ9ftag0SLDE47IEw&oe=6986BB1E",
+                "likes": 6943,
+                "verification": "NOT_VERIFIED",
+                "name": "MyIkigai.pl - szkolenia online dla dentystów",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": "myikigai_edu",
+                "ig_followers": 7011,
+                "ig_verification": false,
+                "page_alias": "myikigaipl",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "108570858778095",
+                "category": "애완용품",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/322691158_1118578382189022_6066668888080123013_n.jpg?stp=dst-jpg_p100x100_tt6&_nc_cat=104&ccb=1-7&_nc_sid=418b77&_nc_ohc=V3txaEc1jXEQ7kNvwGwagE6&_nc_oc=Adlj165XHdl1LzzBKcu9or-zI-VMhQj84aI9BhIcCkN0Zjo-D-BagmTBAPIbAa0qNxw&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=T-Gg0ZaXJlR1aymad3XEpQ&oh=00_AfvyWYqiTvSPfavnB9kkF9kHxkWtCsfEaEErhch-bl0E7g&oe=6986C338",
+                "likes": 22316,
+                "verification": "NOT_VERIFIED",
+                "name": "DlaKociarzy.pl",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": "dlakociarzy.pl",
+                "ig_followers": 6722,
+                "ig_verification": false,
+                "page_alias": "DlaKociarzy",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "109816838364506",
+                "category": "의류 매장",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/626555918_886021537528210_2091357983220054787_n.jpg?stp=dst-jpg_p100x100_tt6&_nc_cat=103&ccb=1-7&_nc_sid=418b77&_nc_ohc=cXnBQJBw3n0Q7kNvwHEt1Dx&_nc_oc=Adn_gtQWn37ZTIgWrj-3Zcw10b6phBdNGhHSqMi3eZVhLx_9zLjjV5YEdNflVBpdBLw&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=T-Gg0ZaXJlR1aymad3XEpQ&oh=00_Afv5dVQksfWffSRam06MpsEqoCVvcNIKNK9ehlD234OLCA&oe=6986AF63",
+                "likes": 14848,
+                "verification": "NOT_VERIFIED",
+                "name": "BUTİK MODY PLUS",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": null,
+                "ig_followers": null,
+                "ig_verification": null,
+                "page_alias": "",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "398551457012704",
+                "category": "의료 회사",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/575105144_1330670299070430_5810422214468307434_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=105&ccb=1-7&_nc_sid=418b77&_nc_ohc=nbHl1Zdj0n4Q7kNvwHbKPBt&_nc_oc=AdkDbkysv9OqvsBW3Scn_uXr98ltVCZ-S6ywtstZ53msgJYjC78n9QK2UMcN5VoEp9A&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=T-Gg0ZaXJlR1aymad3XEpQ&oh=00_Afu3w1KJlm5IGyQhEoO2iEMQSt3Z4uyvCyVeJgHXQYsfzQ&oe=6986B225",
+                "likes": 6121,
+                "verification": "NOT_VERIFIED",
+                "name": "ZnanyLekarz dla świata medycyny",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": null,
+                "ig_followers": null,
+                "ig_verification": null,
+                "page_alias": "znanylekarz.pro",
+                "page_is_deleted": false
+              }
+            ],
+            "location_results": [],
+            "exact_phrase_results": "\"dl\""
+          }
+        }
+      },
+      "extensions": {
+        "server_metadata": {
+          "request_start_time_ms": 1770055902278,
+          "time_at_flush_ms": 1770055902586
+        },
+        "is_final": true
+      }
+    }
+  },
+  {
+    "friendlyName": "useAdLibraryTypeaheadSuggestionDataSourceQuery",
+    "data": {
+      "data": {
+        "ad_library_main": {
+          "typeahead_suggestions": {
+            "keyword_results": [],
+            "page_results": [
+              {
+                "page_id": "45537834198",
+                "category": "댄스 및 나이트 클럽",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/326240079_1529506117533348_6016466306000319182_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=108&ccb=1-7&_nc_sid=418b77&_nc_ohc=U1yTW67wn30Q7kNvwHpM_TH&_nc_oc=Adl2EwTUjVegTHVLSghwiKYYUi7sCIicQPmrupv8zmVWGovSjAj5RUJQgtY4ki-dJ8E&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=4cshJHiLytHfLfuk80xRFw&oh=00_AftNcug4ZcROQi5usQzZKMxWKXidb1-x4HJMne9NoE_xhA&oe=6986A176",
+                "likes": 21625,
+                "verification": "NOT_VERIFIED",
+                "name": "DLQ",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": null,
+                "ig_followers": null,
+                "ig_verification": null,
+                "page_alias": "DLQeventi",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "1826620037624835",
+                "category": "여성 의류 매장",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/347229882_1263303644297848_5100788631205314808_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=109&ccb=1-7&_nc_sid=418b77&_nc_ohc=xA9JRnG5N6EQ7kNvwG-Psfl&_nc_oc=AdnDEUiI8L69QVAhmqOXx9F167BMaDDazb3o_0E_eE1hFxOiTFz5slB9l7DOVAodxuU&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=4cshJHiLytHfLfuk80xRFw&oh=00_AfuixAiU_jg3agprH6Om0Ey59eug3umuCT8gGVxxAsztzg&oe=6986A490",
+                "likes": 526,
+                "verification": "NOT_VERIFIED",
+                "name": "Dietro le Quinte",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": "dietrolequinte.dlq",
+                "ig_followers": 1047,
+                "ig_verification": false,
+                "page_alias": "dietrolq",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "279535638902697",
+                "category": "의류(브랜드)",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/303985488_486507320151533_2646405464807265652_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=109&ccb=1-7&_nc_sid=418b77&_nc_ohc=ZjF2IiYFHxwQ7kNvwE1dEQW&_nc_oc=AdkirWRX6wxJ1OmAlrorCWyu0h4bIc14xCzw3qT88Oe5q1kKQclwr3JErY1oWSnBDp0&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=4cshJHiLytHfLfuk80xRFw&oh=00_AftsteDD7555mWZHVvTfLiLbKOikS3WUt7-ja9m0kJnTrw&oe=6986AE36",
+                "likes": 5605,
+                "verification": "NOT_VERIFIED",
+                "name": "DLQT Co",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": "dlqtco",
+                "ig_followers": 49811,
+                "ig_verification": false,
+                "page_alias": "dlqtco",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "109384637952131",
+                "category": "사업가",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/622866613_1202878965288427_1887756496601719398_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=103&ccb=1-7&_nc_sid=418b77&_nc_ohc=I_d0GtSlyCUQ7kNvwFh1qM7&_nc_oc=AdlktJlHW7O-e_CK1a8VZWqxZDoYfFmPsWm3w7kLjDWIfV2osLMGkFv07G_66QknNAo&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=4cshJHiLytHfLfuk80xRFw&oh=00_AfvPLuN8uVvHYF2XW34SfTspE3w75CYL4CWL6Pdp-vHKEA&oe=6986B86B",
+                "likes": 6540,
+                "verification": "NOT_VERIFIED",
+                "name": "Be Happy gifts CDMX",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": "be_happy_dlqs",
+                "ig_followers": 561,
+                "ig_verification": false,
+                "page_alias": "Behappy.dlqs",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "492504877268665",
+                "category": "프로필",
+                "image_uri": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/420653981_1135676061142071_6451138681275085166_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=110&ccb=7-5&_nc_sid=525117&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=LD8zy8DZ82AQ7kNvwFsgnv9&_nc_oc=AdmkO81URcZK2GjWV1MYkcVzUCUwLrxOthvxF5ZGiUvdJfOoqTSh9uEdmHP2qAF7x28&_nc_zt=24&_nc_ht=scontent-icn2-1.cdninstagram.com&oh=00_AftbKl2iJ5K8BfJzvHLDB-yiSrLIZzcMqxnTkH_T3-_vuw&oe=6986BE38",
+                "likes": null,
+                "verification": "NOT_VERIFIED",
+                "name": "morris.dlq",
+                "country": null,
+                "entity_type": "IG_ADS_IDENTITY",
+                "ig_username": "morris.dlq",
+                "ig_followers": 2326,
+                "ig_verification": false,
+                "page_alias": "",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "100954128057073",
+                "category": "제품/서비스",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/462504649_1096167419185047_9050433667787496996_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=109&ccb=1-7&_nc_sid=418b77&_nc_ohc=vXjenGtpwlkQ7kNvwH9kkKJ&_nc_oc=Admf_AMPdikp7iD35iDtOCoISSTj4eTi3UmvjG-lrGNxyaBTITvJ4MQu5FAq5F8vglM&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=4cshJHiLytHfLfuk80xRFw&oh=00_AfvbGpifncTT2N2t_t-C7e5ATE9ihtP6aF5aAvIqJ_032g&oe=6986B2CD",
+                "likes": 14774,
+                "verification": "NOT_VERIFIED",
+                "name": "القريشي للتجاره العامه",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": "d_lqryshy",
+                "ig_followers": 224,
+                "ig_verification": false,
+                "page_alias": "",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "273312269201202",
+                "category": "동영상 크리에이터",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/482252770_122178215162268463_2099332650463398218_n.jpg?stp=dst-jpg_p100x100_tt6&_nc_cat=101&ccb=1-7&_nc_sid=418b77&_nc_ohc=2kzUBVC2rhAQ7kNvwGuL4U7&_nc_oc=AdkM3lNRf1V1C7XEmYfmP6yRtJh8maYf3_nehlwC_51gyTKzj-dEq2S3eN-ysi-JKGE&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=4cshJHiLytHfLfuk80xRFw&oh=00_Aftp8DPM8cVhlnfRAFR-ubTYOwHPM47X8d4MUWi5pxOvWw&oe=6986AF9A",
+                "likes": 73280,
+                "verification": "NOT_VERIFIED",
+                "name": "Dlq033",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": null,
+                "ig_followers": null,
+                "ig_verification": null,
+                "page_alias": "",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "162197293886655",
+                "category": "뷰티용품 전문점",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/347288864_1235450040440214_2178916821668155853_n.png?stp=dst-png_s100x100&_nc_cat=100&ccb=1-7&_nc_sid=418b77&_nc_ohc=xWEvWgqTZDUQ7kNvwHh_pv_&_nc_oc=AdnQqPbBLMZQW9TQGHk6pA7TrgAamfbVgE36RdiJUSmX8BJlV0m1EdHp-a42RQ3DeeY&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=4cshJHiLytHfLfuk80xRFw&oh=00_AfvCJnunYU2QIUPR2LMkB4gxGjbJq3tNDd_uWetnw2fJpg&oe=6986A578",
+                "likes": 15686,
+                "verification": "NOT_VERIFIED",
+                "name": "DLQ - Cosméticos & Belleza",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": "dlqbelleza",
+                "ig_followers": 9193,
+                "ig_verification": false,
+                "page_alias": "dlqbelleza",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "100482529279174",
+                "category": "미디어",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/386320863_302711569143257_8593166671956388186_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=110&ccb=1-7&_nc_sid=418b77&_nc_ohc=RFq0wmg_WEkQ7kNvwEaj7l_&_nc_oc=AdmeRjtsU59n6p4YyhbRHvZrGLy-90Zqu-57bjOe6kTO4mtuxKCSm18Y-Seu1TKzVqQ&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=4cshJHiLytHfLfuk80xRFw&oh=00_AfuRwCgxjZ7mVYXw8G88PslWirvKCS0Kuhid7h2VqIZeOw&oe=6986B550",
+                "likes": 6153,
+                "verification": "NOT_VERIFIED",
+                "name": "DLQ:Expert",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": null,
+                "ig_followers": null,
+                "ig_verification": null,
+                "page_alias": "",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "351526675394235",
+                "category": "문인",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/454762314_1298782484792138_476355508946117713_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=108&ccb=1-7&_nc_sid=418b77&_nc_ohc=mM1eNJeuaWMQ7kNvwGF2dWg&_nc_oc=AdkBey9XOm7u5NHeplisk1gZkolKrhx-C2-klDifYFwxtS5gjh0XuBQnFTPIoCGIfVs&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=4cshJHiLytHfLfuk80xRFw&oh=00_AfvWVeQ-cDkNp2IGdC3xMJjh4es5rWeRlUCQQpO7FZbJaw&oe=6986D654",
+                "likes": 3171,
+                "verification": "NOT_VERIFIED",
+                "name": "DLQ-Demolee Life Quote",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": "demoleelifequotes",
+                "ig_followers": 0,
+                "ig_verification": false,
+                "page_alias": "DeLiQuot",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "166116646869",
+                "category": "악기",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/277578073_384639343667395_4128322967941727135_n.jpg?stp=dst-jpg_p100x100_tt6&_nc_cat=109&ccb=1-7&_nc_sid=418b77&_nc_ohc=XrdnhdWOwNAQ7kNvwHIeLK_&_nc_oc=AdltgN1A64-YS7cerTc8COASpON505rcgpJmiWW8L86C659h3TWhjizEcaRpZwJ2psA&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=4cshJHiLytHfLfuk80xRFw&oh=00_AftMnD9KYe5XNBDIKqxaI7ytpVBVgQPWQVofPlxU6qFOxA&oe=6986BBD8",
+                "likes": 2859,
+                "verification": "NOT_VERIFIED",
+                "name": "DLQ - KeyB & Legend",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": null,
+                "ig_followers": null,
+                "ig_verification": null,
+                "page_alias": "KeyBLegend",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "293312497204173",
+                "category": "디지털 크리에이터",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t1.6435-1/167791164_512937606365703_5662237922371049887_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=102&ccb=1-7&_nc_sid=418b77&_nc_ohc=pC3mlHR7ly4Q7kNvwG3IR6Y&_nc_oc=Adm5RKwaISlbGJgBcOuLRzfZ7DL1ERUmqcpaXf6d2X7_3lOprrRf7kZ2yvlEaGPrApA&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=4cshJHiLytHfLfuk80xRFw&oh=00_AftnETF5x8oo84e1zorKVSIeO4kotbOF-roqUf68qn1SSQ&oe=69A8649D",
+                "likes": 4856,
+                "verification": "NOT_VERIFIED",
+                "name": "Yami Dlq",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": null,
+                "ig_followers": null,
+                "ig_verification": null,
+                "page_alias": "yamila.luna.56829",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "102474599116699",
+                "category": "개인 블로그",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/386774142_310020288427559_1020594750467758007_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=108&ccb=1-7&_nc_sid=418b77&_nc_ohc=6p3hilWBakQQ7kNvwFWQGWM&_nc_oc=AdnWwNt_PsJo8CYjeIVSozqRdXfuIb_73NHaPTGpmLu_j_pl0wuYHfxBhuULQFQvMTQ&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=4cshJHiLytHfLfuk80xRFw&oh=00_AfuKN0luA7mkdGC8DpfzUFV12oMu5AhTcBNLBb3HhCpdmg&oe=6986C1D0",
+                "likes": 2419,
+                "verification": "NOT_VERIFIED",
+                "name": "DLQ GF - Home of Authentic Bloodlines",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": null,
+                "ig_followers": null,
+                "ig_verification": null,
+                "page_alias": "dlqauthentic",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "105183619205301",
+                "category": "제작자",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/465732821_477219892002300_7670732524552558831_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=103&ccb=1-7&_nc_sid=418b77&_nc_ohc=SXr14hsVJ-UQ7kNvwFPctmS&_nc_oc=AdnkpjNm1SwDszlWHLh4EoQahBYEfCZta0IjePucLH3bbm9553SXfJxkUKiIUebCmoQ&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=4cshJHiLytHfLfuk80xRFw&oh=00_Afv2kclX-Al0HcUiN-1tys1cpEsVBqqUXOGucwLZe7bVLQ&oe=6986B7DE",
+                "likes": 1949,
+                "verification": "NOT_VERIFIED",
+                "name": "DLQ Mirror - Lắp đặt gương led T.P Vinh",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": null,
+                "ig_followers": null,
+                "ig_verification": null,
+                "page_alias": "guong.decor.dlq",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "128802700136162",
+                "category": "제작자",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/465791668_512348005098309_4347439264714943458_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=100&ccb=1-7&_nc_sid=418b77&_nc_ohc=Hfezh9MZKfcQ7kNvwGS6YIf&_nc_oc=AdlE-a4J7-njcjpQ934Rzl-UBZAL7cnp9gJO0uS6Ov-cH9NHIvmFdneN3hdcAN6eEjM&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=4cshJHiLytHfLfuk80xRFw&oh=00_Afs52yreNFfGItxKfmFwVfAT9H4z4a9WmDwQe5TEWpFdzQ&oe=6986D24D",
+                "likes": 1891,
+                "verification": "NOT_VERIFIED",
+                "name": "Xưởng DLQ - Phân phối gương nội thất",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": null,
+                "ig_followers": null,
+                "ig_verification": null,
+                "page_alias": "guong.noi.that.gia.re",
+                "page_is_deleted": false
+              }
+            ],
+            "location_results": [],
+            "exact_phrase_results": "\"dlq\""
+          }
+        }
+      },
+      "extensions": {
+        "server_metadata": {
+          "request_start_time_ms": 1770055902428,
+          "time_at_flush_ms": 1770055902734
+        },
+        "is_final": true
+      }
+    }
+  },
+  {
+    "friendlyName": "useAdLibraryTypeaheadSuggestionDataSourceQuery",
+    "data": {
+      "data": {
+        "ad_library_main": {
+          "typeahead_suggestions": {
+            "keyword_results": [],
+            "page_results": [],
+            "location_results": [],
+            "exact_phrase_results": "\"d\""
+          }
+        }
+      },
+      "extensions": {
+        "server_metadata": {
+          "request_start_time_ms": 1770055903362,
+          "time_at_flush_ms": 1770055903528
+        },
+        "is_final": true
+      }
+    }
+  },
+  {
+    "friendlyName": "useAdLibraryTypeaheadSuggestionDataSourceQuery",
+    "data": {
+      "data": {
+        "ad_library_main": {
+          "typeahead_suggestions": {
+            "keyword_results": [],
+            "page_results": [
+              {
+                "page_id": "599536709901706",
+                "category": "건강/뷰티",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/480788064_122104401092768409_8097137511188730152_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=110&ccb=1-7&_nc_sid=418b77&_nc_ohc=s6n113FLz5kQ7kNvwEgvKQB&_nc_oc=AdkWmXM_sxwKT8enBdnfF5q5WQwzopEe2bbf49arD78CNYmenbnkfpCMLQPvtKjvsGU&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=SJHMNmE52eHp4xWjaSS7Yg&oh=00_Afs-yY9TgoqSpIhhkgY-y_SVukGUrAc8FUORJrdPoRM8NA&oe=6986CF27",
+                "likes": 65,
+                "verification": "NOT_VERIFIED",
+                "name": "⊂トoløł트모ㅇr",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": null,
+                "ig_followers": null,
+                "ig_verification": null,
+                "page_alias": "",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "355966720934228",
+                "category": "건강/뷰티",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/449204734_122152464524131846_8780943309832704956_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=111&ccb=1-7&_nc_sid=418b77&_nc_ohc=qj6uFCns_EgQ7kNvwGBJXkJ&_nc_oc=AdmbZGuzLlWcSdLApK6GbBIHXVuttCWdvA5iqmVTO9kJQt2I8L88jH0HpXyEMAy7qHk&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=SJHMNmE52eHp4xWjaSS7Yg&oh=00_AftIHPXld5V7MzlBeQGP4RZ5rNYu8DQ5BbpM5cu8aCR5lw&oe=6986A480",
+                "likes": 0,
+                "verification": "NOT_VERIFIED",
+                "name": "건강 ⊂トㅇløł트 클己l닉",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": null,
+                "ig_followers": null,
+                "ig_verification": null,
+                "page_alias": "",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "322469470955453",
+                "category": "건강/뷰티",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/598930583_122199920408365384_6130307649235326214_n.png?stp=dst-png_s100x100&_nc_cat=109&ccb=1-7&_nc_sid=418b77&_nc_ohc=eDp9Z_lgfyIQ7kNvwHzYzL3&_nc_oc=AdmblKZ9iz2c2VKP66UdcwBCzhqa3UEgrSMB6lCe9PkjCMu_8OEtTzD75hToTgVe1a0&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=SJHMNmE52eHp4xWjaSS7Yg&oh=00_AfsgPR9v284V7CsZI1w2s3va3iEOl5c_ZA96YwN2oCy9VA&oe=6986D346",
+                "likes": 16,
+                "verification": "NOT_VERIFIED",
+                "name": "붓ㄲΙㅁㅏㅇΙ너th",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": "bukki_minuss",
+                "ig_followers": 14,
+                "ig_verification": false,
+                "page_alias": "",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "957871890742479",
+                "category": "건강/뷰티",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/616826388_122101407309220790_3748191829745323336_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=107&ccb=1-7&_nc_sid=418b77&_nc_ohc=MVZCY7wM-ckQ7kNvwE1RorJ&_nc_oc=Adkg7NnuGy_9fZvrgkRqqsVe_AzLMSn_Vl7G0HI2xvOHG5vCpLEUQ5E529wvIbqQGKE&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=SJHMNmE52eHp4xWjaSS7Yg&oh=00_AfuuiEwy8yAJqESD2bW_wVqW2w6LbVFYg-5jh_zJbCBHAA&oe=6986BA12",
+                "likes": 0,
+                "verification": "NOT_VERIFIED",
+                "name": "우리 ㅇŁ이 건강 지킴이 ",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": null,
+                "ig_followers": null,
+                "ig_verification": null,
+                "page_alias": "",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "106258671818206",
+                "category": "스포츠 팀",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t1.30497-1/453178253_471506465671661_2781666950760530985_n.png?stp=dst-png_s100x100&_nc_cat=1&ccb=1-7&_nc_sid=7565cd&_nc_ohc=tNiY9GgxkcgQ7kNvwHBuAEv&_nc_oc=Adkn_won7aPr3Tjf__pgIgomulbKhQd9XdMe6yZWrfyyVRl7_Mm-FqpzWJzciIEc1b8&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&oh=00_AfsblmO6pL5EyWSnxVN3EwR4Jn6U71yaK8uaZLkv8i-fjw&oe=69A863BA",
+                "likes": 0,
+                "verification": "NOT_VERIFIED",
+                "name": "ㅇㅇ",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": "abella__skin",
+                "ig_followers": 43097,
+                "ig_verification": false,
+                "page_alias": "",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "834874156383542",
+                "category": "건강/뷰티",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/582968577_2873244163053172_3813230288616515387_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=104&ccb=1-7&_nc_sid=418b77&_nc_ohc=gOcQocJxAtEQ7kNvwHI6rzY&_nc_oc=AdmMRt9-C_CTMfKnrWwHyv4mmvvxKkvi7t68jF8kXWQ1qnzDBg2n_ST8YExPqHYImMs&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=SJHMNmE52eHp4xWjaSS7Yg&oh=00_AfsN25CBm0-ApXgbhBxEqS4FNFwZgfUUv6WbaNfhyiCpKg&oe=6986B932",
+                "likes": 0,
+                "verification": "NOT_VERIFIED",
+                "name": "건강Ol 최ヱㅇF",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": null,
+                "ig_followers": null,
+                "ig_verification": null,
+                "page_alias": "",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "1460390420873093",
+                "category": "커뮤니티",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/348448824_794843848876536_6533513090685657833_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=102&ccb=1-7&_nc_sid=418b77&_nc_ohc=0Bho_fRWF7gQ7kNvwGUFEyI&_nc_oc=AdniEx8XS8CyDP229Uk_2l-55TVj9bvVWTgGLzmE9mNpwF-XpemjtX8hs2bpt6wnMUQ&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=SJHMNmE52eHp4xWjaSS7Yg&oh=00_AfudjFxuSDDfHWXANHy24-cDwzZm-hOQEhBnYfA21yC_xQ&oe=6986A921",
+                "likes": 69162,
+                "verification": "NOT_VERIFIED",
+                "name": "필름",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": null,
+                "ig_followers": null,
+                "ig_verification": null,
+                "page_alias": "lossfilm",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "837138486153429",
+                "category": "건강/뷰티",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/576715565_2858040227906899_1878705862314873403_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=100&ccb=1-7&_nc_sid=418b77&_nc_ohc=RBO4d_0F2Z0Q7kNvwHBRkWV&_nc_oc=AdkFZf8WWLDnH8dC-jZAKLCtYjK_Ty1MzwHn88ucCoWSOR_LQLMxlApxC9Kz5UZv3rE&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=SJHMNmE52eHp4xWjaSS7Yg&oh=00_Afs43pXNnpHKAwq03V3nhgK2zh__jWUy_nFsaMPQCb8ZGg&oe=6986B8AA",
+                "likes": 0,
+                "verification": "NOT_VERIFIED",
+                "name": "건강ㅇl ㅍıøłㄴr",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": null,
+                "ig_followers": null,
+                "ig_verification": null,
+                "page_alias": "",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "686072804584919",
+                "category": "건강/뷰티",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/500283173_2665826443794946_8711379655672248770_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=106&ccb=1-7&_nc_sid=418b77&_nc_ohc=YXXgNkbbluMQ7kNvwFf_KAi&_nc_oc=AdnPh7BeYTks8gRdBh6dOPnCVoQyI8l6CdQniCQ9bS7Wi32fGTTqQxJWxmVfZ7rjGhw&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=SJHMNmE52eHp4xWjaSS7Yg&oh=00_AfsEWjG-3Cuz4srCTX2IAEX3WgljYVP_AmQEaRT-euo27g&oe=6986CA24",
+                "likes": 0,
+                "verification": "NOT_VERIFIED",
+                "name": "근육ㅇl 답이⊂ト",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": null,
+                "ig_followers": null,
+                "ig_verification": null,
+                "page_alias": "",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "279605755464185",
+                "category": "지역 비즈니스",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/366578419_727780356059292_8595753633458505603_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=105&ccb=1-7&_nc_sid=418b77&_nc_ohc=vkNAyT1unNsQ7kNvwGDouT1&_nc_oc=AdkdWddB_YgnFV9Lm-Q3ViXxMd65LeonCzvKXoxrO7Nqn-MQk-DMHcBmUvJ3JB0OT3o&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=SJHMNmE52eHp4xWjaSS7Yg&oh=00_AfuqzCZK0ZT9gO-IaLNQ2DvIH-xyxArLBNBfYeZ1D8AMoA&oe=6986AFD3",
+                "likes": 11047,
+                "verification": "NOT_VERIFIED",
+                "name": "ㅇㅇ",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": null,
+                "ig_followers": null,
+                "ig_verification": null,
+                "page_alias": "rvpalace",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "1809831436009947",
+                "category": "미디어/뉴스 기업",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/301697589_391594069788860_7472726965679091562_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=107&ccb=1-7&_nc_sid=418b77&_nc_ohc=hmqNLJXzpUQQ7kNvwHZh3WU&_nc_oc=AdlrJksG2GJ-O9MI1mVDf6cVmV1-8GnUU5OBL-d5nGuXdSW2wGgKb3v-RhUCK2RMtKY&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=SJHMNmE52eHp4xWjaSS7Yg&oh=00_Afu-IKLEBY_U3xnWICz4mxyzA8_gaS_NF7HG61NStDdtSQ&oe=6986C7F8",
+                "likes": 2954,
+                "verification": "NOT_VERIFIED",
+                "name": "ㅇ1ㅇ",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": null,
+                "ig_followers": null,
+                "ig_verification": null,
+                "page_alias": "",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "185248291686476",
+                "category": "커뮤니티",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/296030761_358695653099922_3796339842870124205_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=111&ccb=1-7&_nc_sid=418b77&_nc_ohc=YlNzR7jgt1sQ7kNvwGhQmPB&_nc_oc=Adk3jntk1-WLChHVDm_c3x3_OGkBPxaozgiLzXQCqz-VAjuffyvmnPRfrPiV53fNAyg&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=SJHMNmE52eHp4xWjaSS7Yg&oh=00_AfvChA2ahoA32pLwQ6Ms5-iN7fjO4Brz79681XQWydl42A&oe=6986CD4B",
+                "likes": 2580,
+                "verification": "NOT_VERIFIED",
+                "name": "뀨 ㅇㅅㅇ",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": null,
+                "ig_followers": null,
+                "ig_verification": null,
+                "page_alias": "GGYU030",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "658602330895511",
+                "category": "아티스트",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t1.6435-1/162511005_128911895902747_2533808909730198550_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=103&ccb=1-7&_nc_sid=418b77&_nc_ohc=l2Dy9Q4k99QQ7kNvwGLeia_&_nc_oc=AdlRGhxjprTwQYZJJrLO1hnHjhqQBpzV5iqpwEAQtbfyezA5_HKt-4Ehm3ol0Hy_Zbc&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=SJHMNmE52eHp4xWjaSS7Yg&oh=00_AfvDRybzXxLUw6iNT3tkBL8uKJIw3CXzNqyyQyrwL72G-w&oe=69A84DA7",
+                "likes": 2254,
+                "verification": "NOT_VERIFIED",
+                "name": "ㅇㅁㅅ",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": null,
+                "ig_followers": null,
+                "ig_verification": null,
+                "page_alias": "osqtr",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "107091214559436",
+                "category": "TV 채널",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/311452114_794293275158800_2067492945586931334_n.png?stp=dst-png_p100x100&_nc_cat=101&ccb=1-7&_nc_sid=418b77&_nc_ohc=0DF0Txb-nC0Q7kNvwGX6ET5&_nc_oc=AdlYaBvZNpHLrlif619HlQ1-ajRRP0YoBUte_M6VZf8-ZSo93kRszzjcsvCopJhxb4A&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=SJHMNmE52eHp4xWjaSS7Yg&oh=00_AfsobMEXbJ3SIaxV7-8wM4hoaqio5RB81kslWzyqn4d9vg&oe=6986BDC2",
+                "likes": 2913,
+                "verification": "NOT_VERIFIED",
+                "name": "ㅇㄹㅋㅋㅋ",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": null,
+                "ig_followers": null,
+                "ig_verification": null,
+                "page_alias": "",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "1557532854550325",
+                "category": "뉴스 및 미디어 웹사이트",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/298919147_393985579538512_4738825864823913937_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=109&ccb=1-7&_nc_sid=418b77&_nc_ohc=B6WbQSMBchEQ7kNvwE-tTk9&_nc_oc=AdnMEQQMXgp8yh3iSaqRBysWelFz7dFiD9JaQzyIzgX-8X-_LtecOpxzbtpviW_98FE&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=SJHMNmE52eHp4xWjaSS7Yg&oh=00_AfsF8UcARbRW6eeTAafvFFuNcHCpldPr3wI7ph-2u8EfOA&oe=6986CD7D",
+                "likes": 2231,
+                "verification": "NOT_VERIFIED",
+                "name": "트머치 ㅇㄱㄹㅇ",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": null,
+                "ig_followers": null,
+                "ig_verification": null,
+                "page_alias": "tmuchinfo",
+                "page_is_deleted": false
+              }
+            ],
+            "location_results": [],
+            "exact_phrase_results": "\"ㅇ\""
+          }
+        }
+      },
+      "extensions": {
+        "server_metadata": {
+          "request_start_time_ms": 1770055903745,
+          "time_at_flush_ms": 1770055903958
+        },
+        "is_final": true
+      }
+    }
+  },
+  {
+    "friendlyName": "useAdLibraryTypeaheadSuggestionDataSourceQuery",
+    "data": {
+      "data": {
+        "ad_library_main": {
+          "typeahead_suggestions": {
+            "keyword_results": [],
+            "page_results": [
+              {
+                "page_id": "113234875368553",
+                "category": "아티스트",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t1.6435-1/104952265_4338948719463793_5110667088628063523_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=100&ccb=1-7&_nc_sid=418b77&_nc_ohc=4R-qZe8QL6MQ7kNvwEzWUrv&_nc_oc=AdnqMhJT0GJaiOuHm0Z-VvnEwfC8Iip8kt485xa8n28QhvOF4Ny23YKbVOCjKxRzTmE&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=GHUqoOi5vetUOVFa_Z46PQ&oh=00_AfvQxNpVyyfKJvtkkDDeWkul3YHoCsnJEfTtDpqZ2HwIww&oe=69A8700F",
+                "likes": 27266449,
+                "verification": "BLUE_VERIFIED",
+                "name": "Lee Minho (이민호)",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": null,
+                "ig_followers": null,
+                "ig_verification": null,
+                "page_alias": "OfficialLeeMinho",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "142483549190013",
+                "category": "배우",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t1.6435-1/163136943_289034015922941_2939835343007820175_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=104&ccb=1-7&_nc_sid=418b77&_nc_ohc=6u2C3L8TgZEQ7kNvwHtUXZm&_nc_oc=AdnnxjjUoqkWh_RQhes_XisKTV34xIV42P-n9q0uZGwix-mANIrvYh0aMNTDhHAf2YA&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=GHUqoOi5vetUOVFa_Z46PQ&oh=00_Afs8twr6hMNbMptuH_Tc2qmEq3Z2tv3mn1SC0hjvuBkz0A&oe=69A844C2",
+                "likes": 3614583,
+                "verification": "BLUE_VERIFIED",
+                "name": "Lee Joongi (이준기)",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": null,
+                "ig_followers": null,
+                "ig_verification": null,
+                "page_alias": "OfficialLeeJoongi",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "227727060761684",
+                "category": "아티스트",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/258867831_481563193336979_1631726358864355454_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=102&ccb=1-7&_nc_sid=418b77&_nc_ohc=blFoMFnds_EQ7kNvwF9kEAo&_nc_oc=Admw7r6hL7fJz9TU0uPwRBSkH4hnm_-YtqSnz14vEeB0iAh5i5INFTO8WyHhY8LOLAk&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=GHUqoOi5vetUOVFa_Z46PQ&oh=00_AfvfCpMnVkEb9b4cfOHZOGnMkJ2Kvt2dTMlmyZsJoNAqEQ&oe=6986A32E",
+                "likes": 3143712,
+                "verification": "BLUE_VERIFIED",
+                "name": "이동욱",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": null,
+                "ig_followers": null,
+                "ig_verification": null,
+                "page_alias": "OfficialLeeDongWook",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "677726098911413",
+                "category": "가구 매장",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/386653587_711427744348162_1645778511341999255_n.png?stp=dst-png_s100x100&_nc_cat=104&ccb=1-7&_nc_sid=418b77&_nc_ohc=2n8ofCfUGhcQ7kNvwEWP9h0&_nc_oc=AdmJEWFO8rTsNf_vCzLWq95A1DQ7AkQRHrmth4QMcEnEEeCUrbpxBLkRqQJJOQycDiw&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=GHUqoOi5vetUOVFa_Z46PQ&oh=00_AftGKmg5KF2KNw1YtGwAVbPgygcDHrtvok_A1b4jsj0tTA&oe=6986B9C7",
+                "likes": 34145617,
+                "verification": "BLUE_VERIFIED",
+                "name": "IKEA 이케아",
+                "country": "KR",
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": "ikeakr",
+                "ig_followers": 402865,
+                "ig_verification": true,
+                "page_alias": "IKEA.kr",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "448357688528908",
+                "category": "건강/뷰티",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/292286378_433055365498634_5734172254217256532_n.png?stp=dst-png_s100x100&_nc_cat=110&ccb=1-7&_nc_sid=418b77&_nc_ohc=UbtpquaYPf8Q7kNvwE6jK20&_nc_oc=AdlFJEf_YJ2AuKHTJhHFkw77R7BhS9EmU2jK_CgEckRq3-ljZsRDq8bq-jdD7Fqu5eg&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=GHUqoOi5vetUOVFa_Z46PQ&oh=00_Aftg9p4zst-JLaSXR4b4-gEEheLXyHwnpCSRNlRYVp-CPw&oe=6986B477",
+                "likes": 8700,
+                "verification": "NOT_VERIFIED",
+                "name": "이즈앤트리",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": "isntree_kr",
+                "ig_followers": 34777,
+                "ig_verification": false,
+                "page_alias": "isntree",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "182368861838705",
+                "category": "리테일 회사",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/618493385_1320434040113731_2480815268457705137_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=108&ccb=1-7&_nc_sid=418b77&_nc_ohc=FSCIlWXfc_8Q7kNvwHbj2Vy&_nc_oc=Adls-U5VIAdlFxHPC8u_q5101MbaNlOnM79ympj0X4MYIISCJ0EVq70nHAHcAeWVZX4&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=GHUqoOi5vetUOVFa_Z46PQ&oh=00_AfsS_q9uKQWp3YChyWECc5dr-WWmX2DG6255Zt-kOnoPRQ&oe=6986A5F2",
+                "likes": 972760,
+                "verification": "BLUE_VERIFIED",
+                "name": "이마트",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": "emartstore",
+                "ig_followers": 886629,
+                "ig_verification": true,
+                "page_alias": "emartcompany",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "161251538133681",
+                "category": "동영상 크리에이터",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/293471549_455982843017111_2163202608280123454_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=1&ccb=1-7&_nc_sid=418b77&_nc_ohc=U4as25xWEBMQ7kNvwEduHke&_nc_oc=AdnDwnD5zP9YtgEXx1y9JX-cf2wqXY5OX9gRgM2vWSSBmWO-tp0vh3Ww7r2bOaNXcho&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=GHUqoOi5vetUOVFa_Z46PQ&oh=00_AftGoPMNWxsFXkxP_qecaOybkmkxCSuGeRpgASIyoEzdWQ&oe=6986CCB2",
+                "likes": 2646524,
+                "verification": "BLUE_VERIFIED",
+                "name": "GONGSAM TABLE 이공삼",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": "gongsam_table",
+                "ig_followers": 987062,
+                "ig_verification": false,
+                "page_alias": "GONGSAMTABLE203",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "250063625353711",
+                "category": "의류(브랜드)",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/305109724_787590112639500_4755471412718585481_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=110&ccb=1-7&_nc_sid=418b77&_nc_ohc=hU57TQJl_UkQ7kNvwHRmzHb&_nc_oc=AdnV1rmxLcvBsO9f-KFtSyqRCiIf-nvJAjEroP1WKtzZVWDas5O7YXsAL8FXgcxQnyY&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=GHUqoOi5vetUOVFa_Z46PQ&oh=00_AfvkdJ-qZ7zpGMX6JVxQHL_kciAySzdt11ElJV9FRtI7Lg&oe=6986ADDA",
+                "likes": 2012,
+                "verification": "NOT_VERIFIED",
+                "name": "이쓔 - ESSU",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": "essucokr",
+                "ig_followers": 51603,
+                "ig_verification": false,
+                "page_alias": "essu0",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "289955041017153",
+                "category": "건강/뷰티",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/332377996_3484924378431606_4843381428402470319_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=108&ccb=1-7&_nc_sid=418b77&_nc_ohc=-kXC6gb-7IsQ7kNvwF3ZVG6&_nc_oc=AdmG-bu0RXpO38Z0QK8d3S6XBK1gjndF2CO5a6ds8RTvMF3DsPDOZ9iljkvKc55o4Fk&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=GHUqoOi5vetUOVFa_Z46PQ&oh=00_AftpDQRwy-MnrVqXM9FWIUhP6Irkdhg3hfO4sX0tReTp8g&oe=6986A5A8",
+                "likes": 773392,
+                "verification": "BLUE_VERIFIED",
+                "name": "Innisfree (이니스프리)",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": "innisfreeofficial",
+                "ig_followers": 866097,
+                "ig_verification": true,
+                "page_alias": "innisfreeHQ",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "755507721267164",
+                "category": "미디어/뉴스 기업",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/352098951_616214497271136_1466560822402596086_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=109&ccb=1-7&_nc_sid=418b77&_nc_ohc=c3zB_CHIZuUQ7kNvwGMfvae&_nc_oc=Adm1Aa3QsWbEGNzE9Sp0_IsMCtegi3HQ1nx1pV-xeVRzwigKNXT7ZEGtWJ855ES6sd0&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=GHUqoOi5vetUOVFa_Z46PQ&oh=00_Afs7ZDKjH46UfBQahFYM6PLgx59zhXRgoTqP0Axzx_lN4Q&oe=6986C3E9",
+                "likes": 756581,
+                "verification": "NOT_VERIFIED",
+                "name": "아이돌 이슈",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": "idolissue",
+                "ig_followers": 278829,
+                "ig_verification": false,
+                "page_alias": "idolinews",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "311091095669853",
+                "category": "의류(브랜드)",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/336679838_2773627389433820_8002033561286706128_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=102&ccb=1-7&_nc_sid=418b77&_nc_ohc=WJ4q1fYkgpkQ7kNvwHiKA9K&_nc_oc=AdkVHsupT0NiPvGJJmSRwi1-A7vN8QfQ88zQyVk0Awd6VA1ud3MBOEySGyC0URzGPSk&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=GHUqoOi5vetUOVFa_Z46PQ&oh=00_Afscm7-W5A-CZGm5qdAbpCzmN-6tLZJsgLUFElnY2kLeiQ&oe=6986A05E",
+                "likes": 66316,
+                "verification": "NOT_VERIFIED",
+                "name": "이블렛",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": "jstyle_evellet",
+                "ig_followers": 189989,
+                "ig_verification": false,
+                "page_alias": "evelletbyjstyle",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "230989207316065",
+                "category": "작가",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t1.6435-1/123137628_206884834126100_6553014319130407659_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=111&ccb=1-7&_nc_sid=418b77&_nc_ohc=O6Dzsh0eRcEQ7kNvwHuYV2p&_nc_oc=AdnqXyNYdSGEXH3QLUBZbHFFgHhlxxbS-6V_d1P3Un6MY-N3h1OCXW9Ey-WqZyzcT80&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=GHUqoOi5vetUOVFa_Z46PQ&oh=00_AftTUZUfI2uubLMQfwMACCvDhkLVgwnCS28VjOE6Va51PA&oe=69A872A6",
+                "likes": 915274,
+                "verification": "BLUE_VERIFIED",
+                "name": "이주용",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": "b2_ang",
+                "ig_followers": 529695,
+                "ig_verification": false,
+                "page_alias": "LJYTOON",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "634767233300624",
+                "category": "의류(브랜드)",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/455131845_922490763256644_1836417859347157646_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=107&ccb=1-7&_nc_sid=418b77&_nc_ohc=qP8GkoheXiMQ7kNvwEhiOAc&_nc_oc=AdkLhyYAF-xq2ISl6krPscCtixLCSJlqmk1QtBTxio7kZ6MmbF9xsJoEOsWXJM5i9cQ&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=GHUqoOi5vetUOVFa_Z46PQ&oh=00_AfsoD_ToZCK8IGeBfGHD624kF2XfcXTbN62m3g2ofkiG4Q&oe=6986D6AB",
+                "likes": 25045,
+                "verification": "NOT_VERIFIED",
+                "name": "매크리 by 이쁜걸",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": "ippngirl8",
+                "ig_followers": 51778,
+                "ig_verification": false,
+                "page_alias": "ippngirl.co.kr",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "124373680975106",
+                "category": "아티스트",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t1.6435-1/163934625_291415232339765_5519239151917193779_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=109&ccb=1-7&_nc_sid=418b77&_nc_ohc=uvi8yjjJZIUQ7kNvwF7xEBt&_nc_oc=AdlV4W8sr2dTuR6t28oxSaMVkSn10E1Iysrr8AsjM_kx8FSN75v2y5AOuwKdgHW1JVg&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=GHUqoOi5vetUOVFa_Z46PQ&oh=00_AfuCDxyWXpu8KYVTl-V74klAuC3M_SWQxrWH2YTNL8aAXA&oe=69A84ECB",
+                "likes": 771786,
+                "verification": "BLUE_VERIFIED",
+                "name": "이연희(Lee Yeon Hee)",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": null,
+                "ig_followers": null,
+                "ig_verification": null,
+                "page_alias": "leeyeonhee",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "240991936279590",
+                "category": "식료품점",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/339734514_627302432547251_7542234653860899275_n.png?stp=dst-png_s100x100&_nc_cat=106&ccb=1-7&_nc_sid=418b77&_nc_ohc=nonT9WIU-gYQ7kNvwGa3DkO&_nc_oc=Adkvm3p4-RDNgv2Lq8TKPCvOZ3Wg4ygIUYOT6ZT_ik_9k9MQP2AHjX1HIt7rEG96PYU&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=GHUqoOi5vetUOVFa_Z46PQ&oh=00_AftZqHu1fg6WAXQ_3idAX7LwXK2OHAdZRfpwDcUYRa3Umg&oe=6986BC96",
+                "likes": 144983,
+                "verification": "BLUE_VERIFIED",
+                "name": "이마트24",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": "emart24_official",
+                "ig_followers": 338192,
+                "ig_verification": true,
+                "page_alias": "emart24.official",
+                "page_is_deleted": false
+              }
+            ],
+            "location_results": [],
+            "exact_phrase_results": "\"이\""
+          }
+        }
+      },
+      "extensions": {
+        "server_metadata": {
+          "request_start_time_ms": 1770055903812,
+          "time_at_flush_ms": 1770055904053
+        },
+        "is_final": true
+      }
+    }
+  },
+  {
+    "friendlyName": "useAdLibraryTypeaheadSuggestionDataSourceQuery",
+    "data": {
+      "data": {
+        "ad_library_main": {
+          "typeahead_suggestions": {
+            "keyword_results": [],
+            "page_results": [
+              {
+                "page_id": "101371395110436",
+                "category": "이커머스 웹사이트",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/309924369_524737879657461_8824891584978624329_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=109&ccb=1-7&_nc_sid=418b77&_nc_ohc=3niWr-xqRaAQ7kNvwE30PKc&_nc_oc=Admws0XHODjW47Hho7Dbwhn3JYBlauF5gfhxFO5hvXoHhU88D1mJt4WAmnbrB8lcul4&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=qhUf2Cvs2Ny_6m6Pewjjrg&oh=00_AftcoRc3B0e060SjnsUbvFZG0NaExOdkQp3IU9KeVSP1Ng&oe=6986AD8C",
+                "likes": 166,
+                "verification": "NOT_VERIFIED",
+                "name": "모그라미 입으면 효율 200퍼",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": "mogrami_official",
+                "ig_followers": 3508,
+                "ig_verification": false,
+                "page_alias": "",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "109200860862373",
+                "category": "교육 웹사이트",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/277804950_302841308656680_250909319406939545_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=109&ccb=1-7&_nc_sid=418b77&_nc_ohc=Nxwjd3A1GQUQ7kNvwHk9Hun&_nc_oc=AdkyOWMQGGQH7HggPHKoeHbflRk6cOeyiy8xasvZp3qfIbrRlmdiKV0SwrKsBg6mBx8&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=qhUf2Cvs2Ny_6m6Pewjjrg&oh=00_Afs16ftiDXCvL8DhsFpMuBW9kWsIUdn2HBE2ty9NX4q2Ng&oe=6986D1FC",
+                "likes": 65,
+                "verification": "NOT_VERIFIED",
+                "name": "리베라 입시컨설팅",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": "libera_consulting",
+                "ig_followers": 6183,
+                "ig_verification": false,
+                "page_alias": "",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "103238836083412",
+                "category": "게이밍 동영상 크리에이터",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/491887818_602369966161077_5309435615891377530_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=107&ccb=1-7&_nc_sid=418b77&_nc_ohc=q72wn24JNiIQ7kNvwG6h0el&_nc_oc=AdkbSFkp5mmJrEjufCDPPMH4bjWl1NmqoVxolGHMW_HljaSKUzniUfOKtICFojNeQFs&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=qhUf2Cvs2Ny_6m6Pewjjrg&oh=00_Afu5-ebM4TKmuSYcMtEQHR7o13p3p4BU_rHOUxZ_rGDjQQ&oe=6986D66B",
+                "likes": 6,
+                "verification": "NOT_VERIFIED",
+                "name": "입안건강연구소",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": "denti_s.tudio",
+                "ig_followers": 127,
+                "ig_verification": false,
+                "page_alias": "",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "108363137409112",
+                "category": "교육 컨설턴트",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/339116375_1509802722756645_22359335923437204_n.jpg?stp=dst-jpg_p100x100_tt6&_nc_cat=101&ccb=1-7&_nc_sid=418b77&_nc_ohc=j9PiWpS4Q3AQ7kNvwF3QvRc&_nc_oc=Adkml7-1UPwIcxMcXPzV35RWhDngYiMNuk6laYbKdFI-k7gQT9FJBvPQ9Ahmkk6s6yk&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=qhUf2Cvs2Ny_6m6Pewjjrg&oh=00_AftDj8JZhm1cGmSXXyaQxwOGniCQDi7D2nhkTY2g8sopDg&oe=6986D1EA",
+                "likes": 127,
+                "verification": "NOT_VERIFIED",
+                "name": "하나에듀케이션 - 런던예술대인증 파운데이션/입학지원",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": "hanaedu",
+                "ig_followers": 3217,
+                "ig_verification": false,
+                "page_alias": "hanaeducationual",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "102724215179541",
+                "category": "미디어",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/353069691_280527104372782_5230958485382410176_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=105&ccb=1-7&_nc_sid=418b77&_nc_ohc=XH3ldiPZEskQ7kNvwHbvyNa&_nc_oc=Adk_yaRZFTqBLkq4IgJaRq7poOWsz6IHGZCGWspa6iGhCZv0f_vIlefSN0DQQ5xtWho&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=qhUf2Cvs2Ny_6m6Pewjjrg&oh=00_AfuZLhgmnEWxR0BqDMmIQ-G-ErMivgBEhY2fQRoDkAgGYw&oe=6986B325",
+                "likes": 183785,
+                "verification": "NOT_VERIFIED",
+                "name": "입덕할래",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": "ipdukhalrae",
+                "ig_followers": 186213,
+                "ig_verification": false,
+                "page_alias": "ipdukhalrae",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "200519099820015",
+                "category": "이커머스 웹사이트",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/504262446_122243036606191610_2953796587352506112_n.jpg?stp=dst-jpg_p100x100_tt6&_nc_cat=104&ccb=1-7&_nc_sid=418b77&_nc_ohc=jOCcs6lk7ekQ7kNvwEgRavo&_nc_oc=AdlaWfB0EtuflwNMumLAUCohSX8SXd8WrwQGTjGmImEAnR9flGaMeoLg6BBUw4h5suM&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=qhUf2Cvs2Ny_6m6Pewjjrg&oh=00_AfvC4hb5B1Xu4xdkhVfvyFWh7cAMx4t46FkOeG-jcpTyog&oe=6986C664",
+                "likes": 4,
+                "verification": "NOT_VERIFIED",
+                "name": "입시의기세",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": null,
+                "ig_followers": null,
+                "ig_verification": null,
+                "page_alias": "",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "204373299426732",
+                "category": "건강/뷰티",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/418574209_1797924814053612_597931385169996290_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=108&ccb=1-7&_nc_sid=418b77&_nc_ohc=ZK21L5vMnwoQ7kNvwGRT63t&_nc_oc=AdnIK9_y9Int5nJzBNGmVQwnAfzCJec0Muj_JUwfroBbue6SdnQWTG9eFbGjWF19mM0&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=qhUf2Cvs2Ny_6m6Pewjjrg&oh=00_Afvy4rxU5e0yyQL37VoAWNPAVOeY81hDKueTdyAXPlGzJg&oe=6986ADF2",
+                "likes": 3,
+                "verification": "NOT_VERIFIED",
+                "name": "립밤 맛집 입슐랭 가이드",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": null,
+                "ig_followers": null,
+                "ig_verification": null,
+                "page_alias": "",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "101209575173156",
+                "category": "커뮤니티",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/325932650_5903616736351328_4496180981296111321_n.png?stp=dst-png_s100x100&_nc_cat=106&ccb=1-7&_nc_sid=418b77&_nc_ohc=kbiq7MnITUwQ7kNvwEk-088&_nc_oc=AdmBAUmH0k3EsfMB8TqqijgT6Hh94t6M0tNLO08QIeklw0Djckhr_dhKP8zE1zIAuWI&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=qhUf2Cvs2Ny_6m6Pewjjrg&oh=00_Afs95U-kRlpsuLonkuS2eb_yG7CY5sycmNHvc4mf0Gi3RQ&oe=6986D63B",
+                "likes": 573,
+                "verification": "NOT_VERIFIED",
+                "name": "입소문템",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": null,
+                "ig_followers": null,
+                "ig_verification": null,
+                "page_alias": "",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "1568715770099251",
+                "category": "예술 및 엔터테인먼트",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/327198681_1360707178100996_6284117457749823633_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=104&ccb=1-7&_nc_sid=418b77&_nc_ohc=C73V1npTXegQ7kNvwHw8YI8&_nc_oc=AdniwmNFAkkVfcLd0JTA7Fg5vGZqibi8BDtUmLBIPkvDwmZcTtPwLfQN7KY-yDMbQ5w&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=qhUf2Cvs2Ny_6m6Pewjjrg&oh=00_Afv172aU703R8wEBCzhwLcLaiLj5dNyMelA6QZvgGAbzVQ&oe=6986D4BA",
+                "likes": 19732,
+                "verification": "NOT_VERIFIED",
+                "name": "오늘은 뭐 입지?",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": "a__llmut",
+                "ig_followers": 203,
+                "ig_verification": false,
+                "page_alias": "mmmuuu99",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "235681726592965",
+                "category": "커뮤니티",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/326519447_946523843194199_3377149581598340102_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=109&ccb=1-7&_nc_sid=418b77&_nc_ohc=KgEL9l50J54Q7kNvwFOy-1y&_nc_oc=AdkYMgYaIVER8juZm1au1HJd2yysdW6gwC3Pqgwj8w1LLm7K2F4YbiU39L-XVKtuC7g&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=qhUf2Cvs2Ny_6m6Pewjjrg&oh=00_AfsNQk7SjUtpbJWck30K9VT8BekFpaIZcQWqyU-ApiC4cw&oe=6986CA60",
+                "likes": 382,
+                "verification": "NOT_VERIFIED",
+                "name": "입말음식 Spoken Recipe",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": "spoken_recipe_official",
+                "ig_followers": 4311,
+                "ig_verification": false,
+                "page_alias": "spokenrecipe",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "586758931738592",
+                "category": "교육",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/309031864_435719935319058_2522967666452365610_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=110&ccb=1-7&_nc_sid=418b77&_nc_ohc=TtoR4a9KD9oQ7kNvwGUwsu6&_nc_oc=AdnpvrInopYkRZu3p3UVIBFN5_0L5HlilXsFhWAXdMGtISxcWF-3fRLQ7ybjdIBJI1U&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=qhUf2Cvs2Ny_6m6Pewjjrg&oh=00_AfudUqPA2-A_E6P2U39Um6Mm0X-osQp9HAUoCBXVZcFNgA&oe=6986AD9F",
+                "likes": 61,
+                "verification": "NOT_VERIFIED",
+                "name": "입시진로연구소",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": "ulssoo8",
+                "ig_followers": 2478,
+                "ig_verification": false,
+                "page_alias": "ipsijinro",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "1426686937605604",
+                "category": "지역 비즈니스",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/293152199_546930287124352_3961120042076010521_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=108&ccb=1-7&_nc_sid=418b77&_nc_ohc=RvJev8Pnf24Q7kNvwGPR0tG&_nc_oc=AdkbOsQGZbPLwDcDGXO6gjnL_iB7s-kgUwSMcu1Aa9Zye2GQGVG53206rClR8vtBMf0&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=qhUf2Cvs2Ny_6m6Pewjjrg&oh=00_Afs1oRPl9r4PMLoAYWmnAJ546BCewNMWoXEUTAiwEPToWw&oe=6986CDB0",
+                "likes": 13770,
+                "verification": "NOT_VERIFIED",
+                "name": "OPIc&입트영",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": "hyunsuk.opic",
+                "ig_followers": 104187,
+                "ig_verification": false,
+                "page_alias": "Englishoutloud",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "349406885152227",
+                "category": "비정부 단체(NGO)",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/306849522_191245699961591_181257505898086790_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=111&ccb=1-7&_nc_sid=418b77&_nc_ohc=Bh23O-HWfGAQ7kNvwHwt4ry&_nc_oc=AdkvdjV_7Avs4bN2TDnMRr5i3oCjhpEDVDhuoTaTTi0rdHmSnC7nPrpb9bzhrLtXisc&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=qhUf2Cvs2Ny_6m6Pewjjrg&oh=00_AfuvQCkWl609Eq6TMxmqZkXpSbA2xw_S5mvk6HpRCgRuGQ&oe=6986A258",
+                "likes": 8633,
+                "verification": "NOT_VERIFIED",
+                "name": "입학사정관",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": "feverstory403",
+                "ig_followers": 15,
+                "ig_verification": false,
+                "page_alias": "ibsagwan",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "110794833942637",
+                "category": "쇼핑/리테일",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/298804778_450183857140084_3247856642416373041_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=104&ccb=1-7&_nc_sid=418b77&_nc_ohc=izy8al_86Q4Q7kNvwHBvbD2&_nc_oc=AdkUB3kUAdPafDR0MxLW4gkROyeFyy5XOa9iVPhp_l_hKoDi9dE2oXKYTXxLz_J_3TE&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=qhUf2Cvs2Ny_6m6Pewjjrg&oh=00_Afsrbj3AKi8aJ5nJCUinjlYvHUvwFUhqmdj1V2pTJ8MIhw&oe=6986BD91",
+                "likes": 122,
+                "verification": "NOT_VERIFIED",
+                "name": "굿즈샤인 / 입간판,돌출간판",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": "goods_shine",
+                "ig_followers": 53609,
+                "ig_verification": false,
+                "page_alias": "",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "2202072669831889",
+                "category": "성형외과 의사",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/294104254_712892866467260_2405491796828216661_n.png?stp=dst-png_p100x100&_nc_cat=106&ccb=1-7&_nc_sid=418b77&_nc_ohc=-xZG2GdFZlsQ7kNvwEuSkgc&_nc_oc=Adlk7rNIEsIq_h5WW1cAQUE1uiK1LlMT_0M9sdP-ksxQyv86OMxotdyJkAKQxa3HNq0&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=qhUf2Cvs2Ny_6m6Pewjjrg&oh=00_AftweHCCbiltWfGFUYLL_qd75HMxY8QxS5_XVdH53Lcseg&oe=6986C346",
+                "likes": 36,
+                "verification": "NOT_VERIFIED",
+                "name": "입체성형외과의원",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": "ipcheps",
+                "ig_followers": 2009,
+                "ig_verification": false,
+                "page_alias": "ipcheps",
+                "page_is_deleted": false
+              }
+            ],
+            "location_results": [],
+            "exact_phrase_results": "\"입\""
+          }
+        }
+      },
+      "extensions": {
+        "server_metadata": {
+          "request_start_time_ms": 1770055903977,
+          "time_at_flush_ms": 1770055904194
+        },
+        "is_final": true
+      }
+    }
+  },
+  {
+    "friendlyName": "useAdLibraryTypeaheadSuggestionDataSourceQuery",
+    "data": {
+      "data": {
+        "ad_library_main": {
+          "typeahead_suggestions": {
+            "keyword_results": [],
+            "page_results": [
+              {
+                "page_id": "111725511155189",
+                "category": "현대 미술관",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/243257949_140041225016388_8860843568566642013_n.png?stp=dst-png_s100x100&_nc_cat=106&ccb=1-7&_nc_sid=418b77&_nc_ohc=59fekNi19HMQ7kNvwGQLOON&_nc_oc=AdkrN4wLT6j9E-2I_Vv8CuOQJJ-M4Pi6ONnWuT5U7vHmdRbkU3Te1sF81C9bcOM4BMQ&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=yLfz-UQamJbunLPIrGkQXw&oh=00_Afs6Shzoq5EjlRQbWAq4OzO_VnKtUgg5rfalVElTS5nhiw&oe=6986A741",
+                "likes": 2,
+                "verification": "NOT_VERIFIED",
+                "name": "잆어요",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": "nowhere_but_nowhere",
+                "ig_followers": 132,
+                "ig_verification": false,
+                "page_alias": "",
+                "page_is_deleted": false
+              }
+            ],
+            "location_results": [],
+            "exact_phrase_results": "\"잆\""
+          }
+        }
+      },
+      "extensions": {
+        "server_metadata": {
+          "request_start_time_ms": 1770055904117,
+          "time_at_flush_ms": 1770055904292
+        },
+        "is_final": true
+      }
+    }
+  },
+  {
+    "friendlyName": "useAdLibraryTypeaheadSuggestionDataSourceQuery",
+    "data": {
+      "data": {
+        "ad_library_main": {
+          "typeahead_suggestions": {
+            "keyword_results": [],
+            "page_results": [],
+            "location_results": [],
+            "exact_phrase_results": "\"입싱\""
+          }
+        }
+      },
+      "extensions": {
+        "server_metadata": {
+          "request_start_time_ms": 1770055904312,
+          "time_at_flush_ms": 1770055904416
+        },
+        "is_final": true
+      }
+    }
+  },
+  {
+    "friendlyName": "useAdLibraryTypeaheadSuggestionDataSourceQuery",
+    "data": {
+      "data": {
+        "ad_library_main": {
+          "typeahead_suggestions": {
+            "keyword_results": [],
+            "page_results": [],
+            "location_results": [],
+            "exact_phrase_results": "\"입시으\""
+          }
+        }
+      },
+      "extensions": {
+        "server_metadata": {
+          "request_start_time_ms": 1770055904352,
+          "time_at_flush_ms": 1770055904455
+        },
+        "is_final": true
+      }
+    }
+  },
+  {
+    "friendlyName": "useAdLibraryTypeaheadSuggestionDataSourceQuery",
+    "data": {
+      "data": {
+        "ad_library_main": {
+          "typeahead_suggestions": {
+            "keyword_results": [],
+            "page_results": [
+              {
+                "page_id": "109200860862373",
+                "category": "교육 웹사이트",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/277804950_302841308656680_250909319406939545_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=109&ccb=1-7&_nc_sid=418b77&_nc_ohc=Nxwjd3A1GQUQ7kNvwHk9Hun&_nc_oc=AdkyOWMQGGQH7HggPHKoeHbflRk6cOeyiy8xasvZp3qfIbrRlmdiKV0SwrKsBg6mBx8&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=g3vc2LeEL5CRymRIpAXqOw&oh=00_AfteG5uGfdv7XhnUUOHehfmrbUmIox-qKKDyvrRiVqsE-A&oe=6986D1FC",
+                "likes": 65,
+                "verification": "NOT_VERIFIED",
+                "name": "리베라 입시컨설팅",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": "libera_consulting",
+                "ig_followers": 6183,
+                "ig_verification": false,
+                "page_alias": "",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "200519099820015",
+                "category": "이커머스 웹사이트",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/504262446_122243036606191610_2953796587352506112_n.jpg?stp=dst-jpg_p100x100_tt6&_nc_cat=104&ccb=1-7&_nc_sid=418b77&_nc_ohc=jOCcs6lk7ekQ7kNvwEgRavo&_nc_oc=AdlaWfB0EtuflwNMumLAUCohSX8SXd8WrwQGTjGmImEAnR9flGaMeoLg6BBUw4h5suM&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=g3vc2LeEL5CRymRIpAXqOw&oh=00_Aftt9xifKyN7rPMrL1VVQxu0qe_dBbFpmVFd9X3Eij8xgQ&oe=6986C664",
+                "likes": 4,
+                "verification": "NOT_VERIFIED",
+                "name": "입시의기세",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": null,
+                "ig_followers": null,
+                "ig_verification": null,
+                "page_alias": "",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "586758931738592",
+                "category": "교육",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/309031864_435719935319058_2522967666452365610_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=110&ccb=1-7&_nc_sid=418b77&_nc_ohc=TtoR4a9KD9oQ7kNvwGUwsu6&_nc_oc=AdnpvrInopYkRZu3p3UVIBFN5_0L5HlilXsFhWAXdMGtISxcWF-3fRLQ7ybjdIBJI1U&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=g3vc2LeEL5CRymRIpAXqOw&oh=00_Afu4SCTMGSEKs422EidduBOWGwj0-eL_Jgq-oWSTOI775g&oe=6986AD9F",
+                "likes": 61,
+                "verification": "NOT_VERIFIED",
+                "name": "입시진로연구소",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": "ulssoo8",
+                "ig_followers": 2478,
+                "ig_verification": false,
+                "page_alias": "ipsijinro",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "104888440978200",
+                "category": "교육 웹사이트",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/302685265_515538697240809_1151146421853131263_n.jpg?stp=dst-jpg_p100x100_tt6&_nc_cat=101&ccb=1-7&_nc_sid=418b77&_nc_ohc=HNuvLbnl5QcQ7kNvwHlgV8m&_nc_oc=AdkpXuKSs_XuGZkx1QAWfUa_M4O99YkvBHzpHfHyw7g9hCgc-Fh6RhbjVB_K1YXPmdk&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=g3vc2LeEL5CRymRIpAXqOw&oh=00_Afvw3Zd72EBAlt3SY0wxhwuTKHXkFLGaDywLB7sXULJlJw&oe=6986ACBF",
+                "likes": 4,
+                "verification": "NOT_VERIFIED",
+                "name": "Bara 입시-연기,뮤지컬,방송연예",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": "bara.actingmusical",
+                "ig_followers": 508,
+                "ig_verification": false,
+                "page_alias": "",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "924941934042428",
+                "category": "교육 컨설턴트",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/618812615_1227708662793389_7660472183376858385_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=103&ccb=1-7&_nc_sid=418b77&_nc_ohc=xzEqbUzDXV8Q7kNvwGSzFs8&_nc_oc=AdlXh1hDM1YeSN0Ji8o65CmfMlnV-y9sgUt2wsTNV1AyIoF7zwZl4O1JXUP5f4a32i4&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=g3vc2LeEL5CRymRIpAXqOw&oh=00_AfujBo_EIfKx1ktvJ559oPrtp0ApoOwzD5ttbg-lW62WWQ&oe=6986C1FF",
+                "likes": 1,
+                "verification": "NOT_VERIFIED",
+                "name": "입시 인사이트",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": null,
+                "ig_followers": null,
+                "ig_verification": null,
+                "page_alias": "",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "1118558094869507",
+                "category": "커뮤니티 칼리지",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/327298274_3455359898034682_1699590640398912362_n.png?stp=dst-png_s100x100&_nc_cat=101&ccb=1-7&_nc_sid=418b77&_nc_ohc=cH1XGIoBpWUQ7kNvwFkjaLw&_nc_oc=AdlqlSowAMp-6y4g0ramUeJiViASy7VP6zG9PGJCnD1Ly8IKjILxWtP2XLuHPK4mAfQ&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=g3vc2LeEL5CRymRIpAXqOw&oh=00_Afs4QXmOVDCmxcXThacMVVKSh8SEAPS5Ub12x8kB1ON1AQ&oe=6986A807",
+                "likes": 94107,
+                "verification": "NOT_VERIFIED",
+                "name": "입시 빅데이터",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": null,
+                "ig_followers": null,
+                "ig_verification": null,
+                "page_alias": "ipsibigdata",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "191062357414169",
+                "category": "교육",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/405488258_122094747440133527_6350610229088400404_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=101&ccb=1-7&_nc_sid=418b77&_nc_ohc=KwS0NEMFG20Q7kNvwGirq2Y&_nc_oc=AdnRPrCpzX5bWMrcrsSxN7MxsPwFjSpRGsaWzWP6qAYOPl99R_DZHAnTdCrpwfyxdyA&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=g3vc2LeEL5CRymRIpAXqOw&oh=00_AfsbbULgCV5JE-uYffNC2XM4qRrT694GViBCkN7phXmUMQ&oe=6986D313",
+                "likes": 20,
+                "verification": "NOT_VERIFIED",
+                "name": "입시달인",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": "ipsidalin",
+                "ig_followers": 2450,
+                "ig_verification": false,
+                "page_alias": "",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "118530817902138",
+                "category": "제품/서비스",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/346628982_1326933148232100_1381074902602001029_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=103&ccb=1-7&_nc_sid=418b77&_nc_ohc=yCEylhVyNKgQ7kNvwEvjUe0&_nc_oc=AdmKQqZeGSAph4HCH9hsWTXnIhaCwVwCdpXPwE7Zku6NS9fsusHn2C0NZaVyCubETvs&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=g3vc2LeEL5CRymRIpAXqOw&oh=00_AftgFPaRQ7R9vzuTZO3fvmBbOfmsUm5-aCmjNnlHzc7NYw&oe=6986C7DF",
+                "likes": 4,
+                "verification": "NOT_VERIFIED",
+                "name": "입시의 모든 것",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": "allabout_edu",
+                "ig_followers": 193,
+                "ig_verification": false,
+                "page_alias": "",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "992846587235708",
+                "category": "컴퓨터 교육 학원",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/595139102_122103204657149010_1454063435104287729_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=107&ccb=1-7&_nc_sid=418b77&_nc_ohc=i0g3w6GhkMQQ7kNvwEuBD4D&_nc_oc=AdkZwrePWJxXvo6xJlhkXVl4zTlo0-ZdEi8wJIB3dhHWJzRkzoSRDHvUNuIle2J2Ryg&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=g3vc2LeEL5CRymRIpAXqOw&oh=00_AfuRHYeS4R4t5zXlqcds1Ftz3kGOXR1eUcN1sAxFIbzubw&oe=6986B51B",
+                "likes": 0,
+                "verification": "NOT_VERIFIED",
+                "name": "메가스터디sw입시센터",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": "megastudy_unilab",
+                "ig_followers": 25,
+                "ig_verification": false,
+                "page_alias": "",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "487684311386120",
+                "category": "교육 컨설턴트",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/326546862_869650014304654_8493167772784370340_n.png?stp=dst-png_p100x100&_nc_cat=105&ccb=1-7&_nc_sid=418b77&_nc_ohc=MvEZjkclt-YQ7kNvwGwneVj&_nc_oc=AdksOlJzk4_lBjhIwHcH3YnyKT-DQgn7YmS9I-4Cs2pe5M3Q16n1uFqGRba1OGsw790&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=g3vc2LeEL5CRymRIpAXqOw&oh=00_AfsFH9gy4jqF18BoxtqMjWDdSyCTatxDfoJOaG5DvKVLcA&oe=6986C968",
+                "likes": 27447,
+                "verification": "NOT_VERIFIED",
+                "name": "입시정보꿀팁",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": null,
+                "ig_followers": null,
+                "ig_verification": null,
+                "page_alias": "",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "636117229596297",
+                "category": "이커머스 웹사이트",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/520444947_122105550254943271_6685025855445329590_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=107&ccb=1-7&_nc_sid=418b77&_nc_ohc=R0xAjKQ2uGkQ7kNvwG6oWnb&_nc_oc=Adm9wtCuCUv0EFOmviYL6jlagVPCRpKeGzXdqcat6DL1Aom2AVFJ6A_fJAGXp4LXzrE&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=g3vc2LeEL5CRymRIpAXqOw&oh=00_AfuJtVu_a2qnzHGiBf7ibIK1KlbiNSl-EiP4IglfvvxYww&oe=6986A453",
+                "likes": 0,
+                "verification": "NOT_VERIFIED",
+                "name": "입시노트",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": "ipsinote_official",
+                "ig_followers": 32,
+                "ig_verification": false,
+                "page_alias": "",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "1631100680444081",
+                "category": "커뮤니티",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/312020158_419396547028560_4397662079880311461_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=109&ccb=1-7&_nc_sid=418b77&_nc_ohc=_Al7HAMO6QIQ7kNvwEGvpMD&_nc_oc=Adm8VnimTu6IeDllTh-r2YBCIjKOvUpeJeXanrv0cUmuu1RcI8VKlp9QhZr2VB6oNjA&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=g3vc2LeEL5CRymRIpAXqOw&oh=00_AfuF2l0b0dVQDMeUWLgpzXxL6aepgqIavJ9-Lhmk_rL54A&oe=6986C328",
+                "likes": 12052,
+                "verification": "NOT_VERIFIED",
+                "name": "알아두면 유용한 입시꿀팁",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": null,
+                "ig_followers": null,
+                "ig_verification": null,
+                "page_alias": "honeytip3",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "257685527640982",
+                "category": "교육",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/327348437_1537954070045551_3090211451239881500_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=105&ccb=1-7&_nc_sid=418b77&_nc_ohc=iyHF7dG0ok4Q7kNvwFddcT7&_nc_oc=AdmgxAYI9elzmxLlvngulgYPxnimtcYiA4Ma8b7XJNXnHLsaKvjnTwBU902GYhbcr_o&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=g3vc2LeEL5CRymRIpAXqOw&oh=00_AfvNlLIByUvx6FNt5XDbAIwXzvdf_5BlzECZJIpLpamJ-w&oe=6986AA84",
+                "likes": 10855,
+                "verification": "NOT_VERIFIED",
+                "name": "오르비맘 (OrbiMom): 학부모를 위한 입시, 교육 사이트",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": null,
+                "ig_followers": null,
+                "ig_verification": null,
+                "page_alias": "orbimom",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "747578255276273",
+                "category": "교육",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/302525455_564392098814545_7913487493856406100_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=106&ccb=1-7&_nc_sid=418b77&_nc_ohc=j6UNY7mdwV4Q7kNvwEl_YXY&_nc_oc=AdlClzW5ykyCfQULve09LmgzWjj5RLJ6qN66EdLYVCkqS6RJmzZXyEqNRd_idXwxgUM&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=g3vc2LeEL5CRymRIpAXqOw&oh=00_AftNxCGBkdlxWLt32Q4f_uhUg8PS1BeFPHYPbhNT9SXpZQ&oe=6986CBEA",
+                "likes": 7788,
+                "verification": "NOT_VERIFIED",
+                "name": "입시미술",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": null,
+                "ig_followers": null,
+                "ig_verification": null,
+                "page_alias": "",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "1515491935343679",
+                "category": "관심 있음",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/326354468_1397366924351255_2116733451385420341_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=103&ccb=1-7&_nc_sid=418b77&_nc_ohc=slfYooXNNcAQ7kNvwHXxSb8&_nc_oc=AdnNTx0H40WgoiBE7xPs_wKCvKyh-Uh1847SkegPw64WLEGJKfhXJhFPyO8ybg9of6Y&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=g3vc2LeEL5CRymRIpAXqOw&oh=00_Afu7eQk_nCsaoFEE7QOgRxyRfgmxaX9hmV-b7CdV72zgDg&oe=6986BE74",
+                "likes": 4951,
+                "verification": "NOT_VERIFIED",
+                "name": "승무원 스튜어디스 항공운항과 입시",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": null,
+                "ig_followers": null,
+                "ig_verification": null,
+                "page_alias": "cosea114",
+                "page_is_deleted": false
+              }
+            ],
+            "location_results": [],
+            "exact_phrase_results": "\"입시\""
+          }
+        }
+      },
+      "extensions": {
+        "server_metadata": {
+          "request_start_time_ms": 1770055904138,
+          "time_at_flush_ms": 1770055904532
+        },
+        "is_final": true
+      }
+    }
+  },
+  {
+    "friendlyName": "useAdLibraryTypeaheadSuggestionDataSourceQuery",
+    "data": {
+      "data": {
+        "ad_library_main": {
+          "typeahead_suggestions": {
+            "keyword_results": [],
+            "page_results": [],
+            "location_results": [],
+            "exact_phrase_results": "\"입시의게\""
+          }
+        }
+      },
+      "extensions": {
+        "server_metadata": {
+          "request_start_time_ms": 1770055904797,
+          "time_at_flush_ms": 1770055904899
+        },
+        "is_final": true
+      }
+    }
+  },
+  {
+    "friendlyName": "useAdLibraryTypeaheadSuggestionDataSourceQuery",
+    "data": {
+      "data": {
+        "ad_library_main": {
+          "typeahead_suggestions": {
+            "keyword_results": [],
+            "page_results": [
+              {
+                "page_id": "200519099820015",
+                "category": "이커머스 웹사이트",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/504262446_122243036606191610_2953796587352506112_n.jpg?stp=dst-jpg_p100x100_tt6&_nc_cat=104&ccb=1-7&_nc_sid=418b77&_nc_ohc=jOCcs6lk7ekQ7kNvwEgRavo&_nc_oc=AdlaWfB0EtuflwNMumLAUCohSX8SXd8WrwQGTjGmImEAnR9flGaMeoLg6BBUw4h5suM&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=o_xNOip4iw6zXSniRQS4fQ&oh=00_Afvw4nd3l4Xij9Kw33F_zEAPtAjerWQtrYdhavinGc_LrQ&oe=6986C664",
+                "likes": 4,
+                "verification": "NOT_VERIFIED",
+                "name": "입시의기세",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": null,
+                "ig_followers": null,
+                "ig_verification": null,
+                "page_alias": "",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "118530817902138",
+                "category": "제품/서비스",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/346628982_1326933148232100_1381074902602001029_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=103&ccb=1-7&_nc_sid=418b77&_nc_ohc=yCEylhVyNKgQ7kNvwEvjUe0&_nc_oc=AdmKQqZeGSAph4HCH9hsWTXnIhaCwVwCdpXPwE7Zku6NS9fsusHn2C0NZaVyCubETvs&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=o_xNOip4iw6zXSniRQS4fQ&oh=00_AfvDcZkCwGYahWULeEr3XysyG3kyWqTZ10PeFtK14_e1lg&oe=6986C7DF",
+                "likes": 4,
+                "verification": "NOT_VERIFIED",
+                "name": "입시의 모든 것",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": "allabout_edu",
+                "ig_followers": 193,
+                "ig_verification": false,
+                "page_alias": "",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "646578985517283",
+                "category": "배우",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/217359807_208451497961704_8894159994732157697_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=102&ccb=1-7&_nc_sid=418b77&_nc_ohc=gz8py-XEUTUQ7kNvwHfzmmz&_nc_oc=AdnX_DfqmB99oSWkZUT3l9rAr5Pq_t2suAJTQD3GcE_EGNAGLx9JpqwH3fMMEKRqXpE&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=o_xNOip4iw6zXSniRQS4fQ&oh=00_Afvg3_DrEiUvnEs5TavDH_2ajlCC64UHVxUbkmT7R6jBmw&oe=6986BFFB",
+                "likes": 1442,
+                "verification": "NOT_VERIFIED",
+                "name": "연영과 언니 - 입시의 모든 것",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": null,
+                "ig_followers": null,
+                "ig_verification": null,
+                "page_alias": "",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "1072180362969343",
+                "category": "교육 컨설턴트",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/306163688_420531883516392_7249096122802037255_n.png?stp=cp0_dst-png&_nc_cat=102&ccb=1-7&_nc_sid=418b77&_nc_ohc=5R607KiZ1T0Q7kNvwH0tDDS&_nc_oc=AdlgljP3CrvvJv4c60zCE_OIPrCMd9ktBJxPGGBG6NNgw66Bl2QBse8A9v0L6LPTgoQ&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=o_xNOip4iw6zXSniRQS4fQ&oh=00_AftyQzAaPAqxc6YzEdxriHlcC4bb0iYsXWJn2Brhifq6xA&oe=6986A195",
+                "likes": 0,
+                "verification": "NOT_VERIFIED",
+                "name": "대학 입시의 모든것",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": null,
+                "ig_followers": null,
+                "ig_verification": null,
+                "page_alias": "daeipmo",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "105129458173352",
+                "category": "커뮤니티",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/309232850_439770084943485_4987865991920956460_n.png?stp=dst-png_s100x100&_nc_cat=111&ccb=1-7&_nc_sid=418b77&_nc_ohc=PKM0WnVeDRsQ7kNvwEwbzKT&_nc_oc=AdlCg0YeW3oQrs32oDT1THOnLgLciVoQ_DbQd_1LH8hjuvlAeoxU8jjYslWzxmvmF7M&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=o_xNOip4iw6zXSniRQS4fQ&oh=00_AfuEBUOJ4NYUOC9HWpgxnRSOONyuAstLzLFQH5YL57spog&oe=6986B56F",
+                "likes": 1,
+                "verification": "NOT_VERIFIED",
+                "name": "입시의 신",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": null,
+                "ig_followers": null,
+                "ig_verification": null,
+                "page_alias": "",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "109956231806251",
+                "category": "교육 컨설턴트",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/296921867_109956355139572_3868387568580001989_n.png?stp=dst-png_s100x100&_nc_cat=110&ccb=1-7&_nc_sid=418b77&_nc_ohc=TIujariRXSkQ7kNvwHiaXHW&_nc_oc=Admmw8fcDY_NZ1w0APw1w6S6jJJso1PGwkdxErl2MjxgD_eDmxDMqYlviH6u5vL-pYQ&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=o_xNOip4iw6zXSniRQS4fQ&oh=00_AfvpVDABMHpVgIl6NFqwLs-8q987XyQyWNfPrTeBMAq4pw&oe=6986B8ED",
+                "likes": 1,
+                "verification": "NOT_VERIFIED",
+                "name": "입시의 신",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": null,
+                "ig_followers": null,
+                "ig_verification": null,
+                "page_alias": "",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "203611656171352",
+                "category": "컨설팅 대행사",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/418932590_122105996474173571_8021318008628363103_n.jpg?stp=cp6_dst-jpg_s100x100_tt6&_nc_cat=101&ccb=1-7&_nc_sid=418b77&_nc_ohc=-LJv62zAaN4Q7kNvwE5_Lb1&_nc_oc=Adnq0lAJuDKAi-0Qyf7eTXupSKs7K0d3eE4MVTy4z1tPb4kX_OR9kt1-91PYqet6tTc&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=o_xNOip4iw6zXSniRQS4fQ&oh=00_AftrTB4-oBdtb1Aitu9Or05q37LkhK6AjImACNpkHW9VfQ&oe=6986CDD0",
+                "likes": 1,
+                "verification": "NOT_VERIFIED",
+                "name": "입시의 기세",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": "ibsitongtong",
+                "ig_followers": 1691,
+                "ig_verification": false,
+                "page_alias": "",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "930407456830722",
+                "category": "교육 웹사이트",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/618598752_1942128883376272_7082217904852099265_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=107&ccb=1-7&_nc_sid=418b77&_nc_ohc=XlfL9OLyfe8Q7kNvwEgXzRp&_nc_oc=AdkrIEvZGba0raof1Ll4AczDWMZyTRd7MlJ5zDSCaB3584rMjPAcBoSjkil-zcuojQw&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=o_xNOip4iw6zXSniRQS4fQ&oh=00_AfvfzYgYKUN0thc2bzeVBF3EzYTZJofDz-LdzK0no8LWlA&oe=6986C87C",
+                "likes": 0,
+                "verification": "NOT_VERIFIED",
+                "name": "입시의 신",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": null,
+                "ig_followers": null,
+                "ig_verification": null,
+                "page_alias": "",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "102991795855515",
+                "category": "교육 웹사이트",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/298092814_102991915855503_721905424317152538_n.png?stp=dst-png_s100x100&_nc_cat=104&ccb=1-7&_nc_sid=418b77&_nc_ohc=8Sn_BkXnlG4Q7kNvwFARTVo&_nc_oc=AdmxnPMDZs-7IG-dYp4TJQ8JTM4ikujR39RoCc49A8oB41nhfpixbcRauHq1dtrTVEg&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=o_xNOip4iw6zXSniRQS4fQ&oh=00_Afv-6hvLzfa4oywuogh6SYINVP5AhLlzKdoOCiyz1Uly8A&oe=6986B7A0",
+                "likes": 0,
+                "verification": "NOT_VERIFIED",
+                "name": "입시의 신",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": null,
+                "ig_followers": null,
+                "ig_verification": null,
+                "page_alias": "",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "113504931682026",
+                "category": "교육 컨설턴트",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/329362532_3179363208876231_801203064111300557_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=105&ccb=1-7&_nc_sid=418b77&_nc_ohc=fk-arGVvKEIQ7kNvwGZAPuU&_nc_oc=Adko8fx1YgbTnC897LJVwdVbeJqq_GxOS7ccU9796v3bqm5YtOL31-W7JUPOmUwA_sM&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=o_xNOip4iw6zXSniRQS4fQ&oh=00_AfsaCbo1sanIs8VFHOLTCH42OVxvMMUeMKpwc4eQTPGteQ&oe=6986BB8B",
+                "likes": 0,
+                "verification": "NOT_VERIFIED",
+                "name": "입시의 기세",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": "consulting_kisae",
+                "ig_followers": 0,
+                "ig_verification": false,
+                "page_alias": "",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "123161257541915",
+                "category": "교육",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/468239590_122222654330033352_1159799170107726372_n.jpg?stp=dst-jpg_p100x100_tt6&_nc_cat=107&ccb=1-7&_nc_sid=418b77&_nc_ohc=z6grkMCtr58Q7kNvwGngPhR&_nc_oc=AdmHAlw82cpfst93eP7-M2zhzrNG5LRKsS77_Dzwt0D8GNKF0Z9WFUNTj2B6YS0RnGA&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=o_xNOip4iw6zXSniRQS4fQ&oh=00_AfvkKtUatN8aIw_1QevOXPkKAQPhky_AQhvVRk_AXT_gZA&oe=6986C4DD",
+                "likes": 0,
+                "verification": "NOT_VERIFIED",
+                "name": "입시의봄",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": null,
+                "ig_followers": null,
+                "ig_verification": null,
+                "page_alias": "",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "101933874888875",
+                "category": "앱 페이지",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/348223629_204223492460307_2080112817734815790_n.png?stp=dst-png_s100x100&_nc_cat=105&ccb=1-7&_nc_sid=418b77&_nc_ohc=8C_HABCvwXwQ7kNvwH2toNL&_nc_oc=AdmjnGrBlHtL7Rltph1NmwF7rsXon825gIxJ1HmCyNK5IIUKDcSQPWbicn2SP3_cHg0&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=o_xNOip4iw6zXSniRQS4fQ&oh=00_AfvMdMRrNuUnKKrGPf2fxIxQbDQOOXQ0XhWTNqrjBPyIqA&oe=6986D5F4",
+                "likes": 90,
+                "verification": "NOT_VERIFIED",
+                "name": "Linker-링커-입시의 모든 것을 해결하다.",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": "linker_dream",
+                "ig_followers": 1051,
+                "ig_verification": false,
+                "page_alias": "",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "101339702710219",
+                "category": "교육 컨설턴트",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/300623976_101339909376865_4560184313711092046_n.png?stp=dst-png_s100x100&_nc_cat=105&ccb=1-7&_nc_sid=418b77&_nc_ohc=HBaabpnqNs0Q7kNvwHoKvmb&_nc_oc=AdmKlG1_DDtAvHrhXxdmG7RO3uTvPNHt7LWHTQZ3cXdjZL2g7st-djZ6LSkrkuYGwOw&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=o_xNOip4iw6zXSniRQS4fQ&oh=00_Afs0zY77VFCryyQT6vTuWDuOtMlHn7GIL6APUXw2YiLY1g&oe=6986B99D",
+                "likes": 0,
+                "verification": "NOT_VERIFIED",
+                "name": "입시의 신",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": null,
+                "ig_followers": null,
+                "ig_verification": null,
+                "page_alias": "",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "101311372732671",
+                "category": "컴퓨터 교육 학원",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/301779536_213158801033723_6918058755483416489_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=106&ccb=1-7&_nc_sid=418b77&_nc_ohc=gbBnAxFgwl4Q7kNvwFThDRq&_nc_oc=Adn-sL8nuns1v0ux1lOF88DCdKu0_ROeDksz5a6d_cpSFdH4TjIDA4hDoiii-svDI2Y&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=o_xNOip4iw6zXSniRQS4fQ&oh=00_Aftn8WKeo3CDvEj4r1j1kcmvjbmOPqAFMPRs_qaIMjnQ5Q&oe=6986D481",
+                "likes": 0,
+                "verification": "NOT_VERIFIED",
+                "name": "입시의 신",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": null,
+                "ig_followers": null,
+                "ig_verification": null,
+                "page_alias": "",
+                "page_is_deleted": false
+              },
+              {
+                "page_id": "102981432632106",
+                "category": "교회",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/314896383_1439291753146910_8172059620322564016_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=110&ccb=1-7&_nc_sid=418b77&_nc_ohc=A0Yu06O-hboQ7kNvwFDGo4z&_nc_oc=Adn6buKk-6tmg5ivyFCsTugS7RFu9XN_PuZz07RTo7lsdlPkKnVZjcYXdC9ANm70YtI&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=o_xNOip4iw6zXSniRQS4fQ&oh=00_Afvcjx1b9--E2mIq81q3WY-VjFLVepJfFDEN8WDXgc7pBw&oe=6986D4B2",
+                "likes": 0,
+                "verification": "NOT_VERIFIED",
+                "name": "입시의 신",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": null,
+                "ig_followers": null,
+                "ig_verification": null,
+                "page_alias": "",
+                "page_is_deleted": false
+              }
+            ],
+            "location_results": [],
+            "exact_phrase_results": "\"입시의\""
+          }
+        }
+      },
+      "extensions": {
+        "server_metadata": {
+          "request_start_time_ms": 1770055904544,
+          "time_at_flush_ms": 1770055904984
+        },
+        "is_final": true
+      }
+    }
+  },
+  {
+    "friendlyName": "useAdLibraryTypeaheadSuggestionDataSourceQuery",
+    "data": {
+      "data": {
+        "ad_library_main": {
+          "typeahead_suggestions": {
+            "keyword_results": [],
+            "page_results": [],
+            "location_results": [],
+            "exact_phrase_results": "\"입시의ㄱ\""
+          }
+        }
+      },
+      "extensions": {
+        "server_metadata": {
+          "request_start_time_ms": 1770055905129,
+          "time_at_flush_ms": 1770055905243
+        },
+        "is_final": true
+      }
+    }
+  },
+  {
+    "friendlyName": "useAdLibraryTypeaheadSuggestionDataSourceQuery",
+    "data": {
+      "data": {
+        "ad_library_main": {
+          "typeahead_suggestions": {
+            "keyword_results": [],
+            "page_results": [
+              {
+                "page_id": "200519099820015",
+                "category": "이커머스 웹사이트",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/504262446_122243036606191610_2953796587352506112_n.jpg?stp=dst-jpg_p100x100_tt6&_nc_cat=104&ccb=1-7&_nc_sid=418b77&_nc_ohc=jOCcs6lk7ekQ7kNvwEgRavo&_nc_oc=AdlaWfB0EtuflwNMumLAUCohSX8SXd8WrwQGTjGmImEAnR9flGaMeoLg6BBUw4h5suM&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=oNXfQl8g5Cn9C6Qij9KWxg&oh=00_AfvMzPm6O0vYFqbVDaRG7GxlyiSh_xnBfTb4fKzkjDcPnA&oe=6986C664",
+                "likes": 4,
+                "verification": "NOT_VERIFIED",
+                "name": "입시의기세",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": null,
+                "ig_followers": null,
+                "ig_verification": null,
+                "page_alias": "",
+                "page_is_deleted": false
+              }
+            ],
+            "location_results": [],
+            "exact_phrase_results": "\"입시의기\""
+          }
+        }
+      },
+      "extensions": {
+        "server_metadata": {
+          "request_start_time_ms": 1770055905376,
+          "time_at_flush_ms": 1770055905538
+        },
+        "is_final": true
+      }
+    }
+  },
+  {
+    "friendlyName": "useAdLibraryTypeaheadSuggestionDataSourceQuery",
+    "data": {
+      "data": {
+        "ad_library_main": {
+          "typeahead_suggestions": {
+            "keyword_results": [],
+            "page_results": [],
+            "location_results": [],
+            "exact_phrase_results": "\"입시의깃\""
+          }
+        }
+      },
+      "extensions": {
+        "server_metadata": {
+          "request_start_time_ms": 1770055905528,
+          "time_at_flush_ms": 1770055905636
+        },
+        "is_final": true
+      }
+    }
+  },
+  {
+    "friendlyName": "useAdLibraryTypeaheadSuggestionDataSourceQuery",
+    "data": {
+      "data": {
+        "ad_library_main": {
+          "typeahead_suggestions": {
+            "keyword_results": [],
+            "page_results": [
+              {
+                "page_id": "200519099820015",
+                "category": "이커머스 웹사이트",
+                "image_uri": "https://scontent-icn2-1.xx.fbcdn.net/v/t39.30808-1/504262446_122243036606191610_2953796587352506112_n.jpg?stp=dst-jpg_p100x100_tt6&_nc_cat=104&ccb=1-7&_nc_sid=418b77&_nc_ohc=jOCcs6lk7ekQ7kNvwEgRavo&_nc_oc=AdlaWfB0EtuflwNMumLAUCohSX8SXd8WrwQGTjGmImEAnR9flGaMeoLg6BBUw4h5suM&_nc_zt=24&_nc_ht=scontent-icn2-1.xx&_nc_gid=wSFw5D36iIJveKYokpCHWA&oh=00_AfsRFnLZenI_rz06IyDbUTQkARjBUu3Qj9Dy-wINAGcsEg&oe=6986C664",
+                "likes": 4,
+                "verification": "NOT_VERIFIED",
+                "name": "입시의기세",
+                "country": null,
+                "entity_type": "PERSON_PROFILE",
+                "ig_username": null,
+                "ig_followers": null,
+                "ig_verification": null,
+                "page_alias": "",
+                "page_is_deleted": false
+              }
+            ],
+            "location_results": [],
+            "exact_phrase_results": "\"입시의기세\""
+          }
+        }
+      },
+      "extensions": {
+        "server_metadata": {
+          "request_start_time_ms": 1770055905628,
+          "time_at_flush_ms": 1770055905738
+        },
+        "is_final": true
+      }
+    }
+  },
+  {
+    "friendlyName": "AdLibraryFilterContextProviderQuery",
+    "data": {
+      "data": {
+        "ad_library_main": {
+          "dynamic_filter_options": {
+            "content_languages": [
+              {
+                "count": 10,
+                "key": "ko",
+                "display_name": "한국어"
+              }
+            ],
+            "disclaimers": [],
+            "pages": [
+              {
+                "count": 10,
+                "key": "200519099820015",
+                "display_name": "입시의기세"
+              }
+            ],
+            "reached_regions": [],
+            "countries": [],
+            "cities": [],
+            "targeted_regions": []
+          }
+        }
+      },
+      "extensions": {
+        "server_metadata": {
+          "request_start_time_ms": 1770055908362,
+          "time_at_flush_ms": 1770055908399
+        },
+        "is_final": true
+      }
+    }
+  }
+]

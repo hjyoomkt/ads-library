@@ -1,4 +1,5 @@
 import React from 'react';
+import { Navigate } from 'react-router-dom';
 
 import { Icon } from '@chakra-ui/react';
 import {
@@ -29,9 +30,15 @@ const routes = [
   {
     name: 'Main Home',
     layout: '/admin',
-    path: '/default',
+    path: '/monitoring',
     icon: <Icon as={MdHome} width="20px" height="20px" color="inherit" />,
     component: <Monitoring />,
+  },
+  {
+    layout: '/admin',
+    path: '/default',
+    component: <Navigate to="/admin/monitoring" replace />,
+    hidden: true,
   },
   // {
   //   name: 'Main Dashboard',

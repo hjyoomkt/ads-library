@@ -131,7 +131,7 @@ export default function MetaArchive() {
         pt={{ base: '130px', md: '80px', xl: '80px' }}
         transition="margin-left 0.3s cubic-bezier(0.4, 0, 0.2, 1)"
       >
-        <Card mb="20px" p="20px">
+        <Box mb="20px">
           <SearchBar
             onScrapeStart={(jobId) => {
               setHasInteracted(true);
@@ -139,7 +139,7 @@ export default function MetaArchive() {
             }}
             onSearchSaved={handleSearchSaved}
           />
-        </Card>
+        </Box>
 
         {/* xl 미만: SearchBar 아래에 Search History 표시 */}
         <Box display={{ base: 'block', xl: 'none' }} mb="20px">

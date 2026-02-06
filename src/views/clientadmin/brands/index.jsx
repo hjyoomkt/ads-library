@@ -120,7 +120,6 @@ export default function BrandManagement() {
         justify="space-between"
         align="center"
         mb="20px"
-        px="25px"
       >
         <Box>
           <Text
@@ -158,7 +157,7 @@ export default function BrandManagement() {
           </Text>
         </Card>
       ) : (
-        <SimpleGrid columns={{ base: 1, md: 2, lg: 3 }} gap="20px" px="25px">
+        <SimpleGrid columns={{ base: 1, md: 2, lg: 3 }} gap="20px">
           {brands.map((brand) => (
             <BrandCard key={brand.id} brand={brand} />
           ))}

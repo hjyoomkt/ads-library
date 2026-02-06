@@ -18,7 +18,7 @@ export default function UserManagement() {
 
   return (
     <Box pt={{ base: "130px", md: "80px", xl: "80px" }}>
-      <Flex justify="space-between" align="center" mb="20px" px="25px">
+      <Flex justify="space-between" align="center" mb="20px">
         <Box>
           <Heading size="lg" mb="8px">
             {isAgency() ? '직원 관리' : '팀원 관리'}

@@ -235,13 +235,15 @@ const Monitoring = () => {
                     >
                       {competitor.name}
                     </Text>
-                    <Text
-                      color="green.500"
-                      fontSize="sm"
-                      fontWeight="600"
+                    <Badge
+                      colorScheme="green"
+                      fontSize="xs"
+                      px={2}
+                      py={0.5}
+                      borderRadius="4px"
                     >
                       {competitor.adsCount}개 게재 중
-                    </Text>
+                    </Badge>
                   </Flex>
 
                   {/* 소셜 미디어 정보 - 작게 */}

@@ -54,7 +54,6 @@ export default function SuperAdminDashboard() {
         fontSize="2xl"
         fontWeight="700"
         mb="20px"
-        px="25px"
       >
         관리자 대시보드
       </Text>
@@ -62,8 +61,7 @@ export default function SuperAdminDashboard() {
       <SimpleGrid
         columns={{ base: 1, md: 2, lg: 3, "2xl": 3 }}
         gap='20px'
-        mb='20px'
-        px="25px">
+        mb='20px'>
         <MiniStatistics
           startContent={
             <IconBox
@@ -113,7 +111,6 @@ export default function SuperAdminDashboard() {
         p="20px"
         borderRadius="20px"
         mt="20px"
-        mx="25px"
       >
         <Text color={textColor} fontSize="lg" fontWeight="700" mb="10px">
           관리자 기능

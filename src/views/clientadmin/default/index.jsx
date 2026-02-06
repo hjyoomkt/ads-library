@@ -43,6 +43,7 @@ export default function ClientAdminDashboard() {
   const brandColor = useColorModeValue("brand.500", "white");
   const boxBg = useColorModeValue("secondaryGray.300", "whiteAlpha.100");
   const textColor = useColorModeValue("secondaryGray.900", "white");
+  const cardBg = useColorModeValue("white", "navy.700");
 
   const { user, role, organizationId, advertiserId, organizationType } = useAuth();
   const [stats, setStats] = useState({
@@ -99,7 +100,6 @@ export default function ClientAdminDashboard() {
         fontSize="2xl"
         fontWeight="700"
         mb="20px"
-        px="25px"
       >
         관리자 대시보드
       </Text>
@@ -107,8 +107,7 @@ export default function ClientAdminDashboard() {
       <SimpleGrid
         columns={{ base: 1, md: 2, lg: 3, "2xl": 3 }}
         gap='20px'
-        mb='20px'
-        px="25px">
+        mb='20px'>
         <MiniStatistics
           startContent={
             <IconBox
@@ -121,7 +120,7 @@ export default function ClientAdminDashboard() {
             />
           }
           name='총 사용자'
-          value={stats.totalUsers}
+          value={stats.totalUsers.toString()}
         />
         <MiniStatistics
           startContent={
@@ -135,7 +134,7 @@ export default function ClientAdminDashboard() {
             />
           }
           name='관리자 계정'
-          value={stats.adminUsers}
+          value={stats.adminUsers.toString()}
         />
         <MiniStatistics
           startContent={
@@ -149,12 +148,12 @@ export default function ClientAdminDashboard() {
             />
           }
           name='활성 사용자'
-          value={stats.activeUsers}
+          value={stats.activeUsers.toString()}
         />
       </SimpleGrid>
 
       <Box
-        bg={useColorModeValue("white", "navy.700")}
+        bg={cardBg}
         p="20px"
         borderRadius="20px"
         mt="20px"

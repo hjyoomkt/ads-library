@@ -200,7 +200,6 @@ export default function AdvertisersManagement() {
       <Card
         direction="column"
         w="100%"
-        px="25px"
         py="25px"
         overflowX={{ sm: "scroll", lg: "hidden" }}
       >

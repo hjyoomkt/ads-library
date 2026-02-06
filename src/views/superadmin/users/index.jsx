@@ -13,7 +13,7 @@ export default function UserManagement() {
   return (
     <Box pt={{ base: "130px", md: "80px", xl: "80px" }}>
       {/* Page Header */}
-      <Flex justify="space-between" align="center" mb="20px" px="27px">
+      <Flex justify="space-between" align="center" mb="20px">
         <Box>
           <Text
             color={textColor}

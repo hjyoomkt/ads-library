@@ -12,9 +12,12 @@ import {
   WrapItem,
   Icon,
   Collapse,
-  SimpleGrid
+  SimpleGrid,
+  Button,
+  Image
 } from '@chakra-ui/react';
-import { MdRefresh, MdSearch, MdBusiness, MdChevronLeft, MdChevronRight } from 'react-icons/md';
+import { MdRefresh, MdSearch, MdBusiness, MdChevronLeft, MdChevronRight, MdAdd, MdAccessTime } from 'react-icons/md';
+import { FaFacebook } from 'react-icons/fa';
 import { getSearchHistory, scrapeByKeyword, scrapeByAdvertiser } from 'services/apiService';
 import Card from 'components/card/Card';
 
@@ -138,6 +141,17 @@ export default function SavedSearchesSidebar({
     return date.toLocaleDateString('ko-KR');
   };
 
+  const formatDateTime = (dateString) => {
+    if (!dateString) return '';
+    const date = new Date(dateString);
+    const year = String(date.getFullYear()).slice(2);
+    const month = String(date.getMonth() + 1).padStart(2, '0');
+    const day = String(date.getDate()).padStart(2, '0');
+    const hours = String(date.getHours()).padStart(2, '0');
+    const minutes = String(date.getMinutes()).padStart(2, '0');
+    return `${year}.${month}.${day} ${hours}:${minutes}`;
+  };
+
   // 검색 카드 컴포넌트
   const SearchCard = ({ search, isInline = false }) => {
     const searchKey = `${search.search_type}:${search.search_query}`;
@@ -146,14 +160,14 @@ export default function SavedSearchesSidebar({
 
     return (
       <Card
-        p={4}
+        p={3}
         cursor="pointer"
         bg={isSelected ? 'blue.50' : 'white'}
-        borderLeft="3px solid"
-        borderLeftColor={isSelected ? 'brand.500' : 'transparent'}
+        border="1px solid"
+        borderColor={isSelected ? 'brand.500' : 'gray.200'}
         _hover={{
           bg: 'gray.50',
-          transform: isInline ? 'none' : 'translateX(4px)',
+          borderColor: 'brand.300',
           boxShadow: 'md'
         }}
         transition="all 0.2s"
@@ -170,66 +184,68 @@ export default function SavedSearchesSidebar({
           outlineColor: 'brand.500',
           outlineOffset: '2px'
         }}
+        borderRadius="12px"
       >
-        {/* 아이콘 + 제목 */}
-        <HStack spacing={3} mb={3}>
-          <Box
-            w="40px"
-            h="40px"
-            bg={search.search_type === 'keyword' ? 'blue.50' : 'purple.50'}
-            borderRadius="10px"
-            display="flex"
-            alignItems="center"
-            justifyContent="center"
-          >
-            <Icon
-              as={search.search_type === 'keyword' ? MdSearch : MdBusiness}
-              w="20px"
-              h="20px"
-              color={search.search_type === 'keyword' ? 'blue.500' : 'purple.500'}
-            />
-          </Box>
+        <VStack spacing={2} align="stretch">
+          {/* 첫 번째 줄: 아이콘 + 제목 + 광고 수 */}
+          <HStack spacing={2} align="center">
+            <Box
+              w="24px"
+              h="24px"
+              bg="gray.100"
+              borderRadius="6px"
+              display="flex"
+              alignItems="center"
+              justifyContent="center"
+              flexShrink={0}
+            >
+              <Icon
+                as={search.search_type === 'keyword' ? MdSearch : MdBusiness}
+                w="14px"
+                h="14px"
+                color="gray.600"
+              />
+            </Box>
 
-          <VStack align="start" spacing={0} flex="1" minW="0">
-            <Text fontSize="md" fontWeight="bold" noOfLines={1}>
+            <Text fontSize="sm" fontWeight="600" noOfLines={1} color="gray.900" flex="1" minW="0">
               {search.search_query}
             </Text>
-            <Text fontSize="xs" color="gray.500">
-              {search.search_type === 'keyword' ? '키워드' : '광고주'}
-            </Text>
-          </VStack>
-        </HStack>
 
-        {/* 메타 정보 */}
-        <HStack justify="space-between" mb={2}>
-          <Badge colorScheme="green" fontSize="xs" fontWeight="600">
-            {search.total_ads_count || 0} ads
-          </Badge>
+            <Badge colorScheme="green" fontSize="xs" px={2} py={0.5} borderRadius="4px" flexShrink={0}>
+              {search.total_ads_count || 0}개
+            </Badge>
+          </HStack>
 
-          {search.last_searched_at && (
-            <Text fontSize="xs" color="gray.500">
-              {formatDate(search.last_searched_at)}
-            </Text>
-          )}
-        </HStack>
+          {/* 두 번째 줄: 시간 + 뱃지 + Meta 아이콘 + 새로고침 버튼 */}
+          <HStack spacing={2} fontSize="xs" color="gray.500" align="center">
+            <Icon as={MdAccessTime} w="14px" h="14px" />
+            <Text flex="1" minW="0">마지막 확인: {formatDateTime(search.last_searched_at)}</Text>
 
-        {/* 새로고침 버튼 */}
-        <HStack justify="flex-end">
-          <Tooltip label="최신 광고 데이터 수집" placement="top" fontSize="xs">
-            <IconButton
-              icon={<MdRefresh />}
-              size="xs"
-              variant="ghost"
-              colorScheme="blue"
-              isLoading={isRefreshing}
-              onClick={(e) => {
-                e.stopPropagation();
-                handleRefresh(search);
-              }}
-              aria-label="Refresh search"
-            />
-          </Tooltip>
-        </HStack>
+            <HStack spacing={1} flexShrink={0}>
+              <Badge colorScheme="blue" fontSize="10px" px={2} py={0.5} borderRadius="4px">
+                KR
+              </Badge>
+              <Icon as={FaFacebook} w="18px" h="18px" color="blue.500" />
+              <Tooltip label="최신 광고 데이터 수집" placement="top" fontSize="xs">
+                <IconButton
+                  icon={<MdRefresh />}
+                  size="xs"
+                  variant="ghost"
+                  colorScheme="blue"
+                  isLoading={isRefreshing}
+                  onClick={(e) => {
+                    e.stopPropagation();
+                    handleRefresh(search);
+                  }}
+                  aria-label="Refresh search"
+                  minW="auto"
+                  h="auto"
+                  p={1}
+                />
+              </Tooltip>
+            </HStack>
+          </HStack>
+        </VStack>
       </Card>
     );
   };
@@ -239,13 +255,36 @@ export default function SavedSearchesSidebar({
     return (
       <Card p="20px" mb={4}>
         <VStack spacing={3} align="stretch">
-          <HStack justify="space-between">
-            <Text fontSize="md" fontWeight="bold">
-              검색 기록
-            </Text>
-            <Badge colorScheme="blue" fontSize="xs">
-              {searches.length}
-            </Badge>
+          <HStack justify="space-between" align="center">
+            <VStack align="start" spacing={0}>
+              <Text fontSize="md" fontWeight="bold" color="gray.900">
+                경쟁사 모니터링
+              </Text>
+              <Text fontSize="xs" color="gray.500">
+                {searches.length}개 경쟁사 모니터링 중
+              </Text>
+            </VStack>
+            <Button
+              size="sm"
+              colorScheme="blue"
+              leftIcon={<MdAdd />}
+              borderRadius="8px"
+              fontSize="sm"
+              fontWeight="600"
+              px={3}
+              onClick={(e) => {
+                e.stopPropagation();
+                toast({
+                  title: '준비 중',
+                  description: '경쟁사 추가 기능은 곧 제공될 예정입니다',
+                  status: 'info',
+                  duration: 3000,
+                  isClosable: true
+                });
+              }}
+            >
+              추가
+            </Button>
           </HStack>
 
           {searches.length === 0 ? (
@@ -277,37 +316,13 @@ export default function SavedSearchesSidebar({
   // Fixed 사이드바 모드 (xl 이상)
   return (
     <>
-      {/* 토글 버튼 - 항상 보임 */}
-      <IconButton
-        position="fixed"
-        left={isCollapsed ? SIDEBAR_LEFT_POSITION : `calc(${SIDEBAR_LEFT_POSITION} + ${EXPANDED_WIDTH} - 15px)`}
-        top="80px"
-        icon={isCollapsed ? <MdChevronRight /> : <MdChevronLeft />}
-        onClick={() => setIsCollapsed(!isCollapsed)}
-        size="sm"
-        bg="brand.500"
-        color="white"
-        borderRadius="full"
-        boxShadow="lg"
-        zIndex="1000"
-        _hover={{
-          bg: 'brand.600',
-          transform: 'scale(1.1)'
-        }}
-        _active={{
-          bg: 'brand.700'
-        }}
-        transition="left 0.3s cubic-bezier(0.4, 0, 0.2, 1)"
-        aria-label={isCollapsed ? "경쟁사 모니터링 펼치기" : "경쟁사 모니터링 접기"}
-      />
-
       {/* 사이드바 콘텐츠 */}
       <Box
         position="fixed"
         left={SIDEBAR_LEFT_POSITION}
-        top="60px"
+        top="0px"
         width={isCollapsed ? COLLAPSED_WIDTH : EXPANDED_WIDTH}
-        height="calc(100vh - 60px)"
+        height="100vh"
         transition="all 0.3s cubic-bezier(0.4, 0, 0.2, 1)"
         zIndex="999"
         overflow="hidden"
@@ -315,7 +330,7 @@ export default function SavedSearchesSidebar({
         <Collapse in={!isCollapsed} animateOpacity>
           <Box
             width={EXPANDED_WIDTH}
-            height="calc(100vh - 60px)"
+            height="100vh"
             bg="white"
             borderRight="1px solid"
             borderColor="gray.200"
@@ -323,14 +338,40 @@ export default function SavedSearchesSidebar({
             p={4}
           >
             {/* 헤더 */}
-            <HStack justify="space-between" mb={4}>
-              <Text fontSize="lg" fontWeight="bold" color="secondaryGray.900">
-                경쟁사 모니터링
-              </Text>
-              <Badge colorScheme="blue" fontSize="xs">
-                {searches.length}
-              </Badge>
-            </HStack>
+            <VStack align="stretch" spacing={3} mb={4} py={3}>
+              <HStack justify="space-between" align="center">
+                <VStack align="start" spacing={0}>
+                  <Text fontSize="lg" fontWeight="bold" color="gray.900">
+                    경쟁사 모니터링
+                  </Text>
+                  <Text fontSize="xs" color="gray.500">
+                    {searches.length}개 경쟁사 모니터링 중
+                  </Text>
+                </VStack>
+                <Button
+                  size="sm"
+                  colorScheme="blue"
+                  leftIcon={<MdAdd />}
+                  borderRadius="8px"
+                  fontSize="sm"
+                  fontWeight="600"
+                  px={3}
+                  onClick={(e) => {
+                    e.stopPropagation();
+                    // TODO: 추가 기능 구현
+                    toast({
+                      title: '준비 중',
+                      description: '경쟁사 추가 기능은 곧 제공될 예정입니다',
+                      status: 'info',
+                      duration: 3000,
+                      isClosable: true
+                    });
+                  }}
+                >
+                  추가
+                </Button>
+              </HStack>
+            </VStack>
 
             {/* 검색 기록 카드 */}
             {searches.length === 0 ? (
@@ -355,6 +396,35 @@ export default function SavedSearchesSidebar({
             )}
           </Box>
         </Collapse>
+      </Box>
+
+      {/* 토글 버튼 - 항상 표시 */}
+      <Box
+        position="fixed"
+        left={isCollapsed ? SIDEBAR_LEFT_POSITION : `calc(${SIDEBAR_LEFT_POSITION} + ${EXPANDED_WIDTH})`}
+        top="50%"
+        transform="translateY(-50%)"
+        zIndex="1001"
+        transition="left 0.3s cubic-bezier(0.4, 0, 0.2, 1)"
+      >
+        <IconButton
+          icon={isCollapsed ? <MdChevronRight /> : <MdChevronLeft />}
+          onClick={() => setIsCollapsed(!isCollapsed)}
+          size="sm"
+          h="80px"
+          w="16px"
+          minW="16px"
+          bg="gray.800"
+          color="white"
+          borderRadius="0 8px 8px 0"
+          _hover={{
+            bg: 'gray.700'
+          }}
+          _active={{
+            bg: 'gray.900'
+          }}
+          aria-label={isCollapsed ? "경쟁사 모니터링 펼치기" : "경쟁사 모니터링 접기"}
+        />
       </Box>
     </>
   );

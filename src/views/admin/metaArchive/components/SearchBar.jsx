@@ -74,8 +74,8 @@ export default function SearchBar({ onScrapeStart, onSearchSaved }) {
       }
 
       toast({
-        title: 'Scraping started',
-        description: `Job ID: ${jobId}`,
+        title: `${trimmedQuery} 정보 수집중입니다`,
+        description: `${searchType === 'keyword' ? '키워드' : '광고주'} 검색으로 광고 데이터를 수집하고 있습니다`,
         status: 'success',
         duration: 5000,
         isClosable: true

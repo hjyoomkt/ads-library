@@ -1,5 +1,6 @@
 import { Box, Flex, Grid, useDisclosure, HStack, Button, Text, VStack } from '@chakra-ui/react';
 import { useState, useEffect } from 'react';
+import { useLocation } from 'react-router-dom';
 import { getAds } from 'services/apiService';
 import { useAuth } from 'contexts/AuthContext';
 import SearchBar from './components/SearchBar';
@@ -12,6 +13,7 @@ import { MdChevronLeft, MdChevronRight } from 'react-icons/md';
 
 export default function MetaArchive() {
   const { user } = useAuth();
+  const location = useLocation();
   const [ads, setAds] = useState(null);
   const [currentJobId, setCurrentJobId] = useState(null);
   const [selectedAd, setSelectedAd] = useState(null);
@@ -24,6 +26,14 @@ export default function MetaArchive() {
   const [userSearchQueries, setUserSearchQueries] = useState([]);
   const [isSidebarCollapsed, setIsSidebarCollapsed] = useState(false);
   const { isOpen, onOpen, onClose } = useDisclosure();
+
+  // monitoring 페이지에서 전달된 jobId 처리
+  useEffect(() => {
+    if (location.state?.jobId) {
+      setCurrentJobId(location.state.jobId);
+      setHasInteracted(true);
+    }
+  }, [location.state]);
 
   useEffect(() => {
     // 사용자가 검색하거나 저장된 검색을 클릭했을 때만 광고 로드

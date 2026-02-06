@@ -14,12 +14,15 @@ import {
 } from '@chakra-ui/react';
 import { MdAdd, MdKeyboardArrowDown, MdSearch, MdBusiness } from 'react-icons/md';
 import { FaFacebook, FaInstagram } from 'react-icons/fa';
+import { useNavigate } from 'react-router-dom';
 import Card from 'components/card/Card';
 import { getPopularSearches, saveSearchHistory } from 'services/apiService';
 import { useAuth } from 'contexts/AuthContext';
+import SearchBar from 'views/admin/metaArchive/components/SearchBar';
 
 const Monitoring = () => {
   const { currentAdvertiserId } = useAuth();
+  const navigate = useNavigate();
   const [competitorData, setCompetitorData] = useState([]);
   const [loading, setLoading] = useState(true);
   const [addingId, setAddingId] = useState(null);
@@ -64,6 +67,11 @@ const Monitoring = () => {
     const hours = String(now.getHours()).padStart(2, '0');
     const minutes = String(now.getMinutes()).padStart(2, '0');
     return `${month}.${day} ${hours}:${minutes} 업데이트`;
+  };
+
+  const handleScrapeStart = (jobId) => {
+    // 검색 시작 시 jobId와 함께 ads-library 페이지로 이동
+    navigate('/admin/ads-library', { state: { jobId } });
   };
 
   const handleAddToMonitoring = async (search) => {
@@ -159,6 +167,11 @@ const Monitoring = () => {
           {getCurrentDateTime()}
         </Text>
       </Flex>
+
+      {/* 검색바 섹션 */}
+      <Box mb="40px">
+        <SearchBar onScrapeStart={handleScrapeStart} />
+      </Box>
 
       {/* 로딩 상태 */}
       {loading && (

@@ -23,7 +23,7 @@ export default function SuperAdminDashboard() {
   const textColor = useColorModeValue("secondaryGray.900", "white");
   const cardBg = useColorModeValue("white", "navy.700");
 
-  const { user, role } = useAuth();
+  const { user, role, organizationId } = useAuth();
   const [stats, setStats] = useState({
     totalUsers: 0,
     adminUsers: 0,
@@ -33,10 +33,13 @@ export default function SuperAdminDashboard() {
   useEffect(() => {
     const fetchStats = async () => {
       try {
-        if (role === 'master') {
-          const data = await getUserStats();
-          setStats(data);
-        }
+        const currentUser = {
+          id: user.id,
+          role,
+          organization_id: organizationId,
+        };
+        const data = await getUserStats(currentUser);
+        setStats(data);
       } catch (error) {
         console.error('[SuperAdminDashboard] 통계 조회 실패:', error);
       }
@@ -45,7 +48,7 @@ export default function SuperAdminDashboard() {
     if (user) {
       fetchStats();
     }
-  }, [user, role]);
+  }, [user, role, organizationId]);
 
   return (
     <Box pt={{ base: "130px", md: "80px", xl: "80px" }}>

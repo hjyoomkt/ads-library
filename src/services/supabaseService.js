@@ -244,14 +244,28 @@ export async function saveSearchHistory(searchType, searchQuery, advertiserId) {
 
 /**
  * Get all users
+ * @param {Object} currentUser - Current user with role, organization_id, advertiser_id
  */
-export async function getUsers() {
+export async function getUsers(currentUser = null) {
   try {
-    const { data, error } = await supabase
+    let query = supabase
       .from('users')
       .select('*')
-      .is('deleted_at', null)
-      .order('created_at', { ascending: false });
+      .is('deleted_at', null);
+
+    // Filter by role
+    if (currentUser && currentUser.role !== 'master') {
+      // Agency admin/manager: filter by organization
+      if (['agency_admin', 'agency_manager'].includes(currentUser.role) && currentUser.organization_id) {
+        query = query.eq('organization_id', currentUser.organization_id);
+      }
+      // Advertiser admin/staff: filter by advertiser
+      else if (['advertiser_admin', 'advertiser_staff', 'brand_admin'].includes(currentUser.role) && currentUser.advertiser_id) {
+        query = query.eq('advertiser_id', currentUser.advertiser_id);
+      }
+    }
+
+    const { data, error } = await query.order('created_at', { ascending: false });
 
     if (error) throw error;
 
@@ -264,14 +278,22 @@ export async function getUsers() {
 
 /**
  * Get user statistics
+ * @param {Object} currentUser - Current user with role and organization_id
  */
-export async function getUserStats() {
+export async function getUserStats(currentUser = null) {
   try {
     // Get all users with their role and status
-    const { data: users, error } = await supabase
+    let query = supabase
       .from('users')
-      .select('role, status')
+      .select('role, status, organization_id')
       .is('deleted_at', null);
+
+    // Filter by organization if not master
+    if (currentUser && currentUser.role !== 'master' && currentUser.organization_id) {
+      query = query.eq('organization_id', currentUser.organization_id);
+    }
+
+    const { data: users, error } = await query;
 
     if (error) throw error;
 
@@ -476,6 +498,92 @@ export async function updateUserRoleAndAdvertisers(userId, role, advertiserId, o
     return { success: true };
   } catch (error) {
     console.error('updateUserRoleAndAdvertisers error:', error);
+    throw error;
+  }
+}
+
+/**
+ * 인기 검색어 조회 (모든 사용자의 검색 기록 집계)
+ * Monitoring 페이지에서 추천 경쟁사로 표시
+ */
+export async function getPopularSearches(limit = 20) {
+  try {
+    // 모든 사용자의 검색 히스토리 가져오기
+    const { data: searchHistory, error: historyError } = await supabase
+      .from('user_search_history')
+      .select('search_type, search_query, created_at, advertiser_id')
+      .order('created_at', { ascending: false });
+
+    if (historyError) throw historyError;
+
+    // 디버깅: 실제 조회된 데이터 확인
+    console.log('🔍 [getPopularSearches] 조회된 검색 기록 수:', searchHistory?.length);
+    console.log('🔍 [getPopularSearches] 고유 advertiser_id 수:', new Set(searchHistory?.map(s => s.advertiser_id)).size);
+    console.log('🔍 [getPopularSearches] 샘플 데이터:', searchHistory?.slice(0, 3));
+
+    // 검색어별로 그룹화 및 집계
+    const searchMap = new Map();
+
+    for (const item of searchHistory || []) {
+      const key = `${item.search_type}:${item.search_query}`;
+
+      if (!searchMap.has(key)) {
+        searchMap.set(key, {
+          search_type: item.search_type,
+          search_query: item.search_query,
+          search_count: 1,
+          last_searched_at: item.created_at,
+          unique_users: new Set([item.advertiser_id])
+        });
+      } else {
+        const existing = searchMap.get(key);
+        existing.search_count += 1;
+        existing.unique_users.add(item.advertiser_id);
+
+        // 가장 최근 검색 시간 유지
+        if (new Date(item.created_at) > new Date(existing.last_searched_at)) {
+          existing.last_searched_at = item.created_at;
+        }
+      }
+    }
+
+    // Map을 배열로 변환
+    const popularSearches = Array.from(searchMap.values()).map(search => ({
+      search_type: search.search_type,
+      search_query: search.search_query,
+      search_count: search.search_count,
+      unique_users_count: search.unique_users.size,
+      last_searched_at: search.last_searched_at,
+      popularity_score: search.search_count * 0.6 + search.unique_users.size * 0.4 // 검색 횟수 + 사용자 수
+    }));
+
+    // 인기도 순으로 정렬
+    popularSearches.sort((a, b) => b.popularity_score - a.popularity_score);
+
+    // 상위 N개만 선택
+    const topSearches = popularSearches.slice(0, limit);
+
+    // 각 검색어의 광고 수 계산
+    for (const search of topSearches) {
+      const { count, error: countError } = await supabase
+        .from('ad_archives')
+        .select('*', { count: 'exact', head: true })
+        .eq('search_type', search.search_type)
+        .eq('search_query', search.search_query);
+
+      if (!countError) {
+        search.total_ads_count = count || 0;
+      } else {
+        search.total_ads_count = 0;
+      }
+    }
+
+    // 광고가 있는 검색어만 필터링
+    const searchesWithAds = topSearches.filter(s => s.total_ads_count > 0);
+
+    return searchesWithAds;
+  } catch (error) {
+    console.error('getPopularSearches error:', error);
     throw error;
   }
 }

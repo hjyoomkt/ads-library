@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import {
   Box,
   Flex,
@@ -9,82 +9,21 @@ import {
   Badge,
   useColorModeValue,
   Select,
+  Spinner,
+  useToast,
 } from '@chakra-ui/react';
-import { MdAdd, MdKeyboardArrowDown } from 'react-icons/md';
+import { MdAdd, MdKeyboardArrowDown, MdSearch, MdBusiness } from 'react-icons/md';
 import { FaFacebook, FaInstagram } from 'react-icons/fa';
 import Card from 'components/card/Card';
-
-// 샘플 데이터
-const competitorData = [
-  {
-    id: 1,
-    name: '메디큐브 - Medicube',
-    logo: 'medicube',
-    adsCount: 719,
-    category: '뷰티',
-    facebook: {
-      id: '253332005052281',
-      handle: '@medicubeofficial',
-      verified: true,
-    },
-    instagram: {
-      handle: '@medicube_korea',
-      verified: true,
-    },
-  },
-  {
-    id: 2,
-    name: '올리브영',
-    logo: 'oliveyoung',
-    adsCount: 195,
-    category: '뷰티',
-    facebook: {
-      id: '217121317199664',
-      handle: '@OLIVEYOUNG',
-      verified: true,
-    },
-    instagram: {
-      handle: '@oliveyoung_official',
-      verified: true,
-    },
-  },
-  {
-    id: 3,
-    name: '토리든',
-    logo: 'torriden',
-    adsCount: 118,
-    category: '뷰티',
-    facebook: {
-      id: '733047486827750',
-      handle: '@torriden.korea',
-      verified: false,
-    },
-    instagram: {
-      handle: '@torriden_official',
-      verified: false,
-    },
-  },
-];
-
-const categories = [
-  '전체',
-  '뷰티',
-  '패션',
-  '식품',
-  '홈·생활',
-  '가전·디지털',
-  '취미·반려동물',
-  '건강',
-  'IT 솔루션·SaaS',
-  '커머스·쇼핑',
-  '금융·핀테크',
-  '교육',
-  '커뮤니티·콘텐츠',
-  '라이프스타일 서비스',
-];
+import { getPopularSearches, saveSearchHistory } from 'services/apiService';
+import { useAuth } from 'contexts/AuthContext';
 
 const Monitoring = () => {
-  const [selectedCategory, setSelectedCategory] = useState('전체');
+  const { currentAdvertiserId } = useAuth();
+  const [competitorData, setCompetitorData] = useState([]);
+  const [loading, setLoading] = useState(true);
+  const [addingId, setAddingId] = useState(null);
+  const toast = useToast();
 
   const textColor = useColorModeValue('secondaryGray.900', 'white');
   const textColorSecondary = useColorModeValue('secondaryGray.700', 'white');
@@ -93,6 +32,30 @@ const Monitoring = () => {
   const bgHover = useColorModeValue('secondaryGray.100', 'whiteAlpha.50');
   const bgActive = useColorModeValue('brand.500', 'brand.400');
   const cardBg = useColorModeValue('white', 'navy.800');
+
+  // 인기 검색어 로드
+  useEffect(() => {
+    loadPopularSearches();
+  }, []);
+
+  const loadPopularSearches = async () => {
+    try {
+      setLoading(true);
+      const data = await getPopularSearches(20);
+      setCompetitorData(data);
+    } catch (error) {
+      console.error('Failed to load popular searches:', error);
+      toast({
+        title: '데이터 로드 실패',
+        description: error.message || '인기 검색어를 불러오는데 실패했습니다',
+        status: 'error',
+        duration: 5000,
+        isClosable: true
+      });
+    } finally {
+      setLoading(false);
+    }
+  };
 
   const getCurrentDateTime = () => {
     const now = new Date();
@@ -103,227 +66,234 @@ const Monitoring = () => {
     return `${month}.${day} ${hours}:${minutes} 업데이트`;
   };
 
-  const filteredCompetitors = selectedCategory === '전체'
-    ? competitorData
-    : competitorData.filter(c => c.category === selectedCategory);
+  const handleAddToMonitoring = async (search) => {
+    if (!currentAdvertiserId) {
+      toast({
+        title: '브랜드 선택 필요',
+        description: '브랜드를 먼저 선택해주세요',
+        status: 'warning',
+        duration: 3000,
+        isClosable: true
+      });
+      return;
+    }
+
+    const searchKey = `${search.search_type}:${search.search_query}`;
+    setAddingId(searchKey);
+
+    try {
+      await saveSearchHistory(search.search_type, search.search_query, currentAdvertiserId);
+
+      toast({
+        title: '모니터링에 추가됨',
+        description: `"${search.search_query}"을(를) 모니터링 목록에 추가했습니다`,
+        status: 'success',
+        duration: 3000,
+        isClosable: true
+      });
+    } catch (error) {
+      // 중복 에러는 무시
+      if (error.message && error.message.includes('already')) {
+        toast({
+          title: '이미 추가됨',
+          description: '이미 모니터링 중인 검색어입니다',
+          status: 'info',
+          duration: 3000,
+          isClosable: true
+        });
+      } else {
+        toast({
+          title: '추가 실패',
+          description: error.message || '모니터링 추가에 실패했습니다',
+          status: 'error',
+          duration: 5000,
+          isClosable: true
+        });
+      }
+    } finally {
+      setAddingId(null);
+    }
+  };
 
   return (
     <Box pt={{ base: '130px', md: '80px', xl: '80px' }}>
-      {/* 헤더 섹션 */}
-      <Flex justify="space-between" align="flex-start" mb="20px">
-        <Box>
+      {/* 헤더 섹션 - 중앙 정렬 */}
+      <Flex direction="column" align="center" mb="40px" textAlign="center">
+        <Text
+          bgGradient="linear(to-r, brand.500, purple.500)"
+          bgClip="text"
+          fontSize="lg"
+          fontWeight="600"
+          mb="0px"
+          letterSpacing="tight"
+        >
+          다른 마케터들은 이 경쟁사를 추가했어요
+        </Text>
+        <Flex align="center" gap="12px" mb="2px">
           <Text
-            color="brand.500"
-            fontSize="sm"
-            fontWeight="500"
-            mb="4px"
+            color={textColor}
+            fontSize="4xl"
+            fontWeight="700"
           >
-            다른 마케터들은 이 경쟁사를 추가했어요
+            분야별 추천 경쟁사
           </Text>
-          <Flex align="center" gap="10px" mb="4px">
-            <Text
-              color={textColor}
-              fontSize="2xl"
-              fontWeight="700"
-            >
-              분야별 추천 경쟁사
-            </Text>
-            <Badge
-              colorScheme="purple"
-              fontSize="xs"
-              px="8px"
-              py="2px"
-              borderRadius="full"
-            >
-              BETA
-            </Badge>
-          </Flex>
-          <Text
-            color={textColorSecondary}
+          <Badge
+            colorScheme="purple"
             fontSize="sm"
-            fontWeight="400"
-          >
-            {getCurrentDateTime()}
-          </Text>
-        </Box>
-
-        {/* Meta 광고 라이브러리 셀렉터 */}
-        <Flex align="center" gap="8px" minW="240px">
-          <Icon as={FaFacebook} color="#1877F2" w="20px" h="20px" />
-          <Select
-            placeholder="Meta 광고 라이브러리"
-            size="sm"
-            borderRadius="10px"
-            borderColor={borderColor}
-            icon={<MdKeyboardArrowDown />}
-            _focus={{ borderColor: 'brand.500' }}
-          >
-            <option>Meta 광고 라이브러리</option>
-          </Select>
-        </Flex>
-      </Flex>
-
-      {/* 카테고리 필터 */}
-      <Flex
-        mb="24px"
-        gap="6px"
-        flexWrap="wrap"
-        pb="20px"
-        borderBottom="1px solid"
-        borderColor={borderColor}
-      >
-        {categories.map((category) => (
-          <Button
-            key={category}
-            size="sm"
-            variant={selectedCategory === category ? 'solid' : 'outline'}
-            bg={selectedCategory === category ? 'blue.500' : 'white'}
-            color={selectedCategory === category ? 'white' : 'gray.700'}
-            borderColor={selectedCategory === category ? 'blue.500' : 'gray.200'}
+            px="10px"
+            py="3px"
             borderRadius="full"
-            fontWeight="500"
-            fontSize="13px"
-            px="14px"
-            py="6px"
-            h="32px"
-            _hover={{
-              bg: selectedCategory === category ? 'blue.600' : 'gray.50',
-              borderColor: selectedCategory === category ? 'blue.600' : 'gray.300',
-            }}
-            onClick={() => setSelectedCategory(category)}
+            border="1px solid"
+            borderColor="purple.500"
+            bg="white"
+            color="purple.500"
           >
-            {category}
-          </Button>
-        ))}
+            BETA
+          </Badge>
+        </Flex>
+        <Text
+          color={textColorSecondary}
+          fontSize="sm"
+          fontWeight="400"
+        >
+          {getCurrentDateTime()}
+        </Text>
       </Flex>
+
+      {/* 로딩 상태 */}
+      {loading && (
+        <Flex justify="center" align="center" minH="400px">
+          <Spinner size="xl" color="brand.500" thickness="4px" />
+        </Flex>
+      )}
 
       {/* 경쟁사 카드 리스트 */}
-      <Flex direction="column" gap="16px">
-        {filteredCompetitors.map((competitor) => (
-          <Card
-            key={competitor.id}
-            bg={cardBg}
-            p="20px"
-            borderRadius="20px"
-          >
-            <Flex align="flex-start" justify="space-between" gap="20px">
-              {/* 좌측: 로고 + 브랜드 정보 */}
-              <Flex gap="12px" flex="1">
-                <Box
-                  w="48px"
-                  h="48px"
-                  borderRadius="8px"
-                  bg="gray.100"
-                  display="flex"
-                  alignItems="center"
-                  justifyContent="center"
-                  fontWeight="700"
-                  fontSize="xs"
-                  color="gray.600"
-                  flexShrink="0"
-                >
-                  {competitor.logo.substring(0, 2).toUpperCase()}
-                </Box>
+      {!loading && (
+        <Flex direction="column" gap="16px">
+          {competitorData.map((search) => {
+            const searchKey = `${search.search_type}:${search.search_query}`;
+            const isAdding = addingId === searchKey;
 
-                <Box flex="1">
-                  {/* 브랜드명과 게재 중이 같은 줄 */}
-                  <Flex align="center" gap="12px" mb="8px">
-                    <Text
-                      color={textColor}
-                      fontSize="md"
-                      fontWeight="700"
-                    >
-                      {competitor.name}
-                    </Text>
-                    <Badge
-                      colorScheme="green"
-                      fontSize="xs"
-                      px={2}
-                      py={0.5}
-                      borderRadius="4px"
-                    >
-                      {competitor.adsCount}개 게재 중
-                    </Badge>
-                  </Flex>
-
-                  {/* 소셜 미디어 정보 - 작게 */}
-                  <Flex direction="column" gap="4px">
-                    <Flex align="center" gap="6px">
-                      <Icon as={FaFacebook} color="#1877F2" w="14px" h="14px" />
-                      <Text fontSize="13px" color={textColorSecondary}>
-                        {competitor.facebook.handle}
-                      </Text>
-                      {competitor.facebook.verified && (
-                        <Box
-                          as="span"
-                          w="14px"
-                          h="14px"
-                          borderRadius="full"
-                          bg="blue.500"
-                          display="inline-flex"
-                          alignItems="center"
-                          justifyContent="center"
-                        >
-                          <Text color="white" fontSize="9px">✓</Text>
-                        </Box>
-                      )}
-                      <Text fontSize="12px" color={textColorSecondary}>
-                        ID: {competitor.facebook.id}
-                      </Text>
-                    </Flex>
-                    <Flex align="center" gap="6px">
-                      <Icon as={FaInstagram} color="#E4405F" w="14px" h="14px" />
-                      <Text fontSize="13px" color={textColorSecondary}>
-                        {competitor.instagram.handle}
-                      </Text>
-                      {competitor.instagram.verified && (
-                        <Box
-                          as="span"
-                          w="14px"
-                          h="14px"
-                          borderRadius="full"
-                          bg="blue.500"
-                          display="inline-flex"
-                          alignItems="center"
-                          justifyContent="center"
-                        >
-                          <Text color="white" fontSize="9px">✓</Text>
-                        </Box>
-                      )}
-                    </Flex>
-                  </Flex>
-                </Box>
-              </Flex>
-
-              {/* 우측: 모니터링에 추가 버튼 */}
-              <Button
-                size="sm"
-                variant="ghost"
-                color="brand.500"
-                borderRadius="8px"
-                fontWeight="500"
-                fontSize="13px"
-                leftIcon={<Icon as={MdAdd} w="16px" h="16px" />}
-                _hover={{
-                  bg: 'brand.50',
-                }}
-                flexShrink="0"
+            return (
+              <Card
+                key={searchKey}
+                bg={cardBg}
+                p="16px"
+                borderRadius="12px"
               >
-                모니터링에 추가
-              </Button>
-            </Flex>
-          </Card>
-        ))}
-      </Flex>
+                <Flex align="flex-start" justify="space-between" gap="16px">
+                  {/* 좌측: 아이콘 + 검색어 정보 */}
+                  <Flex gap="10px" flex="1" align="flex-start">
+                    {/* 아이콘 - 작게 */}
+                    <Box
+                      w="32px"
+                      h="32px"
+                      borderRadius="8px"
+                      bg="gray.100"
+                      display="flex"
+                      alignItems="center"
+                      justifyContent="center"
+                      flexShrink="0"
+                      mt="2px"
+                    >
+                      <Icon
+                        as={search.search_type === 'keyword' ? MdSearch : MdBusiness}
+                        w="18px"
+                        h="18px"
+                        color="gray.600"
+                      />
+                    </Box>
+
+                    <Box flex="1">
+                      {/* 1줄: 브랜드명 + 게재중 배지 */}
+                      <Flex align="center" gap="8px" mb="6px">
+                        <Text
+                          color={textColor}
+                          fontSize="md"
+                          fontWeight="700"
+                          lineHeight="1.2"
+                        >
+                          {search.search_query}
+                        </Text>
+                        <Badge
+                          colorScheme="green"
+                          fontSize="xs"
+                          px={2}
+                          py={0.5}
+                          borderRadius="4px"
+                        >
+                          {search.total_ads_count}개 게재 중
+                        </Badge>
+                      </Flex>
+
+                      {/* 2줄: 타입 배지 + 통계 정보 */}
+                      <Flex align="center" gap="6px" mb="4px">
+                        <Badge
+                          colorScheme={search.search_type === 'keyword' ? 'blue' : 'purple'}
+                          fontSize="10px"
+                          px={2}
+                          py={0.5}
+                          borderRadius="4px"
+                        >
+                          {search.search_type === 'keyword' ? 'Keyword' : 'Advertiser'}
+                        </Badge>
+                        <Text fontSize="12px" color={textColorSecondary}>
+                          {search.unique_users_count}명이 모니터링 중
+                        </Text>
+                        <Text fontSize="12px" color={textColorSecondary}>
+                          • 총 {search.search_count}회 검색됨
+                        </Text>
+                      </Flex>
+
+                      {/* 3줄: Meta 아이콘 */}
+                      <Flex align="center" gap="6px">
+                        <Icon as={FaFacebook} color="#1877F2" w="14px" h="14px" />
+                        <Text fontSize="12px" color={textColorSecondary}>
+                          Meta 광고 라이브러리
+                        </Text>
+                      </Flex>
+                    </Box>
+                  </Flex>
+
+                  {/* 우측: 모니터링에 추가 버튼 */}
+                  <Button
+                    size="sm"
+                    variant="ghost"
+                    color="brand.500"
+                    borderRadius="8px"
+                    fontWeight="500"
+                    fontSize="13px"
+                    leftIcon={<Icon as={MdAdd} w="16px" h="16px" />}
+                    _hover={{
+                      bg: 'brand.50',
+                    }}
+                    flexShrink="0"
+                    onClick={() => handleAddToMonitoring(search)}
+                    isLoading={isAdding}
+                    loadingText="추가 중"
+                  >
+                    모니터링에 추가
+                  </Button>
+                </Flex>
+              </Card>
+            );
+          })}
+        </Flex>
+      )}
 
       {/* 데이터가 없을 때 */}
-      {filteredCompetitors.length === 0 && (
+      {!loading && competitorData.length === 0 && (
         <Box
           textAlign="center"
           py="60px"
         >
+          <Icon as={MdSearch} w="64px" h="64px" color="gray.300" mb="16px" />
+          <Text color={textColor} fontSize="lg" fontWeight="600" mb="8px">
+            추천할 경쟁사가 없습니다
+          </Text>
           <Text color={textColorSecondary} fontSize="md">
-            해당 카테고리에 추천할 경쟁사가 없습니다.
+            다른 사용자들이 검색한 브랜드가 없거나<br />
+            아직 광고 데이터가 수집되지 않았습니다.
           </Text>
         </Box>
       )}

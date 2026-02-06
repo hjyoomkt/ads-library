@@ -61,4 +61,8 @@ export async function saveSearchHistory(searchType, searchQuery, advertiserId) {
   return supabaseService.saveSearchHistory(searchType, searchQuery, advertiserId);
 }
 
+export async function getPopularSearches(limit = 20) {
+  return supabaseService.getPopularSearches(limit);
+}
+
 // getStats()는 사용하지 않으므로 제거됨

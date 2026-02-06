@@ -107,40 +107,6 @@ export default function HeaderLinks(props) {
       </Flex>
       <SidebarResponsive routes={propsRoutes || routes} />
 
-      {/* Super Admin Button */}
-      {canAccessSuperAdmin && canAccessSuperAdmin() && (
-        <Button
-          variant="brand"
-          fontSize="sm"
-          fontWeight="500"
-          borderRadius="10px"
-          px="20px"
-          h="38px"
-          me="10px"
-          onClick={() => navigate('/superadmin')}
-        >
-          <Icon as={MdSecurity} w="16px" h="16px" me="6px" />
-          슈퍼어드민
-        </Button>
-      )}
-
-      {/* Brand Admin Button */}
-      {canAccessBrandAdmin && canAccessBrandAdmin() && (
-        <Button
-          variant="brand"
-          fontSize="sm"
-          fontWeight="500"
-          borderRadius="10px"
-          px="20px"
-          h="38px"
-          me="10px"
-          onClick={() => navigate('/clientadmin')}
-        >
-          <Icon as={MdSecurity} w="16px" h="16px" me="6px" />
-          브랜드어드민
-        </Button>
-      )}
-
       <Menu>
         <MenuButton p="0px">
           <Icon

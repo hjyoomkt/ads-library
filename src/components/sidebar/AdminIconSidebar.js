@@ -1,15 +1,37 @@
 import React from 'react';
 import { Box, VStack, IconButton, Tooltip } from '@chakra-ui/react';
 import { NavLink, useLocation } from 'react-router-dom';
+import { useAuth } from 'contexts/AuthContext';
 
 export default function AdminIconSidebar(props) {
   const { routes } = props;
   const location = useLocation();
+  const { canAccessSuperAdmin, canAccessBrandAdmin } = useAuth();
 
-  // Filter routes for /admin layout and not hidden
-  const adminRoutes = routes.filter(
-    (route) => route.layout === '/admin' && !route.hidden
-  );
+  // Filter routes for sidebar display
+  // Include /admin layout routes and routes with showInSidebar flag
+  const adminRoutes = routes.filter((route) => {
+    // Skip hidden routes
+    if (route.hidden) {
+      return false;
+    }
+
+    // Include /admin layout routes or routes explicitly marked for sidebar
+    const shouldShow = route.layout === '/admin' || route.showInSidebar;
+    if (!shouldShow) {
+      return false;
+    }
+
+    // Check permission requirements
+    if (route.requiresPermission === 'superadmin') {
+      return canAccessSuperAdmin && canAccessSuperAdmin();
+    }
+    if (route.requiresPermission === 'brandadmin') {
+      return canAccessBrandAdmin && canAccessBrandAdmin();
+    }
+
+    return true;
+  });
 
   // Check if route is active
   const isRouteActive = (route) => {

@@ -10,6 +10,8 @@ import {
   MdOutlineShoppingCart,
   MdAdsClick,
   MdMonitor,
+  MdSecurity,
+  MdBusiness,
 } from 'react-icons/md';
 
 // Admin Imports
@@ -19,6 +21,12 @@ import Profile from 'views/admin/profile';
 import DataTables from 'views/admin/dataTables';
 import MetaArchive from 'views/admin/metaArchive';
 import Monitoring from 'views/admin/monitoring';
+
+// SuperAdmin Imports
+import SuperAdminDashboard from 'views/superadmin/default';
+
+// ClientAdmin Imports
+import ClientAdminDashboard from 'views/clientadmin/default';
 
 // Auth Imports
 import SignInCentered from 'views/auth/signIn';
@@ -83,6 +91,24 @@ const routes = [
     path: '/profile',
     icon: <Icon as={MdPerson} width="20px" height="20px" color="inherit" />,
     component: <Profile />,
+  },
+  {
+    name: '슈퍼어드민',
+    layout: '/superadmin',
+    path: '',
+    icon: <Icon as={MdSecurity} width="20px" height="20px" color="inherit" />,
+    component: <SuperAdminDashboard />,
+    requiresPermission: 'superadmin', // 권한 체크 플래그
+    showInSidebar: true, // AdminIconSidebar에 표시
+  },
+  {
+    name: '브랜드어드민',
+    layout: '/clientadmin',
+    path: '',
+    icon: <Icon as={MdBusiness} width="20px" height="20px" color="inherit" />,
+    component: <ClientAdminDashboard />,
+    requiresPermission: 'brandadmin', // 권한 체크 플래그
+    showInSidebar: true, // AdminIconSidebar에 표시
   },
   {
     name: 'Sign In',

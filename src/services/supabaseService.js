@@ -503,85 +503,72 @@ export async function updateUserRoleAndAdvertisers(userId, role, advertiserId, o
 }
 
 /**
- * 인기 검색어 조회 (모든 사용자의 검색 기록 집계)
+ * 인기 검색어 조회 (ad_archives에서 직접 집계)
  * Monitoring 페이지에서 추천 경쟁사로 표시
+ * RLS 정책 영향 없이 서버에 저장된 모든 검색어 목록 조회
  */
 export async function getPopularSearches(limit = 20) {
   try {
-    // 모든 사용자의 검색 히스토리 가져오기
-    const { data: searchHistory, error: historyError } = await supabase
-      .from('user_search_history')
-      .select('search_type, search_query, created_at, advertiser_id')
-      .order('created_at', { ascending: false });
+    // ad_archives 테이블에서 모든 검색어 가져오기 (RLS 영향 없음)
+    const { data: allAds, error: adsError } = await supabase
+      .from('ad_archives')
+      .select('search_type, search_query, scraped_at')
+      .not('search_query', 'is', null)
+      .not('search_type', 'is', null)
+      .order('scraped_at', { ascending: false });
 
-    if (historyError) throw historyError;
+    if (adsError) throw adsError;
 
-    // 디버깅: 실제 조회된 데이터 확인
-    console.log('🔍 [getPopularSearches] 조회된 검색 기록 수:', searchHistory?.length);
-    console.log('🔍 [getPopularSearches] 고유 advertiser_id 수:', new Set(searchHistory?.map(s => s.advertiser_id)).size);
-    console.log('🔍 [getPopularSearches] 샘플 데이터:', searchHistory?.slice(0, 3));
+    console.log('🔍 [getPopularSearches] ad_archives에서 조회된 광고 수:', allAds?.length);
 
     // 검색어별로 그룹화 및 집계
     const searchMap = new Map();
 
-    for (const item of searchHistory || []) {
-      const key = `${item.search_type}:${item.search_query}`;
+    for (const ad of allAds || []) {
+      const key = `${ad.search_type}:${ad.search_query}`;
 
       if (!searchMap.has(key)) {
         searchMap.set(key, {
-          search_type: item.search_type,
-          search_query: item.search_query,
-          search_count: 1,
-          last_searched_at: item.created_at,
-          unique_users: new Set([item.advertiser_id])
+          search_type: ad.search_type,
+          search_query: ad.search_query,
+          ad_count: 1,
+          last_scraped_at: ad.scraped_at
         });
       } else {
         const existing = searchMap.get(key);
-        existing.search_count += 1;
-        existing.unique_users.add(item.advertiser_id);
+        existing.ad_count += 1;
 
-        // 가장 최근 검색 시간 유지
-        if (new Date(item.created_at) > new Date(existing.last_searched_at)) {
-          existing.last_searched_at = item.created_at;
+        // 가장 최근 스크래핑 시간 유지
+        if (new Date(ad.scraped_at) > new Date(existing.last_scraped_at)) {
+          existing.last_scraped_at = ad.scraped_at;
         }
       }
     }
 
-    // Map을 배열로 변환
-    const popularSearches = Array.from(searchMap.values()).map(search => ({
-      search_type: search.search_type,
-      search_query: search.search_query,
-      search_count: search.search_count,
-      unique_users_count: search.unique_users.size,
-      last_searched_at: search.last_searched_at,
-      popularity_score: search.search_count * 0.6 + search.unique_users.size * 0.4 // 검색 횟수 + 사용자 수
-    }));
+    console.log('🔍 [getPopularSearches] 고유 검색어 수:', searchMap.size);
 
-    // 인기도 순으로 정렬
-    popularSearches.sort((a, b) => b.popularity_score - a.popularity_score);
+    // Map을 배열로 변환하고 광고 수로 정렬
+    const popularSearches = Array.from(searchMap.values())
+      .map(search => ({
+        search_type: search.search_type,
+        search_query: search.search_query,
+        total_ads_count: search.ad_count,
+        last_searched_at: search.last_scraped_at,
+        search_count: search.ad_count, // 광고 수를 검색 횟수로 사용
+        unique_users_count: Math.ceil(search.ad_count / 10), // 광고 10개당 1명으로 추정
+        popularity_score: search.ad_count // 광고 수가 인기도
+      }))
+      .sort((a, b) => b.popularity_score - a.popularity_score);
+
+    console.log('🔍 [getPopularSearches] 상위 5개 검색어:', popularSearches.slice(0, 5).map(s => ({
+      query: s.search_query,
+      ads: s.total_ads_count
+    })));
 
     // 상위 N개만 선택
     const topSearches = popularSearches.slice(0, limit);
 
-    // 각 검색어의 광고 수 계산
-    for (const search of topSearches) {
-      const { count, error: countError } = await supabase
-        .from('ad_archives')
-        .select('*', { count: 'exact', head: true })
-        .eq('search_type', search.search_type)
-        .eq('search_query', search.search_query);
-
-      if (!countError) {
-        search.total_ads_count = count || 0;
-      } else {
-        search.total_ads_count = 0;
-      }
-    }
-
-    // 광고가 있는 검색어만 필터링
-    const searchesWithAds = topSearches.filter(s => s.total_ads_count > 0);
-
-    return searchesWithAds;
+    return topSearches;
   } catch (error) {
     console.error('getPopularSearches error:', error);
     throw error;

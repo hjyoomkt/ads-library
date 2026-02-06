@@ -22,6 +22,7 @@ export default function MetaArchive() {
   const [hasInteracted, setHasInteracted] = useState(false);
   const [searchHistoryCount, setSearchHistoryCount] = useState(null);
   const [userSearchQueries, setUserSearchQueries] = useState([]);
+  const [isSidebarCollapsed, setIsSidebarCollapsed] = useState(false);
   const { isOpen, onOpen, onClose } = useDisclosure();
 
   useEffect(() => {
@@ -96,6 +97,20 @@ export default function MetaArchive() {
     }
   };
 
+  // 동적 마진 계산
+  const calculateMarginLeft = () => {
+    const ICON_SIDEBAR_WIDTH = 70; // AdminIconSidebar
+    const SEARCH_SIDEBAR_EXPANDED = 300; // SavedSearchesSidebar 펼침
+    const SEARCH_SIDEBAR_COLLAPSED = 0; // SavedSearchesSidebar 접음
+    const SPACING = -60;
+
+    const searchSidebarWidth = isSidebarCollapsed
+      ? SEARCH_SIDEBAR_COLLAPSED
+      : SEARCH_SIDEBAR_EXPANDED;
+
+    return `${ICON_SIDEBAR_WIDTH + searchSidebarWidth + SPACING}px`;
+  };
+
   return (
     <Box>
       {/* xl 이상: 왼쪽 고정 사이드바 */}
@@ -104,12 +119,17 @@ export default function MetaArchive() {
           onSearchClick={handleSavedSearchClick}
           refreshTrigger={refreshSidebar}
           onSearchHistoryLoaded={handleSearchHistoryLoaded}
+          onCollapseChange={setIsSidebarCollapsed}
         />
       </Box>
 
       <Box
-        ml={{ base: '0px', xl: 'calc(450px - 290px - 30px + 20px)' }}
+        ml={{
+          base: '0px',
+          xl: calculateMarginLeft()
+        }}
         pt={{ base: '130px', md: '80px', xl: '80px' }}
+        transition="margin-left 0.3s cubic-bezier(0.4, 0, 0.2, 1)"
       >
         <Card mb="20px" p="20px">
           <SearchBar

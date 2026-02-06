@@ -23,9 +23,9 @@ export default function AdminNavbar(props) {
 	let secondaryText = useColorModeValue('gray.700', 'white');
 	let navbarPosition = 'absolute';
 	let navbarFilter = 'none';
-	let navbarBackdrop = 'blur(20px)';
+	let navbarBackdrop = 'none';
 	let navbarShadow = 'none';
-	let navbarBg = useColorModeValue('rgba(244, 247, 254, 0.2)', 'rgba(11,20,55,0.5)');
+	let navbarBg = useColorModeValue('rgba(244, 247, 254, 1)', 'rgba(11,20,55,1)');
 	let navbarBorder = 'transparent';
 	let secondaryMargin = '0px';
 	let paddingX = '15px';
@@ -63,7 +63,7 @@ export default function AdminNavbar(props) {
 			mx='auto'
 			mt={secondaryMargin}
 			pb='8px'
-			right={{ base: '12px', md: '30px', lg: '30px', xl: '30px' }}
+			right={{ base: '12px', md: '30px', lg: '30px', xl: '10px' }}
 			px={{
 				sm: paddingX,
 				md: '10px'
@@ -77,8 +77,8 @@ export default function AdminNavbar(props) {
 				base: 'calc(100vw - 6%)',
 				md: 'calc(100vw - 8%)',
 				lg: 'calc(100vw - 6%)',
-				xl: 'calc(100vw - 350px)',
-				'2xl': 'calc(100vw - 365px)'
+				xl: 'calc(100vw - 420px)',
+				'2xl': 'calc(100vw - 430px)'
 			}}
 			zIndex='1000'>
 			<Flex

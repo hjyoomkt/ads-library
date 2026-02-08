@@ -6,6 +6,7 @@ import AdminLayout from './layouts/admin';
 import SuperAdminLayout from './layouts/superadmin';
 import ClientAdminLayout from './layouts/clientadmin';
 import RTLLayout from './layouts/rtl';
+import LandingPage from './views/landing';
 import {
   ChakraProvider,
   Center,
@@ -59,6 +60,7 @@ export default function Main() {
       <ChakraProvider theme={currentTheme}>
         <AuthProvider>
           <Routes>
+            <Route path="/landing" element={<LandingPage />} />
             <Route path="auth/*" element={<AuthLayout />} />
             <Route
               path="admin/*"
@@ -84,7 +86,7 @@ export default function Main() {
                 <RTLLayout theme={currentTheme} setTheme={setCurrentTheme} />
               }
             />
-            <Route path="/" element={<RoleBasedRedirect />} />
+            <Route path="/" element={<LandingPage />} />
           </Routes>
         </AuthProvider>
       </ChakraProvider>

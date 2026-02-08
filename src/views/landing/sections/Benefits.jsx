@@ -88,6 +88,7 @@ export default function Benefits() {
                 _hover={{ borderColor: "blue.200", transition: "all 0.3s" }}
                 w="340px"
                 h="310px"
+                mx="auto"
               >
                 <VStack align="center" spacing="16px" textAlign="center">
                   <Text fontSize="lg" fontWeight="700" color="landing.textDark">

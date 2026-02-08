@@ -89,6 +89,21 @@ export default function Navbar() {
           {/* 오른쪽: CTA 버튼 */}
           <HStack spacing="12px" display={{ base: "none", md: "flex" }}>
             <Button
+              as="a"
+              href="https://library.zestdot.com/auth/sign-in"
+              variant="ghost"
+              color="landing.textDark"
+              size="sm"
+              fontWeight="600"
+              px="16px"
+              h="36px"
+              _hover={{ bg: "gray.100" }}
+            >
+              로그인
+            </Button>
+            <Button
+              as="a"
+              href="https://library.zestdot.com/auth/sign-up"
               bg="landing.primary"
               color="white"
               size="sm"

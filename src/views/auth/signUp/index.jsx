@@ -90,7 +90,7 @@ function SignUp() {
                 초대 전용 서비스
               </Heading>
               <Text color={textColorSecondary} mb="24px" fontSize="sm">
-                Growth Dashboard는 현재 초대받은 분만 가입할 수 있습니다.
+                제스트러리는 현재 초대받은 분만 가입할 수 있습니다.
               </Text>
 
               <Box
@@ -219,7 +219,7 @@ function SignUp() {
       >
         <Image
           src={illustration}
-          alt="Growth Dashboard Illustration"
+          alt="제스트러리 Illustration"
           w="100%"
           h="100%"
           objectFit="cover"

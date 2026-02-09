@@ -404,11 +404,35 @@ export async function createInviteCode(inviteData) {
 
     if (error) throw error;
 
+    // Edge Function 호출하여 초대 이메일 발송
+    try {
+      await sendInviteEmail({
+        inviteCode: data.code,
+        invitedEmail: inviteData.email,
+        inviteType: inviteData.inviteType || 'existing_member',
+      });
+      console.log('Invite email sent successfully to:', inviteData.email);
+    } catch (emailError) {
+      console.error('Failed to send invite email:', emailError);
+      // 이메일 발송 실패해도 초대 코드는 정상 반환
+    }
+
     return { success: true, code: data.code, data };
   } catch (error) {
     console.error('createInviteCode error:', error);
     throw error;
   }
+}
+
+/**
+ * Edge Function을 통해 초대 이메일 발송
+ */
+export async function sendInviteEmail(emailData) {
+  const { data, error } = await supabase.functions.invoke('send-invite-email', {
+    body: emailData,
+  });
+  if (error) throw error;
+  return data;
 }
 
 /**

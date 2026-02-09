@@ -191,14 +191,14 @@ export function AuthProvider({ children }) {
       email,
       password
     });
-    if (error) throw error;
+    if (error) return { data: null, error };
 
     // Fetch user metadata after sign in
     if (data.user) {
       await fetchUserMetadata(data.user.id);
     }
 
-    return data;
+    return { data, error: null };
   };
 
   const signUp = async (email, password, inviteCode = null) => {

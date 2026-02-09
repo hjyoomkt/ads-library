@@ -105,9 +105,15 @@ function SignIn() {
     setLoading(false);
 
     if (error) {
+      const errorMessages = {
+        'Invalid login credentials': '이메일 또는 비밀번호가 올바르지 않습니다.',
+        'Email not confirmed': '이메일 인증이 완료되지 않았습니다.',
+        'User not found': '등록되지 않은 이메일입니다.',
+        'Too many requests': '로그인 시도가 너무 많습니다. 잠시 후 다시 시도해주세요.',
+      };
       toast({
         title: "로그인 실패",
-        description: error.message || "이메일 또는 비밀번호를 확인하세요.",
+        description: errorMessages[error.message] || "이메일 또는 비밀번호를 확인하세요.",
         status: "error",
         duration: 5000,
         isClosable: true,

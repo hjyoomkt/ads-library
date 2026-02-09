@@ -921,21 +921,47 @@ export async function deleteUserAccount(userId, newOwnerId = null) {
 /**
  * Update user role and advertisers
  * In ads-library, we only use users.advertiser_id (no user_advertisers table)
+ *
+ * @param {string} userId - 대상 사용자 UUID
+ * @param {string} role - 새로운 역할
+ * @param {string|string[]} advertiserIdOrIds - 광고주 ID (배열이면 첫 번째 요소만 사용)
+ * @param {string|object|null} organizationIdOrCurrentUser - 무시됨 (growth-dashboard 호환용)
  */
-export async function updateUserRoleAndAdvertisers(userId, role, advertiserId, organizationId = null) {
+export async function updateUserRoleAndAdvertisers(userId, role, advertiserIdOrIds, organizationIdOrCurrentUser = null) {
   try {
-    const { error } = await supabase
+    // ads-library는 단일 advertiser_id만 지원
+    // 프론트엔드에서 배열로 전달되면 첫 번째 요소만 사용
+    let advertiserId = advertiserIdOrIds;
+    if (Array.isArray(advertiserIdOrIds)) {
+      advertiserId = advertiserIdOrIds.length > 0 ? advertiserIdOrIds[0] : null;
+    }
+
+    // 4번째 인자는 무시 (프론트엔드가 currentUser 객체를 전달하지만 사용하지 않음)
+    // organization_id는 업데이트하지 않음 (기존 값 유지)
+
+    const { data, error } = await supabase
       .from('users')
       .update({
         role,
         advertiser_id: advertiserId,
-        organization_id: organizationId,
+        // organization_id는 업데이트하지 않음
       })
-      .eq('id', userId);
+      .eq('id', userId)
+      .select()
+      .single();
 
-    if (error) throw error;
+    if (error) {
+      console.error('updateUserRoleAndAdvertisers 실패:', error);
 
-    return { success: true };
+      // RLS 정책 위반 에러 체크
+      if (error.code === '42501' || error.message?.includes('row-level security')) {
+        throw new Error('권한이 없습니다. 이 사용자를 수정할 수 없습니다.');
+      }
+
+      throw new Error(error.message || '사용자 정보 업데이트에 실패했습니다.');
+    }
+
+    return data;
   } catch (error) {
     console.error('updateUserRoleAndAdvertisers error:', error);
     throw error;

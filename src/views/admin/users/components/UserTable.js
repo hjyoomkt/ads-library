@@ -81,19 +81,18 @@ export default function UserTable(props) {
       const users = await getUsers(currentUser);
       console.log('[UserTable] 조회된 사용자:', users);
 
-      // 데이터 변환: accessible_advertisers를 clients 배열로 매핑
+      // 데이터 변환: ads-library는 단일 advertiser만 지원 (1명=1브랜드)
       const transformedUsers = users.map(u => {
-        const clients = u.accessible_advertisers?.map(adv => adv.name) || [];
-        console.log('[UserTable] 변환:', { name: u.name, accessible_advertisers: u.accessible_advertisers, clients });
+        // 단일 advertiser를 배열로 변환 (UI 호환성)
+        const clients = u.advertisers ? [u.advertisers.name] : [];
+        console.log('[UserTable] 변환:', { name: u.name, advertisers: u.advertisers, clients });
 
         return {
           ...u,
           clients,
-          advertiserIds: u.accessible_advertisers?.map(adv => adv.id) || [],
-          // 단일 브랜드 표시 (레거시 호환)
-          client: u.accessible_advertisers && u.accessible_advertisers.length > 0
-            ? u.accessible_advertisers[0].name
-            : (u.advertisers?.name || null),
+          advertiserIds: u.advertisers ? [u.advertisers.id] : [],
+          // 단일 브랜드 표시
+          client: u.advertisers?.name || null,
           // 가입일 포맷팅
           joinDate: u.created_at ? new Date(u.created_at).toISOString().split('T')[0] : '',
         };

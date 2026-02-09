@@ -1,0 +1,10 @@
+# Supabase Edge Functions Configuration
+
+[functions.send-password-reset-email]
+verify_jwt = false
+
+[functions.delete-user]
+verify_jwt = false
+
+[functions.send-agency-deletion-email]
+verify_jwt = false

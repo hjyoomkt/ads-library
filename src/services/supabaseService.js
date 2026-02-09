@@ -262,13 +262,31 @@ export async function getUsers(currentUser = null) {
       // Agency admin/manager: filter by organization
       if (['agency_admin', 'agency_manager'].includes(currentUser.role) && currentUser.organization_id) {
         query = query.eq('organization_id', currentUser.organization_id);
+        const { data, error } = await query.order('created_at', { ascending: false });
+        if (error) throw error;
+        return data || [];
       }
-      // Advertiser admin/staff: filter by advertiser
+      // Advertiser admin/staff: filter by advertiser AND role
       else if (['advertiser_admin', 'advertiser_staff', 'brand_admin'].includes(currentUser.role) && currentUser.advertiser_id) {
         query = query.eq('advertiser_id', currentUser.advertiser_id);
+        const { data, error } = await query.order('created_at', { ascending: false });
+        if (error) throw error;
+
+        // 브랜드 관련 역할만 필터링 (agency 역할 제외)
+        const BRAND_ROLES = ['viewer', 'advertiser_admin', 'advertiser_staff'];
+        const filteredData = (data || []).filter(user => BRAND_ROLES.includes(user.role));
+
+        console.log('[getUsers] advertiser role filtering:', {
+          totalUsers: data?.length || 0,
+          filteredUsers: filteredData.length,
+          excludedRoles: data?.filter(u => !BRAND_ROLES.includes(u.role)).map(u => ({ role: u.role, email: u.email })) || []
+        });
+
+        return filteredData;
       }
     }
 
+    // Master or no specific role: return all users
     const { data, error } = await query.order('created_at', { ascending: false });
 
     if (error) throw error;

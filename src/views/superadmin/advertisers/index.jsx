@@ -67,8 +67,8 @@ export default function AdvertisersManagement() {
           )
         `);
 
-      // agency_admin은 자신의 조직만 조회
-      if (role === 'agency_admin') {
+      // agency_admin과 agency_manager는 자신의 조직만 조회
+      if (role === 'agency_admin' || role === 'agency_manager') {
         query = query.eq('id', organizationId);
       }
 

@@ -28,7 +28,7 @@ import { useNavigate } from 'react-router-dom';
 import DeleteAccountConfirmModal from './DeleteAccountConfirmModal';
 import OwnershipTransferModal from './OwnershipTransferModal';
 import DeleteBrandModal from 'views/superadmin/advertisers/components/DeleteBrandModal';
-import DeleteAgencyConfirmModal from './DeleteAgencyConfirmModal';
+import DeleteAgencyWithEmailModal from './DeleteAgencyWithEmailModal';
 import { useAuth } from 'contexts/AuthContext';
 import { deleteBrand, canDeleteBrand } from 'services/supabaseService';
 import { supabase } from 'config/supabase';
@@ -535,7 +535,7 @@ export default function ProfileEditModal({ isOpen, onClose, currentData }) {
 
       {/* 에이전시 삭제 확인 모달 */}
       {currentOrganization && (
-        <DeleteAgencyConfirmModal
+        <DeleteAgencyWithEmailModal
           isOpen={isDeleteAgencyOpen}
           onClose={onDeleteAgencyClose}
           organization={currentOrganization}

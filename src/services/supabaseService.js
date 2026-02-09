@@ -628,8 +628,8 @@ export async function deleteAgency(organizationId, organizationName) {
       failed: failedUsers.length
     });
 
-    // 5. 조직 삭제 (CASCADE DELETE로 현재 사용자도 자동 삭제됨)
-    console.log('[deleteAgency] 조직 삭제 시작 (CASCADE로 현재 사용자도 자동 삭제됨)');
+    // 5. 조직 삭제 (CASCADE DELETE로 users 테이블에서 현재 사용자도 삭제됨)
+    console.log('[deleteAgency] 조직 삭제 시작 (CASCADE로 현재 사용자의 users 레코드도 삭제됨)');
     const { error: deleteOrgError } = await supabase
       .from('organizations')
       .delete()
@@ -640,7 +640,42 @@ export async function deleteAgency(organizationId, organizationName) {
       throw new Error(`조직 삭제 실패: ${deleteOrgError.message}`);
     }
 
-    console.log('[deleteAgency] ✓ 조직 삭제 완료 (현재 사용자도 CASCADE로 삭제됨)');
+    console.log('[deleteAgency] ✓ 조직 삭제 완료');
+
+    // 6. 현재 사용자 auth.users에서 삭제 (조직 이미 삭제되었으므로 is_agency_deletion: true)
+    if (session) {
+      const currentUserId = session.user.id;
+      const currentUserEmail = session.user.email;
+
+      console.log(`[deleteAgency] 현재 사용자 auth.users 삭제 시작: ${currentUserEmail}`);
+
+      try {
+        const SUPABASE_URL = process.env.REACT_APP_SUPABASE_URL;
+        const functionUrl = `${SUPABASE_URL}/functions/v1/delete-user`;
+
+        const response = await fetch(functionUrl, {
+          method: 'POST',
+          headers: {
+            'Authorization': `Bearer ${session.access_token}`,
+            'Content-Type': 'application/json',
+          },
+          body: JSON.stringify({
+            user_id: currentUserId,
+            is_agency_deletion: true  // 조직 이미 삭제됨, 권한 체크 건너뛰기
+          }),
+        });
+
+        const result = await response.json();
+
+        if (!response.ok) {
+          console.error(`[deleteAgency] ✗ 현재 사용자 삭제 실패:`, result);
+        } else {
+          console.log(`[deleteAgency] ✓ 현재 사용자 삭제 완료: ${currentUserEmail}`);
+        }
+      } catch (fetchError) {
+        console.error(`[deleteAgency] ✗ 현재 사용자 삭제 실패:`, fetchError);
+      }
+    }
 
     console.log('[deleteAgency] 삭제 완료:', {
       organization: organizationName,
@@ -660,6 +695,84 @@ export async function deleteAgency(organizationId, organizationName) {
   } catch (error) {
     console.error('[deleteAgency] 오류:', error);
     throw error;
+  }
+}
+
+/**
+ * Send agency deletion verification email
+ */
+export async function sendAgencyDeletionEmail(organizationId, organizationName) {
+  try {
+    console.log('[sendAgencyDeletionEmail] 이메일 발송 시작:', { organizationId, organizationName });
+
+    const { data, error } = await supabase.functions.invoke('send-agency-deletion-email', {
+      body: {
+        organization_id: organizationId,
+        organization_name: organizationName
+      }
+    });
+
+    if (error) {
+      console.error('[sendAgencyDeletionEmail] 에러:', error);
+      throw error;
+    }
+
+    console.log('[sendAgencyDeletionEmail] 발송 완료:', data);
+    return data;
+  } catch (error) {
+    console.error('[sendAgencyDeletionEmail] 예외 발생:', error);
+    throw error;
+  }
+}
+
+/**
+ * Verify agency deletion code
+ */
+export async function verifyAgencyDeletionCode(code, organizationId) {
+  try {
+    console.log('[verifyAgencyDeletionCode] 코드 검증 시작:', { code, organizationId });
+
+    const { data, error } = await supabase
+      .from('agency_deletion_codes')
+      .select('*')
+      .eq('code', code)
+      .eq('organization_id', organizationId)
+      .is('used_at', null)
+      .single();
+
+    if (error) {
+      console.error('[verifyAgencyDeletionCode] 조회 에러:', error);
+      return { valid: false, reason: '유효하지 않은 코드입니다.' };
+    }
+
+    if (!data) {
+      return { valid: false, reason: '코드를 찾을 수 없습니다.' };
+    }
+
+    // 만료 확인
+    const expiresAt = new Date(data.expires_at);
+    const now = new Date();
+
+    if (now > expiresAt) {
+      return { valid: false, reason: '코드가 만료되었습니다. 새 코드를 발급받으세요.' };
+    }
+
+    // 사용 처리
+    const { error: updateError } = await supabase
+      .from('agency_deletion_codes')
+      .update({ used_at: now.toISOString() })
+      .eq('id', data.id);
+
+    if (updateError) {
+      console.error('[verifyAgencyDeletionCode] 사용 처리 실패:', updateError);
+      return { valid: false, reason: '코드 처리 중 오류가 발생했습니다.' };
+    }
+
+    console.log('[verifyAgencyDeletionCode] 검증 완료');
+    return { valid: true };
+  } catch (error) {
+    console.error('[verifyAgencyDeletionCode] 예외 발생:', error);
+    return { valid: false, reason: '코드 검증 중 오류가 발생했습니다.' };
   }
 }
 

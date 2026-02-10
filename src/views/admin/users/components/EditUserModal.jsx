@@ -53,13 +53,13 @@ export default function EditUserModal({ isOpen, onClose, user, onUpdate }) {
 
   // 권한 계층 구조 정의 (master 제외 - UI에서 변경 불가)
   const roleHierarchy = {
-    specialist: 7.5,            // 스페셜리스트
+    specialist: 7.5,            // ⚠️ 삭제 예정 - 레거시 권한 (기존 사용자 호환성 유지용, UI 선택 불가)
     agency_admin: 7,            // 에이전시 대표
     agency_manager: 6,          // 에이전시 관리자
-    agency_staff: 5,            // 에이전시 직원
+    agency_staff: 5,            // ⚠️ 삭제 예정 - 레거시 권한 (기존 사용자 호환성 유지용, UI 선택 불가)
     advertiser_admin: 4,        // 브랜드 대표운영자
     advertiser_staff: 3,        // 브랜드 부운영자
-    editor: 2,                  // 편집자
+    editor: 2,                  // ⚠️ 삭제 예정 - 레거시 권한 (기존 사용자 호환성 유지용, UI 선택 불가)
     viewer: 1,                  // 뷰어
   };
 
@@ -70,9 +70,9 @@ export default function EditUserModal({ isOpen, onClose, user, onUpdate }) {
       return false;
     }
 
-    // specialist는 master만 할당 가능
-    if (targetRole === 'specialist') {
-      return isMaster();
+    // ⚠️ 레거시 권한은 UI에서 선택 불가 (기존 사용자 호환성만 유지)
+    if (['specialist', 'editor', 'agency_staff'].includes(targetRole)) {
+      return false;
     }
 
     // Master는 모든 권한 부여 가능 (master 제외)
@@ -190,20 +190,25 @@ export default function EditUserModal({ isOpen, onClose, user, onUpdate }) {
   const getRoleLabel = (role) => {
     const roleLabels = {
       master: '마스터',
-      specialist: '스페셜리스트',
+      specialist: '스페셜리스트',    // ⚠️ 삭제 예정 - 레거시 권한
       agency_admin: '에이전시 대표',
       agency_manager: '에이전시 관리자',
-      agency_staff: '에이전시 직원',
+      agency_staff: '에이전시 직원',  // ⚠️ 삭제 예정 - 레거시 권한
       advertiser_admin: '브랜드 대표운영자',
       advertiser_staff: '브랜드 부운영자',
-      editor: '편집자',
+      editor: '편집자',              // ⚠️ 삭제 예정 - 레거시 권한
       viewer: '뷰어',
     };
     return roleLabels[role] || role;
   };
 
   // 브랜드 권한 목록
-  const BRAND_ROLES = ['viewer', 'editor', 'advertiser_admin', 'advertiser_staff'];
+  const BRAND_ROLES = [
+    'viewer',
+    // 'editor',  // ⚠️ 삭제 예정 - 레거시 권한
+    'advertiser_admin',
+    'advertiser_staff'
+  ];
 
   // 담당 브랜드가 변경되었는지 확인
   const isBrandChanged = () => {
@@ -408,6 +413,7 @@ export default function EditUserModal({ isOpen, onClose, user, onUpdate }) {
                     </Box>
                   </MenuItem>
 
+                  {/* ⚠️ 삭제 예정 - 레거시 권한 (UI에서 선택 불가)
                   <MenuItem
                     onClick={() => canAssignRole('editor') && handleRoleChange('editor')}
                     bg={formData.role === 'editor' ? brandColor : 'transparent'}
@@ -429,6 +435,7 @@ export default function EditUserModal({ isOpen, onClose, user, onUpdate }) {
                       <Text fontSize="xs" opacity="0.8">데이터 수정 가능</Text>
                     </Box>
                   </MenuItem>
+                  */}
 
                   {/* 브랜드 권한 */}
                   <MenuItem
@@ -475,7 +482,7 @@ export default function EditUserModal({ isOpen, onClose, user, onUpdate }) {
                     </Box>
                   </MenuItem>
 
-                  {/* 스페셜리스트 권한 (마스터만) */}
+                  {/* ⚠️ 삭제 예정 - 레거시 권한 (UI에서 선택 불가, 마스터만 할당 가능)
                   {isMaster() && (
                     <MenuItem
                       onClick={() => canAssignRole('specialist') && handleRoleChange('specialist')}
@@ -499,10 +506,12 @@ export default function EditUserModal({ isOpen, onClose, user, onUpdate }) {
                       </Box>
                     </MenuItem>
                   )}
+                  */}
 
                   {/* 에이전시 권한 (마스터 또는 agency) */}
                   {(isMaster() || organizationType === 'agency') && (
                     <>
+                      {/* ⚠️ 삭제 예정 - 레거시 권한 (UI에서 선택 불가)
                       <MenuItem
                         onClick={() => canAssignRole('agency_staff') && handleRoleChange('agency_staff')}
                         bg={formData.role === 'agency_staff' ? brandColor : 'transparent'}
@@ -524,6 +533,7 @@ export default function EditUserModal({ isOpen, onClose, user, onUpdate }) {
                           <Text fontSize="xs" opacity="0.8">담당 브랜드 관리, 데이터 수정</Text>
                         </Box>
                       </MenuItem>
+                      */}
 
                       <MenuItem
                         onClick={() => canAssignRole('agency_manager') && handleRoleChange('agency_manager')}
